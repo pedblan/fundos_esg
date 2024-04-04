@@ -1,5 +1,7 @@
 # README
 Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre regulamentos de fundos de investimento ESG.
+- O scraping foi feito em 01/04/2024. Os arquivos de texto, de dados e metadados constam do programa, para que outros pesquisadores façam suas próprias análises.
+- Este é meu primeiro trabalho do gênero -- correções, sugestões e aprimoramentos serão bem-vindos!
 ## Estrutura
 ### /notebooks
 - contém os cadernos Jupyter com cada um dos passos da pesquisa.
