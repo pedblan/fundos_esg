@@ -1,7 +1,7 @@
 # README
 Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre regulamentos de fundos de investimento ESG.
 - O scraping foi feito em 01/04/2024. Os arquivos de texto, de dados e metadados constam do programa, para que outros pesquisadores façam suas próprias análises.
-- Este é meu primeiro trabalho do gênero -- correções, sugestões e aprimoramentos serão bem-vindos!
+- Este é meu primeiro trabalho do gênero. Correções, sugestões e aprimoramentos serão bem-vindos.
 ## Estrutura
 ### /notebooks
 - contém os cadernos Jupyter com cada um dos passos da pesquisa.
@@ -38,4 +38,4 @@ RuntimeError: Directory 'static/' does not exist from import fitz. Consegui corr
   - webdriver empregado: Chromedriver, que faz uso automático do navegador Chrome
     - requer que se descarregue o webdriver em https://chromedriver.chromium.org/downloads
     - o Chromedriver deve ser descarregado em alguma pasta da variável de ambiente PATH (recurso do sistema operacional que confere onde procurar arquivos executáveis).
-    - Num Mac, a lista destas pastas inclui /usr/local/bin. O Windows e o Linux seguem procedimentos parecidos.
+    - Num Mac, a lista destas pastas inclui /usr/local/bin. O Windows e o Linux seguem procedimentos parecidos, é preciso descobrir a pasta certa.
