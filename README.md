@@ -9,7 +9,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
   - 4_pesquisa_esg.ipynb
   - 5_analise_esg.ipynb
 ### /data
- json
+#### /json/
 - apresenta dados empregados em cada etapa da pesquisa
 - json
   - total_links.json: resultado do scraping inicial, dos resultados de pesquisa na página da Anbima. 
@@ -23,6 +23,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 ### /src
 - analise.py: função destinada a comunicar-se com o modelo OpenAI
 - analise_nlp.py: diversas funções para NLP do material obtido
+  - emprega biblioteca spaCY, que requer download de corpus da língua portuguesa. Empreguei pt_core_news_lg, disponível em: https://spacy.io/models/pt 
 - converte_txt.py: função para extrair texto dos arquivos pdf e gravá-lo em arquivos txt.
   - Emprega o módulo PyMuPDF, que é importado sob o nome de "fitz".
     - Este foi o único módulo que conseguiu extrair a informação de caixas de texto, formato comum a vários regulamentos pesquisados
@@ -34,4 +35,5 @@ RuntimeError: Directory 'static/' does not exist from import fitz. Consegui corr
   - biblioteca empregada: Selenium
   - webdriver empregado: Chromedriver, que faz uso automático do navegador Chrome
     - requer que se descarregue o webdriver em https://chromedriver.chromium.org/downloads
-    - o Chromedriver deve ser descarregado em alguma pasta da variável de ambiente PATH (recurso do sistema operacional que confere onde procurar arquivos executáveis). Num Mac, esta pastas incluem /usr/local/bin. O Windows e o Linux seguem procedimentos parecidos.
+    - o Chromedriver deve ser descarregado em alguma pasta da variável de ambiente PATH (recurso do sistema operacional que confere onde procurar arquivos executáveis).
+    - Num Mac, a lista destas pastas inclui /usr/local/bin. O Windows e o Linux seguem procedimentos parecidos.
