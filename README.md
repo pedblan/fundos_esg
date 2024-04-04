@@ -6,10 +6,10 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 ### /notebooks
 - contém os cadernos Jupyter com cada um dos passos da pesquisa.
   - 1_coleta.ipynb: faz a coleta de dados
-  - 2_converte_txt.ipynb
-  - 3_aed.ipynb
-  - 4_pesquisa_esg.ipynb
-  - 5_analise_esg.ipynb
+  - 2_converte_txt.ipynb: converte os regulamentos de pdf para txt
+  - 3_aed.ipynb: faz análise exploratória dos dados obtidos pelo scraping de fundo
+  - 4_pesquisa_esg.ipynb: comunica-se com a API da OpenAI para uma análise mais aprofundada dos regulamentos
+  - 5_analise_esg.ipynb: faz análise NLP de objetivos, metodologia, referências e relatório da cada fundo
 ### /data
 #### /json/
 - apresenta dados empregados em cada etapa da pesquisa
@@ -23,7 +23,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 #### /txt/
 - versão em txt dos arquivos pdf, para posterior análise textual
 ### /src
-- analise.py: função destinada a comunicar-se com o modelo OpenAI
+- analise.py: função destinada a comunicar-se com o modelo OpenAI. Requer pass-key, obtida mediante cadastro no site respectivo: https://www.openai.com
 - analise_nlp.py: diversas funções para NLP do material obtido
   - emprega biblioteca spaCY, que requer download de corpus da língua portuguesa. Empreguei pt_core_news_lg, disponível em: https://spacy.io/models/pt 
 - converte_txt.py: função para extrair texto dos arquivos pdf e gravá-lo em arquivos txt.
