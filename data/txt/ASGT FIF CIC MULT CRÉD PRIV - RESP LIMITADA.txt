@@ -1,0 +1,873 @@
+ 
+ 
+ 
+ 
+(55014) 
+1 
+ 
+REGULAMENTO DO ASGT FUNDO DE INVESTIMENTO FINANCEIRO DA CLASSE DE INVESTIMENTO EM COTAS 
+MULTIMERCADO CRÉDITO PRIVADO - RESPONSABILIDADE LIMITADA 
+CNPJ – 38.390.537/0001-88 
+1. PARTE GERAL - INFORMAÇÕES INICIAIS 
+ 
+1.1. O FUNDO é composto por uma única classe (“CLASSE”) e poderá ter subclasses, a critério do ADMINISTRADOR, 
+observada a regulamentação vigente. As subclasses podem ser diferenciadas por (a) público-alvo; (b) prazos e condições 
+de aplicação, amortização e resgate; e (c) taxas de administração, gestão, máxima de distribuição, ingresso e saída. 
+ 
+1.2. O regulamento é composto por sua Parte Geral, Anexo e ocasionais Apêndices, que conterão as informações do 
+FUNDO, da CLASSE e das SUBCLASSES, respectivamente (“Regulamento”). Para fins da interpretação deste 
+Regulamento, quaisquer referências ao FUNDO abrangerão também sua CLASSE e SUBCLASSES, conforme o caso, bem 
+como quaisquer referências ao Regulamento abrangerão sua Parte Geral, o Anexo e ocasionais Apêndices, exceto quando 
+houver indicação expressa em sentido contrário. Em caso de divergência entre as condições estipuladas no Regulamento, 
+deverá ser sempre considerada a previsão mais específica, de modo que o Anexo prevalecerá sobre a Parte Geral e os 
+Apêndices prevalecerão sobre a Parte Geral e o Anexo.  
+ 
+1.3. Considerando que a regulamentação, na data de alteração deste FUNDO, ainda não permite a criação de subclasses, 
+a primeira subclasse será constituída em data a ser definida pelo ADMINISTRADOR em conjunto com o GESTOR, cabendo 
+ao ADMINISTRADOR comunicar os cotistas de tal fato. Sendo assim, até que haja a efetiva constituição da primeira 
+SUBCLASSE, o Apêndice que já consta do presente Regulamento deverá ser considerado parte integrante do Anexo e as 
+menções à SUBCLASSE deverão ser lidas como menções à CLASSE. 
+ 
+2. PRESTADORES DE SERVIÇOS ESSENCIAIS 
+ 
+2.1. ADMINISTRADOR 
+Itaú Unibanco S.A., Praça Alfredo Egydio de Souza Aranha, nº 100, Torre Olavo Setubal, São Paulo – SP, CNPJ nº 
+60.701.190/0001-04, ato declaratório CVM nº 990 de 06/07/1989. 
+ 
+2.2. GESTOR 
+Itaú Distribuidora de Títulos e Valores Mobiliários S.A., Diretoria de Fund of Funds, Avenida Brigadeiro Faria Lima, nº 
+3500, 3º andar (parte), Itaim Bibi, São Paulo – SP, CNPJ nº 33.311.713/0001-25, ato declaratório CVM nº 4754 de 
+01/04/1998. 
+ 
+3. RESPONSABILIDADE DOS PRESTADORES DE SERVIÇOS 
+O GESTOR e o ADMINISTRADOR são os prestadores de serviços essenciais do FUNDO, responsáveis, conjuntamente, 
+pela constituição do FUNDO (“prestadores de serviços essenciais”). Os prestadores de serviços essenciais, observadas as 
+limitações legais e as previstas na regulamentação aplicável, possuem poderes para praticar os atos necessários à 
+administração (no caso do ADMNISTRADOR) e à gestão (no caso do GESTOR) do FUNDO, podendo, cada prestador de 
+serviço essencial, na sua respectiva esfera de atuação, individualmente, contratar, em nome do FUNDO, com prestadores 
+de serviços terceiros (devidamente habilitados e autorizados à prestação do serviço contratado). 
+3.1. O funcionamento do FUNDO se materializa por meio da atuação dos prestadores de serviços essenciais e terceiros por 
+eles contratados. O FUNDO e/ou a CLASSE, conforme aplicável, respondem diretamente pelas obrigações legais e 
+contratuais assumidas pelos prestadores de serviços do FUNDO. Os prestadores de serviços essenciais do FUNDO e os 
+demais prestadores de serviço do FUNDO e/ou da CLASSE (conforme o caso), não respondem por tais obrigações, mas 
+respondem pelos prejuízos que causarem quando procederem com comprovado dolo ou má-fé.  
+3.2. Os prestadores de serviços essenciais do FUNDO e os demais prestadores de serviço do FUNDO e/ou da CLASSE 
+(que sejam participantes de mercado regulado pela CVM ou que tenham o serviço prestado dentro da esfera de atuação da 
+CVM), respondem perante a CVM, nas suas respectivas esferas de atuação, por seus próprios atos e omissões contrários 
+à lei, ao Regulamento ou à regulamentação vigente.  
+3.3. A responsabilidade de cada prestador de serviço essencial e demais prestadores de serviços perante o FUNDO, as 
+CLASSES (conforme aplicável), e demais prestadores de serviços é individual e limitada exclusivamente aos serviços por 
+ele prestados, conforme aferida a partir de suas respectivas obrigações previstas na regulamentação em vigor, neste 
+Regulamento e, ainda, no respectivo contrato de prestação de serviços celebrado junto ao FUNDO e/ou às CLASSES. A 
+ 
+ 
+ 
+ 
+(55014) 
+2 
+avaliação de responsabilidade dos prestadores de serviço também deverá levar sempre em consideração os riscos inerentes 
+às aplicações nos mercados de atuação do FUNDO e/ou das CLASSES e a natureza de obrigação de meio de seus serviços.  
+3.4. Os prestadores de serviços do FUNDO e/ou das CLASSES não possuem responsabilidade solidária entre si. 
+ 
+4. CARACTERÍSTICAS DO FUNDO 
+O FUNDO se caracteriza como Fundo de Investimento Financeiro “FIF” e contará com classe única de cotas, com prazo 
+indeterminado de duração. 
+ 
+5. ENCARGOS 
+Constituem encargos do FUNDO as seguintes despesas, que lhe são debitadas diretamente: (i) taxas, impostos e 
+contribuições que recaiam ou venham a recair sobre os bens, direitos e obrigações do FUNDO; (ii) despesas com o registro 
+de documentos, impressão, expedição e publicação de relatórios e informações periódicas previstas na regulamentação 
+vigente; (iii) despesas com correspondências de interesse do FUNDO, inclusive comunicações aos cotistas; (iv) honorários 
+e despesas do auditor independente; (v) emolumentos e comissões pagas por operações do FUNDO; (vi) honorários 
+advocatícios, custas e despesas processuais correlatas, incorridas na defesa dos interesses do FUNDO, em juízo ou fora 
+dele, inclusive o valor de eventual condenação; (vii) despesas com a manutenção de ativos cuja propriedade decorra de 
+execução de garantia ou de acordo com devedor; (viii) gastos derivados da celebração de contratos de seguro sobre os 
+ativos da carteira, assim como a parcela de prejuízos não cobertos por seguros e não decorrentes diretamente de culpa ou 
+dolo dos prestadores de serviços, no exercício de suas respectivas funções; (ix) despesas relacionadas ao exercício do 
+direito de voto decorrente de ativos  do FUNDO; (x) despesas com a realização de assembleia de cotistas; (xi) despesas 
+inerentes à constituição, fusão, incorporação, cisão, transformação ou liquidação do FUNDO; (xii) despesas com liquidação, 
+registro e custódia de operações com ativos  da CLASSE; (xiii) despesas com fechamento de câmbio, vinculadas às 
+operações da carteira de ativos da CLASSE; (xiv) royalties devidos pelo licenciamento de índices de referência, desde que 
+cobrados de acordo com contrato estabelecido entre o administrador e a instituição que detém os direitos sobre o índice; 
+(xv)  taxas de administração e de gestão,; (xvi) taxa de performance (se houver); (xvii) taxa máxima de custódia; (xviii) os 
+montantes devidos às classes de fundos investidoras em decorrência de acordos de remuneração, que serão deduzidos da 
+taxa de administração, performance ou gestão, quando aplicável; (xix) taxa máxima de distribuição; (xx) despesas 
+relacionadas à atividade de formador de mercado; (xxi) despesas decorrentes de empréstimos contraídos em nome da 
+CLASSE, desde que de acordo com as hipóteses previstas na regulamentação vigente; (xxii) contratação da agência de 
+classificação de risco de crédito. 
+5.1. Quaisquer despesas não previstas como encargos do FUNDO correm por conta do prestador de serviço essencial que 
+a tiver contratado. 
+ 
+6. ASSEMBLEIA GERAL E ESPECIAL 
+Os cotistas serão convocados (i) anualmente, até 60 (sessenta) dias após o encaminhamento das demonstrações contábeis 
+à CVM, para deliberação sobre as demonstrações contábeis do FUNDO e da CLASSE, conforme o caso; ou (ii) 
+extraordinariamente, sempre que necessário. 
+6.1. As assembleias gerais obedecerão as seguintes regras: (i) serão convocadas conforme o(s) meio(s) de comunicação 
+estabelecido(s) em capítulo específico deste Regulamento, com antecedência mínima de 10 (dez) dias, dispensada esta 
+formalidade se houver presença total; (ii) serão instaladas com qualquer número de cotistas; (iii) as deliberações serão 
+tomadas conforme o quórum estabelecido abaixo; (iv) poderão votar os cotistas, seus representantes legais ou procuradores 
+constituídos há menos de 1 (um) ano; (v) as assembleias poderão ser realizadas de modo exclusivamente eletrônico, caso 
+em que os cotistas somente poderão enviar seu voto por meio de comunicação escrita ou sistema eletrônico, desde que a 
+convocação indique essa possibilidade e estabeleça os critérios para essa forma de voto, ou de modo parcialmente 
+eletrônico, em que serão admitidos os votos enviados por meio de comunicação escrita ou sistema eletrônico, sem prejuízo 
+da realização da reunião de cotistas, no local e horário estabelecidos, cujas deliberações serão tomadas pelos votos dos 
+presentes e dos recebidos pelo(s) meio(s) de comunicação estabelecido(s) em capítulo específico deste Regulamento; (vi) 
+a critério do ADMINISTRADOR, que definirá os procedimentos a serem seguidos, as deliberações da assembleia poderão 
+ser tomadas por meio de consulta formal, sem reunião de cotistas, em que: a) os cotistas manifestarão seus votos, conforme 
+instruções previstas na convocação e b) as decisões serão tomadas com base nos votos recebidos. 
+6.1.1. Na hipótese de assembleia realizada de modo parcialmente eletrônico, prevista no inciso (v) acima, no caso de não 
+comparecimento físico de cotistas, a assembleia será instalada, sendo a presença dos cotistas caracterizada pelos votos 
+encaminhados por sistema eletrônico.  
+6.1.2. Caso a convocação preveja a realização da assembleia por meio eletrônico, os votos dos cotistas relativamente às 
+suas deliberações em assembleia deverão ser proferidos mediante a utilização de assinatura eletrônica legalmente 
+reconhecida, sob pena de recusa pelo ADMINISTRADOR. 
+ 
+ 
+ 
+ 
+(55014) 
+3 
+6.1.3. Na hipótese da não instalação da assembleia para deliberação relativa às demonstrações contábeis do FUNDO ou da 
+CLASSE, em decorrência do não comparecimento de quaisquer cotistas, estas serão consideradas automaticamente 
+aprovadas caso as demonstrações contábeis não contenham ressalvas. 
+6.2. O ADMINISTRADOR disponibilizará resumo das deliberações da assembleia aos cotistas, em até 30 (trinta) dias após 
+a sua realização, conforme o(s) meio(s) de comunicação estabelecido(s) em capítulo específico deste Regulamento, o qual 
+também poderá ser encaminhado juntamente com o extrato. 
+6.3. Poderão ser realizadas Assembleias Gerais, quando tratarem de pauta pertinente ao FUNDO como um todo, ou 
+Assembleias Especiais, quando forem deliberadas pautas pertinentes a apenas uma CLASSE ou SUBCLASSE, conforme o 
+caso, sendo certo que a convocação e os quóruns abrangerão, respectivamente, a totalidade dos cotistas do FUNDO ou da 
+respectiva classe ou subclasse. 
+6.4. Exceto nos casos em que haja previsão de quórum distinto no Anexo ou Apêndice relativo a uma determinada classe 
+ou subclasse, as deliberações serão aprovadas por maioria de votos dos presentes na assembleia e/ou recebidos por 
+sistema eletrônico, conforme o caso, sendo certo que caberá a cada cotista uma quantidade de votos representativa de sua 
+participação no FUNDO, CLASSE ou SUBCLASSE, conforme aplicável. 
+ 
+7. EXERCÍCIO SOCIAL 
+O exercício social do FUNDO tem início no primeiro dia do mês de junho e término no último dia do mês de maio de cada 
+ano. 
+ 
+8. FORO 
+Fica eleito o Foro do domicílio ou da sede do cotista, salvo se o domicílio ou sede do cotista não se situar em território 
+brasileiro, caso em que fica eleito o foro da Capital do Estado de São Paulo. 
+ 
+São Paulo – SP, 08 de fevereiro de 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(55014) 
+4 
+ 
+ANEXO DA CLASSE DO ASGT FUNDO DE INVESTIMENTO FINANCEIRO DA CLASSE DE INVESTIMENTO EM COTAS 
+MULTIMERCADO CRÉDITO PRIVADO - RESPONSABILIDADE LIMITADA 
+CNPJ – 38.390.537/0001-88 
+ 
+1. CARACTERÍSTICAS DA CLASSE 
+A CLASSE se caracteriza como CLASSE DE INVESTIMENTO EM COTAS (“CIC”) e é constituída como regime aberto, com 
+prazo indeterminado de duração e tipificada como Multimercado.  
+ 
+1.1. Essa CLASSE possui responsabilidade limitada dos cotistas ao valor por eles subscrito e/ou integralizado, observados 
+os procedimentos previstos no item 13 deste Anexo.  
+ 
+2. QUALIFICAÇÃO 
+A CLASSE receberá recursos de investidores profissionais, observado o público-alvo definido no Apêndice.  
+ 
+3. POLÍTICA DE INVESTIMENTO 
+O objetivo da CLASSE é aplicar seus recursos em cotas de classes de fundos de investimento de diversos tipos, as quais 
+investem em ativos financeiros de diferentes naturezas, riscos e características, sem o compromisso de concentração em 
+nenhum ativo ou fator de risco em especial, observado que a rentabilidade da CLASSE será impactada em virtude dos custos 
+e despesas da CLASSE e/ou das SUBCLASSES, inclusive taxa de administração, gestão e distribuição. 
+3.1. A CLASSE poderá aplicar seus recursos direta e indiretamente no exterior.  
+3.1.1. O GESTOR é responsável por executar, na seleção direta dos ativos financeiros no exterior, procedimentos 
+compatíveis com as melhores práticas do mercado, assegurando que as estratégias a serem implementadas no exterior 
+estejam de acordo com (i) a regulamentação aplicável aos fundos de investimento, (ii) o objetivo, (iii) a política de 
+investimento, e (iv) os níveis de risco da CLASSE. 
+3.1.2. Cabe ao GESTOR a responsabilidade de certificar que o gestor da classe investida, que realiza alocações no exterior, 
+possui processos, procedimentos e expertise compatíveis com as melhores práticas do mercado, de forma a assegurar que 
+as estratégias a serem implementadas indiretamente pela classe investida no exterior estejam de acordo com (i) a 
+regulamentação aplicável aos fundos de investimento, (ii) o objetivo, (iii) a política de investimento, e (iv) os níveis de risco 
+da CLASSE.  
+3.1.3. Caso a CLASSE aplique em fundos de investimento ou veículos de investimento no exterior, o ADMINISTRADOR 
+(diretamente ou por meio do CUSTODIANTE) deverá certificar-se de que o custodiante ou escriturador do fundo ou veículo 
+de investimento no exterior possui estrutura, processos e controles internos adequados para desempenhar as seguintes 
+atividades: (i) prestar serviço de custódia ou escrituração de ativos, conforme aplicável; (ii) realizar a boa guarda e regular 
+movimentação dos ativos mantidos em custódia ou, no caso de escrituradores, atestar a legitimidade e veracidade dos 
+registros e titularidade dos ativos; e (iii) verificar a existência, a boa guarda e a regular movimentação dos ativos integrantes 
+da carteira do fundo ou veículo de investimento no exterior. 
+3.2. A CLASSE, indiretamente, poderá investir mais de 50% (cinquenta por cento) de seu patrimônio líquido em 
+ativos financeiros de responsabilidade de pessoas físicas ou jurídicas de direito privado ou de emissores públicos 
+que não a União Federal. Tendo em vista a concentração das aplicações das classes dos fundos de investimento 
+nos quais a CLASSE aplica seus recursos em ativos financeiros de crédito privado, além dos demais riscos 
+atrelados ao investimento, existe o risco de perda substancial do patrimônio em decorrência do não pagamento dos 
+ativos financeiros de emissores privados integrantes da carteira das classes dos fundos investidos, inclusive por 
+força de intervenção, liquidação, regime de administração temporária, falência, recuperação judicial ou extrajudicial 
+de tais emissores. 
+3.3. A CLASSE aplica em classes de fundos de investimento que utilizam estratégias que podem resultar em 
+significativas perdas patrimoniais para seus cotistas, podendo inclusive acarretar perdas superiores ao capital 
+aplicado e a consequente obrigação do cotista de aportar recursos adicionais para cobrir prejuízos da CLASSE. 
+3.4. A descrição detalhada da política de investimento da CLASSE, está prevista no Complemento I. Os limites estabelecidos 
+no Complemento I deste Regulamento devem ser considerados em conjunto e cumulativamente, prevalecendo a regra mais 
+restritiva. Características adicionais relacionadas ao objetivo da CLASSE também estão previstas na página do 
+ADMINISTRADOR na rede mundial de computadores (www.itau.com.br). 
+ 
+4. RISCOS 
+O objetivo e a política de investimento da CLASSE não constituem promessa de rentabilidade e o cotista assume os riscos 
+decorrentes do investimento na CLASSE, ciente da possibilidade de eventuais perdas. 
+ 
+ 
+ 
+ 
+(55014) 
+5 
+4.1. A rentabilidade da cota não coincide com a rentabilidade dos ativos financeiros que compõem a carteira da CLASSE 
+em decorrência dos encargos incidentes sobre a CLASSE e dos tributos incidentes sobre os recursos investidos. 
+4.2. As aplicações realizadas na CLASSE não têm garantia do ADMINISTRADOR, nem do GESTOR e nem do Fundo 
+Garantidor de Créditos. 
+4.3. Como todo investimento, a CLASSE apresenta riscos, destacando-se: 
+ 
+MERCADO  
+Em função de sua Política de Investimentos, a CLASSE poderá estar exposta aos mercados de taxas de juros e índices de 
+preços, moedas, ações e commodities. Estes mercados podem apresentar grande potencial de volatilidade em decorrência 
+dos riscos a que estão expostos. Tais riscos são originados por fatores que compreendem, mas não se limitam a: (i) fatores 
+macroeconômicos; (ii) fatores externos; e (iii) fatores de conjuntura política. Estes riscos afetam os preços dos ativos da 
+CLASSE, produzindo flutuações no valor de suas cotas, que podem representar ganhos ou perdas para os cotistas.   
+ 
+Os ativos financeiros da CLASSE têm seus valores atualizados diariamente (marcação a mercado) e tais ativos são 
+contabilizados pelo preço de negociação no mercado ou pela melhor estimativa de valor que se obteria nessa negociação, 
+motivo pelo qual o valor da cota da CLASSE poderá sofrer oscilações frequentes e significativas, inclusive num mesmo dia.  
+ 
+A natureza dos riscos de mercado associados ao investimento no exterior e ao investimento no mercado local é similar, mas 
+o comportamento do mercado em outros países e os efeitos provocados na carteira da CLASSE pelos ativos que possuem 
+risco de mercado externo, mesmo que de forma sintetizada no mercado local, podem ser diversos. 
+ 
+O valor dos ativos financeiros da CLASSE pode sofrer variações, em virtude do risco associado à oscilação da taxa de 
+câmbio. Estas oscilações podem valorizar ou desvalorizar as cotas da CLASSE, dependendo da estratégia assumida. 
+ 
+OPERACIONAL 
+Existe a possibilidade de o valor oficial dos ativos financeiros negociados em mercados internacionais ser disponibilizado 
+em periodicidade, data e/ou horário distintos da utilizada para os ativos financeiros nacionais e para apreçamento das cotas 
+da CLASSE e das classes dos fundos investidos, seja pelo processo de disponibilização de informações, pelo fuso horário 
+dos mercados, feriados locais, falhas sistêmicas, entre outros. Como consequência, o valor destes ativos será estimado pelo 
+controlador, utilizando-se de fontes públicas de divulgação de cotação de ativos financeiros, método que, apesar de constituir 
+a melhor prática do ponto de vista econômico, não está livre de riscos de (i) imprecisões e aproximações; (ii) no caso de 
+cotas de classes de fundos de investimento, o valor estimado ser distinto do valor oficial divulgado pelo seu administrador 
+ou custodiante no exterior; e (iii) sempre que o valor estimado for distinto do valor real de negociação dos ativos financeiros, 
+o cotista poderá ser beneficiado ou prejudicado no valor de suas cotas, dependendo de a estimativa de valor para o ativo 
+estrangeiro ter sido subavaliada ou superavaliada. 
+ 
+A negociação e os valores dos ativos financeiros da CLASSE podem ser afetados por fatores exógenos diversos, tais como 
+interferências de autoridades governamentais e órgãos reguladores nos mercados, moratórias, alterações da política 
+monetária ou da regulamentação aplicável aos fundos de investimento e suas classes e/ou a suas operações, podendo, 
+eventualmente, causar perdas aos cotistas. Ademais, o fluxo regular das operações realizadas no mercado internacional 
+pode ser obstado por condições políticas, regulatórias e macroeconômicas dos países envolvidos.  
+ 
+A realização de operações de derivativos pode (i) aumentar a volatilidade da CLASSE, (ii) limitar ou ampliar as possibilidades 
+de retornos, (iii) não produzir os efeitos pretendidos e/ou (iv) determinar perdas ou ganhos aos cotistas da CLASSE. 
+Adicionalmente, ainda que as operações de derivativos tenham objetivo de proteção da carteira contra determinados riscos, 
+não é possível garantir a inexistência de perdas, se ocorrerem os riscos que se pretendia proteger.  
+ 
+A utilização de instrumentos para assunção de risco em exposição de capital superior ao patrimônio líquido da CLASSE 
+(como por exemplo, derivativos), com a expectativa de gerar ganhos, pode não resultar nos retornos esperados, podendo 
+inclusive resultar em perdas superiores ao patrimônio da CLASSE.  
+ 
+Apesar dos esforços de seleção, acompanhamento e diligência nas aplicações da CLASSE em outras classes de fundos de 
+investimento, o ADMINISTRADOR e o GESTOR não têm ingerência na condução dos negócios das classes investidas e 
+não respondem por eventuais perdas que estes venham a sofrer.  
+ 
+Ao buscar tratamento fiscal mais benéfico ao cotista, investindo em ativos financeiros com prazos de vencimentos mais 
+longos (carteira longa), a CLASSE, em momentos de instabilidade no mercado, expõe o seu patrimônio a maior oscilação, 
+ 
+ 
+ 
+ 
+(55014) 
+6 
+se comparado a classes de fundos que investem preponderantemente em ativos financeiros com prazo de vencimento mais 
+curto (carteira curta).  
+Para possibilitar o benefício das alíquotas decrescentes de IRF concedidas aos cotistas de fundos classificados como Longo 
+Prazo, conforme previsto na legislação, o GESTOR buscará manter a carteira do FUNDO com prazo médio superior a 365 
+(trezentos e sessenta e cinco) dias. Todavia, caso este objetivo não seja atingido, haverá alteração do tratamento tributário 
+dos cotistas e consequente pagamento de IRF com alíquotas mais altas (22,50% para aplicações até 180 dias e 20,0% para 
+aplicações com prazo superior à 180 dias).  
+ 
+As operações da CLASSE estão sujeitas a riscos operacionais ligados aos ambientes em que são negociadas, tais como: 
+(i) falha de uma determinada bolsa ou fonte de informações; e (ii) interrupção de operações no local de negociação/registro 
+destas, por exemplo, em eventos decorrentes de feriados.  
+ 
+Por motivos e/ou fatores exógenos à vontade do GESTOR, eventos de transferência de recursos ou de títulos podem não 
+ocorrer conforme o previsto. Estes motivos e fatores incluem, por exemplo, inadimplência do intermediário ou das partes, 
+falhas, interrupções, atrasos ou bloqueios nos sistemas ou serviços das centrais depositárias, clearings ou sistemas de 
+liquidação, contrapartes centrais garantidoras ou do banco liquidante envolvidos na liquidação dos referidos eventos.  
+ 
+A utilização de modelos para estimar preços de determinados ativos e/ou estimar o comportamento futuro destes ativos, 
+expõe a CLASSE a riscos de imprecisão ou mesmo de diferenças entre preços conforme os prestadores de serviço de 
+controladoria, o que pode resultar em preços diferentes para um mesmo ativo em distintas carteiras no mercado. 
+ 
+CONCENTRAÇÃO 
+Em função da estratégia de gestão a CLASSE pode se sujeitar ao risco de perdas por não-diversificação de emissores, 
+classes de ativos, mercados, modalidades de operação, ou setores econômicos.  
+ 
+LIQUIDEZ 
+Dependendo das condições do mercado, os ativos financeiros da CLASSE podem sofrer diminuição de possibilidade de 
+negociação. Nesses casos, o GESTOR poderá, eventualmente, ver-se obrigado a aceitar descontos ou deságios na venda 
+dos ativos (ou de ágio na compra), prejudicando a rentabilidade da CLASSE.  
+ 
+Apesar do esforço e diligência do GESTOR e ADMINISTRADOR em manter a liquidez da carteira da CLASSE adequada ao 
+prazo de pagamento de resgates, existe o risco de descasamento entre a efetiva liquidez e o prazo para pagamento dos 
+resgates. Isso pode acontecer em função de momentos atípicos de mercado ou por falha em modelo de estimativa de liquidez 
+que se baseia em dados estatísticos e observações de mercado.  
+ 
+Por prever a alocação de recursos em instrumentos com potencial de retorno superior ao de instrumentos tradicionais, porém 
+com potencial de negociabilidade no mercado mais restrita que os instrumentos convencionais, a CLASSE poderá ter que 
+aceitar deságios em relação ao preço esperado de seus instrumentos e com isso impactar negativamente a sua 
+rentabilidade.  
+ 
+CRÉDITO 
+As operações da CLASSE estão sujeitas à inadimplência ou mora dos emissores dos seus ativos financeiros e contrapartes, 
+inclusive centrais garantidoras e prestadores de serviços envolvidos no trânsito de recursos da CLASSE, caso em que a 
+CLASSE poderá (i) ter reduzida a sua rentabilidade, (ii) sofrer perdas financeiras até o limite das operações contratadas e 
+não liquidadas e/ou (iii) ter desvalorização de parte ou todo o valor alocado nos ativos financeiros.   
+ 
+RESPONSABILIDADE LIMITADA  
+Na hipótese de ser constatado patrimônio líquido negativo da CLASSE, caso não seja possível regularizar a situação com 
+as medidas previstas na regulamentação em vigor, poderá ser solicitada a declaração judicial de insolvência da CLASSE. O 
+regime de responsabilidade limitada dos Cotistas e o regime de insolvência das classes são inovações legais recentes e não 
+foram sujeitas à revisão judicial, podendo ser questionados ou desconsiderados em ocasionais disputas judiciais. 
+ 
+CRIPTOATIVOS 
+O investimento em criptoativos envolve uma série de riscos específicos a este mercado, de maneira que o cliente interessado 
+nesta CLASSE deve, antes de tomar a decisão de investimento, considerar cuidadosamente seus objetivos de investimento 
+e avaliar todos os fatores de risco, em especial, riscos de custódia, cibernéticos, de contraparte, de inexistência de garantias, 
+de manipulação, problemas nos sistemas utilizados para o armazenamento de tais ativos ou falhas de segurança, que podem 
+ 
+ 
+ 
+ 
+(55014) 
+7 
+inclusive causar uma perda, extravio ou furto de tais ativos, de não proteção ao cliente, associado à não regulamentação 
+e/ou ao caráter transfronteiriço das operações, e risco de volatilidade. 
+ 
+ 
+5. MONITORAMENTO DE RISCOS 
+São utilizadas na CLASSE técnicas de monitoramento de risco (“monitoramento”) para obter estimativa do seu nível de 
+exposição aos riscos acima mencionados, de forma a adequar os investimentos da CLASSE a seus objetivos. 
+5.1. Os níveis de exposição a risco (i) são definidos em comitês que contam com a participação dos principais executivos 
+das áreas ligadas à gestão de recursos; (ii) são aferidos por área de monitoramento de risco especializada e segregada da 
+mesa de operações; e (iii) podem ser obtidos por meio de uma ou mais das seguintes ferramentas matemático-estatísticas, 
+dependendo dos mercados em que a CLASSE atue: 
+(a) monitoramento de exposição a risco de capital – exposição da CLASSE ao risco de seu patrimônio líquido ficar negativo 
+em decorrência de aplicações de sua carteira de ativos, com o consequente aumento dos riscos e da possibilidade de perdas;  
+(b) VaR – Valor em Risco – estimativa da perda potencial para a carteira da CLASSE, em dado horizonte de tempo, 
+associado a uma probabilidade ou nível de confiança estatístico 
+(c) teste de estresse – medida de risco para avaliar o comportamento da carteira da CLASSE em condições 
+significativamente adversas de mercado, baseada em cenários passados, projetados de forma qualitativa ou ainda por 
+métodos quantitativos 
+(d) tracking risk – estimativa para medir o risco de a CLASSE não seguir a performance de seu objetivo de investimento; 
+(e) monitoramento de liquidez – apuração do valor total dos ativos passíveis de liquidação financeira em um determinado 
+prazo, ponderado pelas regras de resgate e pela composição da carteira da CLASSE, atribuindo-se probabilidades para a 
+negociação desses ativos nas condições de mercado vigentes. 
+5.2. O monitoramento (i) leva em conta as operações da CLASSE; (ii) utiliza dados históricos e suposições para tentar prever 
+o comportamento da economia e, consequentemente, os possíveis cenários que eventualmente afetem a CLASSE, mas não 
+há como garantir a precisão desses cenários; e (iii) não elimina a possibilidade de perdas. 
+5.3. As simulações e estimativas utilizadas no monitoramento dependem de fontes externas de informação, motivo pelo qual 
+o ADMINISTRADOR e/ou o GESTOR isentam-se de responsabilidade se tais fontes fornecerem dados incorretos, 
+incompletos ou suspenderem a divulgação dos dados, prejudicando o monitoramento. 
+ 
+6. APURAÇÃO DO VALOR DOS ATIVOS FINANCEIROS  
+O valor dos ativos financeiros será apurado, para efeito de cálculo do valor da cota da SUBCLASSE, de acordo com a 
+seguinte metodologia:  
+(a) ativos financeiros do mercado nacional – diariamente, conforme manual de precificação do controlador, 
+preferencialmente, com base em fontes públicas do mercado nacional;  
+(b) ativos financeiros do mercado internacional – sempre que possível, será realizada da mesma forma e no mesmo horário 
+que para os ativos financeiros do mercado nacional. Caso os ativos financeiros do mercado internacional não tenham sua 
+cotação diária divulgada até o momento da apuração do valor diário da cota da SUBCLASSE, o valor desses ativos será 
+estimado, preferencialmente, com base em fontes públicas internacionais; e 
+(c) consolidação do valor dos ativos financeiros da CLASSE e das cotas das classes dos fundos investidos e determinação 
+do patrimônio global da CLASSE – O valor dos ativos financeiros obtidos nos termos dos itens (a) e (b) acima serão 
+consolidados para fins da apuração do valor global do patrimônio da CLASSE.  
+ 
+7. ENCARGOS 
+Os encargos são as despesas previstas na regulamentação vigente e que podem ser debitadas diretamente do FUNDO e/ou 
+da CLASSE, conforme o caso. Como o FUNDO possui uma única CLASSE, todos os encargos estão listados na Parte Geral 
+do Regulamento.   
+ 
+8. ASSEMBLEIA GERAL E ESPECIAL 
+Como o FUNDO possui uma única classe de cotas, as informações referentes às Assembleias da CLASSE e do FUNDO 
+constarão apenas da Parte Geral deste Regulamento.  
+ 
+9. POLÍTICA DE DISTRIBUIÇÃO DE RESULTADOS 
+Os resultados da CLASSE serão automaticamente incorporados ao seu patrimônio, inclusive aqueles provenientes de 
+pagamentos relativos aos eventuais acordos de remuneração celebrados com Fundos Investidos ou representantes destes 
+e que nos termos da regulamentação vigente devam ser revertidos em favor da CLASSE. 
+9.1. As quantias correspondentes aos acordos de remuneração celebrados pelo FUNDO, em nome da CLASSE, serão 
+estimadas diariamente e provisionadas na carteira da CLASSE, bem como, refletidas no valor das cotas da CLASSE. 
+ 
+ 
+ 
+ 
+(55014) 
+8 
+Referidas provisões poderão sofrer ajustes, quando do efetivo pagamento de referidas quantias, o que deverá ocorrer na 
+data de apropriação da taxa de administração pelos fundos investidos.  
+9.1.1. Em caso de resgate total pelos cotistas da CLASSE, antes da apropriação da remuneração, as provisões 
+correspondentes aos acordos de remuneração pendentes de apropriação serão baixadas. Isso impactará negativamente o 
+valor das cotas e o montante a ser entregue aos cotistas no ato da liquidação do resgate. 
+ 
+10. ATOS E FATOS RELEVANTES 
+Os atos ou fatos relevantes que possam influenciar de modo ponderável no valor das cotas ou na decisão dos investidores 
+de adquirir, alienar ou manter cotas da CLASSE serão imediatamente:  
+(i) divulgados aos cotistas por correspondência eletrônica ou outra forma de comunicação disponibilizada pelo 
+ADMINISTRADOR, conforme cláusula específica do Regulamento;  
+(ii) informado às entidades administradoras de mercados organizados onde as cotas estejam admitidas à negociação, se for 
+o caso;  
+(iii) divulgado por meio da página da CVM na rede mundial de computadores; e 
+(iv) mantido nas páginas dos prestadores de serviços essenciais e, ao menos enquanto a distribuição estiver em curso, do 
+distribuidor de cotas na rede mundial de computadores.  
+ 
+11. MEIOS DE COMUNICAÇÃO 
+A CLASSE utilizará meios físicos ou eletrônicos de comunicação relativamente às informações da CLASSE e do FUNDO, 
+inclusive no que diz respeito às convocações, deliberações e resumo das assembleias gerais de cotistas do FUNDO e 
+assembleias especiais de cotistas da CLASSE. Nesse sentido, todas as informações ou documentos serão disponibilizados 
+aos cotistas, pelo ADMINISTRADOR, por meio de (i) disponibilização, no endereço eletrônico do ADMINISTRADOR 
+(www.itau.com.br) e/ou GESTOR e/ou DISTRIBUIDOR, conforme aplicável; (ii) envio de correspondência física; ou (iii) 
+adoção de outra forma de disponibilização, a critério do ADMINISTRADOR, nos termos da regulamentação em vigor. Na 
+hipótese de envio, pelo ADMINISTRADOR, de correspondência física para o endereço de cadastro do cotista, os custos 
+decorrentes deste envio serão suportados pela CLASSE.  
+11.1. O cotista da CLASSE poderá materializar seu “atestado”, “ciência”, “manifestação” ou “concordância” por meio 
+eletrônico conforme procedimentos disponibilizados e aceitos a critério exclusivo do ADMINISTRADOR e/ou do 
+DISTRIBUIDOR, conforme o caso, incluindo (mas não limitado a) assinatura digital e/ou eletrônica em sua plataforma digital. 
+ 
+12. LIQUIDAÇÃO DA CLASSE 
+A CLASSE poderá ser liquidada e encerrar suas atividades nos seguintes casos, além das demais situações expressamente 
+permitidas na regulamentação vigente: 
+(i) 
+aprovação da liquidação da CLASSE em Assembleia de Cotistas; e 
+(ii) 
+resgate total dos cotistas, bem como a formalização do ADMINISTRADOR e do GESTOR acerca do encerramento 
+da CLASSE. 
+ 
+13. PATRIMÔNIO LÍQUIDO NEGATIVO E PROCEDIMENTO DE INSOLVÊNCIA DA CLASSE 
+O ADMINISTRADOR deverá verificar se o patrimônio líquido da CLASSE está negativo nos seguintes eventos: 
+I. houver pedido de declaração judicial de insolvência da CLASSE; ou 
+II. o ADMINISTRADOR tomar conhecimento de oscilações relevantes nos valores dos ativos nos quais a CLASSE invista. 
+13.1. Caso o ADMINISTRADOR verifique que a CLASSE apresentou patrimônio líquido negativo, o ADMINISTRADOR deve 
+imediatamente: (a) fechar a CLASSE para resgates e não realizar amortização de cotas; (b) não aceitar novas subscrições 
+de cotas; (c) comunicar a existência de patrimônio líquido negativo ao GESTOR; (d) proceder à divulgação de Fato 
+Relevante, nos termos da regulamentação vigente; e (e) cancelar os pedidos de resgate pendentes de conversão.  
+13.2. Adicionalmente, caso o ADMINISTRADOR verifique que a CLASSE apresentou patrimônio líquido negativo, o 
+ADMINISTRADOR deve, em até 20 (vinte) dias: 
+I. elaborar um plano de resolução de patrimônio líquido negativo em conjunto com o GESTOR (“Plano de Resolução”), do 
+qual conste, no mínimo: (a) análise das causas e circunstâncias que resultaram no patrimônio líquido negativo; (b) balancete; 
+e (c) proposta de resolução para o patrimônio líquido negativo que, a critério do ADMINISTRADOR e do GESTOR, pode 
+contemplar as possibilidades previstas no item 13.6 abaixo, assim como a possibilidade de tomada de empréstimo pela 
+CLASSE, exclusivamente para cobrir o patrimônio líquido negativo.  
+II. convocar Assembleia Especial de Cotistas da CLASSE para deliberar acerca do Plano de Resolução (“Assembleia de 
+Resolução”). A referida convocação deverá ser realizada em até 02 (dois) dias úteis após a conclusão do Plano de 
+Resolução, que deverá ser encaminhado conjuntamente com a convocação. 
+ 
+ 
+ 
+ 
+(55014) 
+9 
+13.3. Caso, após a adoção das medidas previstas no item 13.1., o ADMINISTRADOR e o GESTOR avaliem, em conjunto e 
+de modo fundamentado, que a ocorrência do patrimônio líquido negativo não represente risco à solvência da CLASSE, a 
+adoção das medidas referidas no item 13.2. se torna facultativa.  
+13.4. Caso o patrimônio líquido da CLASSE deixe de estar negativo anteriormente à convocação da Assembleia de 
+Resolução, o GESTOR e o ADMINISTRADOR ficam dispensados de prosseguir com os procedimentos previstos neste 
+Capítulo, devendo o ADMINISTRADOR divulgar novo Fato Relevante, no qual deverá constar o patrimônio líquido atualizado 
+da CLASSE e as causas e circunstâncias que resultaram no patrimônio líquido negativo, conforme venham a ser informadas 
+pelo GESTOR ao ADMINISTRADOR. 
+13.5. Caso o patrimônio líquido da CLASSE deixe de estar negativo posteriormente à convocação da Assembleia de 
+Resolução e anteriormente à sua realização, a referida Assembleia deve ser realizada para que o GESTOR apresente aos 
+cotistas o patrimônio líquido atualizado da CLASSE e as causas e circunstâncias que resultaram no patrimônio líquido 
+negativo (“Assembleia de Esclarecimento”), não se aplicando o disposto no item 13.6. abaixo. 
+13.6. Em caso de não aprovação do Plano de Resolução na Assembleia de Resolução, os cotistas devem deliberar sobre 
+as seguintes possibilidades: 
+I. cobrir o patrimônio líquido negativo da CLASSE, mediante aporte de recursos, próprios ou de terceiros, em montante e 
+prazo condizentes com as obrigações da CLASSE, hipótese na qual seria permitida a subscrição de novas cotas;  
+II. cindir, fundir ou incorporar a CLASSE a outro fundo que tenha apresentado proposta já analisada pelo ADMINISTRADOR 
+e pelo GESTOR; 
+III. liquidar a CLASSE, desde que não remanesçam obrigações a serem honradas pelo seu patrimônio; ou 
+IV. determinar que o ADMINISTRADOR apresente pedido de declaração judicial de insolvência da CLASSE. 
+13.7. O GESTOR deve comparecer à Assembleia de Resolução ou Assembleia de Esclarecimento, conforme o caso, na 
+qualidade de responsável pela gestão da carteira da CLASSE. No entanto, a ausência do GESTOR não impõe ao 
+ADMINISTRADOR qualquer óbice quanto à realização das referidas Assembleias. 
+13.8. Na Assembleia de Resolução, é permitida a manifestação dos credores, nessa qualidade, desde que prevista na 
+convocação ou autorizada pela mesa ou pelos cotistas presentes. 
+13.9. Caso a Assembleia de Resolução não seja instalada por falta de quórum ou os cotistas não deliberem em favor de 
+qualquer possibilidade no item 13.6, o ADMINISTRADOR deve ingressar com pedido de declaração judicial de insolvência 
+da CLASSE. 
+13.10. A CVM pode pedir a declaração judicial de insolvência da CLASSE, quando identificar situação na qual o patrimônio 
+líquido negativo represente risco para o funcionamento eficiente do mercado de valores mobiliários ou para a integridade do 
+sistema financeiro. 
+13.11. Tão logo tenha ciência de qualquer pedido de declaração judicial de insolvência da CLASSE, o ADMINISTRADOR 
+deve divulgar Fato Relevante, nos termos da regulamentação vigente e deste Regulamento. 
+13.12. Tão logo tenha ciência da declaração judicial de insolvência da CLASSE, o ADMINISTRADOR deve adotar as 
+seguintes medidas: 
+I. divulgar Fato Relevante; e 
+II. efetuar o cancelamento de registro na CLASSE na CVM. 
+13.12.1.  A CVM pode efetuar o cancelamento do registro da CLASSE caso o ADMINISTRADOR não adote a medida 
+disposta no inciso II acima de modo tempestivo, informando tal cancelamento por meio de ofício encaminhado ao 
+ADMINISTRADOR e de comunicado na página da CVM na rede mundial de computadores. 
+13.12.2. O cancelamento do registro da CLASSE não mitiga as responsabilidades decorrentes das eventuais infrações 
+cometidas antes do cancelamento. 
+13.13. As classes de cotas do FUNDO possuem patrimônios segregados entre si, com direitos e obrigações distintos, nos 
+termos do inciso III do artigo 1.368-D do Código Civil, conforme regulamentado pela Resolução CVM nº 175/22. Caso o 
+patrimônio líquido de uma classe se torne negativo, não haverá transferência das obrigações e direitos desta classe às 
+demais que integrem o FUNDO. Não há, em qualquer hipótese, solidariedade ou qualquer outra forma de coobrigação entre 
+classes. 
+13.14. O ADMINISTRADOR, o GESTOR e os demais prestadores de serviços do FUNDO/CLASSE não são responsáveis 
+por quaisquer obrigações legais e contratuais assumidas pelo FUNDO/CLASSE, incluindo, mas não se limitando, às 
+despesas atribuíveis à CLASSE com patrimônio líquido negativo ou insolvente, exceção feita às situações expressamente 
+previstas na legislação vigente. 
+13.14.1. A renúncia ou a continuidade no exercício de suas funções pelo ADMINISTRADOR e/ou pelo GESTOR em CLASSE 
+com patrimônio líquido negativo não poderá ser interpretada, em nenhuma hipótese, como assunção de responsabilidade 
+pelas obrigações ou dívidas contraídas pela respectiva CLASSE. 
+ 
+ 
+ 
+ 
+ 
+(55014) 10 
+14. EXERCÍCIO SOCIAL 
+O exercício social do FUNDO tem início no primeiro dia do mês de junho e término no último dia do mês de maio de cada 
+ano. 
+ 
+ 
+ 
+São Paulo – SP, 08 de fevereiro de 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(55014) 11 
+COMPLEMENTO I – DESCRIÇÃO DA POLÍTICA DE INVESTIMENTOS 
+ 
+LIMITES POR ATIVO 
+(% do patrimônio da CLASSE) 
+Legislação 
+Classe 
+Descrição dos Ativos Financeiros 
+GRUPO I – No 
+mínimo 95%  
+Permitido 
+Cotas de classe de FIF de diversas tipificações e independentemente da categoria 
+de investidores 
+Permitido 
+Cotas de ETF  
+Até 10% 
+Cotas de ETF de Criptoativos 
+Permitido 
+Cotas de FII 
+Permitido 
+Cotas de FIDC  
+Permitido 
+Cotas de FIDC, cujas políticas de investimento admitam a aquisição de direitos 
+creditórios não-padronizados  
+Permitido 
+Cotas de FIP 
+Permitido 
+Cotas de FIAGRO 
+Permitido 
+Cotas de FIAGRO, cujas políticas de investimento admitam a aquisição de direitos 
+creditórios não-padronizados 
+Permitido 
+Investimento no exterior, realizado de forma direta ou indireta: ativos 
+financeiros, fundos de investimento/veículos de investimento e contratos de 
+derivativos emitidos no exterior ou que a regulamentação em vigor caracterize como 
+ativo financeiro no exterior e cotas de classe de FIF registradas com base na 
+Resolução CVM 175/22 que podem alocar a totalidade dos seus recursos  em 
+“Investimento no Exterior”, desde que compatíveis com a política da CLASSE, 
+observada a regulamentação em vigor e as disposições deste regulamento 
+GRUPO II – Até 
+5% 
+Permitido 
+Títulos públicos federais. 
+Permitido 
+Títulos de renda fixa de emissão de instituições financeiras. 
+Permitido 
+Operações compromissadas. 
+ 
+LIMITES POR EMISSOR 
+(% do patrimônio da CLASSE) 
+Legislação 
+Classe 
+Emissor 
+Ilimitado 
+Permitido 
+Fundo de investimento 
+Até 5% 
+Permitido 
+Instituição financeira autorizada a funcionar pelo Banco Central do Brasil 
+Vedado 
+Sociedade de propósito específico que seja subsidiária integral de companhia 
+securitizadora registrada na categoria S2 
+Vedado 
+Companhia aberta 
+Vedado 
+Pessoa física ou jurídica de direito privado que não seja companhia aberta ou 
+instituição financeira autorizada a funcionar pelo Banco Central do Brasil 
+Esta CLASSE, bem como as classes investidas, poderão não observar limites de aplicação por modalidade ou por 
+emissor dos ativos financeiros, podendo estar expostas, direta ou indiretamente, a significativa concentração em 
+determinados ativos financeiros e/ou poucos emissores, com os riscos daí decorrentes 
+ 
+LIMITE PARA CRÉDITO PRIVADO 
+(% do patrimônio da CLASSE) 
+Ilimitado 
+Ativos financeiros de responsabilidade de pessoas físicas ou jurídicas de direito privado ou de emissores 
+públicos diferentes da União Federal, direta ou indiretamente. 
+ 
+DERIVATIVOS 
+Limite máximo em relação ao PL para utilização de derivativos 
+Vedado 
+Hedge e posicionamento com alavancagem   
+Sem limite de alavancagem 
+Esta CLASSE permite exposição a risco de capital 
+Sim  
+Limite de margem do patrimônio líquido da CLASSE 
+Ilimitado 
+Esta CLASSE poderá aplicar em fundos de investimento que utilizam estratégias com derivativos como parte 
+integrante de suas respectivas políticas de investimento 
+ 
+ 
+ 
+ 
+ 
+(55014) 12 
+ 
+OPERAÇÕES COM O ADMINISTRADOR, GESTOR E LIGADAS 
+(% do patrimônio da CLASSE) 
+Ilimitado 
+Contraparte ADMINISTRADOR, GESTOR e ligadas, inclusive veículos de investimento por eles 
+administrados ou geridos. 
+Até 5% 
+Ativos financeiros emitidos pelo GESTOR e de companhias integrantes de seu grupo econômico 
+Ilimitado 
+Cotas de FIF administradas pelo ADMINISTRADOR, GESTOR e de companhias integrantes de seu 
+grupo econômico. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(55014) 13 
+APÊNDICE - INFORMAÇÕES ADICIONAIS 
+ 
+1. PÚBLICO ALVO 
+A SUBCLASSE, a critério do distribuidor, receberá recursos de um único investidor profissional, sendo vedado receber 
+recursos de classe de investimento, preferencialmente clientes do segmento de Private Bank do ADMINISTRADOR, do 
+GESTOR ou de controladas, direta ou indiretamente, pelo Itaú Unibanco Holding S.A. 
+2. REMUNERAÇÃO   
+A taxa de administração é de 0,60% (zero vírgula sessenta por cento) ao ano, sobre o patrimônio da SUBCLASSE. 
+2.1. A remuneração prevista acima engloba os pagamentos devidos aos prestadores de serviços da CLASSE, inclusive de 
+custódia, porém não inclui os valores referentes às taxas de administração e de gestão das classes/subclasses investidas, 
+a remuneração do prestador de serviço de auditoria das demonstrações financeiras da CLASSE, tampouco os valores 
+correspondentes aos demais encargos da CLASSE e/ou da SUBCLASSE, os quais serão debitados da CLASSE de acordo 
+com o disposto neste Regulamento e na regulamentação. 
+2.2. A taxa de administração será provisionada por dia útil, mediante divisão da taxa anual por 252 dias e apropriada 
+mensalmente.  
+2.3. A SUBCLASSE não cobra taxa de performance, de ingresso ou de saída. 
+2.4. As classes/subclasses investidas podem cobrar taxa de performance, ingresso e/ou de saída de acordo com os seus 
+respectivos regulamentos. 
+ 
+3. APLICAÇÕES 
+As aplicações ocorrerão mediante: (i) instrução verbal, escrita ou eletrônica (se disponível) ao distribuidor ou diretamente ao 
+ADMINISTRADOR; (ii) adesão aos documentos exigidos pela regulamentação, significando que ele teve acesso ao inteiro 
+teor de tais documentos, conhece os riscos de investir na CLASSE e está ciente de que o ADMINISTRADOR, o GESTOR e 
+empresas ligadas podem manter negócios com emissores de ativos financeiros da CLASSE; e (iii) depósito ou transferência 
+eletrônica do valor do investimento à conta da CLASSE. 
+3.1. Será admitido o investimento conjunto e solidário por duas pessoas físicas para aquisição de uma mesma cota. Nessa 
+situação os coinvestidores estabelecem entre si a solidariedade ativa, sendo assim considerados em conjunto como um 
+único titular das cotas. Desse modo, cada coinvestidor, isoladamente pode investir e solicitar o resgate, bem como receber 
+resgate, parcial ou total, enfim praticar todo e qualquer ato inerente à propriedade de cotas, ficando a CLASSE e seu 
+ADMINISTRADOR exonerados de responsabilidade no cumprimento de referidas ordens, inclusive ao disponibilizar os 
+recursos a qualquer dos dois cotistas de forma isolada ou conjunta. 
+3.2.  Os recursos aportados serão convertidos em cotas escriturais, nominativas e correspondentes a frações ideais do 
+patrimônio da CLASSE. 
+3.3.  O investidor será considerado cotista a partir da inscrição do seu nome no registro de cotistas, que pode se dar inclusive 
+por meio de sistemas informatizados.  
+3.4. A cota da SUBCLASSE terá seu valor atualizado nos dias úteis, permanecerá escriturada em nome do cotista e não 
+poderá ser cedida nem transferida, salvo nas situações previstas na regulamentação. 
+3.5. As aplicações na SUBCLASSE poderão ser suspensas a qualquer momento e por prazo indeterminado. 
+3.6. Serão admitidas aplicações em ativos financeiros, desde que observados, cumulativamente, os seguintes critérios: (a) 
+ativos financeiros compatíveis, a critério do ADMINISTRADOR e do GESTOR, com a política de investimento da CLASSE; 
+(b) a integralização  mediante emissão de cotas em nome do titular dos ativos financeiros, concomitante à entrega destes à 
+CLASSE; e (c) o ADMINISTRADOR e o GESTOR, poderão recusar os ativos financeiros, total ou parcialmente, em 
+decorrência de incompatibilidades com a regulamentação aplicável, política de investimento, composição da carteira ou 
+estratégias de gestão adotadas para a CLASSE. 
+3.7. Para emissão das cotas, será utilizado o valor da cota de fechamento de D+0 da solicitação (cota de fechamento é 
+aquela obtida a partir do patrimônio apurado depois do encerramento dos mercados em que a CLASSE atue). 
+3.8. Os valores mínimos para aplicações iniciais e adicionais serão divulgados na página do ADMINISTRADOR na rede 
+mundial de computadores (www.itau.com.br), bem como na lâmina de informações básicas, se houver. 
+3.8.1. Percentual máximo de cotas que pode ser detido por um único cotista: 100%, exceto se expressamente vedado pela 
+regulamentação aplicável ao cotista da SUBCLASSE. 
+ 
+4. RESGATE 
+Os resgates ocorrerão mediante: 
+(i) instrução verbal, escrita ou eletrônica (se disponível) do cotista ao distribuidor ou diretamente ao ADMINISTRADOR;  
+ 
+ 
+ 
+ 
+(55014) 14 
+(ii) conversão de cotas em recursos baseada no valor da cota de fechamento de D+0 da solicitação; e 
+(iii) entrega dos recursos ao cotista em D+1 (útil) da conversão da cota.  
+4.1. Os cotistas deverão observar o valor mínimo para permanência na SUBCLASSE, indicado na página do 
+ADMINISTRADOR na rede mundial de computadores (www.itau.com.br) e na lâmina de informações básicas, se houver, 
+antes de realizar qualquer pedido de resgate, sendo certo que pedidos de resgate que resultarem em investimento na 
+SUBCLASSE inferior ao valor mínimo de permanência serão transformados em resgate total.  
+4.2. Provisão de Resgate de Fundos (Limite de Crédito) - Enquanto não liquidado o resgate porque não apurada a cota de 
+fechamento, o Itaú Unibanco poderá abrir, para os cotistas que forem também seus correntistas, independentemente de 
+solicitação expressa, limite de crédito ao cliente-cotista em sua conta corrente, correspondente a parcela do valor da 
+solicitação do resgate. O valor do crédito que será aberto na conta corrente do cliente-cotista poderá não corresponder ao 
+valor integral da solicitação de resgate, ficando este valor limitado ao que o Itaú Unibanco julgar pertinente. 
+4.2.1. Aberto o crédito, a Provisão de Resgate de Fundos será informada no extrato de conta corrente do cliente-cotista. 
+4.2.2. Se o cliente-cotista fizer qualquer movimentação em conta corrente ou investimento, que exceda o respectivo saldo 
+disponível antes do resgate, utilizará o crédito, que deverá ser pago até o final do dia da solicitação de resgate de cotas, 
+com os recursos dele decorrentes, sem nenhum encargo. 
+4.2.3. Se os recursos resultantes do resgate das cotas, creditados na conta corrente ao final do dia, não forem, por qualquer 
+motivo, suficientes para liquidar o valor do crédito utilizado, o cliente-cotista pagará ao Itaú Unibanco o referido valor, nas 24 
+(vinte e quatro) horas seguintes, livre de juros, arcando apenas com os encargos fiscais decorrentes da utilização do crédito. 
+4.2.4. O previsto no item acima também será observado se, por qualquer motivo, o resgate solicitado pelo cotista não seja 
+creditado em sua corrente. Sem prejuízo de, nesta hipótese, o ADMINISTRADOR, arcar com eventual multa decorrente do 
+atraso no pagamento do resgate, conforme previsto na regulamentação vigente. 
+4.2.5. Se o cliente não efetuar o pagamento nesse prazo, o Itaú Unibanco considerará o saldo devedor adiantamento a 
+depositante e cobrará os encargos previstos no contrato de abertura de conta corrente. 
+4.2.6. O disposto nos subitens 4.2 a 4.2.5 não se aplica a cotistas que (i) sejam empresas públicas, fundos de investimento, 
+empresas do mesmo grupo econômico do Itaú Unibanco, investidores não residentes, instituições financeiras bancárias e 
+demais pessoas ou instituições que não possam tomar crédito no Itaú Unibanco; (ii) tenham suas aplicações e resgates 
+realizados por intermédio de distribuidor que atue por conta e ordem de seus clientes. 
+4.2.7. A Provisão de Resgate de Fundos poderá ser alterada ou suspensa a qualquer momento, em função das condições 
+de mercado. 
+4.2.8. A possibilidade de abertura de limite de crédito na conta corrente do cliente-cotista é uma faculdade do Itaú Unibanco 
+na qualidade de instituição mantenedora de contas correntes. Dessa forma, o Itaú Unibanco não possui qualquer obrigação 
+de realizar a abertura de crédito na conta corrente do cliente-cotista com a finalidade de adiantar os recursos referentes aos 
+resgates solicitados, conforme descrito no item 4.2 acima. 
+4.3. Os recursos provenientes do resgate serão disponibilizados na conta corrente de titularidade do cotista cadastrada no 
+registro de cotistas da SUBCLASSE, mediante crédito em conta corrente, caso esta seja mantida no Itaú Unibanco, ou 
+transferência eletrônica (com as tarifas incidentes), caso esta seja mantida em outra instituição.  
+4.4. Para fins de solicitação de resgate e contagem dos prazos para conversão de cotas e para liquidação do resgate, não 
+serão contabilizados os dias considerados não úteis no local em que a CLASSE negocia predominantemente seus ativos 
+financeiros, não sendo exigível do ADMINISTRADOR, nestes casos, o pagamento de qualquer penalidade, acréscimo ou 
+remuneração adicional ao cotista. 
+4.5. O ADMINISTRADOR tem a discricionariedade de efetuar o pagamento do resgate em ativos na hipótese excepcional 
+de a venda dos ativos líquidos que compõem a carteira da CLASSE não ser suficiente para honrar com o valor do pedido de 
+resgate, devendo o resgate ser realizado mediante cancelamento das cotas, simultaneamente à entrega ao cotista de ativos 
+financeiros integrantes da carteira da CLASSE, bem como observar as demais disposições regulatórias relacionadas ao 
+resgate em ativos.   
+4.5.1.  O cotista também poderá solicitar resgate em ativos, devendo o ADMINISTRADOR e o GESTOR analisar a 
+possibilidade da operação, podendo recusá-la, total ou parcialmente. Na hipótese de deferimento do pedido de resgate em 
+ativos o ADMINISTRADOR e o GESTOR deverão observar o disposto no item anterior.  
+4.6. No caso de fechamento dos mercados e em casos excepcionais de iliquidez dos ativos da CLASSE, inclusive 
+decorrentes de pedidos de resgates incompatíveis com a liquidez existente, ou que possam implicar alteração do tratamento 
+tributário da CLASSE ou do conjunto dos cotistas, em prejuízo destes últimos, o ADMINISTRADOR, em comum acordo com 
+o GESTOR, pode declarar o fechamento da CLASSE para a realização de resgates. 
+4.6.1. Caso o ADMINISTRADOR e/ou o GESTOR declare o fechamento da CLASSE para a realização de resgates nos 
+termos acima, deve proceder à imediata divulgação de fato relevante, tanto por ocasião do fechamento, quanto da reabertura 
+da CLASSE. 
+ 
+ 
+ 
+ 
+(55014) 15 
+4.6.2. Todos os pedidos de resgate que estejam pendentes de conversão quando do fechamento para resgates devem ser 
+cancelados. 
+4.6.3. Caso a CLASSE permaneça fechada por período superior a 5 (cinco) dias úteis, o ADMINISTRADOR deve , além da 
+divulgação de fato relevante por ocasião do fechamento a que se refere o item acima, convocar no prazo máximo de 1 (um) 
+dia, para realização em até 15 (quinze), assembleia especial de cotistas da CLASSE para deliberar sobre as seguintes 
+possibilidades, que podem ser adotadas de modo isolado ou conjuntamente: (i) reabertura ou manutenção do fechamento 
+da CLASSE para resgate; (ii) cisão do FUNDO ou da CLASSE; (iii) liquidação da CLASSE; (iv) desde que de comum acordo 
+com os cotistas que terão as cotas resgatadas, manifestada na assembleia ou fora dela, resgate de cotas em ativos da 
+CLASSE; e (v) substituição do ADMINISTRADOR, do GESTOR ou de ambos, caso o FUNDO emita cotas em classe única. 
+ 
+5. APLICAÇÕES E RESGATES EM DIAS SEM EXPEDIENTE BANCÁRIO 
+As aplicações e os resgates solicitados em dias sem expediente bancário observarão os seguintes procedimentos: 
+(i) nos feriados nacionais e demais dias sem expediente bancário em âmbito nacional, os resgates e as aplicações não 
+poderão ser solicitados; 
+(ii) nos feriados estaduais ou municipais na praça da conta corrente do cotista, os resgates e as aplicações não poderão 
+ser solicitados para clientes daquela praça; e 
+(iii) nos finais de semana, regra geral, os resgates e as aplicações não poderão ser solicitados, exceção feita às aplicações 
+e resgates realizados pelo bankline, os quais serão efetivados no dia útil subsequente em que houver expediente bancário, 
+como se nesse dia tivessem sido solicitados. 
+5.1. As liquidações de resgates em dias sem expediente bancário nacional, ou ainda, estadual ou municipal na praça da 
+conta corrente do cotista, ocorrerão no dia subsequente em que houver expediente bancário naquela praça. 
+5.2. Nas praças onde funcionarem as agências bancárias, nas quais os cotistas mantiverem suas contas correntes, 
+aplicações, resgates e liquidações de resgates serão processados normalmente, sem prejuízo do disposto no item 5 acima. 
+5.3. Os feriados nacionais não serão considerados dias úteis para a SUBCLASSE, de forma que não serão considerados na 
+contagem dos prazos de conversão e pagamento de resgates, bem como de prazos de conversão de aplicações.  
+ 
+Para mais informações sobre a CLASSE ou SUBCLASSE, quando aplicável, visite a página do ADMINISTRADOR na 
+rede mundial de computadores.  
+ 
+São Paulo - SP, 08 de fevereiro de 2024. 
+ 
+ 
+Dúvidas, sugestões e reclamações, fale com o seu Private Banker. Se necessário, utilize o SAC Itaú 0800 728 0728, todos 
+os dias, 24h, ou o Fale Conosco Itaú Private Bank (www.itauprivatebank.com.br). Se desejar a reavaliação da solução 
+apresentada após utilizar esses canais, recorra à Ouvidoria Corporativa Itaú Unibanco 0800 570 0011, dias úteis, das 9 às 
+18h, Caixa Postal nº 67.600, CEP 03162-971. Deficientes auditivos ou de fala 0800 722 1722, disponível 24h todos os dias.  
+ 
+ 

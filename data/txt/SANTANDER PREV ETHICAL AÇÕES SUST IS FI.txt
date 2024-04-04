@@ -1,0 +1,805 @@
+ 
+ 
+1 
+O Presente Regulamento é Parte Integrante do Instrumento Particular de Alteração do Regulamento do 
+SANTANDER PREV ETHICAL AÇÕES SUSTENTABILIDADE IS FUNDO DE INVESTIMENTO, datado de 04/12/2023. 
+ 
+REGULAMENTO DO 
+SANTANDER PREV ETHICAL AÇÕES SUSTENTABILIDADE IS FUNDO DE INVESTIMENTO 
+CNPJ n.º 37.228.338/0001-05 
+ 
+CLÁUSULA PRIMEIRA – DO FUNDO 
+1.1.  
+O SANTANDER PREV ETHICAL AÇÕES SUSTENTABILIDADE IS FUNDO DE INVESTIMENTO 
+(“FUNDO”) é uma comunhão de recursos, constituído sob a forma de condomínio aberto, com prazo de duração 
+indeterminado (“Prazo de Duração”), sendo regido pelo presente regulamento (“Regulamento”), pelo formulário 
+de informações complementares do FUNDO (“Formulário”) e pela legislação e regulamentação em vigor. 
+ 
+CLÁUSULA SEGUNDA – DO PÚBLICO ALVO  
+2.1. 
+O FUNDO é destinado a acolher exclusivamente recursos referentes ao saldo da provisão de planos PGBL 
+e/ou VGBL, administrados por Entidade Aberta de Previdência Complementar - EAPC ou sociedade seguradora 
+autorizada a operar planos de previdência complementar aberta pertencentes, no todo ou em parte, ao Grupo 
+Santander, de acordo com a Resolução CMN nº 4.993, de 24 de março de 2022, e alterações posteriores, ora 
+definidas como investidores profissionais nos termos da regulamentação em vigor da Comissão de Valores 
+Mobiliários (“Investidores Profissionais” e “CVM”, respectivamente), a critério do ADMINISTRADOR, que 
+conhecem, entendem e aceitam os riscos descritos neste Regulamento e na legislação em vigor , aos quais os 
+investimentos do FUNDO estão expostos em razão dos mercados de atuação do FUNDO (“Cotistas”). 
+2.1.1. Como o FUNDO é destinado exclusivamente a Investidores Profissionais, fica dispensada a elaboração da 
+lâmina de informações essenciais do FUNDO. 
+2.2. 
+O enquadramento dos Cotistas no Público Alvo descrito no item anterior será verificado pelo distribuidor 
+das cotas do FUNDO, no ato do ingresso dos Cotistas.  
+ 
+CLÁUSULA TERCEIRA – DO OBJETIVO E DA POLÍTICA DE INVESTIMENTO 
+3.1. O FUNDO tem como objetivo investir em ações de empresas que possuam práticas que evidenciem 
+preocupação com aspectos sociais e/ou relacionados à proteção do meio ambiente e/ou que adotem, 
+voluntariamente, boas práticas de governança corporativa, adicionais às exigidas pela regulamentação em vigor. 
+3.1.1. Em relação ao objetivo descrito no item 3.1, entende-se por: 
+Práticas Sociais: constituem práticas e políticas internas e externas formuladas e implementadas por 
+empresas que evidenciam a preocupação e o envolvimento das mesmas com aspectos sociais, tais como 
+mas não limitados a relações de trabalho, relações com a comunidade, relações com seus clientes e/ou 
+consumidores. 
+Práticas para Proteção do Meio Ambiente: constituem práticas e políticas internas e externas 
+formuladas e implementadas por empresas que evidenciam a preocupação e os esforços dessas empresas 
+no cuidado e proteção do meio ambiente. 
+Boas Práticas de Governança Corporativa: constituem práticas diferenciadas de governança 
+corporativa que sejam ou venham a ser definidas pela Bolsa de Valores de São Paulo (Novo Mercado e 
+Níveis 1 e 2 de Governança Corporativa) e/ou outras bolsas de valores, entidades mantenedoras de mercado 
+de balcão organizado credenciadas na Comissão de Valores Mobiliários (CVM), entidades de mercado, 
+associações de classe e/ou associações profissionais, e/ou práticas internacionais de governança 
+ 
+ 
+2 
+corporativa, que visem conferir, principalmente, (i) maior transparência e segurança na divulgação de 
+informações sobre a empresa aos acionistas e ao público em geral; (ii) equidade no tratamento de seus 
+acionistas (iii) responsabilidade dos acionistas controladores frente aos acionistas minoritários (iv) melhoria 
+na relação da empresa  com investidores potenciais e demais agentes do mercado; e (v) elevação do 
+potencial de valorização da empresa que as adotam. 
+3.1.2. Para atingir os objetivos descritos no item 3.1., o GESTOR gere os recursos de forma ativa, sendo os 
+recursos do FUNDO preferencialmente destinados a investimentos em valores mobiliários negociados no mercado 
+de capitais, em especial, nos mercados à vista de ações e, complementarmente, em ativos financeiros de renda 
+fixa, observadas as limitações legais e regulamentares em vigor.  
+3.1.3. No processo de análise das empresas mencionadas no item 3.1. e, considerando o disposto no item 3.1.1., 
+para compra e venda de ações, o GESTOR procura avaliar, através de metodologia própria, o enquadramento das 
+empresas no objetivo ao qual o FUNDO se propõe. Para consultar o Formulário de Metodologia ESG e a 
+Política de Investimentos ESG, acesse: https://www.santanderassetmanagement.com.br/investimento-
+responsavel/esg. 
+3.1.4. Em função das características de sua política de investimento, o FUNDO não guarda nenhuma correlação 
+com índices de ações ou quaisquer outros indicadores do mercado de capitais. 
+3.1.5. Tal objetivo de investimento não constitui garantia ou promessa de rentabilidade pelo ADMINISTRADOR e 
+pelo GESTOR. 
+3.1.6. O FUNDO deve manter seu patrimônio aplicado de acordo com as diretrizes estabelecidas pelo Conselho 
+Monetário Nacional, na regulamentação que disciplina a aplicação dos recursos das reservas, das provisões e dos 
+fundos das sociedades seguradoras, das sociedades de capitalização e das entidades abertas de previdência 
+complementar. 
+3.2. Para atingir o objetivo de investimento descrito acima, o FUNDO alocará seus recursos de acordo com as 
+regras e limites previstos nos quadros a seguir: 
+COMPOSIÇÃO DA CARTEIRA DO FUNDO 
+“CARTEIRA” 
+Permitido 
+/ Vedado 
+% do PL 
+Mín. 
+Máx. 
+Ações de emissão de companhias abertas e os 
+correspondentes bônus de subscrição, recibos de 
+subscrição e certificados de depósito, admitidos à 
+negociação em mercado organizado 
+Permitido 
+67% 
+Até 100% 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento em cotas da classe Ações (“Fundos 
+Investidos”) 
+Permitido 
+Cotas de fundos de índice que busquem refletir as 
+variações e rentabilidade de índices de referência de 
+renda variável (“Fundos Investidos”) 
+Permitido 
+Até 50% 
+Debêntures com participação nos lucros, ou conversíveis 
+em ações ou permutáveis em ações, cuja oferta de 
+distribuição tenha sido previamente registrada na CVM, 
+ou cujo registro tenha sido, por esta, dispensado 
+Permitido 
+Até 25% 
+Títulos Públicos Federais 
+Permitido 
+0% 
+Até 33% 
+Créditos securitizados pela Secretaria do Tesouro 
+Nacional 
+Permitido 
+Cotas de fundos de índice de Renda Fixa que invistam 
+apenas em títulos públicos federais e/ou créditos 
+Permitido 
+ 
+ 
+3 
+securitizados pela Secretaria do Tesouro Nacional 
+(“Fundos Investidos”) 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento em cotas da classe Renda Fixa, constituídos 
+sob a forma de condomínio aberto e com a finalidade 
+específica de receber recursos de reservas técnicas e 
+previsões, que invistam, direta ou indiretamente, apenas 
+em títulos públicos federais e/ou créditos securitizados 
+pela Secretaria do Tesouro Nacional, destinados direta ou 
+indiretamente somente para sociedades seguradoras, 
+sociedades de capitalização, entidades abertas de 
+previdência complementar ou resseguradores - Fundo de 
+Investimento Especialmente Constituído de Títulos 
+Públicos (“Fundos Investidos”) 
+Permitido 
+Cotas de Fundos de Investimento Especialmente 
+Constituídos, cujas políticas de investimentos reflitam os 
+ativos e respectivos limites aplicáveis a sociedades 
+seguradoras, sociedades de capitalização, entidades 
+abertas de previdência complementar e resseguradores - 
+Fundo de Investimento Especialmente Constituído 
+(“Fundos Investidos”) 
+Permitido 
+Ativos Financeiros de Renda Fixa emitidos por companhia 
+aberta cuja oferta pública tenha sido registrada na CVM 
+ou tenha sido objeto de dispensa 
+Permitido 
+Até 33%* 
+Debêntures de infraestrutura emitidas por sociedade por 
+ações, aberta ou fechada, cuja oferta pública tenha sido 
+registrada na CVM ou tenha sido objeto de dispensa, e 
+que possuam garantia de títulos públicos federais que 
+representem pelo menos 30% do principal na data de 
+vencimento dos compromissos estipulados na escritura 
+de emissão 
+Permitido 
+Ativos Financeiros de Renda Fixa de emissão ou 
+coobrigação de instituição financeira 
+Permitido 
+Até 33% 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento em cotas da classe Renda Fixa, constituídos 
+sob a forma de condomínio aberto, cuja carteira tenha 
+como principal fator de risco a variação da taxa de juros 
+doméstica, ou de índice de preços ou ambos (“Fundos 
+Investidos”) 
+Permitido 
+Cotas de fundos de índice de Renda Fixa (“Fundos 
+Investidos”) 
+Permitido 
+Operações compromissadas, observados os demais 
+limites por ativo em relação ao seu lastro 
+Permitido 
+Até 25% 
+Ativos Financeiros de Renda Fixa cuja oferta pública 
+tenha sido registrada na CVM, ou que tenha sido objeto 
+de dispensa, emitidos por SPE, constituída sob a forma 
+de sociedade por ações, excetuadas as debêntures de 
+infraestrutura 
+Permitido 
+Até 25%* 
+ 
+ 
+4 
+Certificados de recebíveis de emissão de companhias 
+securitizadoras 
+Permitido 
+Obrigações de organizações financeiras internacionais 
+das quais o Estado brasileiro faça parte, admitidas à 
+negociação no Brasil 
+Permitido 
+Cotas de classe sênior de fundos de investimento em 
+direitos creditórios (FIDC) e cotas de fundos de 
+investimento em cotas de fundos de investimento em 
+direitos creditórios (FICFIDC), desde que, neste último 
+caso, o regulamento do FICFIDC vede o investimento em 
+cotas de classe subordinada 
+Permitido 
+Outros Ativos Financeiros de Renda Fixa, desde que com 
+cobertura integral de seguro de crédito, observada a 
+regulamentação específica do Conselho Nacional de 
+Seguros Privados e da Superintendência de Seguros 
+Privados 
+Permitido 
+O limite para investimento em ativos financeiros de Renda Fixa cuja oferta pública tenha sido 
+registrada na CVM, ou tenha sido objeto de dispensa, emitidos por SPE constituída sob a forma 
+de sociedade por ações, excetuadas as debêntures de infraestrutura, pode ser ampliado para 
+30% em se tratando de (i) cotas de fundos de investimento na forma prevista no art. 3º da Lei 
+nº 12.431, ou (ii) debêntures emitidas por SPE constituída sob a forma de sociedade por ações, 
+aberta ou fechada, ou (iii) de certificados de recebíveis imobiliários e/ou (iv) cotas seniores 
+de emissão de fundo de investimento em direitos creditórios padronizados ou não 
+padronizados, constituídos sob a forma de condomínio fechado, de emissão ou cessão por 
+concessionária, permissionária, autorizatária ou arrendatária, para captar recursos com vistas 
+a implementar projetos de investimento na área de infraestrutura, ficando, nessa situação, 
+vedada ao FUNDO a aquisição dos demais ativos financeiros que compõem o limite de 25%, 
+conforme disposto no quadro acima*. 
+VARIAÇÃO CAMBIAL, INCLUINDO INVESTIMENTO NO EXTERIOR 
+ATIVOS 
+Permitido 
+/ Vedado 
+% do PL 
+Mín 
+Máx. 
+Títulos da Dívida Pública Mobiliária Federal cuja 
+remuneração seja associada à variação da cotação de 
+moeda estrangeira 
+Permitido 
+0% 
+Até 20% 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento em cotas da classe Cambial (“Fundos 
+Investidos”) 
+Permitido 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento em cotas da classe Renda Fixa Dívida 
+Externa (“Fundos Investidos”) 
+Permitido 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento em cotas das classes Renda Fixa, Ações, 
+Multimercado e Cambiais, constituídos sob a forma de 
+condomínio aberto, que incluam em sua denominação o 
+sufixo “Investimento no Exterior”* (“Fundos Investidos”) 
+Permitido 
+Cotas de fundos de índice admitidos à negociação no 
+mercado secundário no Brasil, que invistam em ativos 
+financeiros que busquem refletir as variações de índices 
+Permitido 
+ 
+ 
+5 
+de referência em renda fixa ou renda variável no exterior 
+(“Fundos Investidos”) 
+Cotas de fundos de investimento e cotas de fundos de 
+investimento 
+em 
+cotas 
+da 
+classe 
+Multimercado, 
+constituídos sob a forma de condomínio aberto, cuja 
+política de investimento permita a compra de ativos ou 
+derivativos com risco cambial (“Fundos Investidos”) 
+Permitido 
+Certificados de Operações Estruturadas (COE) com Valor 
+Nominal Protegido referenciados em taxas de câmbio ou 
+variação cambial 
+Permitido 
+Brazilian Depositary Receipts (“BDR”) classificados como 
+nível I, II e III 
+Permitido 
+Dentro do limite 
+de 20%, até 
+15% 
+Cotas dos fundos de investimento, constituídos sob a 
+forma de condomínio aberto, que adotem o sufixo Ações 
+- BDR Nível I (“Fundos Investidos”) 
+Permitido 
+Títulos e valores mobiliários representativos de dívida 
+corporativa de empresas brasileiras de capital aberto, 
+emitidos e negociáveis no exterior 
+Permitido 
+Dentro do limite 
+de 20%, até 
+10% 
+No somatório dos seguintes títulos emitidos ou 
+incondicionalmente 
+garantidos 
+por 
+instituições 
+financeiras no exterior em moeda estrangeira e que 
+sejam considerados de baixo risco pelo Gestor (com 
+exceção dos títulos públicos federais emitidos no 
+exterior):  
+a) depósitos a prazo fixo por até seis meses, renováveis; 
+e 
+b) certificados de depósitos; e 
+c) títulos emitidos por governos centrais de jurisfições 
+estrangeiras 
+e 
+respectivos 
+bancos 
+centrais 
+com 
+classificação de risco de crédito igual ou superior a AA-, 
+ou equivalente. 
+Permitido 
+Dentro do limite 
+de 20%, até 5% 
+*Estes fundos podem ter em sua carteira outros Ativos Financeiros que não os aqui indicados, 
+observadas as regras para investimento no exterior a ele aplicáveis. 
+LIMITES POR EMISSOR (% do PL) 
+EMISSOR 
+Permitido / Vedado 
+Limite aplicável 
+União Federal 
+Permitido 
+Até 100% 
+Fundos de Investimento Especialmente Constituídos 
+Permitido 
+Até 100% 
+Fundos de investimento, fundos de investimento em 
+cotas e fundos de índice 
+Permitido 
+Até 49% 
+Instituição Financeira  
+Permitido 
+Até 25% 
+Companhia aberta 
+Permitido 
+Até 15% 
+SPE quando emissor de debênture de infraestrutura 
+Permitido 
+Até 15% 
+Organizações Financeiras Internacionais 
+Permitido 
+Até 10% 
+ 
+ 
+6 
+Companhia Securitizadora 
+Permitido 
+Até 10% 
+FIDC e FICFIDC 
+Permitido 
+Até 10% 
+FII e FICFII 
+Permitido 
+Até 10% 
+SPE 
+Permitido 
+Até 10% 
+Fundos de investimento em participações - FIP 
+Vedado 
+0% 
+Fundos de investimento classificados como “Ações – 
+Mercado Acesso” 
+Vedado 
+0% 
+Outros emissores que não os acima indicados 
+Permitido 
+Até 5% 
+Pessoa Física 
+Vedado 
+0% 
+O limite para companhia aberta não se aplica nas hipóteses em que o FUNDO e/ou os Fundos 
+Investidos busquem reproduzir índice de mercado do qual tais ações façam parte, podendo 
+alocar nas respectivas ações observada a proporção da sua participação no índice. 
+CRÉDITO PRIVADO  
+Permitido / Vedado 
+Limite aplicável 
+(% do PL) 
+Ativos de crédito privado e/ou títulos públicos que não da 
+União, considerando-se a consolidação dos investimentos 
+do FUNDO e dos Fundos Investidos 
+Permitido 
+Até 33% 
+O limite de crédito privado estabelecido neste quadro prevalece sobre os limites do quadro 
+Limites por Ativo com relação aos ativos de crédito privado quando os limites indicados no 
+referido quadro forem maiores do que o limite aqui previsto. 
+DERIVATIVOS  
+Permitido / Vedado 
+Limite aplicável 
+(% do PL) 
+Proteção da carteira (hedge) 
+Permitido 
+Até 100% 
+Assunção de risco 
+Permitido 
+Até 100% 
+Alavancagem 
+Vedado 
+0% 
+A atuação do FUNDO e dos Fundos Investidos em mercados derivativos deverá cumprir os 
+seguintes critérios: (i) deve ser observada a avaliação prévia dos riscos envolvidos; (ii) está 
+condicionada à existência de sistema de controles adequados às suas operações; (iii) não pode 
+gerar, a qualquer tempo, a possibilidade de perda superior ao valor do seu respectivo 
+patrimônio líquido; (iv) não pode gerar, a qualquer tempo, a possibilidade de que o Cotista 
+seja obrigado a aportar recursos adicionais para cobrir prejuízo do FUNDO; (v) não pode 
+realizar operações de venda de opção a descoberto; (vi) não pode ser realizada sem garantia 
+da contraparte central da operação; e (vii) deve ser observado o máximo de 15% como 
+margem requerida e o máximo de 5% para pagamento de prêmios de opções em relação ao 
+patrimônio líquido do FUNDO. 
+O FUNDO e os Fundos Investidos poderão assumir posições compradas e/ou vendidas nos 
+diversos mercados em que atuam utilizando instrumentos de derivativos. 
+ 
+DAS OPERAÇÕES COM O ADMINISTRADOR, GESTOR E LIGADAS PELO FUNDO E/OU PELOS FUNDOS 
+INVESTIDOS 
+ 
+ 
+ 
+7 
+OPERAÇÕES COM O ADMINISTRADOR, GESTOR E LIGADAS  
+Permitido / 
+Vedado 
+Limite 
+aplicável 
+(% do PL) 
+Títulos ou valores mobiliários de emissão do ADMINISTRADOR, do 
+GESTOR ou de empresas a eles ligadas, considerando-se a 
+consolidação dos investimentos do FUNDO e dos Fundos Investidos, 
+sendo vedada a aquisição de ações do ADMINISTRADOR, exceto nas 
+hipóteses em que o FUNDO e/ou os Fundos Investidos busquem 
+reproduzir índice de mercado do qual estas ações façam parte, 
+exclusivamente na proporção desta participação 
+Vedado 
+0% 
+Cotas 
+de 
+fundos 
+de 
+investimento 
+administrados 
+pelo 
+ADMINISTRADOR, GESTOR ou empresas a eles ligadas 
+Permitido 
+Até 100% 
+Operações tendo como contraparte o ADMINISTRADOR, o GESTOR e 
+empresas a eles ligadas, bem como fundos de investimento, clubes 
+de investimento e/ou carteiras administradas pelo ADMINISTRADOR, 
+pelo GESTOR ou por empresas a eles ligadas 
+Vedado 
+0% 
+Excetuam-se da vedação mencionada acima, as operações compromissadas de um dia, 
+observados os limites por ativo e por emissor indicados na tabela acima. 
+ 
+ 
+3.3. Os limites indicados nos quadros acima serão considerados em conjunto e cumulativamente. 
+3.3.1. Na parcela alocada em fundos de investimento, o FUNDO aplicará seus recursos exclusivamente em cotas 
+de fundos de investimento administrados pelo ADMINISTADOR, GESTOR ou empresas a eles ligadas. 
+3.4. Observado o disposto nos quadros acima, cada Fundo Investido observará os limites por emissor e por 
+modalidade de ativo previstos na regulamentação aplicável. 
+3.5. Os limites previstos acima não se aplicam aos Fundos Investidos que sejam considerados ativos finais nos 
+termos da regulamentação vigente. 
+3.5.1. Considera-se “Ativos Finais” para fins deste Regulamento os Fundos Investidos, com exceção dos Fundos 
+de Investimento Especialmente Constituído e Fundos de Investimento em Cotas de Fundos de Investimento 
+Especialmente Constituído. 
+3.6. O ADMINISTRADOR e o GESTOR do FUNDO não serão obrigados a consolidar as aplicações em cotas de 
+fundos de índice negociados em mercados organizados e em cotas de Fundos Investidos cujas carteiras sejam 
+geridas por terceiros não ligados ao ADMINISTRADOR ou ao GESTOR do FUNDO. 
+3.7. O FUNDO e os Fundos Investidos poderão emprestar e tomar ativos financeiros em empréstimo, conforme 
+legislação em vigor, desde que tais operações de empréstimo sejam cursadas exclusivamente através de serviço 
+autorizado pelo Banco Central do Brasil ("BACEN") ou pela CVM. 
+3.8. O FUNDO e os Fundos Investidos não poderão utilizar seus ativos financeiros para a prestação de garantias 
+de operações próprias. 
+3.9. Ficam vedadas as aplicações pelo FUNDO em cotas de fundos de investimento que invistam diretamente no 
+FUNDO. 
+3.10. Ficam, ainda, vedadas as aplicações pelo FUNDO e pelos Fundos Investidos em: (i) cotas de fundos de 
+investimento cujas carteiras sejam administradas por pessoas físicas;  (ii) ativos de coobrigação ou de qualquer 
+forma garantidos por pessoa física, exceto se considerados de baixo risco de crédito; (iii) cotas de fundos de 
+investimentos que não possuam procedimentos de avaliação e de mensuração de risco da carteira de 
+investimentos; e (iv) ações de companhia aberta admitidas à negociação em mercado de balcão organizado 
+ 
+ 
+8 
+credenciado pela CVM que não pertençam a índice de mercado de balcão organizado, ou que não tenham 
+pertencido ao mesmo índice no mês anterior, bem como os respectivos bônus de subscrição, recibos de subscrição, 
+certificados de depósitos de ações ou quaisquer títulos ou valores mobiliários conversíveis em ações ou cujo 
+exercício dê direito ao recebimento ou aquisição de ações. 
+3.11. O ADMINISTRADOR, o GESTOR e qualquer empresa pertencente ao mesmo conglomerado financeiro, bem 
+como diretores, gerentes e funcionários dessas empresas poderão ter posições em, subscrever ou operar com 
+ativos financeiros que integrem ou venham a integrar a CARTEIRA do FUNDO e/ou a carteira dos Fundos 
+Investidos. 
+3.12. O FUNDO e/ou os Fundos Investidos poderão realizar suas operações por meio de instituições autorizadas 
+a operar no mercado de títulos e/ou valores mobiliários, ligadas ou não ao ADMINISTRADOR, ao GESTOR e às 
+empresas a eles ligadas, podendo, inclusive, direta ou indiretamente, adquirir ativos financeiros que sejam objeto 
+de oferta pública ou privada, que sejam coordenadas, lideradas, ou das quais participem as referidas instituições. 
+ 
+CLÁUSULA QUARTA – DOS RISCOS  
+4.1. O FUNDO e seus Cotistas estão sujeitos, principalmente, aos seguintes riscos: 
+Risco de Mercado: Os valores dos ativos financeiros e derivativos integrantes da CARTEIRA do FUNDO e/ou dos 
+Fundos Investidos são suscetíveis às oscilações decorrentes das flutuações de preços e cotações de mercado, 
+bem como das taxas de juros e dos resultados de seus emissores. Nos casos em que houver queda do valor destes 
+ativos, o patrimônio líquido do FUNDO poderá ser afetado negativamente.  
+Risco de Liquidez: Caracteriza-se pela possibilidade de redução ou mesmo inexistência de demanda pelos ativos 
+financeiros integrantes da CARTEIRA do FUNDO e/ou dos Fundos Investidos, nos respectivos mercados em que 
+são negociados. Em virtude de tais riscos, o GESTOR do FUNDO poderá encontrar dificuldades para liquidar 
+posições ou negociar tais ativos financeiros no tempo e pelo preço desejados, podendo, inclusive, ser obrigado a 
+aceitar descontos nos preços de forma a viabilizar a negociação ou a efetuar resgates de cotas fora dos prazos 
+estabelecidos no Regulamento do FUNDO. 
+Risco de Concentração: A concentração dos investimentos realizados pelo FUNDO e/ou pelos Fundos Investidos 
+em determinado(s) emissor(es) pode aumentar a exposição da CARTEIRA do FUNDO aos riscos mencionados em 
+seu Regulamento, ocasionando volatilidade no valor de suas cotas. 
+Risco de Perdas Patrimoniais: Este FUNDO e/ou os Fundos Investidos utilizam estratégias, inclusive com 
+derivativos, que podem resultar em significativas perdas patrimoniais para seus cotistas. 
+Risco de Mercado Externo: O FUNDO e/ou os Fundos Investidos poderão manter em sua CARTEIRA ativos 
+financeiros negociados no exterior e, consequentemente, sua performance pode ser afetada por requisitos legais 
+ou regulatórios, por exigências tributárias relativas a todos os países nos quais ele invista ou, ainda, pela variação 
+do Real em relação a outras moedas. Os investimentos do FUNDO e/ou dos Fundos Investidos estarão expostos 
+a alterações nas condições política, econômica ou social nos países onde investe, o que pode afetar negativamente 
+o valor de seus ativos financeiros. Podem ocorrer atrasos na transferência de juros, dividendos, ganhos de capital 
+ou principal, entre países onde o FUNDO e/ou os Fundos Investidos invistam e o Brasil, o que pode interferir na 
+liquidez e no desempenho do FUNDO. As operações do FUNDO e/ou dos Fundos Investidos poderão ser 
+executadas em bolsas de valores, de mercadoria e futuros ou registradas em sistema de registro, de custódia ou 
+de liquidação financeira de diferentes países que podem estar sujeitos a distintos níveis de regulamentação e 
+supervisionados por autoridades locais reconhecidas, entretanto não existem garantias acerca da integridade das 
+transações e nem, tampouco, sobre a igualdade de condições de acesso aos mercados locais. 
+Risco Decorrente da Precificação dos Ativos Financeiros: A precificação dos ativos financeiros integrantes 
+da CARTEIRA do FUNDO e/ou dos Fundos Investidos é realizada de acordo com os critérios e procedimentos 
+estabelecidos na regulamentação em vigor. Referidos critérios, tais como os de marcação a mercado, poderão 
+ocasionar variações nos valores dos ativos financeiros integrantes da CARTEIRA do FUNDO e/ou dos Fundos 
+Investidos, resultando em aumento ou redução no valor das cotas do FUNDO. 
+ 
+ 
+ 
+9 
+Risco de Crédito: Consiste no risco de os emissores dos ativos financeiros e/ou das contrapartes das transações 
+do FUNDO e/ou dos Fundos Investidos não cumprirem suas obrigações de pagamento (principal e juros) e/ou de 
+liquidação das operações contratadas. Ocorrendo tais hipóteses, o patrimônio líquido do FUNDO poderá ser 
+afetado negativamente. 
+Risco Cambial: O cenário político e as condições socioeconômicas nacionais e internacionais podem afetar o 
+mercado financeiro resultando em alterações significativas nas taxas de juros e câmbio, nos preços dos papéis e 
+nos ativos financeiros em geral. Tais variações podem afetar negativamente o desempenho do FUNDO e/ou dos 
+Fundos Investidos. 
+Risco de Concentração em Créditos Privados: Em decorrência do FUNDO poder realizar aplicações, 
+diretamente ou por meio dos Fundos Investidos, em ativos financeiros ou modalidades operacionais de 
+responsabilidade de pessoas físicas ou jurídicas de direito privado e/ou títulos públicos que não da União, 
+observado o limite máximo previsto em sua política de investimento, o FUNDO está sujeito a risco de perda 
+substancial de seu patrimônio líquido em caso de eventos que acarretem o não pagamento dos ativos financeiros 
+integrantes da carteira do FUNDO e/ou dos Fundos Investidos, inclusive por força de intervenção, liquidação, 
+regime de administração temporária, falência, recuperação judicial ou extrajudicial dos emissores responsáveis 
+pelos ativos financeiros do FUNDO e/ou dos Fundos Investidos.  
+Risco Regulatório: As eventuais alterações e/ou interpretações das normas ou leis aplicáveis ao FUNDO, e/ou 
+aos Fundos Investidos e/ou aos Cotistas, tanto pela CVM quanto por reguladores específicos a cada segmento de 
+investidores (Previc, Susep, Ministério da Seguridade Social, dentre outros), incluindo, mas não se limitando, 
+àquelas referentes a tributos e às regras e condições de investimento, podem causar um efeito adverso relevante 
+ao FUNDO e/ou aos Fundos Investidos, como, por exemplo, eventual impacto no preço dos ativos financeiros e/ou 
+na performance das posições financeiras adquiridas pelo FUNDO, bem como a necessidade do FUNDO se desfazer 
+de ativos que de outra forma permaneceriam em sua Carteira. 
+4.2. Por motivos alheios ao ADMINISTRADOR ou ao GESTOR, tais como moratória, inadimplência de pagamentos, 
+fechamento parcial ou total dos mercados, inexistência de liquidez nos mercados em que os ativos financeiros do 
+FUNDO são negociados, alteração da política monetária, mudança nas regras ou características aplicáveis aos 
+ativos financeiros integrantes da Carteira ou mesmo resgates excessivos no FUNDO, poderá ocorrer redução no 
+valor das cotas ou mesmo perda do capital investido pelos Cotistas. 
+4.3. O ADMINISTRADOR e o GESTOR não poderão, em hipótese alguma, ser responsabilizados por qualquer 
+resultado negativo na rentabilidade do FUNDO e dos Fundos Investidos, depreciação dos ativos financeiros da 
+Carteira do FUNDO e/ou dos Fundos Investidos, descumprimento dos limites legais estabelecidos nos 
+regulamentos dos Fundos Investidos (exceto no caso de Fundos Investidos administrados e geridos pelo 
+ADMINISTRADOR e pelo GESTOR, respectivamente), por eventuais prejuízos em caso de liquidação do FUNDO 
+e/ou dos Fundos Investidos ou resgate de cotas com valor reduzido, sendo o ADMINISTRADOR e o GESTOR 
+responsáveis tão somente por perdas ou prejuízos resultantes de comprovado erro ou má-fé de sua parte, 
+respectivamente. 
+4.4. As aplicações realizadas no FUNDO e nos Fundos Investidos não contam com a garantia do ADMINISTRADOR, 
+do GESTOR, de qualquer empresa pertencente ao seu conglomerado financeiro, de qualquer mecanismo de seguro 
+ou do Fundo Garantidor de Créditos - FGC. 
+ 
+CLÁUSULA QUINTA – DA ADMINISTRAÇÃO E DOS PRESTADORES DE SERVIÇOS 
+5.1. O FUNDO é administrado pela SANTANDER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS 
+S.A., com sede na Rua João Brícola, 24 – 16º e 17º andares – Centro Histórico, São Paulo/SP, inscrita no CNPJ 
+sob nº 03.502.968/0001-04 e credenciada na CVM para a administração de carteiras conforme Ato Declaratório 
+CVM nº 20006, de 28/07/2022 (“ADMINISTRADOR”).  
+5.2. O FUNDO é gerido pela SANTANDER BRASIL GESTÃO DE RECURSOS LTDA., com sede na Av. Presidente 
+Juscelino Kubitschek, 2041 e 2235, Bloco A, 18° andar, São Paulo/SP, inscrita no CNPJ sob nº 10.231.177/0001-
+52 e credenciada na CVM para a administração de carteiras conforme Ato Declaratório CVM nº 10.161, de 
+11/12/2008 (“GESTOR”). 
+ 
+ 
+10 
+ 
+5.3. Os serviços de custódia, tesouraria, controladoria e processamento dos Ativos Financeiros integrantes da 
+Carteira do FUNDO serão realizados pela SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TÍTULOS E 
+VALORES MOBILIÁRIOS S.A., com sede na Rua Amador Bueno, 474, 1ºandar, Bloco D, Santo Amaro, São 
+Paulo/SP, inscrita no CNPJ nº 62.318.407/0001-19, e credenciado na CVM para exercer a custódia de valores 
+mobiliários conforme Ato Declaratório CVM nº 12.676, de 07/11/2012 (“CUSTODIANTE”). 
+5.4. As informações sobre os prestadores de serviços de distribuição das cotas do FUNDO e de controladoria e 
+processamento do passivo do FUNDO (escrituração de cotas) ficarão disponíveis para consulta, no site da CVM.  
+5.5. O ADMINISTRADOR poderá contratar terceiros, em nome do FUNDO, para prestação de demais serviços, tais 
+como consultoria e classificação de risco. 
+ 
+CLÁUSULA SEXTA – DA REMUNERAÇÃO E DEMAIS ENCARGOS 
+6.1. Não será devida pelo FUNDO taxa de administração. 
+6.1.1. O FUNDO não poderá aplicar seus recursos em fundos de investimento que cobrem taxa de administração, 
+de performance, ingresso e saída. 
+6.2. A taxa máxima de custódia paga pelo FUNDO ao CUSTODIANTE será de 0,015% ao ano sobre o patrimônio 
+líquido do FUNDO. 
+6.3. Não haverá cobrança de taxa de performance no FUNDO. 
+6.4. Não será cobrada dos Cotistas taxa de ingresso e de saída quando da realização de aplicação e resgate no 
+FUNDO, respectivamente. 
+6.5. 
+Além das Taxas de Administração e da Taxa de Performance, se houver, constituirão encargos que poderão 
+ser debitados diretamente do FUNDO as seguintes despesas: 
+(i) taxas, impostos ou contribuições federais, estaduais, municipais ou autárquicas, que recaiam ou venham a 
+recair sobre os bens, direitos e obrigações do FUNDO;  
+ 
+(ii) despesas com o registro de documentos em cartório, impressão, expedição e publicação de relatórios e 
+informações periódicas previstas na regulamentação em vigor;  
+ 
+(iii) despesas com correspondência de interesse do FUNDO, inclusive comunicações aos Cotistas;  
+ 
+(iv) honorários e despesas do auditor independente; 
+ 
+(v) emolumentos e comissões pagas por operações do FUNDO;  
+ 
+(vi) honorários de advogado, custas e despesas processuais correlatas, incorridas em razão de defesa dos 
+interesses do FUNDO, em juízo ou fora dele, inclusive o valor da condenação imputada ao FUNDO, se for o caso;  
+ 
+(vii) parcela de prejuízos não coberta por apólices de seguro e não decorrente diretamente de culpa ou dolo dos 
+prestadores dos serviços de administração no exercício de suas respectivas funções;  
+ 
+(viii) despesas relacionadas, direta ou indiretamente, ao exercício de direito de voto decorrente de Ativos 
+Financeiros do FUNDO;  
+ 
+(ix) despesas com liquidação, registro e custódia de operações com títulos e valores mobiliários, Ativos Financeiros 
+e modalidades operacionais;  
+ 
+ 
+ 
+11 
+(x) despesas com fechamento de câmbio, vinculadas às suas operações ou com certificados ou recibos de depósito 
+de valores mobiliários; e 
+ 
+(xi) os montantes devidos a fundos investidores na hipótese de acordo de remuneração com base na taxa de 
+administração e/ou performance, observado o disposto na regulamentação vigente.  
+ 
+6.6. Quaisquer despesas não previstas como encargos do FUNDO correm por conta do ADMINISTRADOR, devendo 
+ser por ele incorridas, inclusive as despesas relacionadas à constituição de conselhos consultivos por iniciativa do 
+ADMINISTRADOR ou do GESTOR, se o caso, podendo os membros indicados ser remunerados com parcela da 
+Taxa de Administração.  
+ 
+CLÁUSULA SÉTIMA – DAS COTAS: DISTRIBUIÇÃO, EMISSÃO, NEGOCIAÇÃO E RESGATE  
+7.1. As cotas do FUNDO correspondem a frações ideais do seu patrimônio e são nominativas e escriturais, 
+correspondendo ainda na forma da lei, aos ativos garantidores das provisões, reservas e fundos do respectivo 
+plano, devendo estar, permanentemente, vinculadas ao órgão executivo do Sistema Nacional de Seguros Privados, 
+não podendo ser gravadas sob qualquer forma ou oferecidas como garantia para quaisquer outros fins. 
+7.1.1. As cotas do FUNDO terão seu valor calculado a cada dia útil, com base em avaliação patrimonial que 
+considere os critérios de avaliação previstos na regulamentação em vigor. 
+7.2. As cotas do FUNDO não poderão ser objeto de cessão ou transferência, salvo por decisão judicial ou arbitral, 
+operações de cessão fiduciária, execução de garantia, sucessão universal, dissolução de sociedade conjugal ou 
+união estável por via judicial ou escritura pública que disponha sobre a partilha de bens ou transferência de 
+administração ou portabilidade de planos de previdência, devendo ser observado, ainda, o disposto neste 
+Regulamento, bem como as regras de tributação aplicáveis.  
+7.3. Para os efeitos deste Regulamento, o valor da cota do dia é o do fechamento, (“Cota de Fechamento”), 
+resultante da divisão do valor do patrimônio líquido pelo número de cotas do FUNDO, apurados, ambos, no 
+encerramento do dia, assim entendido, o horário de fechamento dos mercados em que o FUNDO atue. 
+7.4. O ADMINISTRADOR poderá recusar proposta de investimento inicial feita por qualquer investidor, em função 
+das disposições trazidas pela legislação relativa à política de prevenção e combate à lavagem de dinheiro ou do 
+não enquadramento do investidor no segmento de clientes ao qual o FUNDO se destina. 
+7.5. A qualidade dos Cotistas caracteriza-se pela inscrição do nome do titular no registro de Cotistas do FUNDO. 
+7.5.1. Caso os Cotistas mantenham conta corrente junto ao BANCO SANTANDER (BRASIL) S.A., o registro dos 
+Cotistas no FUNDO terá os mesmos dados cadastrais do titular da referida conta corrente e, na hipótese de conta 
+corrente conjunta, o registro dos Cotistas no FUNDO será feito em nome do primeiro titular da conta corrente 
+conjunta. 
+7.6. A adesão dos Cotistas aos termos deste Regulamento dar-se-á pela assinatura do Termo de Adesão e Ciência 
+de Risco ou mediante manifestação de aceite por meio eletrônico, através do qual atestam que (i) conhecem, 
+entendem e aceitam os riscos descritos neste Regulamento, aos quais os investimentos do FUNDO estão expostos 
+em razão dos mercados de sua atuação, bem como que (ii) tiveram acesso aos seguintes documentos atualizados: 
+(a) Regulamento; e (b) Formulário. 
+7.6.1. Caso os Cotistas efetuem um resgate total do FUNDO e voltem a investir no FUNDO em intervalo de tempo 
+durante o qual não ocorra alteração deste Regulamento, é dispensada a formalização de novo Termo de Adesão 
+e Ciência de Risco pelos Cotistas, sendo considerado válido o termo anteriormente formalizado pelos Cotistas em 
+seu último ingresso no FUNDO.  
+ 
+ 
+ 
+12 
+7.7. A aplicação e o resgate de cotas do FUNDO podem ser efetuados em ordem de pagamento, débito e crédito 
+em conta corrente ou por meio de sistemas de transferência eletrônica de recursos autorizados pelo Banco Central 
+do Brasil (“BACEN”).  
+7.7.1. Quando os Cotistas forem titulares de conta na B3 S.A. – BRASIL, BOLSA, BALCÃO (“B3”), a aplicação e o 
+resgate no FUNDO poderão ser realizados mediante ordem de crédito ou débito via B3, desde que com prévia 
+concordância do ADMINISTRADOR. 
+7.7.2. A integralização e o resgate das cotas do FUNDO poderão ser realizados em moeda corrente nacional ou 
+em ativos financeiros, a critério do ADMINISTRADOR e do GESTOR e observado o disposto no item 7.9 abaixo. 
+7.8. O ADMINISTRADOR poderá suspender, a qualquer momento, novas aplicações no FUNDO, aplicando-se tal 
+suspensão tanto aos novos investidores como aos Cotistas atuais do FUNDO. 
+7.8.1. A suspensão do recebimento de novas aplicações em um dia não impede a reabertura posterior do FUNDO 
+para aplicações. 
+7.9. A integralização e o resgate de cotas poderão ser efetuados diretamente com ativos financeiros, mediante 
+aprovação do GESTOR e desde que sejam observadas as seguintes condições:  
+(a) 
+na integralização de cotas, os ativos financeiros a serem utilizados devem: (i) estar livres de qualquer ônus 
+e/ou gravame, podendo ser livremente negociados; (ii) ter como titular e/ou comitente o próprio cotista; (iii) 
+atender aos valores mínimos para aplicação, se houver, estabelecidos no Formulário; (iv) estar devidamente 
+custodiados e registrados em sistema de registro e liquidação financeira de ativos financeiros autorizados pelo 
+BACEN ou em instituições autorizadas à prestação de serviços de custódia pela CVM; e (v) estar de acordo com o 
+Objetivo e a Política de Investimento do FUNDO, especificamente em relação aos limites de concentração por 
+emissor e por modalidade de ativo financeiro.  
+(b) 
+no resgate de cotas, os ativos financeiros a serem utilizados para pagamento aos Cotistas, devem: (i) 
+estar livres de qualquer ônus e/ou gravame, podendo ser livremente negociados; (ii) ter como titular e/ou 
+comitente o próprio FUNDO; (iii) atender aos valores mínimos para resgate, se houver, estabelecidos no 
+Formulário; e (iv) estar devidamente custodiados e registrados em sistema de registro e liquidação financeira de 
+ativos autorizados pelo BACEN ou em instituições autorizadas à prestação de serviços de custódia pela CVM. 
+ 
+7.9.1. Na emissão, na integralização de cotas e  no pagamento de resgates será utilizado o valor dos ativos 
+financeiros precificados na Carteira do FUNDO segundo as regras e procedimentos estabelecidos no Manual de 
+Marcação a Mercado adotado para o FUNDO.  
+7.9.2. Na integralização e no resgate de cotas com ativos financeiros deverão ser observadas as correspondentes 
+obrigações fiscais relacionadas a tais eventos, estando, ADMINISTRADOR e os Cotistas, cientes, cada qual, de 
+suas respectivas responsabilidades. 
+7.10. Na emissão e no resgate de cotas do FUNDO deverá ser observado o disposto no quadro abaixo: 
+ 
+ 
+Aplicação 
+Disponibilidade dos 
+Recursos 
+Cota de conversão 
+D+0 
+No dia da solicitação 
+D+1 
+No 1º dia útil seguinte ao 
+da solicitação  
+ 
+Cota de Conversão 
+Pagamento / Crédito 
+em Conta 
+ 
+ 
+13 
+Resgate 
+D+1 
+No 1º dia útil seguinte 
+ao da solicitação 
+D+3 
+No 2º dia útil seguinte ao 
+da conversão de cotas  
+ 
+7.11. Para fins de emissão de cotas na aplicação e/ou apuração do valor da cota para efeito do pagamento do 
+resgate nos termos do disposto no quadro acima, a solicitação de aplicação e/ou o pedido de resgate deverão ser 
+efetuados pelo Cotista dentro do horário estabelecido pelo ADMINISTRADOR, conforme consta do Formulário, sob 
+pena de serem considerados como efetuados na próxima data disponível para solicitação de aplicação e/ou 
+resgate. 
+7.12. Não há prazo de carência para resgate de cotas do FUNDO, podendo as cotas do FUNDO ser resgatadas 
+com rendimento a qualquer momento. 
+7.13. O FUNDO estará fechado para fins de solicitação de aplicação e resgate, conversão de cotas e pagamento 
+de resgates no sábado, no domingo, nos feriados nacionais e quando não houver expediente bancário. Excluídas 
+as condições previamente elencadas, o FUNDO terá funcionamento normal nos dias de feriado municipal e 
+estadual na praça em que o Administrador estiver sediado. 
+7.13.1 O FUNDO poderá, de acordo com o funcionamento de entidades administradoras de mercado organizado, 
+adotar condições diferenciadas para solicitação de aplicação e resgate, conversão de cotas e pagamento de 
+resgates, devendo o Administrador disponibilizar previamente as condições a serem aplicáveis no site do 
+distribuidor e/ou do Gestor do FUNDO. 
+ 
+CLÁUSULA OITAVA – DA DISTRIBUIÇÃO DE RESULTADOS 
+8.1. Os resultados oriundos dos Ativos Financeiros integrantes da Carteira do FUNDO serão incorporados ao seu 
+patrimônio. 
+ 
+CLÁUSULA NONA– DO EXERCÍCIO SOCIAL 
+9.1. O exercício social do FUNDO terá início em 1º de setembro de cada ano e término no último dia do mês de 
+agosto do ano subsequente. 
+ 
+CLÁUSULA DÉCIMA – DAS DISPOSIÇÕES GERAIS 
+10.1. As informações gerais a respeito da assembleia geral de Cotistas constam neste Regulamento  e na legislação 
+em vigor, sendo que as suas deliberações poderão ser tomadas mediante processo escrito de consulta formal pelo 
+ADMINISTRADOR, por meio físico ou eletrônico, sem a necessidade de uma reunião. Da consulta formal deverão 
+constar todas as informações necessárias para o exercício de voto dos Cotistas, no prazo máximo de 30 dias 
+corridos a contar da data da emissão da consulta.  
+10.1.1. A assembleia geral de Cotistas realizada mediante consulta formal poderá ser instalada com qualquer 
+número de Cotistas, de modo que as deliberações serão tomadas por maioria de votos enviados ao 
+ADMINISTRADOR, cabendo a cada cota 1 voto. 
+10.2. As informações ou documentos relacionados ao FUNDO serão comunicados, enviados, divulgados e/ou 
+disponibilizados pelo ADMINISTRADOR aos Cotistas, ou por eles acessados, por meio físico ou por meio de canais 
+eletrônicos, inclusive pela rede mundial de computadores. 
+10.2.1. O ADMINISTRADOR deverá prestar aos Cotistas, mantenedores do plano, todas as informações 
+necessárias ao pleno e perfeito atendimento às disposições constantes do artigo 61 da Circular Susep nº 563 ou 
+do artigo 63 da Circular Susep n° 564, conforme o caso. 
+ 
+ 
+14 
+ 
+10.2.2. O ADMINISTRADOR deverá divulgar diariamente a Taxa de Administração, o valor do patrimônio líquido, 
+o valor da cota e das rentabilidades acumuladas no mês e no ano civil a que se referirem. 
+10.3. 
+Admite-se, nas hipóteses em que este Regulamento exija a “ciência”, “atesto”, “manifestação de voto” ou 
+“concordância” dos Cotistas, que estes se deem por meio eletrônico. 
+10.4. O atendimento aos Cotistas para receber e encaminhar questões relacionadas ao Fundo será realizado por 
+meio da Central de Atendimento do Santander, pelos seguintes meios: 
+Capitais e Regiões Metropolitanas: 4004-3535 
+Demais localidades: 0800-702-3535 
+Serviço de Apoio ao Consumidor – SAC: 0800-762-7777 
+Ouvidoria: 0800-726-0322 
+10.4. Os valores mínimos e máximos de investimento inicial, movimentação e manutenção encontram-se indicados 
+no Formulário.  
+10.5. Para transmissão de ordens de aplicação e de resgate de cotas do FUNDO, os Cotistas utilizarão os meios 
+disponibilizados pelo ADMINISTRADOR para tal finalidade.  
+10.6. O ADMINISTRADOR poderá gravar toda e qualquer ligação telefônica mantida entre o ADMINISTRADOR e 
+os Cotistas, bem como, utilizar referidas gravações para efeito de prova das ordens transmitidas e das demais 
+informações nelas contidas. 
+10.7. Fica eleito o foro da Comarca da Capital do Estado de São Paulo, com a exclusão de qualquer outro, por 
+mais privilegiado que seja, para dirimir quaisquer dúvidas ou controvérsias advindas deste Regulamento. 
+ 
+São Paulo, 08 de dezembro de 2023. 
+SANTANDER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. 
+Administrador 
+ 
+ 
+ 

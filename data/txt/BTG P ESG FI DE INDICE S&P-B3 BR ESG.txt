@@ -1,0 +1,2174 @@
+ 
+ 
+SP - 28559511v5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_____________________________________________________________ 
+ 
+REGULAMENTO DO BTG PACTUAL ESG FUNDO DE ÍNDICE S&P/B3 BRAZIL 
+ESG 
+_____________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rio de Janeiro, 28 de agosto de 2020 
+ 
+ 
+SP - 28559511v5 
+ 
+ÍNDICE 
+ 
+CAPÍTULO I - DAS DEFINIÇÕES.................................................................................3
+CAPÍTULO II - FORMA DE CONSTITUIÇÃO E PRAZO DE DURAÇÃO 
+.......................... 11 
+CAPÍTULO III - PÚBLICO ALVO................................................................................ 11 
+CAPÍTULO IV - OBJETIVO DO FUNDO ...................................................................... 11 
+CAPÍTULO V - O ÍN
+DICE S&P/B3 BRAZIL ESG ......................................................... 12 
+CAPÍTULO VI - POLÍTICA DE IN
+VESTIMENTO DO FUNDO 
+........................................ 15 
+CAPÍTULO VII - ADMINISTRAÇÃO DO FUNDO 
+......................................................... 16 
+CAPÍTULO VIII - GESTÃO DO FUNDO....................................................................... 19 
+CAPÍTULO IX - PATRIMÔNIO DO FUNDO 
+................................................................. 20 
+CAPÍTULO X - COTAS 
+............................................................................................... 20 
+CAPÍTULO XI - ASSEMBLEIA GERAL DE COTISTAS .................................................. 22
+CAPÍTULO XII - DIVULGAÇÃO DE INFORMAÇÕES.................................................... 27
+CAPÍTULO XIII - DEMON
+STRAÇÕES CONTÁBEIS E RELATÓRIOS DE AUDITORIA 
+.... 28 
+CAPÍTULO XIV - EN
+CARGOS DO FUNDO................................................................... 28 
+CAPÍTULO XV – TRIBUTAÇÃO 
+.................................................................................. 29 
+CAPÍTULO XVI - DISPOSIÇÕES GERAIS 
+................................................................... 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SP - 28559511v5 
+ 
+CAPÍTULO I - DAS DEFINIÇÕES 
+ 
+1.1. 
+Para fins do disposto neste Regulamento, os termos e expressões iniciados em 
+letra maiúscula neste Regulamento, no singular ou no plural, terão os significados a 
+eles atribuídos abaixo. Além disso, (i) quando exigido pelo contexto, as definições 
+contidas neste item 1.1 aplicar-se-ão tanto ao singular quanto ao plural e o masculino 
+incluirá o feminino e vice versa; (ii) referências a qualquer documento ou outros 
+instrumentos incluem todas as suas alterações, substituições, consolidações e 
+respectivas complementações, salvo se expressamente disposto em contrário; (iii) 
+referências a disposições legais serão interpretadas como referências a tais disposições 
+conforme alteradas, estendidas, consolidadas ou reformuladas; (iv) salvo se de outra 
+forma expressamente estabelecido neste Regulamento, referências a itens aplicam-se 
+a itens deste Regulamento; (v) todas as referências a quaisquer partes incluem seus 
+sucessores, representantes e cessionários autorizados; e (vi) salvo disposição em 
+contrário, todos os prazos previstos neste Regulamento serão contados na forma 
+prevista no artigo 224 da Lei nº 13.105, de 16 de março de 2015, conforme alterada 
+(Código de Processo Civil), isto é, excluindo-se o dia do começo e incluindo-se o dia do 
+vencimento. 
+ 
+Administrador 
+Significa o BTG Pactual Serviços Financeiros S.A. 
+DTVM, instituição financeira com sede na cidade e 
+estado do Rio de Janeiro, localizada à Praia de 
+Botafogo, n.º 501, 5º andar (parte), Torre 
+Corcovado, Botafogo, CEP 22250-040, Brasil, e 
+inscrita no CNPJ sob o nº 59.281.253/0001-23, 
+devidamente autorizado pela CVM a prestar os 
+serviços de administração de carteira pelo Ato 
+Declaratório CVM nº 8.695, de 20 de março de 
+2006.  
+Administrador do Índice
+Significa a S&P Dow Jones Índices LLC, líder global 
+de 
+criação 
+e 
+divulgação 
+de
+índices 
+para 
+investimentos e 
+ para os mercados 
+financeiro 
+e 
+de 
+capitais, 
+na 
+qualidade 
+de 
+administrador do Índice S&P/B3 Brazil ESG. 
+Afiliada 
+Significa qualquer pessoa, física ou jurídica, ou 
+entidade que, a qualquer tempo, direta ou 
+indiretamente, controle, seja controlada ou esteja 
+sob controle comum de outra pessoa ou entidade.
+Agente Autorizado 
+Significa o BTG Pactual CTVM S.A., instituição 
+financeira com sede na cidade e estado de São 
+Paulo, na Av. Brigadeiro Faria Lima, 3.477, 14º 
+andar (Parte), Itaim Bibi, CEP 04538-133, Brasil, e 
+inscrita no CNPJ sob o nº 43.815.158/0001-22, ou 
+qualquer Corretora que venha a celebrar Contrato 
+de Agente Autorizado. 
+Arquivo de Composição 
+da Cesta
+Significa o arquivo determinando a identificação e o 
+respectivo número 
+de 
+Valores 
+Mobiliários 
+e 
+ 
+ 
+SP - 28559511v5 
+Investimentos Permitidos que compõem a Cesta, 
+divulgado diariamente, em cada dia útil, na página 
+do Fundo na rede mundial de computadores antes 
+da abertura do pregão da B3. 
+Assembleia Geral 
+Significa a assembleia geral de Cotistas do Fundo.  
+B3 
+Significa a B3 S.A. – Brasil, Bolsa, Balcão. 
+Banco BTG Pactual 
+Significa o Banco BTG Pactual S.A., instituição 
+financeira, com sede na Cidade e Estado do Rio de 
+Janeiro, localizada à Praia de Botafogo, n. º 501, 5º 
+andar (parte), Torre Corcovado, Botafogo, CEP 
+22250-040, Brasil, e inscrita no CNPJ sob o nº 
+30.306.294/0001-45, devidamente credenciado na 
+CVM como custodiante, de acordo com o Ato 
+Declaratório número 7.204, de 25 de abril de 2003. 
+Carteira 
+Significa a totalidade dos ativos que integram a 
+carteira do Fundo. 
+CCI  
+Significa a Câmara de Comércio Internacional. 
+Cesta 
+Significa a composição de ativos conforme as regras 
+previstas neste Regulamento a ser entregue por 
+Cotistas ou pelo Fundo. A Cesta será composta de 
+Valores Mobiliários, Investimentos Permitidos e 
+Valores 
+em 
+Dinheiro, 
+conforme 
+o caso. 
+A 
+composição da Cesta, seja para fins de uma Ordem 
+de Integralização ou de uma Ordem de Resgate, 
+obedecerá às seguintes regras: (i) terá, no mínimo, 
+95% (noventa e cinco por cento) do seu valor 
+representado por Valores Mobiliários; e (ii) poderá 
+ter, no máximo, 5% (cinco por cento) do seu valor 
+representado por Investimentos Permitidos e/ou 
+Valores em Dinheiro. O Gestor, a seu exclusivo 
+critério, poderá definir Cestas distintas para fins de 
+execução de Ordens de Integralização e de Ordens 
+de Resgate, conforme o caso, ficando ressalvado 
+que 
+a 
+Cesta 
+aplicável 
+a 
+cada 
+Ordem 
+de 
+Integralização ou Ordem de Resgate (a) constará 
+do Arquivo de Composição da Cesta divulgado em 
+cada dia útil na página do Fundo na rede mundial 
+de computadores antes da abertura do pregão da 
+B3; e (b) observará a composição aqui descrita.  
+CNPJ 
+Significa o Cadastro Nacional da Pessoa Jurídica do 
+Ministério da Economia.
+Comitê do Índice
+Significa o comitê de administração do Índice 
+S&P/B3 Brazil ESG, formado por membros do 
+Administrador do Índice e da B3. 
+ 
+ 
+SP - 28559511v5 
+Contrato de Agente 
+Autorizado
+Significa 
+o 
+contrato 
+entre 
+o 
+Administrador, 
+representando o Fundo, e o Agente Autorizado, 
+estabelecendo 
+os 
+termos 
+e 
+condições 
+para 
+integralização e resgate de Lotes Mínimos de Cotas 
+do Fundo. 
+Contrato de Autorização 
+para Uso do Índice
+Significa o contrato firmado entre o Administrador 
+do Índice, ou entidades a ele relacionadas, e o 
+Administrador, em nome do Fundo, tendo por 
+objeto a concessão de licença de uso do Índice 
+S&P/B3 Brazil ESG, bem como da marca e certas 
+informações a ela associadas, para a finalidade 
+específica de utilização como índice de referência do 
+Fundo.  
+Contrato de Gestão 
+Significa 
+o 
+contrato 
+celebrado 
+entre 
+o 
+Administrador, atuando por conta e ordem do 
+Fundo, e o Gestor, que regulamenta a gestão da 
+Carteira.  
+Corretora 
+Significa uma corretora de títulos e valores 
+mobiliários (CTVM) e/ou uma distribuidora de títulos 
+e 
+valores 
+mobiliários 
+(DTVM), 
+incluindo 
+o 
+Distribuidor, que atuem nos mercados financeiro e 
+de capitais intermediando a negociação de títulos e 
+valores mobiliários entre investidores e tomadores 
+de recursos. 
+Cotas 
+Significam as cotas de emissão do Fundo.
+Cotista 
+Significa o titular de Cotas conforme registro de 
+posições da B3 controlado pelo Escriturador.
+Cotista INR
+Significa o Cotista não residente no Brasil e 
+registrado no país de acordo com a Resolução 
+4.373, nos termos do item 15.5 deste Regulamento.  
+Custodiante
+Significa o Banco BTG Pactual.
+CVM
+Significa a Comissão de Valores Mobiliários.
+Data de 
+Rebalanceamento 
+Significa a data de reavaliação da composição da 
+carteira teórica do Índice S&P/B3 Brazil ESG e 
+quaisquer 
+respectivas 
+alterações 
+necessárias, 
+efetuadas trimestralmente nos meses de março, 
+junho, setembro e dezembro.  
+Data de Reconstituição 
+Significa a data de reconstituição da composição do 
+Índice S&P/B3 Brazil ESG, efetuada anualmente no 
+mês de abril, com base nos dados do fechamento 
+do último Dia Útil do mês imediatamente anterior.
+ 
+ 
+SP - 28559511v5 
+Dia de Pregão 
+Significa qualquer dia em que a B3 esteja aberta 
+para negociações.
+Dia Útil
+Significa qualquer dia que não seja sábado, 
+domingo ou feriado, nacional ou no estado ou 
+cidade de São Paulo, ou dias em que, por qualquer 
+motivo, não houver expediente na B3. 
+Disputa 
+Significam todas e quaisquer disputas oriundas ou 
+relacionadas a este Regulamento, inclusive quanto a 
+sua existência, validade, eficácia, interpretação, 
+execução e/ou rescisão envolvendo Cotistas, o 
+Administrador, o Gestor, o Agente Autorizado, o 
+Custodiante, a Distribuidora e as Corretoras, 
+inclusive seus sucessores a qualquer título.  
+Distribuidor 
+Significa o Banco BTG Pactual e/ou qualquer outro 
+distribuidor devidamente habilitado para tanto e 
+pertencente ao sistema de distribuição de valores 
+mobiliários. 
+Escriturador 
+Significa o Administrador, na qualidade de prestador 
+de serviços de escrituração da emissão, negociação 
+e resgate de Cotas.  
+ESG 
+Significa, em inglês,
+ (ou ASG, em português), referindo-se, 
+de 
+maneira 
+geral, 
+a 
+aspectos 
+ou 
+critérios 
+ambientais, sociais e de governança relacionados às 
+companhias.  
+Fundo
+Significa o BTG Pactual ESG Fundo de Índice 
+S&P/B3 Brazil ESG.  
+Gestor 
+Significa o BTG Pactual Asset Management S.A. 
+DTVM, com sede na Praia de Botafogo, nº 501 - 5º 
+andar - parte, na Cidade e Estado do Rio de Janeiro, 
+e inscrita no CNPJ sob o nº 29.650.082/0001-00, 
+devidamente autorizado a prestar os serviços de 
+administração de carteira de títulos e valores 
+mobiliários por meio do Ato Declaratório número 
+5968, de 10 de maio de 2000.  
+Grupo de Cotistas 
+Significa um ou mais Cotistas que detenham, no 
+mínimo, 5% (cinco por cento) das Cotas em 
+circulação. 
+Horário de Corte para 
+Ordens
+Significa o horário ou respectivos horários, sempre 
+anterior(es) ao horário de fechamento do pregão da 
+B3 e informado(s) na página do Fundo na rede 
+mundial 
+de 
+computadores, 
+que 
+será(ão) 
+ 
+ 
+SP - 28559511v5 
+considerado(s) 
+limite 
+para 
+que 
+Ordens 
+de 
+Integralização e Ordens de Resgate, conforme 
+aplicável, sejam processadas no mesmo dia, desde 
+que este seja um Dia Útil.  
+Índice S&P/B3 Brazil ESG 
+Significa o Índice S&P/B3 Brazil ESG, cujas 
+características estão definidas no CAPÍTULO V deste 
+Regulamento.  
+IN 1.585 
+Significa a Instrução Normati
+va nº 1.585 editada 
+pela Receita Federal do Brasil em 31 de agosto de 
+2015, conforme alterada.  
+Instrução CVM 359 
+Significa a Instrução nº 359, editada pela CVM em 
+22 de janeiro de 2002, conforme alterada. 
+Instrução CVM 555 
+Significa a Instrução nº 555, editada pela CVM em 
+17 de dezembro de 2014, conforme alterada.
+Instrução CVM 558 
+Significa a Instrução nº 558, editada pela CVM em 
+26 de março de 2015, conforme alterada. 
+Investimentos Permitidos 
+Significam os seguintes instrumentos financeiros e 
+valores mobiliários, nos quais o Fundo poderá 
+investir até 5% (cinco por cento) de seu Patrimônio 
+Líquido: (i) títulos públicos de emissão do Tesouro 
+Nacional; (ii) títulos de renda fixa de emissão de 
+instituições financeiras; (iii) cotas de fundos de 
+investimento das classes “curto prazo”, “renda fixa” 
+e “referenciado”; (iv) operações compromissadas, 
+de acordo com a regulamentação expedida pelo 
+Conselho Monetário Nacional; (v) operações com 
+derivativos realizadas em bolsas de valores, em 
+bolsas de mercadorias e futuros ou em mercados de 
+balcão 
+organizados, 
+exclusivamente 
+para 
+administração dos riscos inerentes à Carteira ou dos 
+ativos 
+financeiros 
+subjacentes, 
+observadas 
+a 
+legislação e regulamentação aplicáveis; (vi) ativos 
+financeiros com liquidez não incluídos no Índice 
+S&P/B3 Brazil ESG; e (vii) cotas de outros fundos 
+de índice.
+IR 
+Significa o imposto de renda, conforme disposto no 
+item 15.2 deste Regulamento.  
+IRRF 
+Significa o imposto de renda retido na fonte, 
+conforme disposto no item 15.5 deste Regulamento.  
+JTF ou Jurisdições de 
+Tributação Favorecida
+Significam as jurisdições de tributação favorecida 
+identificadas 
+conforme 
+o 
+item 
+15.14 
+deste 
+Regulamento.  
+ 
+ 
+SP - 28559511v5 
+Lei 6.385 
+Significa a Lei nº 6.385, de 7 de dezembro de 1976, 
+conforme alterada. 
+Lei 9.307 
+Significa a Lei nº 9.307, de 23 de setembro de 
+1996, conforme alterada. 
+Lote Mínimo de Cotas 
+Significa o lote padrão de Cotas, conforme 
+divulgado pelo Gestor, a qualquer tempo, que possa 
+ser emitido ou entregue, respectivamente, ao Fundo 
+nos termos de uma Ordem de Integralização ou 
+Ordem de Resgate devidamente apresentada pelo 
+Agente Autorizado nos termos deste Regulamento. 
+MSA 
+Significa 
+“
+”, 
+relatório divulgado pela SAM sempre que, a partir 
+de análises, filtros e pesquisas reputacionais 
+realizados 
+diariamente 
+pela 
+RepRisk, 
+são 
+identificados riscos reputacionais com relação a um 
+determinado Emissor.   
+ 
+Ordem de Integralização 
+Significa 
+uma 
+ordem 
+emitida 
+pelo
+Agente 
+Autorizado, por solicitação de seus clientes, para 
+que o Fundo emita e entregue um ou mais Lote(s) 
+Mínimo(s) de Cotas em contraprestação à entrega 
+de uma ou mais Cesta(s) pelo Agente Autorizado ao 
+Fundo. 
+Ordem de Resgate 
+Significa 
+uma 
+ordem 
+emitida 
+pelo
+Agente 
+Autorizado, para que o Fundo entregue uma ou 
+mais Cesta(s) em contraprestação à entrega de um 
+ou mais Lote(s) Mínimo(s) de Cotas pelo Agente 
+Autorizado. 
+Pacto Global da ONU 
+Significa o Pacto Global da Organização das Nações 
+Unidas, iniciativa lançada no ano 2000, por meio da 
+qual organizações ao redor do mundo são 
+chamadas para alinharem suas estratégias e 
+operações a 10 princípios universais nas áreas de 
+Direitos Humanos, Trabalho, Meio Ambiente e 
+Anticorrupção, bem como desenvolverem ações que 
+contribuam para o enfrentamento dos desafios da 
+sociedade. Segundo dados da Organização das 
+Nações Unidas, na data deste Regulamento, era a 
+maior iniciativa de sustentabilidade corporativa do 
+mundo, com mais de 11 mil membros, em 157 
+países. 
+Patrimônio Líquido
+Significa a soma algébrica (a) do disponível com o 
+valor de todos os ativos integrantes da Carteira e 
+das Receitas acumuladas e não distribuídas; menos 
+(b) as exigibilidades do Fundo, incluindo taxas e 
+despesas acumuladas e não pagas.
+ 
+ 
+SP - 28559511v5 
+Pedido de Integralização 
+Significa uma solicitação de qualquer Cotista ao 
+Agente Autorizado para que efetue a integralização 
+de um ou mais Lotes Mínimos de Cotas. 
+Pedido de Resgate 
+Significa uma solicitação de qualquer Cotista ao 
+Agente Autorizado para que efetue o resgate de um 
+ou mais Lotes Mínimos de Cotas detidos por tal 
+Cotista.
+Período de Reconstituição 
+e Rebalanceamento 
+Significa o período compreendido entre os 5 (cinco) 
+Dias Úteis anteriores e os 5 (cinco) Dias Úteis 
+subsequentes à Data de Rebalanceamento, nos 
+termos do item 6.1.1 deste Regulamento. 
+Portal do Fundo 
+Significa o endereço do Fundo na rede mundial de 
+computadores: https://www.btgpactual.com/asset-
+management/etf-esg
+Receitas 
+Significam os rendimentos, dividendos e outros 
+direitos relativos à Carteira, bem como outras 
+receitas do Fundo e valores a receber. 
+Registros de Cotista 
+Significam as notas de corretagem e demais 
+documentos fornecidos ao Agente Autorizado por 
+qualquer Cotista que solicite ao Agente Autorizado 
+que efetue a integralização ou o resgate de um ou 
+mais Lotes Mínimos de Cotas detidos por tal Cotista. 
+Regulamento
+Significa este regulamento do Fundo. 
+Regulamento da CCI  
+Significa o Regulamento de Arbitragem da CCI. 
+Resolução 4.373 
+Significa a Resolução nº 4.373 editada pelo Banco 
+Central do Brasil em 29 de setembro de 2014, 
+conforme alterada.  
+RepRisk 
+Significa a RepRisk AG, empresa líder em serviços 
+de inteligência de dados relacionados a critérios
+ESG.  
+SAM 
+Significa 
+a 
+SAM, 
+empresa 
+especializada 
+exclusivamente 
+em 
+investimento 
+sustentável, 
+integrante do Grupo S&P Global, detentora de 
+metodologias de análise que constituem a base para 
+seleção de companhias para composição de 
+diferentes índices de sustentabilidade, incluindo os 
+índices da família S&P DJI ESG.
+SAM CSA
+Significa o 
+(Avaliação de Sustentabilidade Corporativa)  uma 
+avaliação realizada anualmente pela SAM
+para 
+ 
+ 
+SP - 28559511v5 
+analisar as práticas sustentáveis conduzidas pelas 
+companhias. O SAM CSA considera critérios 
+particulares de cada indústria registrada no estudo 
+e, também, critérios financeiramente relevantes, 
+sendo sua realização implementada mediante o 
+lançamento, em plataforma própria, de informações 
+e dados (i) disponíveis publicamente e/ou (ii) 
+enviados por uma companhia que esteja sujeita à 
+avaliação, sendo que, no caso deste último, são 
+conduzidas também validações independentes das 
+informações enviadas.  
+S&P Brazil BMI  
+Significa o Índice S&P Brazil BMI, que possui como 
+referência o S&P Global BMI, que define e mede o 
+universo das companhias 
+, 
+e 
+ domiciliadas no Brasil e negociadas na B3. 
+S&P DJI ESG Score
+ 
+Significa a pontuação de ESG atribuída pelo 
+Administrador do Índice, em associação com a SAM.  
+S&P Global BMI 
+Significa o S&P Global BMI (Índice de Mercado 
+Amplo), índice abrangente que inclui o S&P 
+Developed BMI e S&P Emerging BMI, baseado em 
+regras de medição do desempenho do mercado 
+acionário. Representa o único grupo de índices 
+global com uma estrutura transparente e modular 
+que foi totalmente ajustada por ações em circulação 
+desde a sua criação em 1989. 
+Sustainalytics 
+Significa 
+a 
+Sustainalytics, 
+empresa 
+global 
+independente, líder na prestação de serviços de 
+pesquisa em governança corporativa e 
+ para 
+investidores.  
+Sustainalytics GSS
+Significa o Sustainalytics’ Global Standard Screening, 
+ou GSS, processo de análise realizado pela 
+Sustainalytics que busca mensurar o impacto e 
+avaliar em que medida uma determinada companhia 
+tenha causado, contribuído ou esteja de alguma 
+forma associada a violações de normas ou 
+padrões/melhores 
+práticas 
+internacionais 
+relacionadas a critérios ESG, considerando os 
+princípios descritos no Anexo I. 
+Taxa de Administração 
+Significa a remuneração paga pelo Fundo ao 
+Administrador e demais prestadores de serviço 
+contratados, observadas as disposições do item 7.8 
+deste Regulamento.  
+Valor em Dinheiro
+Significa a parcela da Cesta, se houver, que consiste 
+em moeda corrente nacional. 
+ 
+ 
+SP - 28559511v5 
+Valor Patrimonial 
+Significa o valor patrimonial líquido das Cotas do 
+Fundo, calculado nos termos do item 10.2 deste 
+Regulamento. 
+Valores Mobiliários
+Significam os valores mobiliários, assim definidos 
+nos termos da Lei 6.385. 
+ 
+CAPÍTULO II - FORMA DE CONSTITUIÇÃO E PRAZO DE DURAÇÃO
+ 
+2.1. 
+O Fundo, constituído sob a forma de condomínio aberto, é um fundo de índice 
+regido pelo presente Regulamento e pelas demais disposições legais e regulamentares 
+que lhe forem aplicáveis, em especial a Instrução CVM 359. 
+ 
+2.1.1. As Cotas do Fundo serão admitidas à negociação no mercado de bolsa, 
+por intermédio da B3. 
+ 
+2.1.2. Cada Cota emitida pelo Fundo representa uma fração ideal do 
+Patrimônio Líquido do Fundo. 
+ 
+2.2. 
+O Fundo terá prazo de duração indeterminado.  
+ 
+CAPÍTULO III - PÚBLICO ALVO 
+ 
+3.1. 
+O Fundo, observada a legislação e regulamentação aplicáveis, é destinado a 
+investidores em geral, residentes e não residentes, incluindo, sem limitação, pessoas 
+físicas e jurídicas, fundos de investimento, entidades abertas e fechadas de previdência 
+complementar (EFPC e EAPC), regimes próprios de previdência social (RPPS) e 
+sociedades seguradoras que (a) estejam legalmente habilitados a adquirir cotas do 
+Fundo, (b) aceitem todos os riscos inerentes ao investimento no Fundo, e (c) busquem 
+retorno de rentabilidade condizente com o objetivo do Fundo, nos termos do 
+CAPÍTULO IV deste Regulamento, e sua política de investimento, prevista no 
+CAPÍTULO VI deste Regulamento. Caso o investimento no Fundo seja realizado por 
+investidor não residente, este investidor deverá avaliar a adequação da aquisição das 
+Cotas à legislação aplicável em sua jurisdição.  
+ 
+3.2. 
+Os Agentes Autorizados deverão verificar a adequação do perfil de cada 
+potencial investidor ao público alvo e às disposições legais, regulatórias e deste 
+Regulamento. 
+ 
+CAPÍTULO IV - OBJETIVO DO FUNDO 
+ 
+4.1. 
+O Fundo é uma comunhão de recursos destinada à aplicação em carteira de 
+ativos com o objetivo de refletir as variações e rentabilidade do Índice S&P/B3 Brazil 
+ESG, antes de taxas e despesas, calculado e administrado pelo Administrador do 
+Índice, observado o disposto no CAPÍTULO V deste Regulamento.  
+ 
+4.2. 
+A Carteira será preponderantemente composta por (i) Valores Mobiliários que 
+integrem o Índice S&P/B3 Brazil ESG, observado o disposto no CAPÍTULO V deste 
+Regulamento; e (ii) Investimentos Permitidos e Valores em Dinheiro, observados os 
+limites de diversificação e de composição da Carteira detalhados no CAPÍTULO VI 
+deste Regulamento.  
+ 
+ 
+SP - 28559511v5 
+ 
+4.3. 
+O Gestor deverá tomar todas as decisões relativas à gestão da Carteira em 
+conformidade com o objetivo do Fundo descrito no item 4.1 acima e com a legislação e 
+regulamentação aplicáveis.  
+ 
+4.4. 
+O Fundo poderá realizar operações com derivativos executadas em bolsas de 
+valores, em bolsas de mercadorias e futuros ou em mercados de balcão organizados, 
+contanto que tais operações com derivativos sejam realizadas unicamente com o 
+propósito de administrar os riscos inerentes à Carteira do Fundo ou dos Valores 
+Mobiliários que a integrem, observados os limites de diversificação e de composição da 
+Carteira dispostos no CAPÍTULO VI deste Regulamento.  
+ 
+4.5. 
+O objetivo e a política de investimento do Fundo, bem como a performance 
+histórica do Fundo ou qualquer declaração sobre o Fundo ou descrição do Fundo, não 
+caracterizam garantia, promessa ou sugestão de rentabilidade aos Cotistas. 
+ 
+4.6. 
+Os investimentos no Fundo não contam com garantia do Administrador, do 
+Gestor, de qualquer prestador de serviço do Fundo, de qualquer mecanismo de seguro, 
+do Fundo Garantidor de Créditos (FGC), de qualquer de suas respectivas Afiliadas 
+(conforme aplicável), ou de qualquer outra pessoa ou entidade. 
+ 
+CAPÍTULO V - O ÍNDICE S&P/B3 BRAZIL ESG 
+5.1. 
+O Índice S&P/B3 Brazil ESG é um índice de mercado, criado e administrado pelo 
+Administrador do Índice, que busca medir o retorno de um investimento por meio de 
+uma carteira teórica formada por ações de emissão de companhias abertas listadas na 
+B3 que atendam a elevados critérios e/ou observem melhores práticas em ESG, 
+conforme metodologia resumidamente descrita neste CAPÍTULO V.  
+ 
+5.2. 
+Somente poderão compor o Índice S&P/B3 Brazil ESG Valores Mobiliários 
+ativamente negociados na B3 e integrantes do S&P Brazil BMI na Data de 
+Rebalanceamento, que satisfaçam aos seguintes critérios, cumulativamente: (i) 
+Atividade Econômica Permitida; (ii) Sustainalytics’ GSS; e (iii) S&P DJI ESG Score. 
+ 
+5.2.1. Atividade Econômica Permitida. As companhias emissoras de Valores 
+Mobiliários que tenham participação em atividades econômicas relacionadas aos 
+seguintes produtos (
+) serão excluídas do Índice S&P/B3 
+Brazil ESG:  
+ 
+(i) 
+estejam envolvidas na fabricação de produtos relacionados ao 
+tabaco, obtenham receitas a partir do fornecimento de produtos 
+relacionados ao tabaco ou da distribuição ou venda a varejo de 
+produtos relacionados ao tabaco que representem mais de 10% das 
+suas receitas, ou tenham participação superior a 25% em 
+companhia dedicada a essas atividades;  
+(ii) 
+estejam envolvidas no sistema principal de armas, ou componentes 
+ou serviços do sistema principal de armas que são considerados 
+feitos sob medida e essenciais para o uso letal da arma, ou tenham 
+participação superior a 25% em companhia dedicada a essas 
+atividades; ou  
+(iii) 
+obtenham mais de 5% das suas receitas a partir da extração de 
+carvão térmico ou da geração de energia elétrica proveniente do 
+ 
+ 
+SP - 28559511v5 
+carvão térmico. 
+ 
+ 
+5.2.2. Sustainalytics’ GSS. O Sustainalytics’ GSS é o processo de análise 
+realizado pela Sustainalytics para mensurar o impacto de uma companhia às 
+partes interessadas e avaliar em que medida uma determinada companhia 
+causa, contribui ou está vinculada a violações de normas ou padrões 
+internacionais. A base das avaliações do Sustainalytics’ GSS são os princípios do 
+Pacto Global da ONU. As companhias emissoras de Valores Mobiliários são 
+classificadas de acordo com esses princípios em “Cumpre”, “Lista de vigilância” 
+e “Não cumpre”, conforme abaixo: 
+ 
+(i) 
+Cumpre (
+), quando uma determinada companhia age de acordo 
+com os princípios do Pacto Global da ONU, bem como normas, 
+convenções e tratados associados;  
+ 
+(ii) 
+Lista de vigilância (
+), quando uma determinada companhia se 
+encontra em risco de violação de um ou mais princípios, para os quais 
+não foi possível estabelecer ou confirmar todas as dimensões para o 
+status “não cumpre (
+)”; ou 
+ 
+(iii) 
+Não cumpre (
+), quando uma determinada companhia não 
+age de acordo com os princípios do Pacto Global da ONU, bem como 
+normas, convenções e tratados associados.  
+ 
+5.2.2.1. 
+ Somente poderão integrar o Índice S&P/B3 Brazil ESG os Valores 
+Mobiliários emitidos por companhias que, após submetidas ao processo 
+do Sustainalytics’ GSS, sejam classificadas na Data de Rebalanceamento 
+como “Cumpre”, nos termos do item (i) acima. Companhias que tenham 
+sua classificação alterada de (a) “Cumpre” para “Lista de vigilância” serão 
+mantidas na composição do Índice S&P/B3 Brazil ESG; e (b) “Cumpre” ou 
+“Lista de vigilância” para “Não cumpre” serão excluídas do Índice S&P/B3 
+Brazil ESG. As companhias não avaliadas pela Sustainalytics não são 
+elegíveis para inclusão no Índice S&P/B3 Brazil ESG até receberem a 
+avaliação do Sustainalytics’ GSS. 
+ 
+5.2.3. S&P DJI ESG Score. O S&P DJI ESG Score consiste na pontuação ESG 
+atribuída pelo Administrador do Índice, em conjunto com a SAM, que retrata a 
+sensibilidade ESG geral das empresas em relação a outras empresas 
+categorizadas no mesmo setor. As pontuações do S&P DJI ESG Score são 
+baseadas na S&P Global ESG Scores, derivadas da SAM CSA. A SAM busca uma 
+abordagem integrada para analisar o desempenho da sustentabilidade. Uma 
+equipe interdisciplinar de analistas projetam, monitoram e aperfeiçoam o SAM 
+CSA anualmente com o objetivo de assessorar as companhias na criação de 
+valor e mitigação de potencial risco relacionado a ESG. A avaliação se concentra 
+em critérios de sustentabilidade que são financeiramente relevantes para o 
+desempenho, avaliação e segurança da companhia. Para fins de avaliação, as 
+companhias são atribuídas a setores definidos pelo SAM e a avaliação é 
+amplamente específica para cada setor. A SAM utiliza a Global Industry 
+Classification Standard (GICS®) como ponto de partida para determinar a 
+classificação da indústria. A S&P DJI colaborou com SAM para refinar ainda 
+mais a metodologia de construção de pontuação, examinando como os pontos 
+ 
+ 
+SP - 28559511v5 
+de dados subjacentes coletados pelo SAM CSA são gerenciados e avaliados.  
+ 
+5.3. 
+Todas as ações que fazem parte do universo elegível são examinadas para 
+comprovar sua elegibilidade aos critérios estabelecidos no item 5.2 acima. As ações 
+que cumprirem todos os critérios, serão selecionadas como parte do Índice S&P/B3 
+Brazil ESG.  
+ 
+5.4. 
+Cada emissor poderá ter Valores Mobiliários de sua emissão, de uma ou mais 
+classes, representando até 10% (dez por cento) dos Valores Mobiliários que 
+componham o Índice S&P/B3 Brazil ESG. O peso de cada Valor Mobiliário no Índice 
+S&P/B3 Brazil ESG será determinado considerando as pontuações estabelecidas na 
+metodologia completa do Índice S&P/B3 Brazil ESG disponível para consulta no Portal 
+do Fundo.  
+ 
+5.5. 
+A manutenção do Índice S&P/B3 Brazil ESG é feita pelo Comitê de Índice, 
+formado por profissionais do Administrador do Índice e da B3, que se reúnem 
+regularmente. Em cada reunião, o Comitê de Índices avalia os eventos corporativos 
+pendentes que poderiam afetar os componentes do Índice S&P/B3 Brazil ESG, 
+estatísticas que comparam a composição do Índice S&P/B3 Brazil ESG com o mercado, 
+empresas consideradas como candidatas para serem acrescentadas ao Índice S&P/B3 
+Brazil ESG e quaisquer eventos significativos que ocorram no mercado. Além disso, o 
+Comitê de Índices poderá alterar as regras e políticas com respeito à seleção de 
+empresas, tratamento de dividendos, quantidades de ações ou outras questões. Além 
+de governança diária do Índice S&P/B3 Brazil ESG e manutenção das metodologias, 
+pelo menos uma vez a cada 12 meses, o Comitê de Índices revisa a metodologia do 
+Índice S&P/B3 Brazil ESG a fim de garantir que o Índice S&P/B3 Brazil ESG continue a 
+atingir os objetivos definidos e que os dados e as metodologias continuem sendo 
+eficazes. 
+ 
+5.6. 
+As companhias podem ser excluídas do Índice S&P/B3 Brazil ESG com base em 
+revisões anuais realizadas pela SAM. A SAM utiliza o RepRisk para filtrar, selecionar e 
+analisar diariamente as controvérsias relacionadas às companhias cujos Valores 
+Mobiliários integram o Índice S&P/B3 Brazil ESG. Nos casos em que são identificados 
+potenciais riscos, a SAM realiza uma 
+ (Análise de Mídia e 
+Partes Interessadas), que inclui uma série de questões, como crime econômico e 
+corrupção, fraude, práticas comerciais ilegais, questões de direitos humanos, disputas 
+trabalhistas, segurança no trabalho, acidentes catastróficos e desastres ambientais. O 
+Comitê de Índice analisará as informações apresentadas pela 
+para avaliar o
+possível
+impacto das suas atividades controversas na 
+composição dos índices. No caso de o Comitê de Índice decidir remover a empresa em 
+questão, referida empresa não poderá ser incluída novamente no índice durante um 
+ano calendário, a partir da Data de Rebalanceamento seguinte à exclusão. 
+ 
+5.7. 
+Todos os componentes do Índice S&P/B3 Brazil ESG são avaliados diariamente 
+com relação os dados necessários para calcular os níveis e retornos do Índice S&P/B3 
+Brazil ESG. Todos os eventos que afetem o cálculo diário do Índice S&P/B3 Brazil ESG 
+são normalmente anunciados com antecedência e divulgados no Portal do Fundo.  
+ 
+5.8. 
+O Fundo, o Administrador e o Gestor não são responsáveis pela gestão, cálculo, 
+divulgação e manutenção do Índice S&P/B3 Brazil ESG.  
+ 
+5.8.1. Caso o Administrador do Índice deixe de gerir, calcular, divulgar ou 
+ 
+ 
+SP - 28559511v5 
+manter o Índice S&P/B3 Brazil ESG, o Administrador deverá imediatamente 
+divulgar tal fato, na forma da regulamentação aplicável e deste Regulamento, e 
+convocar uma Assembleia Geral na qual os Cotistas deliberarão acerca de 
+eventual mudança no objetivo do Fundo ou, caso contrário, pela liquidação e 
+encerramento do Fundo, nos termos do item 5.8.2 abaixo. 
+ 
+5.8.2. Caso os Cotistas não aprovem, em Assembleia Geral, uma mudança no 
+objetivo de investimento do Fundo, o Administrador deverá dar início aos 
+procedimentos de liquidação do Fundo, em conformidade com o presente 
+Regulamento. 
+ 
+5.9. 
+Todas as informações sobre o Índice S&P/B3 Brazil ESG dispostas neste 
+Regulamento foram obtidas junto ao Administrador do Índice e podem ser encontradas 
+no Portal do Fundo, a partir do link específico do Fundo, bem como nos materiais de 
+divulgação do Fundo. O Fundo, o Administrador, o Gestor ou qualquer outro prestador 
+de serviço do Fundo, tampouco quaisquer de suas Afiliadas, não serão responsáveis 
+por qualquer incorreção de tais informações sobre o Índice S&P/B3 Brazil ESG ou, 
+ainda, por incorreções no cálculo do Índice S&P/B3 Brazil ESG. 
+ 
+CAPÍTULO VI - POLÍTICA DE INVESTIMENTO DO FUNDO 
+ 
+6.1. 
+O Fundo investirá no mínimo 95% (noventa e cinco por cento) de seu 
+patrimônio em (i) Valores Mobiliários que componham o Índice S&P/B3 Brazil ESG, 
+observado o disposto no CAPÍTULO V deste Regulamento, de forma a refletir 
+indiretamente a variação e rentabilidade do Índice S&P/B3 Brazil ESG, observados os 
+limites definidos no presente Regulamento, ou (ii) posição líquida comprada em 
+contratos futuros. 
+ 
+6.1.1. No período entre a Data de Reconstituição e 1 (um) mês após sua 
+efetiva mudança de composição, o Gestor poderá efetuar o ajuste da 
+composição da Carteira, devendo agir de forma a assegurar que a rentabilidade 
+do Fundo não se distancie da variação do Índice S&P/B3 Brazil ESG. 
+ 
+6.1.2. Não obstante o disposto nos demais itens deste CAPÍTULO VI, durante o 
+Período de Reconstituição e Rebalanceamento, o Administrador poderá, nos 
+termos do artigo 22 da Instrução CVM 359, adotar os procedimentos especiais 
+previstos neste Regulamento, tais como (i) a suspensão das integralizações de 
+Cotas e (ii) o resgate de Cotas na forma do CAPÍTULO X deste Regulamento.  
+ 
+6.2. 
+Os casos de desenquadramento deverão ser justificados por escrito pelo 
+Administrador à CVM dentro de 5 (cinco) Dias Úteis, contados a partir da data da 
+verificação de tal desenquadramento.  
+ 
+6.3. 
+O Fundo poderá manter até 5% (cinco por cento) de seu patrimônio, isolada ou 
+cumulativamente, em Valores em Dinheiro ou investido em quaisquer dos 
+Investimentos Permitidos. 
+ 
+6.4. 
+Nos termos do parágrafo 5º do artigo 58 da Instrução CVM 359, o total das 
+margens de garantia exigidas do Fundo em suas operações com derivativos não 
+poderá exceder 20% (vinte por cento) do Patrimônio Líquido. 
+ 
+6.5. 
+O Fundo poderá, a critério do Gestor, celebrar contratos de 
+, com cláusula 
+ 
+ 
+SP - 28559511v5 
+de liquidação por ajuste financeiro diário, com terceiros, desde que tais contratos 
+tenham como objeto de negociação a diferença de variação da rentabilidade entre o 
+Fundo e o Índice S&P/B3 Brazil ESG. 
+ 
+ 
+6.5.1. Os contratos referidos no item 6.5 acima, bem como suas modificações 
+posteriores, devem ser previamente aprovados pela CVM, divulgados no Portal 
+do Fundo e registrados em bolsa de valores, bolsa de mercadorias futuros ou 
+mercado de balcão organizado.  
+ 
+CAPÍTULO VII - ADMINISTRAÇÃO DO FUNDO 
+ 
+Seção I - Atribuições do Administrador  
+ 
+7.1. 
+A administração do Fundo será exercida pelo BTG Pactual Serviços Financeiros 
+S.A. DTVM, instituição financeira com sede na cidade e estado do Rio de Janeiro, 
+localizada à Praia de Botafogo, n.º 501, 5º andar (parte), Torre Corcovado, Botafogo, 
+CEP 22250-040, Brasil, e inscrita no CNPJ sob o nº 59.281.253/0001-23, devidamente 
+autorizado pela CVM a prestar os serviços de administração de carteira pelo Ato 
+Declaratório CVM nº 8.695, de 20 de março de 2006.  
+ 
+7.2. 
+O Administrador deverá exercer suas atividades com boa fé, transparência, 
+diligência e lealdade, sempre no único e exclusivo benefício dos Cotistas, nos termos 
+da legislação e regulamentação aplicáveis e do presente Regulamento. 
+ 
+7.3. 
+O Administrador tem poderes para praticar todos os atos necessários à 
+administração do Fundo, inclusive a contratação de terceiros devidamente habilitados 
+para a prestação de serviços relativos às atividades do Fundo, nos termos do disposto 
+no presente Regulamento e na legislação e regulamentação aplicáveis. 
+ 
+7.4. 
+Sem prejuízo do disposto acima, o Administrador deverá fazer com que a 
+gestão da Carteira seja realizada em conformidade com as disposições deste 
+Regulamento, especialmente do CAPÍTULO VIII abaixo.  
+ 
+7.5. 
+Sem prejuízo das demais disposições legais aplicáveis, incluem-se entre os 
+deveres e obrigações do Administrador: 
+ 
+(i) 
+manter, às suas expensas, atualizadas e em perfeita ordem, por pelo menos 5 
+(cinco) anos após o encerramento do Fundo (ou, no caso de a CVM instituir 
+qualquer procedimento administrativo relativo ao Fundo, até o encerramento de 
+tal procedimento administrativo) os seguintes livros e registros: 
+ 
+(a) 
+registros de Cotistas e registros de transferências de Cotas; 
+(b) 
+livro de atas de todas as assembleias gerais de Cotistas; 
+(c) 
+livro de presença dos Cotistas em todas as assembleias gerais de 
+Cotistas; 
+(d) 
+arquivo contendo todos os pareceres dos auditores independentes do 
+Fundo, desde a criação do Fundo; e 
+(e) 
+registros e demonstrações contábeis e demais documentos relativos a 
+todas as operações realizadas pelo Fundo ou em nome do Fundo e a 
+todos os ativos detidos pelo Fundo. 
+ 
+(ii) 
+emitir e resgatar Lotes Mínimos de Cotas nos termos de Ordens de 
+ 
+ 
+SP - 28559511v5 
+Integralização e Ordens de Resgate devidamente emitidas pelos Agentes 
+Autorizados, conforme aplicável; 
+ 
+(iii) 
+celebrar operações relativas a ativos do Fundo nos termos das instruções do 
+Gestor e receber as Receitas pagáveis ao Fundo; 
+ 
+(iv) 
+exercer, ou diligenciar para que sejam exercidos, todos os direitos inerentes ao 
+patrimônio e às atividades do Fundo; 
+ 
+(v) 
+pagar qualquer multa cominatória imposta nos termos legislação vigente 
+aplicável por cada dia de atraso no cumprimento de quaisquer dos prazos 
+previstos na Instrução CVM 359 e na Instrução CVM 558; 
+ 
+(vi) 
+cumprir as deliberações aprovadas em qualquer Assembleia Geral devidamente 
+convocada; 
+ 
+(vii) 
+cumprir e fazer cumprir todas as disposições deste Regulamento; 
+ 
+(viii) 
+comunicar à CVM, no prazo de até 5 (cinco) Dias Úteis, contado a partir da 
+deliberação de qualquer Assembleia Geral devidamente convocada, quaisquer 
+dos seguintes atos relativos ao Fundo: 
+ 
+(a) 
+alteração deste Regulamento; 
+(b) 
+renúncia ou substituição do Administrador; 
+(c) 
+fusão; 
+(d) 
+incorporação; 
+(e) 
+cisão; e 
+(f) 
+liquidação; 
+ 
+prestar as informações sobre a Carteira que lhe forem solicitadas pelos Cotistas, 
+conforme a legislação aplicável;  
+ 
+(ix) 
+praticar os demais atos relativos ao Fundo, conforme permitido pela legislação 
+aplicável; 
+ 
+(x) 
+contratar formador de mercado para as Cotas do Fundo, observado o disposto 
+no item 10.9 abaixo; e 
+ 
+(xi) 
+não reter para si quaisquer ativos, taxas ou direitos que pertençam ao Fundo e 
+que venha a receber, em decorrência de sua condição como Administrador do 
+Fundo, que não seja a Taxa de Administração prevista no item 7.8 abaixo. 
+ 
+Seção II - Segregação das Atividades do Administrador 
+ 
+7.6. 
+O exercício da administração do Fundo deverá ser mantido segregado das 
+demais atividades do Administrador e com estas não se confunde. O Administrador 
+poderá continuar a exercer todas as atividades que não lhe sejam defesas pela 
+legislação e regulamentação a ela aplicáveis. 
+ 
+Seção III - Substituição do Administrador 
+ 
+7.7. 
+A substituição do Administrador somente se dará em qualquer das seguintes 
+ 
+ 
+SP - 28559511v5 
+hipóteses: 
+ 
+(i) 
+renúncia do Administrador, mediante notificação por escrito a cada Cotista e à 
+CVM, entregue com a antecedência mínima de 30 (trinta) dias; 
+ 
+(ii) 
+destituição do Administrador por deliberação de Cotistas que detenham pelo 
+menos a maioria absoluta das Cotas em circulação, tomada em uma Assembleia 
+Geral devidamente convocada por Cotistas que detenham pelo menos 5% 
+(cinco por cento) (ou o número máximo permitido pela legislação aplicável, a 
+qualquer tempo, se superior a 5% (cinco por cento)) das Cotas em circulação; 
+ou 
+ 
+(iii) 
+descredenciamento para o exercício da atividade de administração de carteira, 
+por decisão final da CVM. 
+ 
+7.7.1. Nos casos de renúncia do Administrador (nos termos do disposto no 
+inciso (i) acima), ou destituição do Administrador por voto dos Cotistas (nos 
+termos do inciso (ii) acima), o Administrador deverá permanecer no exercício de 
+suas funções até que o seu substituto tenha assumido o papel e as obrigações 
+de administrador do Fundo. No caso de descredenciamento do Administrador 
+pela CVM (nos termos do inciso (iii) acima), a CVM indicará uma instituição 
+financeira para assumir temporariamente as funções de administrador do 
+Fundo, até que o substituto do Administrador tenha efetivamente assumido o 
+papel e as obrigações de administrador do Fundo. 
+ 
+7.7.2. Nos casos de renúncia ou destituição do Administrador, (i) o 
+Administrador deverá propor, e o Gestor poderá indicar, um administrador 
+substituto, a ser votado em uma Assembleia Geral, e (ii) o Administrador 
+convocará de imediato ou, em qualquer hipótese, no prazo de 15 (quinze) dias, 
+contado a partir da renúncia ou destituição do Administrador, uma Assembleia 
+Geral para deliberar sobre tal substituição. A presença de um quórum 
+(conforme definido na Instrução CVM 359 ou em outra legislação aplicável) de 
+instalação deverá ser exigido para deliberar sobre quaisquer assuntos 
+apresentados a tal Assembleia Geral e um administrador substituto poderá ser 
+aprovado pelo voto favorável dos detentores da maioria das Cotas em 
+circulação. 
+ 
+Seção IV - Remuneração do Administrador 
+ 
+7.8. 
+O Administrador deverá receber do Fundo a Taxa de Administração, 
+correspondente a 0,5% (cinco décimos por cento) do Patrimônio Líquido do Fundo.  
+ 
+7.8.1. O Administrador poderá destinar parcelas da Taxa de Administração ao 
+pagamento dos prestadores de serviço contratados, conforme disposto nos 
+respectivos contratos, desde que o somatório dessas parcelas não exceda o 
+montante total da Taxa de Administração. 
+ 
+7.9. 
+A Taxa de Administração será provisionada diariamente, com base em um ano 
+de 252 (duzentos e cinquenta e dois) Dias Úteis, e paga mensalmente até o 5º 
+(quinto) Dia Útil do mês subsequente. 
+ 
+7.10. O valor da Taxa de Administração não poderá ser aumentado sem a aprovação 
+ 
+ 
+SP - 28559511v5 
+prévia dos Cotistas que detenham, pelo menos, a maioria das Cotas em circulação, 
+devidamente reunidos em Assembleia Geral. O Administrador poderá a qualquer tempo 
+reduzir a Taxa de Administração sem a aprovação dos Cotistas, desde que tal redução 
+se aplique de maneira uniforme a todos os Cotistas. 
+ 
+Seção V - Vedações Aplicáveis ao Administrador 
+ 
+7.11. Sem prejuízo das demais disposições legais aplicáveis, o Administrador, na 
+qualidade de administradora do Fundo e, quando aplicável, cada um dos Agentes 
+Autorizados, ficam proibidos de praticar, direta ou indiretamente, qualquer dos 
+seguintes atos em nome do Fundo: 
+ 
+(i) 
+receber depósitos em sua própria conta corrente; 
+ 
+(ii) 
+contrair ou efetuar quaisquer empréstimos, ressalvado o disposto neste 
+Regulamento, nos artigos 12 e 60 da Instrução CVM 359 e regulamentação 
+aplicável; 
+ 
+(iii) 
+prestar qualquer fiança, aval, aceite ou coobrigar-se sob qualquer outra forma 
+nas operações praticadas pelo Fundo; 
+ 
+(iv) 
+realizar operações com ações fora de bolsa de valores ou de mercado de balcão 
+organizado por entidade autorizada pela CVM, ressalvadas as hipóteses de: (a) 
+subscrições de ofertas públicas; (b) exercício de direitos de preferência; e (c) 
+operações previamente autorizadas pela CVM;  
+ 
+(v) 
+praticar qualquer ato na qualidade de acionista que possa impedir as 
+negociações das ações em bolsa; e 
+ 
+(vi) 
+vender Cotas a prestação. 
+ 
+CAPÍTULO VIII - GESTÃO DO FUNDO 
+ 
+Seção I - Atribuições do Gestor 
+ 
+8.1. 
+A gestão da carteira do Fundo será realizada pelo BTG Pactual Asset 
+Management S.A. DTVM, com sede na Praia de Botafogo, nº 501 - 5º andar - parte, na 
+Cidade e Estado do Rio de Janeiro, e inscrita no CNPJ sob o nº 29.650.082/0001-00, 
+devidamente autorizado a prestar os serviços de administração de carteira de títulos e 
+valores mobiliários por meio do Ato Declaratório número 5968, de 10 de maio de 2000.  
+ 
+8.2. 
+O Gestor deverá desempenhar as seguintes funções, em conformidade com o 
+previsto no presente Regulamento e nos termos da regulamentação aplicável da CVM, 
+e de acordo com o Contrato de Gestão:  
+ 
+(i) 
+negociar, em nome do Fundo, os Valores Mobiliários e Investimentos Permitidos 
+que compõem ou venham a compor a Carteira; 
+ 
+(ii) 
+praticar os demais atos relativos à Carteira do Fundo, conforme permitido pela 
+legislação aplicável; e 
+ 
+(iii) 
+representar o Fundo em assuntos relativos aos emissores de Valores Mobiliários 
+ 
+ 
+SP - 28559511v5 
+e Investimentos Permitidos, incluindo, sem limitação, a representação do Fundo 
+em assembleias gerais dos emissores de Valores Mobiliários e Investimentos 
+Permitidos, com o direito de exercer os respectivos direitos de voto, em nome 
+do Fundo, em qualquer assunto devidamente submetido a tais assembleias 
+gerais, praticando todos os atos necessários para tal exercício, nos termos 
+deste Regulamento e da legislação vigente. 
+ 
+Seção II - Substituição do Gestor 
+ 
+8.3. 
+A substituição do Gestor somente se dará em qualquer das seguintes hipóteses: 
+ 
+(i) 
+renúncia do Gestor, mediante notificação por escrito a cada Cotista e ao 
+Administrador, entregue com a antecedência mínima de 30 (trinta) dias; 
+ 
+(ii) 
+destituição do Gestor por deliberação de Cotistas que detenham pelo menos a 
+maioria das Cotas presentes, tomada em uma Assembleia Geral devidamente 
+convocada por Cotistas que detenham pelo menos 5% (cinco por cento) (ou o 
+número máximo permitido pela legislação aplicável, a qualquer tempo, se 
+superior a 5% (cinco por cento)) das Cotas em circulação;  
+ 
+(iii) 
+descredenciamento para o exercício da atividade de administração de carteira, 
+por decisão final da CVM. 
+ 
+8.3.1. Nos casos de renúncia do Gestor (nos termos do disposto no inciso (i) 
+acima) ou destituição do Gestor por voto dos Cotistas (nos termos do inciso (ii) 
+acima), o Gestor deverá permanecer no exercício de suas funções até que o 
+seu substituto tenha assumido o papel e as obrigações de gestor do Fundo. No 
+caso de descredenciamento do Gestor pela CVM (nos termos do inciso (iii) 
+acima), o Administrador convocará uma Assembleia Geral para escolher o novo 
+gestor do Fundo. 
+ 
+8.3.2. Nos casos de renúncia ou destituição do Gestor, (i) o Administrador 
+deverá propor um gestor substituto, a ser votado em uma Assembleia Geral, e 
+(ii) o Administrador convocará de imediato ou, em qualquer hipótese, no prazo 
+de 15 (quinze) dias, contado a partir da renúncia ou destituição do Gestor, uma 
+Assembleia Geral para deliberar sobre tal substituição.  
+ 
+CAPÍTULO IX - PATRIMÔNIO DO FUNDO 
+ 
+9.1. 
+O valor do Patrimônio Líquido será calculado diariamente pelo Administrador 
+com base nas normas contábeis vigentes expedidas pela CVM, ficando ressalvado que 
+as negociações dos ativos integrantes da Carteira realizados em um Dia de Pregão na 
+B3 deverão ser refletidos no Patrimônio Líquido no Dia de Pregão subsequente. 
+ 
+CAPÍTULO X - COTAS 
+ 
+Seção I - Características 
+ 
+10.1. As Cotas correspondem a frações ideais do patrimônio do Fundo, são 
+nominativas e cada Cota será registrada e escriturada em nome de seu titular. 
+ 
+10.1.1. 
+A identidade de cada Cotista e o número de Cotas por ele detido 
+ 
+ 
+SP - 28559511v5 
+serão inscritos no registro de Cotistas mantido pelo Escriturador, em 
+consonância com os dados fornecidos pelos Agentes Autorizados e pela B3, 
+conforme aplicável. 
+ 
+10.1.2. 
+O registro das Cotas será realizado de forma escritural. 
+ 
+10.2. O Valor Patrimonial das Cotas será o valor resultante da divisão do Patrimônio 
+Líquido do Fundo pelo número de Cotas em circulação, sendo calculado ao final de 
+cada Dia de Pregão e apurado com base nos mesmos critérios utilizados para o cálculo 
+do valor de fechamento do Índice S&P/B3 Brazil ESG. 
+ 
+10.3. Para fins de integralização e resgate de Cotas, o Administrador deverá utilizar o 
+Valor Patrimonial das Cotas apurado no encerramento do Dia de Pregão em que a 
+respectiva solicitação foi processada. As operações de integralização e de resgate 
+deverão ser liquidadas nos termos do item 10.6 abaixo. 
+ 
+10.4. As Cotas poderão ser objeto de empréstimo e de garantia, observado, conforme 
+aplicável, o disposto na Instrução CVM 359 e na legislação aplicável a empréstimos de 
+valores mobiliários. 
+ 
+10.4.1. 
+As Cotas objeto das operações previstas no item 10.4 acima 
+devem estar depositadas em custódia nas entidades prestadoras de serviços de 
+compensação e liquidação, registro e custódia de títulos e valores mobiliários 
+autorizadas pela CVM, devendo o Cotista autorizar, prévia e expressamente, a 
+realização de operações desta natureza.  
+ 
+Seção II - Integralização e Resgate de Cotas  
+ 
+10.5. As Cotas serão emitidas e resgatadas somente em Lotes Mínimos de Cotas ou 
+em múltiplos de Lotes Mínimos de Cotas. Cada Lote Mínimo de Cotas será composto de 
+50.000 (cinquenta mil) Cotas.  
+ 
+10.5.1. 
+Um Lote Mínimo de Cotas somente poderá ser emitido e 
+entregue de acordo com uma Ordem de Integralização devidamente submetida 
+pelo Agente Autorizado e mediante a entrega de uma Cesta pelo Agente 
+Autorizado ao Fundo. 
+ 
+10.5.2. 
+Os Lotes Mínimos de Cotas somente poderão ser resgatados e 
+entregues mediante (i) uma Ordem de Resgate devidamente submetida pelo 
+Agente Autorizado; e (ii) e mediante a entrega de uma Cesta ao Agente 
+Autorizado pelo Fundo. 
+ 
+10.6. A composição da Cesta, seja para fins de uma Ordem de Integralização ou de 
+uma Ordem de Resgate, obedecerá às seguintes regras: 
+ 
+(i) 
+terá, no mínimo, 95% (noventa e cinco por cento) do seu valor representado 
+por Valores Mobiliários integrantes do Índice S&P/B3 Brazil ESG; e 
+ 
+(ii) 
+poderá ter, no máximo, 5% (cinco por cento) do seu valor representado por 
+Investimentos Permitidos e/ou Valores em Dinheiro. 
+ 
+10.6.1. 
+Não obstante o disposto no item 10.6 acima, o Gestor, a seu 
+ 
+ 
+SP - 28559511v5 
+exclusivo critério, poderá definir Cestas distintas para fins de execução de 
+Ordens de Integralização e de Ordens de Resgate, conforme o caso, ficando 
+ressalvado que a Cesta aplicável a cada Ordem de Integralização ou Ordem de 
+Resgate: (i) constará do Arquivo de Composição da Cesta divulgado 
+diariamente no Portal do Fundo antes da abertura do pregão da B3; e (ii) 
+observará a composição descrita neste item. 
+ 
+10.6.2. 
+Ordens de Integralização e Ordens de Resgate recebidas pelo 
+Administrador em Dias de Pregão antes do Horário de Corte para Ordens serão 
+processadas no mesmo Dia de Pregão. Ordens de Integralização e Ordens de 
+Resgate recebidas pelo Administrador após o Horário de Corte para Ordens não 
+serão aceitas pelo Administrador e deverão ser reencaminhadas no Dia Útil 
+seguinte.  
+ 
+10.6.3. 
+O Arquivo de Composição da Cesta descrevendo a composição 
+da Cesta a ser entregue por ocasião da execução de uma Ordem de 
+Integralização e de uma Ordem de Resgate será divulgado na página do Fundo 
+na rede mundial de computadores após o encerramento do pregão da B3 em 
+qualquer Dia de Pregão e antes da abertura da B3 para operações no próximo 
+Dia de Pregão. Um Arquivo de Composição da Cesta valerá para Ordens de 
+Integralização e para Ordens de Resgate recebidas após a sua divulgação e até 
+o próximo Horário de Corte para Ordens. 
+ 
+10.6.4. 
+A integralização e o resgate de Lotes Mínimos de Cotas nos 
+termos do disposto neste item e no artigo 20 da Instrução CVM 359 deverão 
+ser liquidados utilizando o seu Valor Patrimonial.  
+ 
+10.7. Não serão devidas taxa de ingresso nem taxa de saída do Fundo.  
+ 
+Seção III - Amortização de Cotas  
+ 
+10.8. As amortizações somente serão feitas em casos excepcionais, a exclusivo 
+critério do Administrador. Considera-se amortização o pagamento em moeda corrente 
+nacional, de forma proporcional a todos os Cotistas, de parcela do Valor Patrimonial de 
+suas respectivas Cotas, sem redução no número de Cotas.  
+ 
+10.8.1. 
+O Administrador poderá efetuar uma amortização de Cotas nos 
+termos previstos no item 10.8 acima e somente se a performance do Fundo se 
+mostrar superior à performance do Índice S&P/B3 Brazil ESG. 
+ 
+Seção IV - Negociação de Cotas 
+ 
+10.9. As Cotas serão listadas para negociação na B3 e poderão ser adquiridas ou 
+vendidas por meio do Agente Autorizado e/ou de qualquer Corretora. O Administrador, 
+o Gestor, suas respectivas Afiliadas, bem como seus respectivos diretores e 
+funcionários, poderão adquirir e negociar as Cotas a qualquer tempo. 
+ 
+10.9.1. 
+Não obstante o disposto no item 10.9, o Gestor não atuará como 
+formador de mercado para as Cotas. O Administrador poderá contratar, em 
+nome do Fundo, formador de mercado para as Cotas do Fundo. 
+ 
+CAPÍTULO XI - ASSEMBLEIA GERAL DE COTISTAS 
+ 
+ 
+SP - 28559511v5 
+ 
+Seção I - Competência da Assembleia Geral de Cotistas  
+ 
+11.1. Caberá privativamente à Assembleia Geral do Fundo, observados os respectivos 
+quóruns de deliberação definidos no presente Regulamento, deliberar sobre: 
+ 
+(i) 
+as demonstrações contábeis do Fundo; 
+ 
+(ii) 
+a amortização de cotas e a distribuição de resultados de forma diferente da 
+prevista neste Regulamento;  
+ 
+(iii) 
+a substituição do Administrador;  
+ 
+(iv) 
+a substituição do Gestor; 
+ 
+(v) 
+mudança na política de investimento; 
+ 
+(vi) 
+aumento da Taxa de Administração, de custódia, de entrada ou de saída; 
+ 
+(vii) 
+mudança de endereço do fundo na rede mundial de computadores; 
+ 
+(viii) 
+fusão, incorporação, cisão, transformação ou liquidação do Fundo; 
+ 
+(ix) 
+alterações no contrato entre a instituição proprietária do Índice S&P/B3 Brazil 
+ESG e o Administrador, se houver, caso essas alterações acarretem aumento de 
+despesas para o Fundo; e 
+ 
+(x) 
+outras alterações neste Regulamento que não sejam resultado de decisões 
+relativas aos itens (iii) a (vii) acima. 
+ 
+11.1.1. 
+Este Regulamento pode ser alterado, independentemente da 
+Assembleia Geral ou de consulta aos cotistas, sempre que tal alteração decorrer 
+exclusivamente da necessidade de atendimento a exigência expressa da CVM, 
+de entidade autorreguladora, de entidade administradora de mercado 
+organizado onde as cotas do fundo sejam admitidas à negociação, de 
+adequação a normas legais ou regulamentares ou, ainda, em virtude da 
+atualização de endereço do Administrador e/ou do Gestor.  
+ 
+11.1.2. 
+A matéria prevista no inciso (i) do item 11.1 acima será 
+considerada automaticamente aprovada caso a Assembleia Geral, convocada 
+nos termos deste Regulamento, não seja instalada em razão de insuficiência de 
+quórum de instalação e desde que o relatório de auditoria correspondente não 
+contenha opinião modificada. 
+ 
+11.1.3. 
+As decisões da Assembleia Geral relativas aos incisos (ii) a (ix) do 
+item 11.1 acima serão consideradas como fatos relevantes para os fins do 
+disposto no item 12.2 abaixo. 
+ 
+11.1.4. 
+Quaisquer alterações a este Regulamento passam a vigorar a 
+partir da data do protocolo junto à CVM dos seguintes documentos, o qual 
+deverá ser realizado no prazo de 5 (cinco) Dias Úteis, contado a partir da data 
+de aprovação de tais alterações em Assembleia Geral devidamente convocada: 
+ 
+ 
+SP - 28559511v5 
+ 
+(i) 
+lista de Cotistas presentes à respectiva Assembleia Geral; 
+ 
+(ii) 
+cópia da ata da respectiva Assembleia Geral; e 
+ 
+(iii) 
+exemplar deste Regulamento, consolidando as alterações efetuadas. 
+ 
+11.1.5. 
+O protocolo referido no item 11.1.4 acima deverá ser realizado 
+por meio do sistema de recebimento de informações da CVM (CVMWeb), 
+observado o disposto na regulamentação aplicável. 
+ 
+11.1.6. 
+A Assembleia Geral deverá ser sempre convocada mediante 
+edital entregue à B3 e publicada no Portal do Fundo com pelo menos 10 (dez) 
+dias de antecedência da data da respectiva Assembleia Geral. 
+ 
+11.1.7. 
+O edital de convocação deverá obrigatoriamente informar o dia, 
+o horário e o local de realização da Assembleia Geral, a ordem do dia com os 
+assuntos sobre os quais a assembleia deverá deliberar, bem como o 
+detalhamento das propostas específicas de alterações a este Regulamento, 
+conforme aplicável. 
+ 
+11.2. A Assembleia Geral ordinária deverá ser convocada pelo Administrador 
+anualmente, até o dia 30 de junho de cada ano, para deliberar sobre as 
+demonstrações contábeis do Fundo. 
+ 
+11.2.1. 
+A Assembleia Geral ordinária somente poderá ser realizada após 
+a divulgação, no Portal do Fundo, das demonstrações contábeis relativas ao 
+exercício, com prazo de antecedência mínimo de 15 (quinze) dias, devendo tais 
+demonstrações ficar à disposição dos Cotistas na sede do Administrador. 
+ 
+11.3. A Assembleia Geral também poderá ser convocada a qualquer tempo pelo 
+Administrador, pelo Gestor ou por solicitação por escrito de um Grupo de Cotistas. 
+ 
+11.3.1. 
+No prazo de 30 (trinta) dias, contado a partir do recebimento de 
+uma solicitação por escrito por parte do Gestor ou de um Grupo de Cotistas, o 
+Administrador expedirá notificação convocando a Assembleia Geral solicitada 
+por tal Grupo de Cotistas. 
+ 
+11.3.2. 
+O Grupo de Cotistas que convocar Assembleia Geral deverá 
+pagar todos os custos e despesas de tal Assembleia Geral, bem como os custos 
+e despesas com a convocação de tal Assembleia Geral, exceto se definido de 
+outro modo pela Assembleia Geral. 
+ 
+11.4. A Assembleia Geral também deverá ser convocada pelo Administrador e às suas 
+expensas, no prazo de 15 (quinze) dias, sempre que:  
+ 
+(i) 
+for verificado erro de aderência, calculado como o desvio padrão populacional 
+das diferenças entre a variação percentual diária do Fundo e a variação 
+percentual diária do valor de fechamento do Índice S&P/B3 Brazil ESG nos 
+últimos 60 (sessenta) pregões seja superior a 2 (dois) pontos percentuais, 
+desde que tal erro de aderência não seja reenquadrado ao limite de 2 (dois) 
+pontos percentuais até o 15º (décimo quinto) Dia Útil consecutivo subsequente 
+ 
+ 
+SP - 28559511v5 
+à data de verificação do respectivo erro de aderência; 
+ 
+(ii) 
+a diferença entre a rentabilidade acumulada do Fundo e a rentabilidade 
+acumulada do Índice S&P/B3 Brazil ESG nos últimos 60 (sessenta) pregões seja 
+superior a 2 (dois) pontos percentuais, desde que tal diferença de rentabilidade 
+não seja reenquadrada ao limite de 2 (dois) pontos percentuais até o 15° 
+(décimo quinto) Dia Útil consecutivo subsequente à data de verificação da 
+respectiva diferença de rentabilidade; ou 
+ 
+(iii) 
+a diferença entre a rentabilidade acumulada do Fundo e a rentabilidade 
+acumulada do Índice S&P/B3 Brazil ESG em um período de 12 (doze) meses for 
+superior a 4 (quatro) pontos percentuais, desde que tal diferença de 
+rentabilidade não seja reenquadrada ao limite de 4 (quatro) pontos percentuais 
+até o 30° (trigésimo) Dia Útil consecutivo subsequente à data de verificação da 
+respectiva diferença de rentabilidade. 
+ 
+11.4.1. 
+A ocorrência de qualquer dos eventos referidos no item 11.4 
+acima deverá ser divulgada imediatamente, nos termos do §2º do artigo 35 da 
+Instrução CVM 359, no Portal do Fundo. 
+ 
+11.4.2. 
+A ordem do dia da Assembleia Geral convocada em razão da 
+ocorrência de qualquer dos eventos previstos no item 11.4 deverá compreender 
+os seguintes itens: 
+ 
+(i) 
+explicações, por parte do Gestor, das razões que, no seu entendimento, 
+motivaram o erro de aderência ou a diferença de rentabilidade, que também 
+deverão ser divulgadas no Portal do Fundo com antecedência mínima de 15 
+(quinze) dias da realização da Assembleia Geral, e permanecerão disponíveis 
+durante um período de 30 (trinta) dias, contado a partir da data de sua 
+realização; e  
+ 
+(ii) 
+deliberação acerca da possibilidade de liquidação do Fundo ou sobre a 
+substituição do Gestor, matéria sobre a qual não poderão votar Afiliadas do 
+Gestor.  
+ 
+11.4.3. 
+Não obstante o disposto no item 11.4.2 acima, e nos termos do § 
+4º do artigo 35 da Instrução CVM 359, as Assembleias Gerais convocadas em 
+razão da ocorrência de qualquer dos eventos previstos no item 11.4 acima 
+deverão ter intervalo mínimo de (i) 90 (noventa) dias, caso a Assembleia Geral 
+tenha decidido pela substituição do Gestor, ou (ii) 30 (trinta) dias, caso a 
+Assembleia Geral tenha decidido pela manutenção do Gestor. 
+ 
+11.5. As deliberações da Assembleia Geral poderão ser adotadas mediante processo 
+de consulta formal pelo Administrador, sem necessidade de reunião dos Cotistas.  
+ 
+11.5.1. 
+O Administrador deverá estipular prazo de resposta pelos 
+Cotistas à consulta, o qual não poderá ser inferior a 15 (quinze) dias. A 
+ausência de resposta neste prazo será considerada como uma abstenção por 
+parte do Cotista.  
+ 
+11.5.2. 
+A aprovação da matéria objeto da consulta formal obedecerá aos 
+mesmos quóruns de aprovação previstos neste Regulamento, considerando–se 
+ 
+ 
+SP - 28559511v5 
+presentes os Cotistas que tenham respondido a consulta.  
+ 
+11.6. As deliberações da Assembleia Geral, que deve ser instalada com a presença de 
+pelo menos 1 (um) Cotista ou seu representante legal, serão tomadas pelo critério da 
+maioria dos votos dos Cotistas presentes ou representados na Assembleia Geral, 
+ressalvado o disposto no item 11.6.1, sendo atribuído um voto a cada Cota. 
+ 
+11.6.1. 
+As matérias definidas nos itens (iii), (v), (vi) e (viii) do item 11.1 
+devem ser aprovadas pelo voto de Cotistas que detenham, no mínimo, a 
+maioria absoluta das Cotas, ficando o Administrador ou o Gestor e suas 
+respectivas Afiliadas impedidas de votar em deliberações relativas à substituição 
+do Administrador ou do Gestor, conforme o caso. 
+ 
+11.6.2. 
+Nenhum Cotista poderá votar pela designação de um novo 
+administrador ou gestor para o Fundo caso tal Cotista esteja direta ou 
+indiretamente ligado ao candidato a novo administrador ou gestor, conforme o 
+caso. 
+ 
+11.7. Somente Cotistas do Fundo, seus representantes legais ou procuradores 
+validamente constituídos há menos de um ano poderão votar na Assembleia Geral. 
+ 
+11.8. Será permitida a realização de Assembleia Geral mediante conferência 
+telefônica ou videoconferência, convocada exclusivamente para aprovação de contas 
+do Fundo, não excluindo a obrigatoriedade de elaboração e assinatura da ata da 
+assembleia, contendo descrição dos assuntos deliberados. 
+ 
+Seção II - Assembleia Geral de Acionistas dos Emissores  
+  
+11.9. O Cotista poderá exercer diretamente o direito de voto em assembleia geral de 
+titulares dos Valores Mobiliários.  
+ 
+11.9.1. 
+O exercício direto do direito de voto por cada Cotista dependerá 
+de comunicação, ao Administrador, com no mínimo 5 (cinco) Dias Úteis de 
+antecedência.  
+ 
+11.9.2. 
+Recebida a notificação referida no item 11.9.1 acima, o 
+Administrador providenciará, de forma inteiramente gratuita, o empréstimo dos 
+Valores Mobiliários, cabendo ao Administrador a promoção da transferência de 
+tais Valores Mobiliários junto ao Custodiante mediante caução das Cotas de 
+propriedade do Cotista solicitante.  
+ 
+11.9.3. 
+As Cotas caucionadas na forma do item 11.9.2 acima poderão 
+servir, simultaneamente, à caução de mais de um empréstimo de Valores 
+Mobiliários na forma desta Seção. 
+ 
+11.9.4. 
+A quantidade de Valores Mobiliários emprestados na forma do 
+item 11.9 acima deverá ser calculada pelo Administrador com base na 
+proporção de Cotas detidas pelo Cotista solicitante em relação aos ativos de 
+titularidade do Fundo ao final do dia do envio da comunicação a que se refere o 
+item 11.9.1 acima. 
+ 
+11.9.5. 
+O Cotista deverá, obrigatoriamente, restituir ao Fundo os Valores 
+ 
+ 
+SP - 28559511v5 
+Mobiliários emprestados em, no máximo, 1 (um) Dia Útil contado da realização 
+da assembleia geral do emissor em que proferiu o voto.  
+ 
+11.10. O Administrador poderá, a seu exclusivo critério, restringir parcialmente o 
+empréstimo previsto nesta Seção II nos 5 (cinco) Dias Úteis que antecederem a Data 
+de Reconstituição, caso o empréstimo dos Valores Mobiliários possa causar danos 
+significativos ao objetivo do Fundo previsto neste Regulamento.  
+ 
+11.10.1. 
+No cenário previsto no item 11.10 acima, o Administrador 
+divulgará, pelos meios previstos no CAPÍTULO XII deste Regulamento, uma 
+lista com a identificação e a quantidade de valores Mobiliários detidos pelo 
+Fundo que não estejam disponíveis a empréstimo, incluindo as razões para a 
+restrição.  
+ 
+CAPÍTULO XII - DIVULGAÇÃO DE INFORMAÇÕES 
+ 
+Seção I - Página do Fundo na Rede Mundial de Computadores 
+ 
+12.1. O Fundo tem uma página eletrônica na rede mundial de computadores, no 
+endereço 
+https://www.btgpactual.com/asset-management/etf-esg, 
+com 
+acesso 
+disponível a partir do link específico do Fundo, localizado na parte esquerda da página 
+principal, que contém todas as informações exigidas pelo artigo 39 da Instrução CVM 
+359.  
+ 
+12.1.1. 
+Não haverá prospecto de distribuição pública das Cotas. 
+Quaisquer materiais de divulgação serão publicados na página do Fundo na 
+rede mundial de computadores.  
+ 
+12.2. O Administrador divulgará, ampla e imediatamente, ao mercado e aos Cotistas 
+qualquer ato ou fato relevante inerente ao funcionamento do Fundo ou à capacidade 
+do Administrador e/ou do Gestor de exercerem suas funções que possa vir a causar 
+impacto relevante na capacidade do Fundo de atingir seu objetivo (i) na página do 
+Fundo na rede mundial de computadores; (ii) nos endereços de correspondência 
+eletrônicos cadastrados na página do Fundo; e (iii) no sistema de divulgação de 
+informações da B3. 
+ 
+Seção II - Divulgação à CVM, ao Mercado e aos Cotistas 
+ 
+12.3. O Administrador remeterá à CVM todas as informações exigidas pelo artigo 43 
+da Instrução CVM 359, sem prejuízo de outras que venham a ser oportunamente 
+exigidas pela CVM.  
+ 
+12.4. Em cada Dia de Pregão, o Administrador informará à B3 o Valor Patrimonial de 
+cada Cota, a composição da Carteira e o valor do Patrimônio Líquido do Fundo. 
+ 
+12.5. Nos termos do artigo 42 da Instrução CVM 359, os Cotistas serão informados 
+acerca de suas posições em conformidade com a legislação e regulamentação 
+aplicáveis. 
+ 
+Seção III - Serviço de Atendimento aos Cotistas 
+ 
+12.6. Os Cotistas poderão obter informações e esclarecer dúvidas a respeito do 
+ 
+ 
+SP - 28559511v5 
+Fundo da seguinte forma: 
+ 
+(i) 
+mediante correspondência enviada à atenção do Administrador, no endereço 
+Av. Brigadeiro Faria Lima, 3.477 – 14º andar, cidade e estado de São Paulo; 
+ 
+(ii) 
+por 
+correio 
+eletrônico 
+endereçado 
+ao 
+Administrador, 
+no 
+endereço 
+ri.fundoslistados@btgpactual.com; ou  
+ 
+(iii) 
+por telefone, por meio dos números 0800 772 2827 (SAC) ou 0800 722 0048 
+(Ouvidoria).  
+ 
+CAPÍTULO XIII - DEMONSTRAÇÕES CONTÁBEIS E RELATÓRIOS DE 
+AUDITORIA 
+ 
+13.1. O Fundo terá escrituração contábil própria, devendo os investimentos, livros, 
+registros e demonstrações contábeis do Fundo ser segregados em relação àqueles do 
+Administrador. 
+ 
+13.2. O exercício fiscal do Fundo será de 1 (um) ano, encerrando-se em 31 de março 
+de cada ano civil. 
+ 
+13.3. As demonstrações contábeis do Fundo, relativas a cada exercício contábil, estão 
+sujeitas e deverão ser preparadas em conformidade com as normas contábeis vigentes 
+expedidas pela CVM. As demonstrações contábeis mais recentes deverão ser 
+disponibilizadas a qualquer interessado que as solicitar, no prazo de 60 (sessenta) dias, 
+contado a partir do encerramento do exercício fiscal. 
+ 
+13.3.1. 
+Não obstante o disposto no item 13.3, sempre que requisitado 
+por investidores potenciais ou Cotistas, o Administrador deverá disponibilizar no 
+Portal do Fundo as seguintes informações aos Cotistas:  
+ 
+(i) 
+declaração acerca da natureza das atividades do Fundo e acerca dos 
+produtos e serviços oferecidos pelo Fundo; 
+ 
+(ii) 
+demonstrações contábeis mais recentes do Fundo, bem como o balanço 
+patrimonial e demonstração dos lucros, perdas e ganhos retidos pelo 
+Fundo; e 
+ 
+(iii) 
+demonstrações contábeis similares às mencionadas no item (ii) acima, 
+relativas aos últimos 2 (dois) anos em que o Fundo esteve em operação. 
+ 
+13.3.2. 
+Nos termos do artigo 45 da Instrução CVM 359, as informações 
+disponibilizadas ao público, bem como eventuais materiais de divulgação do 
+Fundo, não podem estar em desacordo com a página do Fundo na rede 
+mundial de computadores, com este Regulamento ou com o relatório anual 
+protocolado na CVM. 
+ 
+13.4. As demonstrações contábeis do Fundo serão auditadas anualmente por um 
+auditor independente registrado na CVM, e divulgadas pelo Administrador na página 
+eletrônica do Fundo na rede mundial de computadores. 
+ 
+CAPÍTULO XIV - ENCARGOS DO FUNDO 
+ 
+ 
+SP - 28559511v5 
+ 
+14.1. As seguintes despesas constituem encargos do Fundo e serão pagas 
+diretamente pelo Fundo: 
+ 
+(i) 
+Taxa de Administração, na forma definida neste Regulamento;  
+ 
+(ii) 
+taxas, impostos ou contribuições federais, estaduais ou municipais, que recaiam 
+ou venham a recair sobre os bens, direitos e obrigações do fundo;  
+ 
+(iii) 
+despesas com o registro de documentos em cartório, impressão, expedição e 
+publicação de relatórios, formulários e periódicos, previstas nesta Instrução ou 
+na regulamentação pertinente; 
+ 
+(iv) 
+despesas com correspondência de interesse do fundo; 
+ 
+(v) 
+honorários e despesas do auditor independente; 
+ 
+(vi) 
+emolumentos e comissões pagas por operações do fundo; 
+ 
+(vii) 
+honorários de advogado, custas e despesas processuais correlatas, incorridas 
+em razão da defesa dos interesses do fundo, em juízo ou fora dele, inclusive o 
+valor de eventual condenação em ação judicial; 
+ 
+(viii) 
+a contribuição anual devida às bolsas de valores ou à entidade do mercado de 
+balcão organizado em que o fundo tenha suas cotas admitidas à negociação;  
+ 
+(ix) 
+despesas com custódia e liquidação de operações com ativos financeiros;  
+ 
+(x) 
+despesas com fechamento de câmbio para as operações permitidas, ou com 
+certificados ou recibos de depósito de valores mobiliários, caso tais ativos 
+façam parte do Índice S&P/B3 Brazil ESG; e 
+ 
+(xi) 
+devidos pela utilização do Índice S&P/B3 Brazil ESG, desde que 
+cobrados de acordo com o contrato estabelecido entre o Fundo e o 
+Administrador do Índice. 
+ 
+14.1.1. 
+O Administrador poderá determinar que parcelas da Taxa de 
+Administração sejam pagas diretamente pelo Fundo nos termos da Cláusula 
+7.8.1 acima. 
+ 
+14.1.2. 
+Quaisquer despesas não especificamente previstas acima como 
+encargos do Fundo serão pagas pelo Administrador. 
+ 
+CAPÍTULO XV – TRIBUTAÇÃO 
+ 
+15.1. Os rendimentos e ganhos auferidos no Brasil com operações realizadas pela 
+Carteira do Fundo não estão sujeitos à tributação. Os Cotistas serão tributados 
+conforme descrito a seguir, o que pressupõe que o Fundo atenderá ao disposto nas 
+disposições legais e regulamentares que lhe forem aplicáveis, em especial a Instrução 
+CVM 359.  
+ 
+ 
+ 
+SP - 28559511v5 
+ 
+15.2. Para os Cotistas pessoas físicas, a diferença positiva entre o preço de 
+fechamento dos Valores Mobiliários determinado na integralização de Cotas do Fundo 
+por meio da entrega de Valores Mobiliários e o custo de aquisição dos Valores 
+Mobiliários está sujeita ao Imposto de Renda (“IR”) às alíquotas progressivas que 
+variam de 15% a 22,5%, a depender do montante de ganho auferido pelo Cotista, 
+conforme tabela abaixo: 
+ 
+ALÍQUOTA DO IR 
+VALOR DO GANHO
+15% 
+Sobre a parcela dos ganhos que não 
+ultrapassar R$ 5.000.000,00; 
+17,5%
+Sobre a parcela dos ganhos entre R$ 
+5.000.000,01 e R$ 10.000.000,00
+20% 
+Sobre a parcela dos ganhos entre R$ 
+10.000.000,01 e R$ 30.000.000,00 
+22,5% 
+Sobre a parcela dos ganhos acima de R$ 
+30.000.000,00 
+ 
+15.3. O IR sobre o ganho de capital deve ser apurado, cobrado e recolhido pelo 
+Administrador do Fundo que receber os Valores Mobiliários dados em integralização 
+das Cotas, mediante prévia disponibilização dos recursos pela própria pessoa física, até 
+o 3º (terceiro) dia útil subsequente ao decêndio de ocorrência dos fatos geradores. 
+Para efeito do pagamento do imposto, o custo de aquisição deve ser comprovado ao 
+administrador, na forma regulada pela IN 1.585.  
+ 
+15.3.1. 
+Na falta de apresentação de documentação comprobatória dos 
+valores praticados pelo Cotista, o custo de aquisição será considerado zero. 
+Essa tributação é definitiva, não sendo os ganhos apurados incluídos no 
+cômputo do imposto de renda sobre rendimentos sujeitos ao ajuste anual da 
+pessoa física.  
+ 
+15.4. Os eventuais ganhos verificados na integralização de ações feitas por pessoas 
+físicas cujo valor total não exceda R$ 20.000,00 no mês estão isentos de IR.  
+ 
+15.5. O disposto nos itens acima não se aplica às pessoas jurídicas tributadas com 
+base no lucro real, presumido ou arbitrado. Neste contexto, a integralização de Cotas 
+realizada mediante a entrega de Valores Mobiliários, por pessoa jurídica está sujeita à 
+tributação pelo IRRF à alíquota de 0,005%, com exceção de instituições financeiras e 
+assemelhadas, conforme previsão do artigo 71, I, da IN 1.585.  
+ 
+15.6. A retenção do imposto fica a cargo da instituição intermediadora que receber a 
+ordem do investidor. 
+ 
+ 
+15.7. O ganho líquido (diferença positiva entre o preço de venda e o respectivo custo 
+de aquisição) auferido na alienação de Cotas do Fundo na B3 deve ser incluído no 
+cômputo da apuração mensal do IR conforme a sistemática de ganhos líquidos.  
+ 
+15.8. Os ganhos líquidos apurados mensalmente estão sujeitos ao IR, à alíquota 
+de 15%, cujo recolhimento fica a cargo da Cotista. Além do IR sobre ganhos 
+líquidos, em operações de alienação de Cotas realizadas em mercado de bolsa ou 
+ 
+ 
+SP - 28559511v5 
+em mercado de balcão com intermediação, haverá também a incidência do IRRF à 
+alíquota de 0,005% sobre o respectivo valor de alienação.  
+ 
+15.9. Conforme disposto na Lei nº 11.033, de 21 de dezembro de 2004, o IRRF 
+poderá ser (i) deduzido do imposto sobre ganhos líquidos apurados no mês; (ii) 
+compensado com o imposto incidente sobre ganhos líquidos apurados nos meses 
+subsequentes; (iii) compensado na declaração de ajuste anual se, após a dedução 
+de que tratam os incisos (i) e (ii), houver saldo de imposto retido; e (iv) 
+compensado com o imposto devido sobre o ganho de capital na alienação de 
+ações. A retenção do imposto fica a cargo da instituição intermediadora que 
+receber a ordem do investidor.  
+ 
+15.10. Os ganhos auferidos na alienação de Cotas do Fundo em operações 
+realizadas fora de bolsa de valores serão tributados de acordo com as regras 
+aplicáveis aos ganhos de capital na alienação de bens ou direitos de qualquer 
+natureza, sujeitos, portanto, (i) às alíquotas progressivas de 15% a 22,5% 
+conforme descrito na tabela acima, no caso do Cotista pessoa física; e (ii) à 
+tributação corporativa, no caso do investidor pessoa jurídica tributada com base no 
+lucro real, presumido ou arbitrado. 
+ 
+15.11. No resgate ou amortização de Cotas com pagamento em caixa ou mediante 
+a entrega de Valores Mobiliários, o Cotista ficará sujeita ao IRRF exclusivamente 
+quando do resgate de suas Cotas do Fundo à alíquota de 15%. 
+ 
+15.12. O imposto incide sobre a diferença positiva entre (i) o valor de resgate das 
+Cotas, que, no caso do resgate em ações, corresponde ao valor patrimonial da cota 
+no fechamento do dia do resgate e (ii) o respectivo custo de aquisição.  
+ 
+15.13. Para efeito do pagamento do imposto, o custo de aquisição deve ser 
+comprovado ao Administrador na forma regulada pela IN 1.585. Na falta de 
+apresentação de documentação comprobatória dos valores praticados pelo 
+investidor, o custo de aquisição será considerado zero.  
+ 
+15.14. A tributação do Cotista residente ou domiciliado no exterior variará a 
+depender do seu país de domicílio, conforme se enquadre ou não como Jurisdição 
+de Tributação Favorecida, assim entendidas aquelas que não tributam a renda ou a 
+tributam à alíquota máx ima inferior de 20% ou que não permita acesso às 
+informações relativas à composição societária de pessoas jurídicas, à sua 
+titularidade ou à identificação do beneficiário efetivo de rendimentos atribuídos a 
+não residentes, listadas no artigo 1º da Instrução Normativa nº 1.037, de 4 de 
+junho de 2010. 
+  
+ 
+15.15.Como regra geral, ganhos de capital auferidos na integralização de cotas 
+(fora de bolsa, portanto), mediante entrega de Valores Mobiliários ao Fundo por 
+ 
+ 
+SP - 28559511v5 
+Cotista INR registrado no País de acordo com a Resolução 4.373, domiciliado fora 
+de JTF, devem ficar sujeitos à incidência do IRRF à alíquota de 15%, podendo 
+haver discussão quanto à aplicação das alíquotas progressivas acima citadas. 
+ 
+15.16. Considerando a divergência existente sobre o tema, recomenda-se que os 
+eventuais futuros Cotistas INR do Fundo consultem os seus assessores legais sobre o 
+regime de tributação aplicável aos ganhos realizados na integralização de cotas 
+mediante aporte dos Valores Mobiliários. 
+ 
+15.17. Os Cotistas INR domiciliados fora de JTF serão elegíveis à isenção do IRRF 
+para os ganhos de capital realizados na alienação de Cotas em operações de bolsa 
+(que observem, portanto, as características inerentes a esse mercado, em 
+conformidade com a regulamentação aplicável).  
+ 
+15.18.A aplicação da isenção sobre ganhos de capital em operações de bolsa pode 
+suscitar divergências, assim como a alíquota aplicável em transações realizadas 
+fora do ambiente de bolsa, de modo que os Cotistas INR que pretendam alienar 
+Cotas do Fundo devem procurar seus assessores para determinação do tratamento 
+tributário aplicável. 
+ 
+15.19. Os rendimentos auferidos por Cotistas INR domiciliados fora de JTF no 
+resgate ou amortização de Cotas do Fundo ficam sujeitos à incidência de IRRF à 
+alíquota de 10%, seja o resgate realizado mediante entrega de ações ou caixa, 
+sendo que pode haver discussão quanto à aplicação da alíquota de 15% sobre a 
+distribuição de rendimentos pelo Fundo, mediante amortização ou resgate de 
+cotas.  
+ 
+15.20.Para efeito do pagamento do imposto, o custo de aquisição deve ser 
+comprovado ao Administrador na forma regulada pela IN 1.585. Na falta de 
+apresentação de documentação comprobatória dos valores praticados pelo 
+investidor, o custo de aquisição será considerado zero. 
+15.21.Os Cotistas INR domiciliados em JTF estarão sujeitos ao mesmo tratamento 
+tributário daqueles auferidos por Cotistas residentes no Brasil.  
+ 
+15.22. Operações que tenham por objeto a aquisição, cessão, resgate, 
+repactuação de títulos e valores mobiliários e o pagamento para suas liquidações 
+ficam sujeitas ao IOF/TVM. A alíquota do IOF/TVM referente a operações das 
+carteiras de fundos de investimento, tais como o Fundo, é zero, assim como o 
+resgate ou cessão de suas Cotas, tendo em v ista que a carteira do Fundo será 
+composta por, no mínimo, 67% (sessenta e sete por cento) de ativos equiparados 
+a ações negociadas por meio de bolsa de valores, conforme definido pela IN 1.585.
+ 
+ 
+SP - 28559511v5 
+ 
+15.23.O Poder Executivo pode majorar, a qualquer tempo, a alíquota do IOF/TVM até 
+o percentual de 1,50% ao dia, relativamente a operações ocorridas após este eventual 
+aumento, exceção feita às operações com derivativos, cuja alíquota pode ser majorada 
+até 25% para transações realizadas após este eventual aumento. 
+ 
+ 
+15.24. Conforme a legislação fiscal em vigor, as operações de câmbio realizadas 
+por Cotistas INR, independentemente da jurisdição de domicílio, relativas ao 
+ingresso e remessa de recursos v inculadas às aplicações em Cotas do Fundo estão 
+atualmente sujeitas à incidência do IOF/Câmbio à alíquota de 0%. 
+ 
+15.25.A alíquota do IOF/Câmbio pode ser majorada a qualquer tempo por ato do 
+Poder Executivo, até o percentual de 25%, relativamente a transações ocorridas após 
+este eventual aumento. 
+  
+CAPÍTULO XVI - DISPOSIÇÕES GERAIS 
+ 
+16.1. Para os fins deste Regulamento e nos termos da legislação vigente, a 
+correspondência eletrônica será considerada uma forma válida de correspondência 
+entre o Fundo, o Administrador, o Gestor e os Cotistas. 
+ 
+16.2. Todas e quaisquer Disputas serão resolvidas definitivamente por arbitragem, 
+nos termos do Regulamento da CCI e da Lei 9.307. 
+ 
+16.2.1. 
+O tribunal arbitral será composto por 3 (três) árbitros, dos quais 
+1 (um) será nomeado pela(s) requerente(s), e 1 (um) pela(s) requerida(s). O 
+presidente do tribunal arbitral será escolhido em conjunto pelos 2 (dois) 
+coárbitros, em consulta com as partes da arbitragem, dentro de 15 (quinze) 
+dias a partir da aceitação do encargo pelo último coárbitro ou, caso isso não 
+seja possível por qualquer motivo, pela Corte da CCI, de acordo com o 
+Regulamento. Caso quaisquer das partes da arbitragem não nomeiem seus 
+respectivos árbitros, ou caso os coárbitros nomeados pelas partes da 
+arbitragem não nomeiem o presidente do tribunal arbitral nos termos do 
+Regulamento da CCI, as nomeações faltantes serão feitas pela Corte da CCI, na 
+forma do Regulamento da CCI. 
+ 
+16.2.2. 
+Na hipótese de arbitragens envolvendo 3 (três) ou mais partes 
+em que estas não se reúnam em blocos de requerentes e/ou requeridas, todas 
+as partes da arbitragem, em conjunto, nomearão 2 (dois) coárbitros dentro de 
+15 (quinze) dias a partir do recebimento pelas partes da arbitragem da 
+notificação da Secretaria da Corte da CCI nesse sentido. O presidente do 
+tribunal arbitral será escolhido pelos 2 (dois) coárbitros, em consulta com as 
+partes da arbitragem, dentro de 15 (quinze) a partir da aceitação do encargo 
+pelo último árbitro ou, caso isso não seja possível por qualquer motivo, pela 
+Corte da CCI, de acordo com o Regulamento. Caso as partes da arbitragem não 
+nomeiem os 2 (dois) coárbitros, todos os membros do tribunal arbitral serão 
+nomeados pela Corte da CCI, de acordo com o Regulamento, que designará um 
+deles para atuar como presidente do tribunal arbitral.  
+ 
+16.2.3. 
+A sede da arbitragem será a cidade de São Paulo, Estado de São 
+ 
+ 
+SP - 28559511v5 
+Paulo, Brasil, onde a sentença arbitral deverá ser proferida. O idioma da 
+arbitragem será o português, sendo permitida a produção de quaisquer provas 
+em inglês sem necessidade de tradução. 
+ 
+16.2.4. 
+As decisões do tribunal arbitral serão finais e vinculantes às 
+partes da arbitragem e seus sucessores a qualquer título.  
+ 
+16.2.5. 
+Antes da instituição da arbitragem, as Partes poderão pleitear 
+medidas cautelares ou de urgência ao Poder Judiciário ou ao Árbitro de 
+Emergência, na forma do Regulamento da CCI. Após a instituição da 
+arbitragem, todas as medidas cautelares ou de urgência deverão ser pleiteadas 
+diretamente ao tribunal arbitral, a quem caberá manter, modificar e/ou revogar 
+quaisquer medidas anteriormente concedidas pelo Poder Judiciário ou pelo 
+Árbitro de Emergência, conforme o caso.  
+ 
+16.2.6. 
+Medidas cautelares ou de urgência antes de instituída a 
+arbitragem, bem como ações de execução e de cumprimento da sentença 
+arbitral, quando aplicáveis, poderão ser pleiteadas, à escolha do interessado, (i) 
+na comarca onde serão efetivadas; ou (ii) na comarca de São Paulo, Estado de 
+São Paulo, Brasil. Para quaisquer outras medidas judiciais permitidas pela Lei 
+9.307, fica desde já eleita exclusivamente a comarca de São Paulo, estado de 
+São Paulo, Brasil. O requerimento de quaisquer medidas judiciais permitidas 
+pela Lei 9.307 não será considerado uma renúncia aos direitos previstos nesta 
+cláusula ou à arbitragem como único mecanismo de resolução de Disputas. 
+ 
+16.2.7. 
+As Partes concordam que o procedimento arbitral (incluindo, mas 
+não limitada à sua existência, à Disputa, às alegações e manifestações das 
+partes, às manifestações de terceiros, provas e documentos apresentados, bem 
+como quaisquer decisões proferidas pelo tribunal arbitral, incluindo a sentença 
+arbitral) será confidencial e somente poderá ser revelado ao tribunal arbitral, às 
+partes da arbitragem, aos seus advogados e às pessoas necessárias à boa 
+condução e ao resultado da arbitragem. 
+ 
+16.2.8. 
+A Corte da CCI  (se antes da assinatura da Ata Missão) e o 
+tribunal arbitral (se após a assinatura da Ata de Missão) poderá(ão), mediante 
+requerimento de uma das partes das arbitragens, consolidar procedimentos 
+arbitrais simultâneos envolvendo  quaisquer das Partes, ainda que nem todas 
+sejam parte de ambos os procedimentos, e este Regulamento e/ou outros 
+instrumentos relacionados e firmados pelas Partes, e/ou por seus sucessores a 
+qualquer título, desde que (a) as cláusulas compromissórias sejam compatíveis; 
+e (b) não haja prejuízo injustificável a uma das partes das arbitragens 
+consolidadas. Neste caso, a jurisdição para consolidação será do primeiro 
+tribunal arbitral constituído e sua decisão será vinculante a todas as partes das 
+arbitragens consolidadas. 
+ 
+16.2.9. 
+ As despesas do procedimento arbitral, incluindo, mas não 
+limitadas, às custas administrativas da CCI, e honorários dos árbitros e de 
+peritos, quando aplicáveis, serão arcadas por cada parte na forma do 
+Regulamento da CCI. Quando da prolação da sentença arbitral, o tribunal 
+arbitral poderá determinar o reembolso, à parte vencedora, das despesas do 
+procedimento arbitral, incluindo, mas não limitadas, às custas administrativas 
+da CCI, honorários dos árbitros e de peritos, honorários advocatícios contratuais 
+ 
+ 
+SP - 28559511v5 
+razoáveis, de forma proporcional à sucumbência, bem como condenar a parte 
+perdedora ao pagamento dos honorários de sucumbência aos advogados da 
+parte vencedora.  
+ 
+ 
+Rio de Janeiro,28 de agosto de 2020. 
+ 
+ 
+____________________________________
+ADMINISTRADOR
+ 
+ 

@@ -1,0 +1,931 @@
+ 
+1 
+ 
+ 
+REGULAMENTO DO IT NOW ISE FUNDO DE ÍNDICE INVESTIMENTO SUSTENTÁVEL 
+CNPJ – 12.984.444/0001-98 
+ 
+1. ADMINISTRADOR 
+Itaú Unibanco S.A., Praça Alfredo Egydio de Souza Aranha, nº 100, Torre Olavo Setubal, São Paulo – SP, CNPJ nº 
+60.701.190/0001-04, ato declaratório CVM nº 990 de 06/07/1989. 
+ 
+2. GESTOR e CUSTODIANTE 
+2.1. ITAÚ UNIBANCO ASSET MANAGEMENT LTDA., Av. Brigadeiro Faria Lima, nº 3500, 4º andar, Itaim Bibi, São Paulo - 
+SP, CNPJ nº 40.430.971/0001-96, ato declaratório CVM nº 18.862 de 25/06/2021. (“Gestor"). 
+2.2. ITAÚ UNIBANCO S.A., sediado na Praça Alfredo Egydio de Souza Aranha, nº 100, Cidade: São Paulo, Estado: SP, 
+CNPJ nº 60.701.190/0001-04, ato declaratório CVM n.° 990. (“Custodiante”). 
+ 
+3. PRESTADOR DE SERVIÇOS DE ESCRITURAÇÃO DA EMISSÃO, RESGATE E NEGOCIAÇÃO DAS COTAS DO 
+FUNDO (“ESCRITURADOR”) 
+ITAÚ CORRETORA  DE VALORES S.A., sediado na Av. Brigadeiro Faria Lima, nº 3400 – 10º andar, Cidade: São Paulo, 
+Estado: SP, CNPJ nº 61.194.353/0001-64. 
+ 
+4. DEFINIÇÕES 
+ 
+“Ações do Índice”. Ações que integram a carteira teórica do Índice.  
+ 
+“Agente Autorizado”. Cada Corretora e/ou Distribuidora de ativos financeiros, devidamente habilitada e pertencente ao 
+sistema de distribuição de valores mobiliários, que tenha firmado Contrato de Agente Autorizado.  
+ 
+“Arquivo de Composição da Cesta”. O arquivo determinando a identificação e o respectivo número de Ações do Índice, 
+Investimentos Permitidos, Valores em Dinheiro e Direitos sobre Ações (conforme o caso), que compõem uma Cesta, 
+conforme calculada pelo GESTOR e divulgada diariamente na página do FUNDO na rede mundial de computadores antes 
+da abertura do pregão da BM&FBOVESPA.  
+ 
+“BM&FBOVESPA”. BM&FBOVESPA S.A., Bolsa de Valores, Mercadorias e Futuros.   
+ 
+“Brazilian Depositary Receipts” ou “BDRs”. Certificados de depósitos de valores mobiliários, com lastro em ações emitidas 
+por companhias abertas, ou assemelhadas, com sede no exterior, nos termos da regulamentação brasileira aplicável.  
+ 
+“Cesta”. Significa a composição de ativos a serem entregues por cotistas ou pelo FUNDO para fins de integralização ou 
+resgate de Lotes Mínimos de Cotas, respectivamente. A Cesta será composta de Ações do Índice, Investimentos 
+Permitidos, Valores em Dinheiro e/ou Direitos sobre Ações, conforme o caso.  A composição da cesta obedecerá as regras 
+previstas nos itens 15.3 e 15.4 abaixo.  
+ 
+“Conselho do ISE”.  O Conselho Deliberativo do Índice de Sustentabilidade Empresarial. 
+ 
+“Contrato de Agente Autorizado”. Contrato entre o ADMINISTRADOR, representando o FUNDO, e respectivo Agente 
+Autorizado, estabelecendo os termos e condições para integralização e resgate de Lotes Mínimos de Cotas do FUNDO. 
+ 
+“Contrato de Gestão”. O contrato celebrado entre o ADMINISTRADOR, atuando por conta e ordem do FUNDO, e o 
+GESTOR, que regulamenta a gestão do FUNDO.  
+ 
+“Contrato de Licença”. Contrato firmado entre a BM&FBOVESPA e o GESTOR em 05/04/2011, tendo por objeto a 
+concessão de licença de uso do Índice de Sustentabilidade Empresarial – ISE (“ISE”), bem como da marca e certas 
+informações a ele associadas, para a finalidade específica de utilização como índice de referência do FUNDO.  A 
+expressão Contrato de Licença abrange o contrato de sublicenciamento do índice para o FUNDO.   
+ 
+“CVM”. A Comissão de Valores Mobiliários.  
+ 
+2 
+ 
+ 
+ 
+“Data de Rebalanceamento”. A data de reavaliação da composição da carteira teórica do Índice e quaisquer respectivas 
+alterações necessárias, executadas conforme regras e periodicidade que a BM&FBOVESPA venha a determinar, nos 
+termos do item 7.5.   
+ 
+“Dia de Pregão”. Qualquer dia em que a BM&FBOVESPA esteja aberta para negociações.  
+ 
+“Dia Útil”. Qualquer dia que não sábado, domingo, ou outro dia em que os bancos na cidade de São Paulo, Estado de São 
+Paulo e/ou a BM&FBOVESPA estejam obrigados ou autorizados por lei ou regulamentação aplicável a permanecer 
+fechados.  
+  
+“Direitos sobre Ações”. Cupons, direitos, recibos de subscrição e certificados de desdobramento relativos àqueles ativos 
+financeiros eventualmente existentes na carteira do FUNDO, nos termos da regulamentação aplicável.  
+ 
+"Distribuições". O pagamento, se houver, de rendimentos, dividendos ou outras receitas pelo FUNDO aos cotistas.  
+ 
+“Emissores”. Os emissores de quaisquer ativos financeiros  que integram a carteira do FUNDO.   
+ 
+“FUNDO”. O IT NOW ISE Fundo de Índice. 
+ 
+“Horário de Corte para Ordens”. O horário que corresponda a 15 (quinze) minutos antes do horário de fechamento do 
+pregão da BM&FBOVESPA.  
+ 
+“Índice” ou “ISE”. O Índice de Sustentabilidade Empresarial - ISE, calculado pela BM&FBOVESPA.  
+ 
+“Índice de Negociabilidade”. O indicador calculado pela BM&FBOVESPA para a seleção das ações integrantes da carteira 
+teórica do Índice em cada Data de Rebalanceamento.  
+ 
+“Investimentos Permitidos”. São os seguintes instrumentos financeiros e ativos financeiros, nos quais o FUNDO poderá 
+investir até 5% (cinco por cento) de seu Patrimônio Líquido: (i) títulos públicos de emissão do Tesouro Nacional ou do 
+Banco Central do Brasil; (ii) títulos de renda fixa de emissão de instituições financeiras; (iii) cotas de fundos de 
+investimento administrados por instituição financeira com as características de renda fixa, referenciada ou curto prazo; (iv) 
+operações compromissadas, lastreadas nos títulos mencionados no item (i) acima, realizadas de acordo com a 
+regulamentação do Conselho Monetário Nacional; (v) operações com derivativos realizadas em bolsas de valores, em 
+bolsas de mercadorias e futuros ou em mercados de balcão organizados, exclusivamente para administração dos riscos 
+inerentes à carteira do FUNDO, observadas a legislação e regulamentação aplicáveis; (vi) ações líquidas, não incluídas no 
+Índice, desde que admitidas à negociação na BM&FBOVESPA, e (vii) cotas de outros fundos de índice.  
+ 
+“Ligada”. Qualquer pessoa, física ou jurídica, ou entidade que, a qualquer tempo, direta ou indiretamente, controle, seja 
+controlada ou esteja sob controle comum de outra pessoa ou entidade. 
+ 
+“Lote Mínimo de Cotas”. Lote padrão de cotas, conforme divulgado pelo GESTOR, a qualquer tempo, que possa ser 
+emitido ou entregue ao FUNDO, respectivamente, nos termos de uma Ordem de Integralização ou Ordem de Resgate, 
+devidamente apresentada por um Agente Autorizado nos termos deste Regulamento. 
+ 
+“Ordem de Integralização”. Uma ordem emitida por um Agente Autorizado, por solicitação de seus clientes, para que o 
+FUNDO emita um ou mais Lote(s) Mínimo(s) de Cotas em contraprestação à entrega de uma ou mais Cesta(s) pelo 
+respectivo Agente Autorizado ao FUNDO.  
+ 
+“Ordem de Resgate”. Uma ordem emitida por um Agente Autorizado, por solicitação de seus clientes, para que o FUNDO 
+entregue uma ou mais Cesta(s) em contraprestação à entrega de um ou mais Lote(s) Mínimo de Cotas pelo respectivo 
+Agente Autorizado. 
+ 
+ 
+3 
+ 
+ 
+“Patrimônio Líquido”. A soma (a) do disponível com o valor de todos os ativos integrantes da carteira do FUNDO e das 
+Receitas acumuladas e não distribuídas, menos (b) as exigibilidades do FUNDO, incluindo taxas e despesas acumuladas e 
+não pagas.  
+ 
+“Pedido de Resgate”. Solicitação de qualquer cotista a um Agente Autorizado que efetue o resgate de um ou mais Lotes 
+Mínimos de Cotas detidos por tal cotista.  
+ 
+“Período de Rebalanceamento”. O período compreendido entre os 5 (cinco) Dias Úteis anteriores e os 5 (cinco) Dias Úteis 
+subseqüentes à Data de Rebalanceamento, nos termos do item 8.4.2. 
+ 
+“Política de Voto”. A política de exercício de direito de voto do GESTOR para os ativos que compõem a carteira do 
+FUNDO.  
+ 
+“Receitas”. Rendimentos, dividendos, juros sobre capital próprio, Direitos sobre Ações e outros direitos relativos às ações 
+da carteira do FUNDO, bem como outras receitas do FUNDO e valores a receber.   
+ 
+“Receitas de Empréstimo”. Valor total das Receitas decorrentes das operações de empréstimo de ações realizadas pelo 
+FUNDO provisionadas durante o mês em questão.  
+ 
+“Registros de Cotista”.  Notas de corretagem e demais documentos fornecidos ao respectivo Agente Autorizado por 
+qualquer cotista que solicite a um Agente Autorizado que efetue o resgate de um ou mais Lotes Mínimos de Cotas detidos 
+por tal cotista.  
+ 
+“Taxa de Integralização e Resgate”. Taxa de processamento cobrada pela BM&FBOVESPA do solicitante por Ordem de 
+Integralização e/ou Ordem de Resgate. 
+ 
+ “Valor em Dinheiro”. A parcela da Cesta, se houver, que consiste em moeda corrente nacional. 
+ 
+“Valor Patrimonial”. O valor patrimonial líquido das cotas do FUNDO, calculado nos termos do item 14.4. 
+ 
+5. DO FUNDO, SUAS CARACTERÍSTICAS E SEU OBJETIVO 
+5.1. O IT NOW ISE Fundo de Índice (“FUNDO”), constituído sob a forma de condomínio aberto, é uma comunhão de 
+recursos destinada à aplicação em carteira de ativos financeiros, com o objetivo de refletir as variações de rentabilidade, 
+deduzidas taxas e despesas, do Índice de Sustentabilidade Empresarial - ISE, calculado pela BM&FBOVESPA. O 
+GESTOR possui um processo de engajamento ativo nas companhias investidas, por meio de participação em 
+assembleias; reuniões sobre práticas ASG e acompanhamento junto ao provedor do índice de sustentabilidade 
+empresarial (ISE) da B3, para que tal índice se mantenha em linha com o objetivo do fundo, contribuindo positivamente e 
+promovendo o investimento ASG. Para mais informações sobre nossa política e formulário de metodologia ASG acesse:  
+https://www.itnow.com.br/isus11/documentos/ 
+5.2. O FUNDO é constituído sob a forma de condomínio aberto, sujeito às regras de emissão e resgate previstas neste 
+Regulamento.  Não obstante, as cotas do FUNDO são admitidas à negociação na BM&FBOVESPA. O FUNDO terá prazo 
+indeterminado de duração.  
+5.3. O FUNDO é regido por este Regulamento e pelas disposições legais e regulamentares que lhe forem aplicáveis.  
+5.4. O objetivo e a política de investimento do FUNDO, bem como a performance histórica do FUNDO ou qualquer 
+declaração sobre o FUNDO ou descrição do FUNDO, não caracterizam garantia, promessa ou sugestão de rentabilidade 
+aos cotistas.  
+5.5. Investimentos no FUNDO não contam com garantia do ADMINISTRADOR, de qualquer mecanismo de seguro, do 
+FUNDO Garantidor de Créditos – FGC, ou, ainda, de qualquer outra pessoa ou entidade.  
+5.6. Pela própria natureza do FUNDO, o valor dos ativos do FUNDO pode diminuir, e consequentemente, o valor de suas 
+cotas também poderá diminuir. Sendo assim, o valor das cotas detidas por cada cotista poderá, a qualquer tempo, ser 
+inferior ao valor originalmente pago pelo cotista por suas cotas.  
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+6. PÚBLICO ALVO 
+6.1. O FUNDO, observada a legislação e regulamentação aplicáveis, é destinado a investidores em geral, que (a) estejam 
+legalmente habilitados a adquirir cotas do FUNDO, (b) aceitem todos os riscos inerentes ao investimento no FUNDO, e (c) 
+busquem retorno de rentabilidade condizente com o objetivo do FUNDO e sua política de investimento.  
+ 
+7. CARACTERÍSTICAS DO ÍNDICE DE SUSTENTABILIDADE EMPRESARIAL – ISE 
+7.1. O ISE tem por objetivo refletir o retorno de uma carteira composta por ações de empresas que atendam aos critérios 
+de inclusão descritos no item 7.2 e  com reconhecido comprometimento com a responsabilidade social e a sustentabilidade 
+empresarial, e também atuar como promotor das boas práticas no meio empresarial brasileiro.  
+ 
+7.2. São incluídas na carteira do Índice as ações que atenderem aos seguintes critérios, com base nos doze meses 
+anteriores: 
+(i) estar entre as 200 (duzentas) ações com maior índice de negociabilidade apurados nos doze meses anteriores ao início 
+do processo de reavaliação; 
+(ii) ter sido negociada em pelo menos 50% dos pregões ocorridos nos doze meses anteriores ao início do processo de 
+reavaliação; e 
+(iii) 
+atender aos critérios de sustentabilidade referendados pelo Conselho Deliberativo do Índice de Sustentabilidade 
+Empresarial (“Conselho do ISE”). 
+ 7.2.1. A carteira teórica do Índice terá vigência de um ano, sendo reavaliada utilizando-se os procedimentos e critérios 
+integrantes da metodologia divulgada pela BM&FBovespa. A partir de 02 de janeiro de 2011, o período de vigência da 
+carteira do ISE passou a ser do primeiro dia útil de janeiro ao último dia útil de dezembro de cada ano.  
+7.3. A participação de um setor econômico no ISE (considerando todos os tipos de ações das empresas incluídas, se for o 
+caso) não poderá ser superior a 15%, quando das reavaliações periódicas. 
+7.4. Para o cálculo da participação de cada ação no Índice, considera-se o valor de mercado de cada ação disponível à 
+negociação (“free float”), ou seja, são excluídas: as ações de propriedade do controlador. 
+7.5. As companhias que estiverem sob regime de recuperação judicial, processo falimentar, situação especial ou, ainda, 
+que estiverem sujeitas a prolongado período de suspensão de negociação, não integrarão o Índice.  
+7.6. A participação relativa de cada ação no Índice pode alterar-se ao longo da vigência da carteira, em função da 
+evolução dos preços das ações e da distribuição de proventos pelos Emissores. 
+7.7. Uma ação será excluída do Índice, nas reavaliações periódicas, a) se deixar de atender a qualquer um dos critérios de 
+inclusão; b) se durante a vigência da carteira, o respectivo Emissor entrar em regime de recuperação judicial ou falência; 
+c)no caso de oferta pública que resultar em retirada de circulação de parcela significativa de ações do mercado e e d) se o 
+Conselho do ISE entender, a qualquer momento, que tenha ocorrido algum acontecimento que alterou significativamente 
+os níveis de sustentabilidade e responsabilidade social de determinada companhia. Nessas eventualidades, serão 
+efetuados os ajustes necessários para garantir a continuidade do índice. 
+7.8. No caso de suspensão de uma ação componente, o Índice utilizará o preço do último negócio registrado em bolsa, até 
+a normalização das negociações com o papel. Não havendo liberação para negociação por 50 dias, a contar da data da 
+suspensão, ou em caso de ausência de perspectivas de reabertura dos negócios ou de rebalanceamento da carteira, a 
+ação será excluída da carteira. Também nesta eventualidade, serão efetuados os ajustes necessários para garantir a 
+continuidade do Índice. 
+7.9. A BM&FBOVESPA realiza a gestão, cálculo, divulgação e manutenção do Índice. Nenhuma obrigação ou 
+responsabilidade por tais atividades poderá ser atribuída ao FUNDO, ao GESTOR e/ou ao ADMINISTRADOR do FUNDO. 
+7.9.1. Caso a BM&FBOVESPA deixe de gerir, calcular, divulgar ou manter o Índice, o ADMINISTRADOR deverá 
+imediatamente divulgar tal fato aos cotistas, na forma da regulamentação aplicável, e necessariamente convocar uma 
+assembléia geral de cotistas na qual os cotistas deverão deliberar acerca de eventual mudança no objetivo de 
+investimento do FUNDO ou, caso contrário, pela liquidação e encerramento do FUNDO, nos termos do item 7.9.2. A 
+mesma regra será aplicada em caso de não prorrogação do Contrato de Licença ou caso ocorra a resilição ou resolução 
+do Contrato de Licença, nas hipóteses em que tal resilição ou resolução seja permitida nos termos do Contrato de Licença, 
+as quais incluem, entre outras, a substituição do GESTOR como gestor do FUNDO.  
+7.9.2. Caso os cotistas não aprovem, em assembléia, mudança no objetivo de investimento do FUNDO, o 
+ADMINISTRADOR deverá dar início aos procedimentos de liquidação do FUNDO, em conformidade com este 
+Regulamento.  
+ 
+5 
+ 
+ 
+7.10. Todas as informações sobre o Índice dispostas neste Regulamento, na página do FUNDO na rede mundial de 
+computadores, bem como nos materiais de divulgação do FUNDO, foram ou serão, conforme o caso, obtidas por meio da 
+BM&FBOVESPA ou de sua respectiva página na rede mundial de computadores, não sendo o FUNDO, nem o 
+ADMINISTRADOR, nem o GESTOR, ou qualquer outro prestador de serviços que preste serviços ao FUNDO ou em 
+benefício deste, tampouco quaisquer de suas Ligadas, responsável por qualquer incorreção das informações do Índice, 
+incluindo as incorreções no cálculo do Índice. 
+7.11. A descrição das características do Índice, conforme acima, reflete a metodologia do Índice em vigor na data de 
+constituição do FUNDO. Eventuais alterações desta metodologia que venham a ser realizadas pela BM&FBOVESPA serão 
+objeto de atualização no site do FUNDO. 
+ 
+8. POLÍTICA DE INVESTIMENTO 
+8.1. A carteira do FUNDO poderá incluir (a) Ações do Índice, (b) Investimentos Permitidos, (c) Receitas acumuladas e não 
+distribuídas, e (d) dinheiro, observados os limites de diversificação e de composição da carteira do FUNDO detalhados 
+abaixo.  
+8.2. O FUNDO investirá no mínimo 95% (noventa e cinco por cento) de seu patrimônio em Ações do Índice, em qualquer 
+proporção, ou em posições compradas no mercado futuro do Índice, de forma a refletir a variação e rentabilidade do 
+Índice, observados os limites previstos neste Regulamento. 
+8.2.1. Os contratos futuros previstos no item 8.2 devem ser negociados em bolsa de mercadorias e de futuros e liquidados 
+em câmaras e prestadores de serviços de compensação e liquidação que assumam a posição de contraparte central.   
+8.3. Nos restantes 5% (cinco por cento) de sua carteira, o FUNDO poderá deter ações e outros ativos não incluídos no 
+Índice, desde que estes constituam Investimentos Permitidos.  
+8.3.1. O FUNDO poderá investir até 5% (cinco por cento) de seu patrimônio líquido em cotas de fundos de investimento 
+administrados ou geridos pelo ADMINISTRADOR, GESTOR ou entidades a ele ligadas, sendo que os investimentos que 
+excedam 1% (um por cento) do patrimônio líquido do FUNDO, somente poderão ser realizados em fundos que prevejam 
+taxa de administração igual a zero.  
+8.4. Durante o período entre a data da divulgação oficial pela BM&FBOVESPA da primeira prévia da composição do Índice 
+e um mês após a Data de Rebalanceamento, o GESTOR, a seu exclusivo critério e tendo em vista o objetivo e a política 
+de investimento do FUNDO, efetuará o ajuste da composição da carteira do FUNDO.  
+8.4.1. Tendo em vista a metodologia de cálculo e divulgação do Índice, bem como o objetivo e a política de investimento 
+do FUNDO, o ADMINISTRADOR, mediante instrução do GESTOR, poderá ajustar a composição da carteira do FUNDO 
+sempre que a composição do Índice sofrer ajustes devido a distribuições de dividendos, juros sobre capital próprio, cisões, 
+fusões ou qualquer outro evento que afete ou modifique a composição da carteira teórica do Índice. 
+8.4.2. Durante o período compreendido entre os 5 (cinco) Dias Úteis anteriores e os 5 (cinco) Dias Úteis posteriores à Data 
+de Rebalanceamento (“Período de Rebalanceamento”), o GESTOR poderá, a seu exclusivo critério, instruir o 
+ADMINISTRADOR a adotar os procedimentos especiais previstos neste Regulamento, tais como (i) a suspensão das 
+integralizações de cotas e/ou (ii) integralização e resgate de cotas na forma do item 15.10 deste Regulamento.  
+8.4.3. Durante o período previsto no item 8.4, o ADMINISTRADOR poderá (i) aceitar, na integralização de cotas, ações de 
+companhias abertas que estejam passando a integrar a nova composição da carteira teórica do Índice, de acordo com a 
+prévia de tal nova composição divulgada pela BM&FBOVESPA, e (ii) entregar, no resgate de cotas, ações de companhias 
+abertas que estejam deixando de integrar a composição da carteira teórica do Índice, de acordo com a prévia de tal nova 
+composição divulgada pela BM&FBOVESPA. 
+8.5. Casos de desenquadramento ao limite mínimo de 95% (noventa e cinco por cento) disposto no item 8.2. serão 
+justificados por escrito pelo ADMINISTRADOR à CVM dentro de 5 (cinco) Dias Úteis, contados a partir da data da 
+verificação de tal desenquadramento.  
+8.6. O total das margens de garantia exigidas do FUNDO em suas operações com derivativos não poderá exceder 15% 
+(quinze por cento) do Patrimônio Líquido. 
+8.7. O GESTOR deverá tomar todas as decisões de investimento e desinvestimento com relação aos recursos ou ativos do 
+FUNDO, e deverá gerir a carteira do FUNDO de forma a buscar alcançar o objetivo de investimento do FUNDO. 
+8.7.1. O GESTOR não buscará auferir rentabilidade superior à performance e ao desempenho do Índice, tampouco 
+recorrerá a posições defensivas em caso de flutuações extraordinárias no mercado.  
+8.8. As Receitas recebidas pelo FUNDO não serão pagas aos cotistas e serão reinvestidas em Ações do Índice ou outros 
+Investimentos Permitidos. 
+8.9. O FUNDO poderá celebrar com terceiros contratos a termo de troca de rentabilidade (“swap”), com cláusula de 
+liquidação por ajuste financeiro diário, que tenha como objeto de negociação a diferença de variação entre a rentabilidade 
+do FUNDO e a rentabilidade do Índice. Essas operações devem ser: (i) previamente autorizadas pela CVM; (ii) registradas 
+ 
+6 
+ 
+ 
+em bolsas de valores, mercadorias e futuros ou mercado de balcão organizado e (iii) divulgadas na íntegra no site 
+www.itau.com.br/itnow. 
+ 
+9. DA ADMINISTRAÇÃO 
+9.1. A administração do FUNDO será exercida pelo ADMINISTRADOR acima qualificado.  
+9.1.1. Observadas as limitações legais e as previstas na regulamentação em vigor e neste Regulamento, o 
+ADMINISTRADOR tem poderes para praticar todos os atos necessários à administração da carteira do FUNDO, bem 
+como para exercer todos os direitos inerentes aos ativos que a integrem, inclusive a contratação de terceiros devidamente 
+habilitados para a prestação de serviços relativos às atividades do FUNDO. 
+9.2. O ADMINISTRADOR contratará instituições integrantes do sistema de distribuição de valores mobiliários ("Agentes 
+Autorizados") para intermediar as solicitações de integralização e resgate de cotas do FUNDO. Uma vez iniciada sua 
+negociação na BM&FBOVESPA, as cotas somente poderão ser integralizadas ou resgatadas por meio de tais Agentes 
+Autorizados. 
+9.3. Uma lista com informações atualizadas a respeito dos Agentes Autorizados, incluindo sua identificação e informações 
+para contato será divulgada diariamente na página do FUNDO na rede mundial de computadores.  
+9.4. O ADMINISTRADOR deverá ser substituído nos seguintes casos: 
+I. 
+descredenciamento para o exercício da atividade de administração de carteira, por decisão final da CVM;  
+II. 
+renúncia; ou 
+III. 
+destituição, por deliberação da assembléia geral de cotistas. 
+9.5. Na hipótese de renúncia, o ADMINISTRADOR deverá imediatamente convocar assembléia geral de cotistas para 
+deliberar sobre a sua substituição ou a liquidação do FUNDO. O ADMINISTRADOR permanecerá responsável pela 
+administração do FUNDO até que o novo administrador indicado pela assembléia geral de cotistas tenha assumido suas 
+funções como administrador do FUNDO ou até a liquidação do FUNDO, o que ocorrer primeiro. 
+9.67. Na hipótese de destituição do ADMINISTRADOR pela assembléia geral de cotistas, o ADMINISTRADOR deverá 
+comunicar imediatamente tal fato à CVM, na forma da regulamentação em vigor. 
+9.7. É vedado ao ADMINISTRADOR praticar os seguintes atos em nome do FUNDO: 
+I. 
+receber depósito em sua própria conta corrente;  
+II. 
+contrair ou efetuar empréstimos, ressalvado o disposto na regulamentação aplicável, e em regulamentação que 
+vier a ser emitida pela CVM neste sentido;  
+III. 
+prestar fiança, aval, aceite ou coobrigar-se sob qualquer outra forma;  
+IV.  
+realizar operações com ações fora de bolsa de valores ou de mercado de balcão organizado por entidade 
+autorizada pela CVM, ressalvadas as hipóteses de (a) subscrição em distribuições públicas, (b) exercício de direito de 
+preferência pelo FUNDO, e (c) operações previamente autorizadas pela CVM; 
+V.  
+vender cotas do FUNDO à prestação; e 
+VI. 
+praticar qualquer ato na qualidade de acionista de Emissores que possa impedir a negociação das Ações do índice 
+em bolsa de valores. 
+ 
+10. GESTÃO DO FUNDO 
+10.1. A gestão da carteira do FUNDO será realizada pelo GESTOR, acima qualificado. 
+10.2. O GESTOR deverá desempenhar as seguintes funções, em conformidade com o previsto no presente Regulamento 
+e nos termos da regulamentação aplicável da CVM, e, de acordo com o Contrato de Gestão: 
+(i) gerir a carteira em nome do FUNDO; 
+(ii) instruir o ADMINISTRADOR a respeito da representação do FUNDO em assembléias gerais de acionistas de 
+Emissores e sobre o exercício de direitos de voto em nome do FUNDO no que concerne a qualquer assunto submetido a 
+uma assembléia geral de acionistas de Emissores; e 
+(iii) instruir o ADMINISTRADOR a tomar quaisquer outras medidas relativas à gestão do FUNDO e permitidas pela 
+legislação e regulamentação aplicáveis.  
+10.3. O GESTOR será substituído mediante notificação por escrito do ADMINISTRADOR ao GESTOR sobre a ocorrência 
+de quaisquer dos seguintes eventos, dentre outros previstos na regulamentação em vigor: 
+(i) rescisão e/ou resilição do Contrato de Gestão; 
+(ii) renúncia do GESTOR, mediante notificação por escrito a cada cotista e à CVM, entregue com a antecedência mínima 
+de 30 (trinta) dias; 
+(iii) inadimplemento substancial de qualquer das obrigações assumidas pelo GESTOR por meio do Contrato de Gestão, 
+não tendo sido tal inadimplemento sanado no prazo de 60 (sessenta) Dias Úteis, contado a partir do recebimento, pelo 
+GESTOR, de notificação do referido inadimplemento por parte do ADMINISTRADOR; 
+ 
+7 
+ 
+ 
+(iv) insolvência, intervenção, liquidação ou falência do GESTOR; ou  
+(v) aprovação pelo voto de cotistas que detenham pelo menos a maioria das cotas em circulação, reunidos em assembléia 
+geral de cotistas devidamente convocada por cotistas que detenham pelo menos 5% (cinco por cento) das cotas em 
+circulação.  
+10.3.1. No caso de renúncia do GESTOR nos termos do item 10.3 (ii), o GESTOR deverá permanecer no exercício de 
+suas funções até que o seu substituto tenha assumido o papel e as obrigações de gestor da carteira do FUNDO, ou até a 
+liquidação do FUNDO, o que ocorrer primeiro. 
+10.3.2. No caso de renúncia do GESTOR nos termos do item ,10.3., (i) o GESTOR deverá propor um gestor substituto, a 
+ser votado em uma assembléia geral de cotistas e (ii) o ADMINISTRADOR convocará de imediato ou, em qualquer 
+hipótese, no prazo de 15 (quinze) dias, contado a partir da renúncia do GESTOR, uma assembléia geral de cotistas para 
+deliberar sobre tal substituição ou a liquidação do FUNDO. 
+ 
+11. DO PATRIMÔNIO LÍQUIDO DO FUNDO 
+O Patrimônio Líquido do FUNDO será calculado diariamente, sempre após o encerramento do pregão regular da 
+BM&FBOVESPA, apurado com base nos mesmos critérios utilizados para o cálculo do primeiro valor de fechamento do 
+Índice.  
+ 
+12. REMUNERAÇÃO 
+12.1. Pela prestação dos serviços de administração e gestão do FUNDO, o ADMINISTRADOR receberá remuneração 
+equivalente ao percentual anual de 0,40 % (zero virgula quarenta por cento), calculada sobre o Patrimônio Líquido. Essa 
+remuneração será calculada e apropriada diariamente por Dia Útil, pró-rata, considerando-se o ano com 252 (duzentos e 
+cinquenta e dois) Dias Úteis, devendo ser paga mensalmente, no primeiro dia útil do mês subsequente ao mês vencido.  
+12.2. O ADMINISTRADOR poderá, ainda, reduzir unilateralmente as taxas previstas neste item 12 sem necessidade de 
+aprovação da assembléia geral de cotistas, devendo tal redução ser aplicável, de maneira uniforme, a todos os cotistas. O 
+ADMINISTRADOR deverá comunicar qualquer mudança nas taxas previstas neste item 12, na forma da regulamentação 
+aplicável, e promover a devida alteração neste Regulamento. As taxas previstas neste item 12 não podem ser majoradas 
+sem prévia aprovação da assembléia geral de cotistas. 
+12.3. Parcelas da taxa de administração poderão ser pagas diretamente pelo FUNDO aos prestadores de serviços 
+contratados, desde que o somatório dessas parcelas não exceda o montante total da taxa de administração fixada neste 
+Regulamento. 
+ 
+13. DAS OPERAÇÕES DE EMPRÉSTIMO DE VALORES MOBILIÁRIOS 
+13.1. O FUNDO poderá realizar operações de empréstimo de valores mobiliários, na forma regulada pela CVM e conforme 
+disposto neste Regulamento.  
+13.1.1. O FUNDO poderá realizar operações de empréstimo de valores mobiliários ao mercado na forma da 
+regulamentação sobre operações de empréstimo de valores mobiliários em vigor, contanto que: (i) tenham prazo fixo e 
+todos os valores mobiliários emprestados sejam devolvidas ao FUNDO no vencimento do prazo, (ii) o valor total das 
+valores mobiliários emprestados pelo FUNDO na forma deste item  não ultrapasse o limite de 60% (sessenta por cento) do 
+valor do patrimônio líquido do FUNDO e (iii) não sejam emprestadas mais de 70% (setenta por cento) do montante de 
+cada valor mobiliário do Índice detida pelo FUNDO.  
+13.1.2. O ADMINISTRADOR deverá entregar os valores mobiliários necessários para o atendimento a Pedidos de 
+Resgate, bem como ao empréstimo de valores mobiliários para voto na forma dos itens 13.2 a 13.10.3 abaixo, caso os 
+valores mobiliários necessários para efetivar tais operações estejam sendo objeto de empréstimo ou de garantia prestada 
+pelo FUNDO em suas operações e não seja razoavelmente possível reverter tais operações em tempo hábil.  
+13.1.3. As receitas das operações de empréstimos de valores mobiliários, conforme disposto nesse item 13.1, serão 
+revertidas integralmente para o FUNDO. Essas receitas serão líquidas de eventuais taxas cobradas nas operações de 
+empréstimos de valores mobiliários do FUNDO, tais como as taxas cobradas pela BM&FBovespa. 
+13.2. Caso desejem exercer diretamente o direito de voto em assembleias gerais dos Emissores, os cotistas poderão 
+solicitar o empréstimo de valores mobiliários de tais Emissores detidos pelo FUNDO, na forma da regulamentação em 
+vigor. Tendo em vista que cada cota do FUNDO representa idealmente uma determinada quantidade de cada valor 
+mobiliário integrante da carteira do FUNDO, o cotista que solicitar o empréstimo de determinado valor mobiliário terá direito 
+a tomar emprestada a quantidade de tal ação equivalente à quantidade de tal valor mobiliário que o número total de cotas 
+detidos por tal cotista represente no final do dia da solicitação de tal empréstimo. 
+ 
+8 
+ 
+ 
+13.3. Somente poderão ser tomadas em empréstimo, na forma do item 13.2, os valores mobiliários com direito a voto à 
+época da solicitação de tal empréstimo. 
+13.4. A solicitação de empréstimo de valores mobiliários por cotistas somente poderá ser feita após a convocação da 
+assembleia geral do respectivo Emissor e tal solicitação deverá ser comunicada ao ADMINISTRADOR, por meio de um 
+dos Agentes Autorizados, com pelo menos cinco e no máximo seis Dias de Pregão de antecedência à realização da 
+respectiva assembleia geral de acionistas.  
+13.5. O ADMINISTRADOR poderá, durante os cinco primeiros dias do Período de Rebalanceamento, rejeitar ou limitar 
+empréstimos de valores mobiliários na forma do item 13.2 caso em sua opinião tais empréstimos possam vir a causar 
+danos significativos ao objetivo do FUNDO, observado o disposto na regulamentação aplicável. 
+13.6. Os valores mobiliários tomadas em empréstimo na forma do item 13.2 serão entregues aos cotistas três Dias de 
+Pregão após a respectiva solicitação. 
+13.7. Os cotistas deverão devolver ao FUNDO os valores mobiliários tomadas em empréstimo em até um Dia Útil após a 
+data da realização da respectiva assembleia geral de acionistas do Emissor em questão.  
+13.8. Os cotistas que solicitarem o empréstimo de valores mobiliários na forma do item 13.2 deverão caucionar, como 
+garantia da operação de empréstimo de valores mobiliários, um número de cotas que, em conjunto, represente o número 
+total de valores mobiliários a serem tomadas em empréstimo, tendo em vista que cada cota representa idealmente uma 
+determinada quantidade de cada ação integrante da carteira do FUNDO. 
+13.9. As cotas do FUNDO caucionadas na forma do item 13.8 poderão servir simultaneamente como garantia a operações 
+de empréstimo de diferentes valores mobiliários solicitadas por um mesmo cotista na forma do item 13.2.  
+13.10. Não será cobrada pelo FUNDO nenhuma taxa ou outra forma de remuneração pela realização das operações de 
+empréstimo realizadas na forma do item 13.2 
+13.10.1. Não obstante o disposto no item 13.10, os cotistas que solicitarem tais operações de empréstimo deverão arcar 
+com os eventuais custos incidentes sobre tais operações de empréstimo de valores mobiliários, tais como as taxas 
+cobradas pela BM&FBOVESPA. O ADMINISTRADOR poderá ainda exigir dos cotistas o ressarcimento ao FUNDO de 
+eventuais custos arcados pelo FUNDO com relação a tais operações de empréstimo de valores mobiliários. 
+13.10.2. Além de tomar as medidas necessárias para excussão das cotas do FUNDO caucionadas na forma do item 13.8, 
+o FUNDO cobrará dos cotistas que não observem o prazo para devolução dos valores mobiliários estipulado no item 13.7, 
+as mesmas taxas geralmente cobradas pelo FUNDO em operações de empréstimo de valores mobiliários realizadas na 
+forma do item 13.1 ou, se não houver mercado para este tipo de operação, a taxa média obtida junto a três instituições 
+financeiras. 
+13.10.3. Os custos e as taxas previstas no item 13.10.1 serão divulgados na página do FUNDO na rede mundial de 
+computadores.  
+ 
+14. DAS COTAS DO FUNDO 
+14.1. As cotas do FUNDO correspondem a frações ideais do patrimônio do FUNDO, devendo ser nominativas e 
+escrituradas em nome do seu titular. 
+14.2. A condição de cotista é caracterizada pela inscrição no registro de cotistas mantido pelo ESCRITURADOR.  No caso 
+das cotas estarem depositadas em uma central depositária, a condição de cotista poderá ser atestada pelos registros 
+mantidos por essa depositária e fornecidos periodicamente ao ESCRITURADOR 
+14.2.1. O FUNDO aderiu ao Regulamento da BM&FBOVESPA o qual tem por objeto disciplinar a prestação, pela 
+BM&FBOVESPA, de serviço de custódia de títulos, valores mobiliários e outros instrumentos financeiros (“Ativos 
+Negociáveis”), emitidos por pessoa jurídica de direito público ou privado. O Serviço de Custódia da BM&FBOVESPA 
+instrumentaliza-se, nos termos da legislação vigente, mediante a transferência da titularidade de Ativos Negociáveis 
+registrados em nome de investidor original para o da BM&FBOVESPA, que passa a ostentar, em conseqüência, a 
+qualidade de proprietária fiduciária dos Ativos Negociáveis, exclusivamente para fins de custódia, sem que disto resulte 
+transferência plena de sua propriedade. Para que as cotas sejam negociáveis por meio da BM&FBOVESPA, o investidor 
+deverá estar ciente de que suas cotas estarão registradas perante o ESCRITURADOR em nome da BM&FBOVESPA, esta 
+na qualidade de proprietária fiduciária. No entanto, a BM&FBOVESPA fornecerá ao ESCRITURADOR, sempre que este 
+solicitar, as informações sobre a titularidade das cotas que estejam sob a sua custódia.  
+14.3. O registro de cotas do FUNDO será realizado de forma escritural. 
+14.4. O Valor Patrimonial de cada cota do FUNDO é resultante da divisão do valor do Patrimônio Líquido do FUNDO pelo 
+número de cotas existentes no encerramento de cada Dia de Pregão.  
+14.5. De modo a facilitar a comparação da performance do FUNDO com a performance do Índice, o FUNDO poderá 
+ajustar o Valor Patrimonial das cotas para um valor equivalente ao número em pontos do Índice (primeiro valor de 
+fechamento), sempre que a BM&FBOVESPA efetuar ajustes significativos no número em pontos do Índice. 
+ 
+9 
+ 
+ 
+14.6. Para atingir o objetivo previsto no item 14.5, o FUNDO poderá, conforme o caso, desdobrar as cotas do FUNDO, 
+entregando cotas adicionais aos cotistas, ou amortizar as cotas na forma do item 16 deste Regulamento. 
+14.7. Tanto na integralização quanto no resgate de cotas do FUNDO deve ser utilizado o Valor Patrimonial das cotas 
+apurado no encerramento do Dia de Pregão da data da solicitação (“Cota de Fechamento”). 
+14.8. As cotas do FUNDO poderão ser objeto de empréstimo e de garantia, inclusive em garantia das operações de 
+empréstimo de ações na forma da regulamentação em vigor.  
+14.9. Tanto a CVM quanto a BM&FBOVESPA poderão suspender a negociação das cotas do FUNDO sempre que 
+determinarem que isso seja apropriado para a proteção dos investidores. Além da suspensão da negociação das cotas, a 
+BM&FBOVESPA poderá também adotar outras medidas previstas em suas normas, regulamentos e procedimentos 
+operacionais, tais como leilão de cotas do FUNDO em circunstâncias como a suspensão da negociação de ativos da 
+carteira do FUNDO.  
+ 
+15. INTEGRALIZAÇÕES E RESGATES DE COTAS  
+15.1. Exceto se de outra forma expressamente prevista neste Regulamento, as cotas serão emitidas e resgatadas 
+somente em Lotes Mínimos de Cotas ou em múltiplos de Lotes Mínimos de Cotas. 
+15.1.1. Um Lote Mínimo de Cotas somente poderá ser emitido (a) de acordo com uma Ordem de Integralização 
+devidamente submetida por um Agente Autorizado e (b) mediante a entrega de uma Cesta ao FUNDO. Os Lotes Mínimos 
+de Cotas somente poderão ser resgatados (a) mediante uma Ordem de Resgate devidamente submetida por um Agente 
+Autorizado e (b) mediante a entrega de uma Cesta pelo FUNDO. 
+15.2. Ordens de integralização ou Ordens de Resgate de cotas do FUNDO feitas em Dias de Pregão até 15 (quinze) 
+minutos antes do encerramento do pregão regular da BM&FBOVESPA (“Horário de Corte para Ordens”) serão 
+processadas no mesmo Dia de Pregão. Ordens de Integralização ou Ordens de Resgate feitas após o Horário de Corte 
+para Ordens não serão aceitas, devendo, caso permaneça o interesse na emissão ou resgate, ser enviada nova Ordem no 
+Dia de Pregão imediatamente subseqüente, observando o horário previsto acima.  
+15.3. A composição da Cesta, seja para fins de uma Ordem de Integralização ou de uma Ordem de Resgate, obedecerá 
+às seguintes regras: (i) terá, no mínimo, 95% (noventa e cinco por cento) do seu valor representado por ações do Índice, 
+em qualquer proporção; e (ii) poderá ter, no máximo, 5% (cinco por cento) do seu valor representado por Investimentos 
+Permitidos e/ou Valores em Dinheiro. 
+15.3.1. Valores em Dinheiro serão pagos pelo investidor (ou, se aplicável, pelo FUNDO) quando da liquidação da nota de 
+corretagem da respectiva operação de integralização ou resgate de cotas do FUNDO. 
+15.4. O GESTOR, a seu exclusivo critério, poderá definir Cestas distintas para fins de execução de Ordens de 
+Integralização e de Ordens de Resgate, conforme o caso, ficando ressalvado que a cesta aplicável a cada Ordem de 
+Integralização ou Ordem de Resgate (a) constará do Arquivo de Composição da Cesta divulgado diariamente na página do 
+FUNDO na rede mundial de computadores antes da abertura do pregão da BM&FBOVESPA; (b) observará a composição  
+descrita no item 15.3 acima; e (c) poderá, a exclusivo critério do GESTOR, compreender Direitos sobre Ações, nos termos 
+da regulamentação aplicável.  
+15.5. Em situações excepcionais de dificuldade na execução de Ordens de Integralização ou Ordens de Resgate, devida à 
+baixa liquidez de uma ou mais ações do Índice que componham a Cesta, o GESTOR, a seu exclusivo critério, poderá 
+substituir tais ações do Índice por Valores em Dinheiro, limitados a 5% (cinco por cento) do valor total da Cesta.  
+15.6. O Arquivo de Composição da Cesta descrevendo a composição da Cesta a ser entregue por ocasião da execução de 
+uma Ordem de Integralização e de uma Ordem de Resgate será divulgado na página do FUNDO na rede mundial de 
+computadores antes da abertura da BM&FBOVESPA para operações no Dia de Pregão. Um Arquivo de Composição da 
+Cesta valerá para Ordens de Integralização e para Ordens de Resgate recebidas após a sua divulgação e até o próximo 
+Horário de Corte para Ordens. 
+15.7. A integralização e o resgate de Lotes Mínimos de Cotas deverão ser liquidados no prazo exigido para a liquidação de 
+negociações com ações na BM&FBOVESPA. Qualquer alteração do referido prazo de liquidação por parte da 
+BM&FBOVESPA será prontamente divulgada na página do FUNDO na rede mundial de computadores. Sempre que 
+houver suspensão da negociação de qualquer das ações que devam ser entregues pelo FUNDO aos cotistas por ocasião 
+do resgate de cotas do FUNDO, a entrega de tais ações poderá ser realizada em prazo superior ao do disposto neste item. 
+15.8. Os Agentes Autorizados submeterão uma Ordem de Integralização ou uma Ordem de Resgate que, em cada caso, 
+não será considerada aceita até que o ADMINISTRADOR, por meio da BM&FBOVESPA e/ou página transacional do site 
+www.itau.com.br/itnow, tenha apresentado a tal Agente Autorizado uma confirmação de que a respectiva Ordem de 
+Integralização ou Ordem de Resgate, conforme o caso, foi aceita. 
+15.9. Qualquer cotista que solicite a um Agente Autorizado que efetue o resgate de um ou mais Lotes Mínimos de Cotas 
+detidos por tal cotista (“Pedido de Resgate”) deverá fornecer ao respectivo Agente Autorizado as notas de corretagem e 
+ 
+10 
+ 
+ 
+demais documentos (“Registros de Cotista”) necessários para que o ADMINISTRADOR apure o custo de aquisição das 
+Cotas a serem resgatadas, devendo tal Agente Autorizado entregar tais Registros do Cotista ao ADMINISTRADOR pelo 
+menos 3 (três) horas antes do fechamento do pregão do Dia do Pedido de Resgate. Caso o ADMINISTRADOR não receba 
+tais Registros do Cotista dentro deste prazo, o Pedido de Resgate em questão será cancelado.  
+15.10. Durante o Período de Rebalanceamento, o ADMINISTRADOR poderá aceitar, no momento da integralização de um 
+Lote Mínimo de Cotas, ou entregar, para o resgate de um Lote Mínimo de Cotas, uma Cesta composta apenas de uma 
+determinada Ação do Índice ou de determinadas Ações do Índice ou ainda de determinada ação ou de determinadas 
+ações considerada(s) líquida(s) que esteja(m) sendo incluída(s) ou excluída(s) em uma nova composição do Índice, de 
+acordo com as previsões para a nova composição do Índice conforme divulgadas pela BM&FBOVESPA.  
+15.10.1. Na hipótese descrita no item 15.10, caso o número de Ordens de Integralização ou de Ordens de Resgate venha 
+a exceder a quantidade de ações necessária para ajustar a carteira do FUNDO, a aceitação ou entrega, conforme o caso, 
+de tais ações será feita proporcionalmente à quantidade de ações oferecidas por, ou atribuíveis a cada investidor que 
+tenha encaminhado tais (a) Ordens de Integralização, ficando ressalvado que o número de cotas a ser atribuído a cada 
+investidor corresponderá sempre a um número inteiro, e (b) Ordens de Resgate, ficando ressalvado que tal número de 
+ações a ser atribuído a cada investidor corresponderá sempre a um número inteiro. 
+15.10.2. Relativamente à hipótese descrita no item 15.10, somente as ações que tiverem sido negociadas na 
+BM&FBOVESPA no Dia de Pregão da Ordem de Integralização ou Ordem de Resgate de cotas poderão estar incluídas 
+em tais carteiras.  
+15.10.3. Na hipótese do item 15.10.1, poderá haver o pagamento ou recebimento pelo FUNDO, conforme o caso, de 
+Valores em Dinheiro, com o objetivo de corrigir eventuais distorções causadas pelos arredondamentos ali referidos e pelo 
+fato de o Valor Patrimonial da cota objeto da integralização ou resgate somente ser calculado após o encerramento do 
+pregão regular da BM&FBOVESPA no Dia de Pregão da respectiva integralização ou resgate. Nessa hipótese, aplicar-se-
+á, ainda, o disposto nos itens 15.3 e 15.3.1 acima.  
+15.11. O ADMINISTRADOR poderá aceitar que dois ou mais investidores integralizem cotas do FUNDO por meio da 
+entrega simultânea e conjunta de Ações do Índice que, em conjunto, formem um ou mais Lotes Mínimos de Cotas; 
+devendo, nesse caso, a proporção de cotas que couber a cada investidor ser calculada de maneira proporcional ao valor 
+de mercado das carteiras entregues ao FUNDO por cada investidor. 
+15.12. As integralizações de cotas do FUNDO poderão ser suspensas, a critério do ADMINISTRADOR, sempre que a 
+BM&FBOVESPA ou a CVM suspender a negociação de cotas do FUNDO.  
+15.13. Quando da Ordem de Resgate, a Cesta poderá compreender juros e dividendos declarados e ainda não pagos. 
+Nessa hipótese, na data da Ordem de Resgate, o ADMINISTRADOR emitirá, em nome do cotista, recibo referente ao 
+montante de juros e dividendos declarados e não pagos para recebimento, e entregará tal recibo ao respectivo Agente 
+Autorizado. Os juros e dividendos referidos neste item somente serão transferidos pelo FUNDO, aos respectivos 
+respectivos Agentes Autorizados para pagamento aos cotistas que tiverem resgatado suas cotas, após o recebimento pelo 
+FUNDO dos pagamentos relativos aos respectivos juros e dividendos.  
+15.14. Na efetivação de Ordem de Integralização e/ou Resgate, a BM&FBOVESPA cobrará, do respectivo solicitante, uma 
+taxa de processamento da ordem (“Taxa de Integralização e Resgate”). Esta taxa será cobrada por ordem efetivada, 
+independentemente da quantidade de lotes mínimos integralizados e/ou resgatados. 
+15.14.1. O valor da Taxa de Integralização e Resgate é divulgado pela BM&FBOVESPA, por meio de ofícios aos Agentes 
+Autorizados. 
+ 
+16. DA AMORTIZAÇÃO DE COTAS 
+16.1. Em casos excepcionais e a critério do ADMINISTRADOR, poderá ser realizada a amortização de cotas do FUNDO. 
+Para os fins deste item, amortização significa o pagamento em moeda corrente nacional a todos os cotistas de parcela do 
+Valor Patrimonial de suas cotas, sem redução do número de cotas.  
+16.2. O ADMINISTRADOR somente poderá utilizar tal faculdade caso a performance do FUNDO mostre-se superior à 
+performance do Índice e no caso previsto no item 14.6 deste Regulamento. 
+ 
+17. DA NEGOCIAÇÃO DE COTAS 
+17.1. As cotas do FUNDO serão listadas para negociação na BM&FBOVESPA. 
+17.2. O ADMINISTRADOR, bem como pessoas físicas e jurídicas ligadas ao ADMINISTRADOR poderão, desde que 
+permitido pela regulamentação em vigor, (i) negociar cotas do FUNDO, e (ii) atuar como formador de mercado para as 
+cotas do FUNDO e, nessa hipótese, negociar cotas do FUNDO conforme parâmetros estabelecidos para a atividade de 
+formador de mercado. 
+ 
+11 
+ 
+ 
+17.3. Não obstante o disposto no item 17.2, o GESTOR não poderá atuar como formador de mercado para as cotas do 
+FUNDO.  
+ 
+ 
+18. POLÍTICA DE DISTRIBUIÇÃO DE RESULTADOS 
+18.1. Os resultados do FUNDO serão automaticamente nele reinvestidos. A metodologia de cálculo do Índice presume que 
+quaisquer cupons, recibos de subscrição, certificados de desdobramento, dividendos, juros sobre capital próprio, 
+bonificações ou outros direitos relativos às Ações do Índice declarados pelos Emissores dos ativos que compõe o Índice 
+são imediatamente reinvestidos em Ações do Índice adicionais na mesma proporção da composição da carteira do Índice, 
+ainda que não tenham sido imediatamente pagos ou distribuídos. O ADMINISTRADOR, portanto, reinvestirá os recursos 
+recebidos, procurando seguir a metodologia de cálculo do Índice. Caso os direitos acima referidos não sejam 
+imediatamente pagos ou distribuídos, o FUNDO manterá os respectivos direitos em sua carteira, utilizando-se o 
+ADMINISTRADOR dos mecanismos de gestão disponíveis para, tão somente, buscar evitar um impacto adverso relevante 
+no nível de aderência do FUNDO ao Índice. 
+ 
+19. ASSEMBLEIA GERAL 
+19.1. Compete exclusivamente à assembléia geral de cotistas deliberar sobre: (i) demonstrações contábeis do FUNDO; (ii) 
+substituição do ADMINISTRADOR ou do GESTOR; (iii) mudança no objetivo e política de investimento do FUNDO; (iv) 
+aumento na taxa de administração; (v) mudança de endereço da página do FUNDO na rede mundial de computadores; (vi) 
+fusão, incorporação, cisão, transformação ou liquidação do FUNDO; (vii) alterações no Contrato de Licença, caso essas 
+alterações acarretem aumento de despesas para o FUNDO; e (viii) outras alterações no Regulamento que não sejam 
+resultado de decisões relativas aos incisos (ii) a (v) deste item 19.1.  
+19.1.1. Não obstante o disposto no inciso (viii) do item 19.1, este Regulamento pode ser alterado pelo ADMINISTRADOR, 
+independentemente da assembléia geral de cotistas ou de consulta aos cotistas, sempre que tal alteração decorrer 
+exclusivamente da necessidade de atendimento a exigência expressa da CVM, de adequação a normas legais ou 
+regulamentares ou, ainda, em virtude da atualização de endereço ou informações para contato com o ADMINISTRADOR 
+ou da alteração do prazo de que trata o item 13.4 deste Regulamento.  
+19.2. A assembléia geral de cotistas deverá ser convocada por edital enviado à BM&FBOVESPA e publicado na página do 
+FUNDO na rede mundial de computadores. 
+19.2.1. Do edital de convocação devem constar, obrigatoriamente, dia, hora e local em que será realizada a assembléia 
+geral de cotistas, a ordem do dia com os assuntos a serem tratados, bem como o detalhamento sobre propostas 
+específicas de alterações no Regulamento, se for o caso. 
+19.2.2. A convocação da assembléia geral de cotistas deve ser feita com, no mínimo, 10 (dez) dias de antecedência da 
+data de sua realização.  
+19.2.3. A assembléia geral ordinária deve ser convocada pelo ADMINISTRADOR anualmente, até 30 (trinta) de junho de 
+cada ano, para deliberar sobre as demonstrações contábeis do FUNDO.  
+19.3.1. A assembléia geral ordinária somente pode ser realizada após a divulgação na página do FUNDO na rede mundial 
+de computadores das demonstrações contábeis relativas ao exercício, com prazo de antecedência mínimo de quinze (15) 
+dias, devendo tais demonstrações ficar à disposição dos cotistas na sede do ADMINISTRADOR.  
+19.4. Além da convocação prevista no item 19.2.3 deste Regulamento, a assembléia geral de cotistas pode ser convocada 
+a qualquer tempo pelo ADMINISTRADOR ou solicitada por cotista ou grupo de cotistas que detenha, no mínimo, 5% (cinco 
+por cento) do total de cotas emitidas. 
+19.5. Quando a realização da assembléia geral de cotistas for solicitada por um ou mais cotistas que detenham, no 
+mínimo, 5% (cinco por cento) do total de cotas emitidas, o ADMINISTRADOR deve realizar a convocação, em até 30 
+(trinta) dias, a expensas do(s) requerente(s), salvo se a assembléia geral de cotistas assim convocada deliberar em 
+contrário. 
+19.6. A assembléia geral de cotistas também deverá ser convocada pelo ADMINISTRADOR e a suas expensas, no prazo 
+de 15 (quinze) dias, sempre que: 
+(i) o erro de aderência, calculado como o desvio padrão populacional das diferenças entre a variação percentual diária do 
+Valor Patrimonial das cotas e a variação percentual diária do valor de fechamento do Índice nos últimos 60 (sessenta) 
+pregões seja superior a 2 (dois) pontos percentuais, desde que tal erro de aderência não seja reenquadrado ao limite de 2 
+(dois) pontos percentuais até o 15º (décimo quinto) Dia Útil consecutivo subseqüente à data de verificação do respectivo 
+erro de aderência; 
+(ii) a diferença entre a rentabilidade acumulada do FUNDO e a rentabilidade acumulada do Índice nos últimos 60 
+(sessenta) pregões seja superior a 2 (dois) pontos percentuais, desde que tal diferença de rentabilidade não seja 
+ 
+12 
+ 
+ 
+reenquadrada ao limite de 2 (dois) pontos percentuais até o 15º (décimo quinto) Dia Útil consecutivo subseqüente à data 
+de verificação da respectiva diferença de rentabilidade; ou  
+(iii) a diferença entre a rentabilidade acumulada do FUNDO e a rentabilidade acumulada do Índice em um período de 12 
+(doze) meses for superior a 4 (quatro) pontos percentuais, desde que tal diferença de rentabilidade não seja reenquadrada 
+ao limite de 4 (quatro) pontos percentuais até o 30º (trigésimo) Dia Útil consecutivo subseqüente à data de verificação da 
+respectiva diferença de rentabilidade.   
+19.6.1. A ocorrência de qualquer dos eventos referidos nos incisos do item 19.6 deverá ser divulgada imediatamente na 
+página do FUNDO na rede mundial de computadores, devendo a primeira divulgação relativa aos incisos (i) e (ii) ocorrer 
+após decorridos sessenta pregões da data da listagem das cotas na BM&FBOVESPA, enquanto que a primeira divulgação 
+relativa ao inciso (iii) deverá ocorrer após decorridos 12 (doze) meses daquela data.  
+19.6.2 A ordem do dia da assembléia geral de cotistas convocada devido às condições previstas no caput e incisos do item 
+19.6 deverá compreender os seguintes itens: 
+I. explicações, por parte do ADMINISTRADOR, em conjunto com o GESTOR, das razões que, no seu entendimento, 
+motivaram o erro de aderência ou a diferença de rentabilidade. Tais explicações deverão ser divulgadas também na 
+página do FUNDO na rede mundial de computadores com antecedência mínima de quinze dias da realização da 
+assembléia e mantidas até 30 (trinta) dias após sua realização; e 
+II. deliberação acerca da extinção do FUNDO ou substituição do ADMINISTRADOR ou GESTOR, matéria sobre a qual não 
+poderão votar pessoas ligadas, respectivamente, ao ADMINISTRADOR ou GESTOR. 
+19.6.3. Não obstante o disposto no item 19.6, as assembléias gerais de cotistas convocadas devido às condições previstas 
+no item 19.6 deverão ter intervalo mínimo de trinta dias, no caso da manutenção do ADMINISTRADOR e do GESTOR, e 
+de noventa dias, caso a assembléia geral de cotistas anterior tenha decidido por sua substituição. 
+19.7. As deliberações da assembléia geral de cotistas, que deve ser instalada com a presença de pelo menos um cotista 
+ou representante legal, são tomadas pelo critério da maioria dos votos dos cotistas presentes ou devidamente 
+representados em tal assembléia, sendo atribuído um voto a cada cota.  
+19.7.1. As matérias previstas nos incisos (ii) (iii), (iv) e (vi) do item 19.1 deste Regulamento devem ser aprovadas pelo voto 
+dos cotistas que detenham a maioria absoluta das cotas do FUNDO, sendo o ADMINISTRADOR, o GESTOR e pessoas a 
+eles respectivamente ligadas impedidos de votar quando se tratar de deliberação sobre a substituição do 
+ADMINISTRADOR ou GESTOR.  
+19.7.2. Nenhum cotista poderá votar pela indicação de um novo administrador ou gestor para o FUNDO, caso tal cotista 
+seja ligado, direta ou indiretamente, a tal candidato a novo administrador ou gestor, respectivamente, do FUNDO. 
+19.7.4. O quorum de deliberação definido no item 19.7.1 não se aplica para as votações em assembléias gerais de cotistas 
+ocorridas por força do disposto no inciso II do item 9.5 combinado com item 9.6, inciso II do item 10.3, combinado com 
+10.3.2, bem como no inciso II do item 19.6.2 deste Regulamento, prevalecendo, portanto, o critério de decisão por voto da 
+maioria de cotas do FUNDO de titularidade dos cotistas presentes ou devidamente representados em tais assembléias 
+gerais de cotistas.  
+19.7.5. Somente podem votar na assembléia geral de cotistas, os cotistas do FUNDO, seus representantes legais ou 
+procuradores legalmente constituídos há menos de um ano. 
+19.8. Se após a terceira convocação de assembleia geral não houver quorum para deliberação relativa às matérias 
+previstas nos incisos (i) e (v) do item 19.1 do Regulamento, estas serão consideradas aprovadas. 
+ 
+20.  DE EXERCÍCIO DE VOTO 
+20.1. No intuito de defender os interesses do FUNDO e dos cotistas, o ADMINISTRADOR adota política de exercício de 
+direito de voto do GESTOR para os ativos que compõem a carteira do FUNDO (“Política de Voto”).  
+20.1.1. A Política de Voto está disponível no site www.itau.com.br/itnow ou na sede do GESTOR.  
+20.1.2. A Política de Voto disciplina os princípios gerais, o processo decisório e as matérias obrigatórias e orienta as 
+decisões, resumidamente da seguinte forma: 
+(i) será exercido o direito de voto para os ativos que compõem a carteira do FUNDO quando a participação percentual no 
+ativo seja relevante levando-se em consideração o total de recursos administrados e geridos pelo ADMINISTRADOR e 
+pelo GESTOR; e 
+(ii) não será exercido o direito de voto nas situações em que: (a) possa estar configurado conflito de interesse; ou (b) as 
+matérias a serem discutidas na assembleia não sejam de interesse do FUNDO; (c) o custo relacionado com o exercício do 
+voto não for compatível com a participação do ativo financeiro no FUNDO; ou, ainda, (d) nas demais situações previstas na 
+regulamentação em vigor.  
+20.1.3. O resumo e a justificativa sumária do voto proferido em assembleia serão colocados à disposição dos cotistas no 
+site www.itau.com.br/itnow.  
+ 
+13 
+ 
+ 
+20.2. O ADMINISTRADOR somente exercerá o direito de voto do FUNDO inerente aos valores mobiliários da carteira do 
+FUNDO que não estejam sujeitos a empréstimo na forma prevista no item 13 acima.  
+  
+21. POLÍTICA DE DIVULGAÇÃO DE INFORMAÇÕES 
+21.1. O FUNDO tem uma página na rede mundial de computadores, no endereço http://www.itau.com.br/itnow que contém 
+todas as informações previstas na regulamentação aplicável, bem como quaisquer informações relativas ao FUNDO que 
+sejam consideradas relevantes pelo ADMINISTRADOR.  
+21.1.1. Detalhes sobre as operações de integralização e resgate de cotas, bem como sobre operações de empréstimo de 
+ações, estão disponíveis na página do FUNDO na rede mundial de computadores e serão atualizados periodicamente, na 
+forma da regulamentação aplicável. 
+21.1.2. O ADMINISTRADOR divulgará, ampla e imediatamente, qualquer ato ou fato relevante inerente ao funcionamento 
+do FUNDO ou à capacidade do ADMINISTRADOR de exercer suas funções, que possa vir a causar impacto relevante na 
+capacidade do FUNDO de atingir seu objetivo por meio (i) da página inicial do FUNDO na rede mundial de computadores, 
+(ii) dos endereços de correspondência eletrônicos cadastrados na página do FUNDO, e (iii) do sistema de divulgação de 
+informações da BM&FBOVESPA. 
+21.2. O ADMINISTRADOR divulgará à BM&FBOVESPA, em cada Dia de Pregão, o Valor Patrimonial de cada cota, a 
+composição da carteira do FUNDO e o valor do patrimônio líquido do FUNDO. 
+21.2.1. Os cotistas serão comunicados de suas posições na forma da regulamentação aplicável, conforme legislação em 
+vigor para o mercado de ações.  
+21.2.2. Os cotistas que integralizarem ou resgatarem cotas do FUNDO receberão comunicação por escrito do custodiante 
+ou do escriturador das cotas contendo, no mínimo, informações quanto à data, quantidade de cotas envolvidas e valor da 
+operação. 
+21.3. Os cotistas poderão obter informações e esclarecer dúvidas a respeito do FUNDO das seguintes formas: (i) por meio 
+de correspondência enviada à atenção do ADMINISTRADOR; (ii) por mensagem de correio ou (iii) por telefone. As 
+informações para contato com o ADMINISTRADOR estão divulgadas na página do fundo na rede mundial de 
+computadores, no endereço http://www.itau.com.br/itnow.   
+ 
+22. DAS DEMONSTRAÇÕES CONTÁBEIS E DOS RELATÓRIOS DE AUDITORIA 
+22.1. O FUNDO tem escrituração contábil própria, sendo suas contas e demonstrações contábeis segregadas daquelas do 
+ADMINISTRADOR.  
+22.2. As demonstrações contábeis do FUNDO, relativas ao exercício contábil findo em 31 de março de cada ano, estão 
+sujeitas e deverão ser preparadas de acordo com as normas contábeis expedidas pela CVM.  
+22.3. No prazo de 60 (sessenta) dias após o encerramento do exercício contábil, as demonstrações contábeis do FUNDO 
+devem ser colocadas à disposição de qualquer interessado que as solicitar ao ADMINISTRADOR.  
+22.3.1. Não obstante o disposto no item 22.3 sempre que requisitado por cotistas ou investidores potenciais, o 
+ADMINISTRADOR deverá deixar à disposição de tais cotistas ou investidores, as seguintes informações: (i) as últimas 
+demonstrações financeiras do FUNDO, bem como o balanço e demonstração dos lucros, perdas e ganhos retidos pelo 
+FUNDO; e (ii) demonstrações financeiras similares às mencionadas no item (i) acima relativas aos últimos dois anos em 
+que o FUNDO esteve em operação. 
+22.3.2. As demonstrações financeiras de que trata o item 22.3.1, deverão, sempre que razoavelmente possível, ser 
+auditadas pelo auditor independente do FUNDO. 
+22.4. As demonstrações contábeis do FUNDO serão auditadas anualmente por auditor independente registrado na CVM, e 
+divulgadas pelo ADMINISTRADOR na página do FUNDO na rede mundial de computadores. 
+ 
+23. ENCARGOS 
+23.1. Constituem encargos do FUNDO, além da taxa de administração a ser paga ao ADMINISTRADOR, as seguintes 
+despesas: (i) taxas, impostos ou contribuições federais, estaduais ou municipais, que recaiam ou venham a recair sobre os 
+bens, direitos e obrigações do FUNDO; (ii) despesas com o registro de documentos em cartório, impressão, expedição e 
+publicação de relatórios, formulários e periódicos, previstas na regulamentação pertinente; (iii) despesas com 
+correspondência de interesse do FUNDO; (iv) honorários e despesas do auditor independente; (v) emolumentos e 
+comissões pagas por operações do FUNDO; (vi) honorários de advogado, custas e despesas processuais correlatas, 
+incorridas em razão de defesa dos interesses do FUNDO, em juízo ou fora dele, inclusive o valor de qualquer condenação 
+imputada ao FUNDO; (vii) a contribuição anual devida às bolsas de valores ou à entidade do mercado de balcão 
+organizado em que o FUNDO tenha suas cotas admitidas à negociação; (viii) despesas com custódia e liquidação de 
+operações com ativos financeiros do FUNDO; (ix) despesas com fechamento de câmbio para as operações permitidas, ou 
+ 
+14 
+ 
+ 
+relativas a operações envolvendo certificados ou recibos de depósito de ativos financeiros, caso tais ativos venham a fazer 
+parte do Índice; e (x) “royalties” devidos pela utilização do índice de referência, desde que cobrados de acordo com o 
+Contrato de Licença.  
+ 
+24. FATORES DE RISCO 
+O FUNDO apresenta riscos, destacando-se: 
+(A) RISCO DE DESCOLAMENTO DE RENTABILIDADE ENTRE O FUNDO E O ÍNDICE – A performance do FUNDO pode não refletir 
+integralmente a performance do Índice, visto que a implementação do objetivo de investimento do FUNDO está sujeita a 
+uma série de limitações, tais como:  
+• 
+taxas e despesas devidas pelo FUNDO; 
+• 
+taxas operacionais, despesas e diferenças temporais incorridas no ajuste da composição da carteira do FUNDO 
+em razão de alterações na composição do Índice;  
+• 
+Receitas declaradas pelas Companhias cujas ações compõem a carteira teórica do Índice, mas ainda não pagas 
+ou recebidas pelo FUNDO;  
+• 
+posições em dinheiro ou em Investimentos Permitidos, enquanto qualquer Ação pertencente ao Índice não estiver 
+disponível ou quando o ADMINISTRADOR determinar que é do melhor interesse do FUNDO deter posições em 
+dinheiro ou Investimentos Permitidos; 
+• 
+em condições de baixa liquidez, na impossibilidade de comprar uma ou mais ações do Índice, o GESTOR, a seu 
+exclusivo critério , poderá substituir tais ações do Índice por Valores em Dinheiro, limitados a 5% (cinco por cento) 
+do valor total da Cesta. 
+• 
+custos operacionais envolvidos para realizar os ajustes mencionados acima, caso uma Ação do Índice não esteja 
+disponível, o que ocasionalmente poderá superar os benefícios previstos de tais ajustes; e  
+• 
+impossibilidade, em determinadas condições do mercado, de o ADMINISTRADOR do FUNDO utilizar instrumentos 
+derivativos, tais como contratos futuros ou opções sobre contratos futuros que tenham um índice de mercado 
+como ativo subjacente para refletir a performance do Índice, especialmente com relação ao hedging (proteção) dos 
+recebíveis futuros do FUNDO e ao investimento das Receitas declaradas pelas Companhias durante os períodos 
+nos quais tais recebíveis ou Receitas não tenham sido pagos ao FUNDO. 
+ (B) LIQUIDEZ DAS COTAS DO FUNDO - Não há como garantir que um mercado ativo de negociação de cotas do FUNDO será 
+mantido e não se pode prever os reais níveis de preço pelos quais as cotas do FUNDO poderão ser negociadas ou os 
+tamanhos dos lotes dessa negociação. Ainda, não há como garantir que as cotas do FUNDO terão padrão de negociação 
+ou de preço similar àqueles das cotas negociadas em bolsa de valores, emitidas por fundos ou empresas de investimento 
+no Brasil ou em outras jurisdições, ou que tenham como referência outros índices de mercado, que não o ISE. Além disso, 
+as cotas do FUNDO não são resgatáveis em dinheiro, mas somente mediante a entrega, pelo FUNDO, ao cotista que tiver 
+solicitado o resgate de uma Cesta, cuja composição obedecerá as regras deste regulamento.  
+(C) LIQUIDEZ DOS ATIVOS QUE COMPÕEM A CARTEIRA DO FUNDO – Os cotistas que resgatarem cotas do FUNDO receberão 
+apenas as Ações pertencentes à carteira teórica do Índice e, conforme o caso, ações e outros ativos não incluídos no 
+Índice (Investimentos Permitidos conforme definido no Regulamento) que compõem a Cesta. É possível que os cotistas 
+que resgatarem cotas do FUNDO não consigam liquidar as ações ou ativos que façam parte da Cesta por ocasião do 
+resgate, caso não haja liquidez no mercado para negociação de tais ações, nem receber qualquer valor pelos demais 
+ativos que, conforme o caso, façam parte da Cesta quando do resgate. 
+(D) RISCO DE INVESTIMENTO EM RENDA VARIÁVEL – O mercado de bolsa de valores é considerado um mercado de alto risco 
+devido às grandes variações de rendimentos a que está sujeito. Adicionalmente, os investimentos em ações estão sujeitos 
+a riscos de perda de parte do capital investido em razão de degeneração da situação econômico-financeira da empresa 
+emissora das ações. 
+(E) RISCOS DE MERCADO – os ativos do FUNDO estão sujeitos às oscilações dos mercados em que são negociados, 
+afetando seus preços, taxas de juros, ágios, deságios e volatilidades e produzindo flutuações no valor das cotas do 
+FUNDO, que podem representar ganhos ou perdas para os cotistas. 
+(F) SISTÊMICO – a negociação e os valores dos ativos do FUNDO podem ser afetados por condições econômicas 
+nacionais, internacionais e por fatores exógenos diversos, tais como interferências de autoridades governamentais e 
+órgãos reguladores nos mercados, moratórias, alterações da política monetária, ou da regulamentação aplicável aos 
+fundos de investimento em índice de mercado – fundos de índice e às suas operações, podendo, eventualmente, causar 
+perdas aos cotistas. 
+(G) DERIVATIVOS – a realização de operações de derivativos pode (i) aumentar a volatilidade do FUNDO, (ii) limitar ou 
+ampliar as possibilidades de retornos, (iii) não produzir os efeitos pretendidos e (iv) determinar perdas ou ganhos aos 
+ 
+15 
+ 
+ 
+cotistas do FUNDO. Adicionalmente, ainda que as operações de derivativos tenham objetivo de proteção da carteira contra 
+determinados riscos, não é possível garantir a inexistência de perdas se ocorrerem os riscos que se pretendia proteger. 
+(H) AS COTAS PODERÃO SER NEGOCIADAS NA BM&FBOVESPA COM ÁGIO OU DESÁGIO EM RELAÇÃO AO VALOR PATRIMONIAL – O 
+Valor Patrimonial do FUNDO poderá diferir do preço de negociação das cotas do FUNDO na BM&FBOVESPA. Enquanto o 
+Valor Patrimonial do FUNDO refletir o valor de mercado da carteira do FUNDO, os preços de negociação das cotas 
+FUNDO na BM&FBOVESPA poderão ser inferiores ou superiores ao seu respectivo Valor Patrimonial. Espera-se que o 
+preço de negociação das cotas do FUNDO flutue baseado principalmente no Valo Patrimonial do FUNDO e na oferta e 
+procura de suas cotas, as quais irão variar com base nas condições de mercado e outros fatores, tais como a conjuntura 
+econômica do Brasil e a confiança do investidor e suas expectativas relacionadas ao mercado de capitais brasileiro. 
+Contudo, não há nenhuma garantia de que isso ocorra ou continue ocorrendo. Ainda, apesar do fato de os mecanismos de 
+emissão e resgate de cotas de FUNDO destinarem-se a ajudar a manutenção do preço de negociação das cotas em níveis 
+semelhantes ao Valor Patrimonial do FUNDO, não há garantias de que investidores irão de fato ou sempre que necessário 
+solicitar a emissão e o resgate de cotas do FUNDO quando tais desvios ocorrerem ou de que estas emissões e resgates 
+irão de fato reduzir a diferença entre o preço de negociação das cotas do FUNDO na BM&FBOVESPA e o seu respectivo 
+Valor Patrimonial. 
+(I) EMISSÃO E RESGATE – A emissão e o resgate de cotas do FUNDO somente poderão ser efetuados junto ao 
+ADMINISTRADOR através dos Agentes Autorizados em Lotes Mínimos de Cotas ou múltiplos inteiros destes, salvo no 
+caso de liquidação do FUNDO. Os Agentes Autorizados podem juntar dois ou mais investidores para formar um Lote 
+Mínimo de Cotas, mas ainda assim esses podem não conseguir subscrever ou resgatar suas cotas no momento em que 
+desejarem fazê-lo ou quando for mais favorável fazê-lo.  
+(J) A BM&FBOVESPA PODE PARAR DE ADMINISTRAR, CALCULAR, PUBLICAR OU MANTER O ISE, O QUE PODERIA LEVAR À LIQUIDAÇÃO 
+DO FUNDO - A BM&FBOVESPA administra, calcula, publica e mantém o ISE Contudo, a BM&FBOVESPA não tem 
+obrigação de fazê-lo e não se pode assegurar que a BM&FBOVESPA continuará a administrar, calcular, publicar e manter 
+este índice no decorrer da existência do FUNDO. De acordo com o Regulamento, se a BM&FBOVESPA parar de 
+administrar, calcular, publicar ou manter o ISE, os cotistas serão obrigados a decidir sobre a alteração ou não do objetivo 
+de investimento ou, se for o caso, sobre a liquidação do FUNDO. Se os cotistas não conseguirem chegar a um acordo 
+acerca de um novo objetivo de investimento para o FUNDO ou sobre a eventual liquidação do FUNDO, o 
+ADMINISTRADOR está autorizado a promover imediatamente a liquidação do FUNDO, conforme previsto no regulamento, 
+o que poderá afetar adversamente o Valor Patrimonial do FUNDO e de suas cotas. 
+(K) TANTO A CVM QUANTO A BM&FBOVESPA PODERÃO SUSPENDER A NEGOCIAÇÃO DE COTAS DO FUNDO - Tanto a CVM 
+quanto a BM&FBOVESPA poderão suspender a negociação das cotas do FUNDO sempre que determinarem que isso 
+seja apropriado para a proteção dos investidores. Nestes casos, os investidores não poderão comprar ou vender cotas do 
+FUNDO na BM&FBOVESPA durante qualquer período no qual a negociação das cotas esteja suspensa.  
+Se a negociação das cotas do FUNDO for suspensa, o preço de negociação destas poderá ser afetado e poderá divergir 
+significativamente do Valor Patrimonial por cota. Além disso, em virtude das limitações impostas ao resgate de cotas, é 
+possível que o Quotista, no caso de suspensão da negociação das cotas do FUNDO, sofra perdas financeiras decorrentes 
+de menor liquidez de seu investimento. 
+(L) LICENÇA DE USO DOS NOMES E MARCAS DA BM&FBOVESPA E DO ISE PODERÁ SER RESCINDIDA OU NÃO SER PRORROGADA  
+A BM&FBOVESPA e o GESTOR firmaram um Contrato de Licença de Uso de Marca ("Contrato de Licença"), conforme 
+item 27.3, pelo qual a BM&FBOVESPA concedeu uma licença ao GESTOR para o uso das marcas "BM&FBOVESPA" e 
+"ISE" de propriedade da BMF&FBOVESPA pelo prazo de três anos. O Contrato de Licença pode ser resilido ou resolvido 
+em diversas hipóteses nele previstas, ou não ser prorrogado. Nessa hipótese, o ADMINISTRADOR convocará assembleia 
+geral de cotistas para determinar o tratamento do impacto desse fato no FUNDO, nos termos previstos neste 
+Regulamento. Para maiores informações, acesse a página do fundo na rede mundial de computadores no endereço 
+http://www.itau.com.br/itnow. 
+(M) RISCO DE ERROS, FALHAS, ATRASOS NO FORNECIMENTO OU DISPONIBILIZAÇÃO DO ÍNDICE.  Podem ocorrer erros, falhas, 
+atrasos no fornecimento ou disponibilização do Índice.  Nem o ADMINISTRADOR, nem o GESTOR, nem qualquer outro 
+prestador de serviço do FUNDO atuam no cálculo, fornecimento ou disponibilização do Índice, nem possuem meios de 
+evitar a ocorrência desses eventos e, consequentemente, nenhum deles terá qualquer obrigação ou responsabilidade 
+relativamente a tais eventos.  Nos termos do Contrato de Licença, conforme mencionado no item 27.3 abaixo, a BM&F 
+BOVESPA expressamente se exime de qualquer responsabilidade por por erros ou atrasos no fornecimento ou 
+disponibilização do Índice ou por quaisquer decisões tomadas com base nele. 
+(N) RISCO DE DESEMPENHO DO SETOR – o Índice mede o retorno de uma carteira composta por ações de empresas com 
+reconhecido comprometimento com a responsabilidade social e a sustentabilidade empresarial, e também atuar como 
+ 
+16 
+ 
+ 
+promotor das boas práticas no meio empresarial brasileiro O desempenho desse setor pode ser inferior ao desempenho 
+geral ou desempenho de outros setores específicos do mercado acionário. 
+ 
+25. INTEGRALIZAÇÕES E RESGATES EM DIAS SEM EXPEDIENTE BANCÁRIO 
+Não serão permitidos integralizações ou resgates no FUNDO nos dias considerados não úteis, conforme definido no item 
+4. 
+ 
+26. DISPOSIÇÕES GERAIS  
+26.1. Pessoas jurídicas ligadas ao ADMINISTRADOR poderão atuar como corretora do FUNDO intermediando a compra e 
+venda de ativos que compõem a carteira do FUNDO, devendo, no entanto, cobrar taxas iguais ou melhores do que as 
+geralmente praticadas pelo mercado para investidores institucionais, tais como o FUNDO. 
+26.2. Todo investidor ao (i) solicitar a integralização de cotas do FUNDO (ii) adquirir cotas do FUNDO na BM&FBOVESPA 
+ou (iii) de qualquer outra forma se tornar cotista do FUNDO estará automaticamente aderindo e concordando com todas as 
+disposições deste Regulamento. 
+26.3. A expressão “Índice de Sustentabilidade Empresarial – ISE” e o nome do ISE constituem objeto de pedido de registro 
+de titularidade da BM&FBOVESPA depositado perante o Instituto Nacional da Propriedade Industrial, sendo o Índice de 
+Sustentabilidade Empresarial - ISE licenciado pela BM&FBOVESPA S.A. para o GESTOR exclusivamente para os fins 
+previstos no contrato firmado entre a BM&FBOVESPA e o GESTOR em 05/04/2011 (“Contrato de Licença”). A 
+BM&FBOVESPA não é responsável por erros ou atrasos no fornecimento ou disponibilização do ISE ou por quaisquer 
+decisões tomadas com base nele.” 
+26.4. Para mais informações sobre o FUNDO, consulte a página do fundo na rede mundial de computadores, no endereço 
+http://www.itau.com.br/itnow. Consultoria e informações sobre investimentos fale com o seu gerente ou entre em contato 
+com o Investfone 4004-4828 (capitais e regiões metropolitanas) ou 0800 011 8944 (demais localidades). Para dúvidas, 
+sugestões e reclamações, se necessário, utilize o SAC Itaú 0800 728 0728, todos os dias, 24h, ou o Fale Conosco 
+(www.itau.com.br/itnow). Se desejar a reavaliação da solução apresentada após utilizar esses canais, ligue para a 
+Ouvidoria Corporativa Itaú 0800 570 0011, dias úteis, das 9 às 18h, Caixa Postal nº 67.600, CEP 03162-971. Deficientes 
+auditivos, todos os dias, 24h, 0800 722 1722. 
+ 
+27.  FORO 
+Fica eleito o foro do domicílio ou da sede do cotista, salvo se o domicílio ou sede do cotista não se situar em território 
+brasileiro, caso em que fica eleito o foro da Cidade de São Paulo, Estado de São Paulo. 
+ 
+São Paulo-SP, 29 de dezembro de 2023. 
+ 
+ 
+ 

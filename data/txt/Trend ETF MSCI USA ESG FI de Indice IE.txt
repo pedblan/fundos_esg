@@ -1,0 +1,1860 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+REGULAMENTO  
+ 
+ 
+ 
+Trend ETF MSCI USA ESG 
+Fundo de Investimento de Índice 
+– Investimento no Exterior 
+ 
+ 
+CNPJ/ME Nº 40.953.254/0001-49 
+ 
+ 
+ 
+ 
+ 
+ 
+13 de setembro de 2021. 
+- 2 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+DEFINIÇÕES 
+Os termos e expressões a seguir, quando usados no presente Regulamento com letras iniciais 
+maiúsculas, no singular ou no plural, terão os significados a eles atribuídos abaixo: 
+ 
+Administrador 
+Banco BNP Paribas Brasil S.A., instituição financeira com 
+sede na Cidade e Estado de São Paulo, na Avenida Presidente 
+Juscelino Kubitschek, nº 1909, 9º ao 11º andares, Torre Sul, 
+inscrita no CNPJ sob o nº 01.522.368/0001-82, autorizada 
+pela CVM para o exercício profissional de administração e 
+gestão de carteiras de valores mobiliários pelo Ato 
+Declaratório CVM nº 4.448, de 21 de agosto de 1997, 
+conforme previsto no Artigo 23 da Lei 6.385/76, e na Instrução 
+CVM 558/15. 
+ 
+Agente Autorizado 
+Uma Corretora que tenha firmado um Contrato de Agente 
+Autorizado. 
+ 
+Arquivo de Composição da Cesta 
+ 
+O arquivo determinando a identificação e o respectivo 
+número de Cotas do Fundo de Índice Alvo, Investimentos 
+Permitidos, Valores em Dinheiro e Direitos sobre Ações 
+(conforme o caso), que compõem uma Cesta, conforme 
+calculada pela Gestora e divulgada diariamente na página 
+do Fundo na rede mundial de computadores antes da 
+abertura do pregão da B3. 
+ 
+B3 
+ 
+B3 S.A. – Brasil, Bolsa, Balcão. 
+ 
+BDRs 
+ 
+Certificados de depósitos de valores mobiliários (Brazilian 
+Depositary 
+Receipts), 
+representativos 
+de 
+valores 
+mobiliários de emissão de companhias abertas, ou 
+assemelhadas, com sede no exterior e emitidos por 
+instituição depositária no Brasil, nos termos da Instrução nº 
+332, emitida pela CVM em 4 de abril de 2000, conforme 
+alterada, e legislação aplicável. 
+Brasil 
+A República Federativa do Brasil. 
+ 
+Câmara  “ICC Brasil” 
+Câmara de Comércio Internacional no Brasil, localizada em 
+São Paulo – ICC Brasil. 
+ 
+Carteira 
+ 
+A totalidade dos ativos que integram a carteira do Fundo. 
+- 3 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Cesta 
+Significa a cesta a ser entregue por Cotistas ou pelo Fundo 
+para fins de integralização ou resgate de Lotes Mínimos de 
+Cotas, respectivamente, composta de Cotas do Fundo de 
+Índice Alvo, Investimentos Permitidos, Valores em 
+Dinheiro e/ou Direitos sobre Ações, conforme o caso. A 
+composição da cesta, seja para fins de uma Ordem de 
+Integralização ou de uma Ordem de Resgate, obedecerá às 
+seguintes regras: (i) terá, no mínimo, 95% (noventa e cinco 
+por cento) do seu valor representado por Cotas do Fundo 
+de Índice Alvo; e (ii) poderá ter, no máximo, 5% (cinco por 
+cento) do seu valor representado por Investimentos 
+Permitidos e/ou Valores em Dinheiro. A Gestora, a seu 
+exclusivo critério, poderá definir Cestas distintas para fins 
+de execução de Ordens de Integralização e de Ordens de 
+Resgate, conforme o caso, ficando ressalvado que a cesta 
+aplicável a cada Ordem de Integralização ou Ordem de 
+Resgate (a) constará do Arquivo de Composição da Cesta 
+divulgado diariamente na página do Fundo na rede 
+mundial de computadores antes da abertura do pregão da 
+B3; (b) observará a composição aqui descrita; e (c) poderá, 
+a exclusivo critério da Gestora, compreender Direitos sobre 
+Ações, de acordo com o Parágrafo Décimo Primeiro do 
+Artigo 18 da Instrução CVM 359/02. 
+ 
+CNPJ 
+ 
+Cadastro Nacional da Pessoa Jurídica. 
+ 
+Coligada 
+ 
+Qualquer pessoa, física ou jurídica, ou entidade que, a 
+qualquer tempo, direta ou indiretamente, controle, seja 
+controlada ou esteja sob controle comum de outra pessoa 
+ou entidade. 
+ 
+Confirmação 
+ 
+Confirmação por escrito apresentada pelo Administrador a 
+determinado Agente Autorizado, para que uma Ordem de 
+Integralização ou uma Ordem de Resgate submetida por 
+tal Agente Autorizado seja considerada aceita. 
+ 
+Contrato 
+de 
+Agente 
+Autorizado 
+ 
+O contrato entre o Administrador, atuando por conta e 
+ordem do Fundo, e o Agente Autorizado, estabelecendo os 
+termos e condições para integralização e resgate de Lotes 
+Mínimos de Cotas do Fundo. 
+ 
+Contrato de Gestão 
+O contrato celebrado entre o Administrador, atuando por 
+conta e ordem do Fundo, e a Gestora, que regulamenta a 
+gestão do Fundo. 
+ 
+Corretora 
+ 
+Uma corretora ou distribuidora de títulos e valores 
+mobiliários devidamente habilitada e pertencente ao 
+sistema de distribuição de valores mobiliários. 
+- 4 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Cotas 
+ 
+As cotas de emissão do Fundo. 
+ 
+Cotas do Fundo de Índice Alvo 
+ 
+As cotas do Fundo de Índice Alvo. 
+ 
+Cotista 
+ 
+O titular de Cotas, condômino do Fundo, 
+conforme 
+registro de posições da B3 controlado pelo Administrador. 
+ 
+CVM 
+Comissão de Valores Mobiliários. 
+ 
+   Dia de Cota 
+ 
+ 
+ 
+ 
+Data de Rebalanceamento 
+Qualquer dia que não seja um sábado, um domingo, feriado 
+de alcance nacional ou outro dia em que não haja 
+expediente ao público e não ocorra operações entre 
+Instituições Financeiras. 
+ 
+A data de reavaliação da composição da carteira teórica do 
+Índice e quaisquer respectivas alterações necessárias, 
+executadas a cada 3 (três) meses. A divulgação da 
+composição e pesos atribuídos a cada ativo que compõe o 
+Índice será efetuada até o dia anterior ao rebalanceamento 
+periódico do Índice nos termos deste Regulamento, e estará 
+disponível em página na rede mundial de computadores que 
+será 
+disponibilizada 
+na 
+página 
+do 
+Fundo 
+(https://www.xpasset.com.br/etfs/esgu11), a partir do link 
+específico do Fundo. 
+ 
+Dia de Pregão 
+ 
+Qualquer dia em que a B3 esteja aberta para negociações. 
+ 
+Dia Útil 
+ 
+Qualquer dia que não seja sábado, domingo, feriado 
+nacional ou na Cidade de São Paulo, ou dias em que, por 
+qualquer motivo, não houver expediente na B3. 
+ 
+Direitos sobre Ações 
+ 
+Cupons, direitos, recibos de subscrição e certificados de 
+desdobramento relativos àqueles valores mobiliários 
+eventualmente existentes na Carteira do Fundo, de acordo 
+com o Parágrafo Décimo Primeiro do Artigo 18 da Instrução 
+CVM 359/02. 
+ 
+Distribuição de resultados 
+ 
+O pagamento, se houver, de rendimentos, dividendos ou 
+outras receitas pelo Fundo aos Cotistas. 
+ 
+Dólares 
+Dólares dos Estados Unidos da América. 
+ 
+Domicílio de Conveniência 
+ 
+Bermudas; Ilhas Anglo-Normandas (Canal da Mancha); 
+Gibraltar; Anguilla; Antígua e Barbuda; Aruba; Bahamas; 
+Barbados; Ilhas Virgens Britânicas; Ilhas Cayman; Ilha 
+Dominica; República Dominicana; Granada; Haiti; Jamaica; 
+Ilhas Montserrat; Ilha Navassa; Antilhas Holandesas; Porto 
+- 5 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Rico; Ilha de São Bartolomeu; Ilhas São Cristovão e Neves; 
+Santa Lúcia; Ilha de São Martinho; São Vicente e 
+Granadinas; Trinidad e Tobago; Ilhas Turcas e Caicos; Ilhas 
+Virgens; Ilha de Man; Luxemburgo; Libéria; ou Panamá. 
+ 
+Emissores 
+ 
+Emissores de quaisquer ações que integram a Carteira, 
+equivalentes a, nos termos do Artigo 6º, caput e Parágrafos, 
+deste Regulamento: (i) companhias norte-americanas 
+listadas na NYSE (incluindo NYSE Arca, Inc. e NYSE MKT 
+LLC), na NASDAQ Global Select Market, na NASDAQ Select 
+Market e na NASDAQ Capital Market; (ii) fundos 
+imobiliários (exceto os REITs de hipoteca); e (iii) 
+companhias de desenvolvimento de negócios (business 
+development companies – BDCs). 
+ 
+Encargos do Fundo 
+ 
+(i) Taxa de Administração, na forma definida pelo presente 
+Regulamento; (ii) Taxas, impostos ou contribuições federais, 
+estaduais ou municipais, que recaiam ou venham a recair 
+sobre os bens, direitos e obrigações do Fundo, exigidos pela 
+legislação e regulamentação aplicáveis; (iii) despesas com o 
+registro de documentos em cartório, impressão, expedição e 
+publicação de relatórios, formulários e periódicos, previstas 
+na 
+regulamentação 
+aplicável; 
+ 
+(iv) 
+despesas 
+com 
+correspondência de interesse do Fundo; (v) honorários e 
+despesas do auditor independente do Fundo; (vi) 
+emolumentos e comissões pagos por operações do Fundo; 
+(vii) honorários de advogado, custas e despesas processuais 
+correlatas, incorridas em razão de defesa dos interesses do 
+Fundo, em juízo ou fora dele, inclusive o valor de qualquer 
+condenação imputada ao Fundo; (viii) a contribuição anual 
+devida à B3; (ix) despesas com custódia e liquidação de 
+operações com ativos financeiros; (x) despesas incorridas 
+com o fechamento de contratos de câmbio para transações 
+permitidas ou relativas a operações envolvendo certificados 
+ou recibo de depósito de títulos, caso tais ativos passem a 
+integrar o Índice; e (xi) “royalties” devidos pela utilização do 
+índice de referência de acordo com a seção “O Fundo ― 
+Taxas, Despesas e Encargos ― Taxa de Licenciamento” da 
+página do Fundo na rede mundial de computadores 
+https://www.xpasset.com.br/etfs/esgu11 
+ 
+FFO 
+Recursos originados das operações, ou funds from 
+operations. 
+ 
+Fundo 
+ 
+O TREND ETF MSCI USA ESG FUNDO DE INVESTIMENTO 
+DE ÍNDICE – INVESTIMENTO NO EXTERIOR. 
+ 
+Fundo de Índice Alvo 
+ 
+O iShares ESG Aware MSCI USA ETF, fundo de índice 
+(exchange-traded fund - ETF) registrado sob o Código ISIN 
+- 6 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+US46435G4257, constituído e organizado de acordo com as 
+leis dos Estados Unidos da América, gerido pela BlackRock 
+Investments LLC, empresa organizada sob as leis dos 
+Estados Unidos da América, localizada em 306 Andrus Drive 
+Murray, KY 42071, Estados Unidos da América, que busca 
+retornos de investimentos que correspondam de forma geral 
+à performance, antes de taxas e despesas, do Índice, cujas 
+cotas são listadas para negociação na NYSE Arca, Inc., sob o 
+código “ESGU”. 
+ 
+Gestora 
+ 
+XP ALLOCATION ASSET MANAGEMENT LTDA., Avenida 
+Presidente Juscelino Kubitschek, nº 1909, Torre Sul, 30º 
+andar (parte), na Cidade e Estado de São Paulo, CNPJ nº 
+37.918.829/0001-88, autorizada à atividade de gestão de 
+carteiras de valores mobiliários pela CVM por meio do Ato 
+Declaratório CVM nº 18.247, de 24 de novembro de 202. 
+ 
+GICS 
+ 
+O Padrão de Classificação da Indústria Global (Global 
+Industry Classification Standard), classificação desenvolvida 
+pela MSCI, Inc. e pela Standard & Poor’s. 
+ 
+Grupo de Cotistas 
+ 
+Cotista ou Cotistas que detenham, no mínimo, 5% (cinco por 
+cento) das Cotas em circulação. 
+ 
+Horário 
+de 
+Corte 
+para 
+Ordens 
+ 
+O horário que corresponda às 14h00 (quatorze horas), 
+horário de Brasília. 
+ 
+Índice 
+ 
+O índice MSCI USA Extended ESG Focus Index, calculado 
+pela MSCI Inc. 
+ 
+Instrução CVM 359/02 
+Instrução nº 359, emitida pela CVM em 22 de janeiro de 2002 
+e alterações posteriores que vierem a ser introduzidas pela 
+CVM. 
+ 
+Instrução CVM 555/14 
+Instrução nº 555, emitida pela CVM em 17 de dezembro de 
+2014, conforme alterada, e legislação aplicável. 
+ 
+Instrução CVM 558/15 
+Instrução nº 558, emitida pela CVM em 26 de março de 2015, 
+conforme alterada, e legislação aplicável. 
+ 
+Investimentos Permitidos 
+ 
+São os seguintes instrumentos financeiros e valores 
+mobiliários, nos quais o Fundo poderá investir até 5% (cinco 
+por cento) de seu Patrimônio Líquido, isolada ou 
+cumulativamente: (i) títulos públicos de emissão do Tesouro 
+Nacional; (ii) títulos de renda fixa de emissão de instituições 
+financeiras; (iii) cotas de fundos de investimento das classes 
+“curto prazo”, “renda fixa” e “referenciado”; (iv) operações 
+compromissadas, lastreadas nos títulos mencionados no 
+item (i) acima, realizadas de acordo com a regulamentação 
+- 7 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+do Conselho Monetário Nacional; (v) operações com 
+derivativos realizadas em bolsas de valores, em bolsas de 
+mercadorias e futuros ou em mercados de balcão 
+organizados, exclusivamente para administração dos riscos 
+inerentes 
+à 
+Carteira, 
+observadas 
+a 
+legislação 
+e 
+regulamentação aplicáveis; e (vi) ativos financeiros com 
+liquidez, não incluídos no Índice, desde que admitidos à 
+negociação na B3, e cotas de outros fundos de índice. 
+ 
+Lei 6.385/76 
+ 
+Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada. 
+ 
+Lote Mínimo de Cotas 
+ 
+Número de cotas que que a Gestora venha a determinar 
+após o início da negociação no mercado secundário que 
+possa ser emitido nos termos de uma Ordem de 
+Integralização ou Ordem 
+de Resgate devidamente 
+apresentada por um Agente Autorizado nos termos deste 
+Regulamento e que está disponibilizado na Página do 
+Fundo. 
+ 
+NYSE 
+A New York Stock Exchange, bolsa de valores de Nova Iorque, 
+nos Estados Unidos da América. 
+ 
+Ordem de Integralização 
+ 
+Uma ordem emitida por um Agente Autorizado, para que o 
+Fundo emita e entregue um Lote Mínimo de Cotas em 
+contraprestação à concomitante entrega de uma Cesta pelo 
+respectivo Agente Autorizado ao Fundo. 
+ 
+Ordem de Resgate 
+ 
+Uma ordem emitida por um Agente Autorizado, para que o 
+Fundo entregue uma Cesta em contraprestação à entrega 
+de um Lote Mínimo de Cotas pelo respectivo Agente 
+Autorizado. 
+ 
+Página do Fundo 
+ 
+Patrimônio Líquido 
+ 
+A página do Fundo na rede mundial de computadores, qual 
+seja: https://www.xpasset.com.br/etfs/esgu11 
+ 
+A soma (a) do disponível com o valor de todos os ativos 
+integrantes da Carteira e das Receitas acumuladas e não 
+distribuídas; menos (b) as exigibilidades do Fundo, incluindo 
+taxas e despesas acumuladas e não pagas. 
+ 
+Pedido de Resgate 
+ 
+Solicitação de qualquer Cotista a um Agente Autorizado 
+que efetue o resgate de um ou mais Lotes Mínimos de Cotas 
+detidos por tal Cotista, mediante apresentação da (a) 
+“Solicitação de resgate de Lotes Mínimos de Cotas e 
+apuração de Imposto de Renda Retido na Fonte (IRF)”, ou 
+(b) “Declaração de Isenção”, conforme aplicável, cujos 
+formulários encontram-se disponíveis na página do Fundo 
+na rede mundial de computadores. 
+ 
+ 
+- 8 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Período 
+de 
+Rebalanceamento 
+ 
+O período compreendido entre os 5 (cinco) Dias Úteis 
+anteriores e os 5 (cinco) Dias Úteis subsequentes à Data de 
+Rebalanceamento, nos termos do Artigo 21, Parágrafo 
+Primeiro. 
+ 
+Regulamento 
+de 
+Emissores da B3 
+ 
+ 
+Receitas 
+ 
+O Regulamento para Listagem de Emissores e Admissão 
+de Valores Mobiliários à Negociação de 8 de junho de 2021, 
+emitido pela B3, conforme alterado ou atualizado 
+ 
+Rendimentos, dividendos, juros sobre capital próprio, 
+Direitos sobre Ações e outros direitos relativos às ações da 
+Carteira, bem como outras receitas do Fundo e valores a 
+receber. 
+ 
+Receitas de Empréstimo 
+ 
+Valor total das Receitas decorrentes das operações de 
+empréstimo de ações realizadas pelo Fundo provisionadas 
+durante o mês em questão. 
+ 
+Registros de Cotista 
+ 
+Notas de corretagem e demais documentos fornecidos ao 
+respectivo Agente Autorizado por qualquer Cotista sujeito a 
+tributação que solicite a um Agente Autorizado que efetue 
+o resgate de um ou mais Lotes Mínimos de Cotas detidos 
+por tal Cotista. 
+ 
+Regras de Arbitragem 
+ 
+Regulamento de Arbitragem da Câmara de Comércio 
+Internacional no Brasil – ICC Brasil. 
+ 
+Regulamento 
+ 
+Este regulamento do Fundo. 
+ 
+REITs 
+ 
+Os 
+Real 
+Estate 
+Investment 
+Trusts, 
+entidades 
+de 
+investimento imobiliário constituídas nos termos da 
+legislação norte-americana. 
+ 
+SEC 
+ 
+A U.S. Securities and Exchange Commission, a agência 
+reguladora dos mercados de valores mobiliários e câmbio 
+dos Estados Unidos da América. 
+ 
+Standard & Poor’s 
+ 
+A S&P Opco, LLC, uma subsidiária da S&P Dow Jones 
+Indices LLC (sucessora da Standard & Poor’s Financial 
+Services LLC), provedora de índices norte-americana. 
+ 
+Taxa de Administração 
+ 
+0,30% (zero virgula trinta por cento) ao ano, incidente 
+sobre o Patrimônio Líquido, referente à remuneração 
+global paga mensalmente pelo Fundo, a qual não inclui os 
+valores referentes às taxas de administração dos fundos em 
+que o Fundo investe, inclusive a taxa de administração paga 
+ao Fundo de Índice Alvo, equivalente a 0,15% (zero virgula 
+quinze por cento) ao ano, incidente sobre o patrimônio 
+- 9 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+líquido do Fundo de Índice Alvo. 
+ 
+Valor de Capitalização 
+ 
+Com relação a uma ação, o valor agregado de tal ação, 
+resultante da multiplicação do respectivo número de ações 
+em circulação (free float) pelo seu respectivo preço de 
+mercado vigente. 
+ 
+Valor em Dinheiro 
+ 
+A parcela da Cesta, se houver, que consiste em moeda 
+corrente nacional. 
+ 
+Valor Patrimonial 
+ 
+O valor patrimonial líquido das Cotas do Fundo, calculado 
+nos termos do Artigo 25. 
+ 
+ 
+- 10 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+REGULAMENTO  
+DO 
+TREND ETF MSCI USA ESG FUNDO DE INVESTIMENTO DE ÍNDICE – INVESTIMENTO NO 
+EXTERIOR 
+CNPJ/ME nº 40.953.254/0001-49 
+ 
+CAPÍTULO I. O FUNDO 
+ 
+Artigo 1º. O TREND ETF MSCI USA ESG FUNDO DE INVESTIMENTO DE ÍNDICE – 
+INVESTIMENTO NO EXTERIOR (“Fundo”), constituído sob a forma de condomínio aberto, é um 
+fundo de investimento em índice de mercado, conforme descrito no Artigo 2º abaixo, regido pelo 
+presente Regulamento e pelas demais disposições legais e regulamentares que lhe forem 
+aplicáveis, em especial a Instrução CVM 359/02. 
+ 
+Parágrafo Primeiro. O Fundo terá prazo de duração indeterminado. 
+ 
+Parágrafo Segundo. O Fundo, observada a legislação e regulamentação aplicáveis, é destinado 
+para investidores em geral que: (a) aceitem todos os riscos inerentes ao investimento no Fundo; 
+e (b) busquem retorno de rentabilidade condizente com o objetivo do Fundo, nos termos do 
+Artigo 2º e de sua política de investimento prevista no Artigo 21 deste Regulamento. 
+ 
+Parágrafo Terceiro. Cada Cota emitida pelo Fundo representa uma fração ideal do Patrimônio 
+Líquido do Fundo. 
+ 
+CAPÍTULO II. OBJETIVO DO FUNDO 
+ 
+Artigo 2º. O Fundo é um fundo de investimento em índice de mercado, que busca retornos de 
+investimentos que correspondam de forma geral à performance, antes de taxas e despesas, do 
+Índice, observado o disposto nos Artigos 3º e 37 abaixo. 
+ 
+Artigo 3º. A Carteira poderá incluir (a) Cotas do Fundo de Índice Alvo; (b) Investimentos 
+Permitidos; (c) Receitas acumuladas e não distribuídas; e (d) dinheiro, observados os limites de 
+diversificação e de composição da Carteira detalhados no Capítulo VII e as disposições do Artigo 
+36 do presente Regulamento. 
+ 
+Parágrafo Primeiro. Os ativos financeiros que comporão a Carteira do Fundo consistirão 
+preponderantemente em cotas do Fundo de Índice Alvo, que busca retornos de investimentos 
+que correspondam de forma geral à performance, antes de taxas e despesas, do Índice; e (ii) 
+atenderão aos seguintes requisitos da Instrução CVM 555/14: 
+ 
+(a) 
+serão admitidos a negociação em bolsas de valores, de mercadorias e futuros, ou 
+registrados em sistema de registro, custódia ou de liquidação financeira devidamente 
+autorizados em seus países de origem e supervisionados por autoridade local 
+reconhecida (i.e., autoridade com a qual a CVM tenha celebrado acordo de cooperação 
+mútua que permita o intercâmbio de informações sobre operações cursadas nos 
+mercados por ela supervisionados, ou que seja signatária do memorando multilateral de 
+entendimentos da Organização Internacional das Comissões de Valores – OICV/IOSCO); 
+ou 
+(b) 
+terão sua existência assegurada pelo custodiante do Fundo, que deverá contratar, 
+- 11 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+especificamente para esta finalidade, terceiros devidamente autorizados para o exercício 
+da atividade de custódia em países signatários do Tratado de Assunção ou em outras 
+jurisdições, desde que, neste último caso, supervisionados por autoridade local 
+reconhecida. 
+ 
+Parágrafo Segundo. A Gestora deverá tomar todas as decisões relativas à gestão da Carteira em 
+conformidade com o objetivo do Fundo descrito no Artigo 2º e com a legislação e 
+regulamentação aplicáveis. 
+ 
+Parágrafo Terceiro. A Gestora não buscará auferir rentabilidade superior à performance e ao 
+desempenho do Índice, tampouco recorrerá a posições defensivas em caso de flutuações 
+extraordinárias no mercado. Para os fins deste Parágrafo, fica estabelecido que a Gestora deverá 
+adotar uma abordagem passiva ou de indexação para buscar atingir o objetivo de investimento 
+do Fundo. 
+ 
+Parágrafo Quarto. Observado o disposto no caput deste Artigo, o Fundo poderá deter em sua 
+Carteira ações e outros ativos além das Cotas do Fundo de Índice Alvo, limitados a 5% (cinco por 
+cento) do Patrimônio Líquido do Fundo, caso a Gestora entenda que tais ativos possam contribuir 
+para que o Fundo reflita a performance do Índice. 
+ 
+Parágrafo Quinto. As Receitas recebidas pelo Fundo não serão distribuídas aos Cotistas e serão 
+reinvestidas em Cotas do Fundo de Índice Alvo ou outros ativos financeiros, observado o disposto 
+neste Artigo e no Capítulo VII. 
+ 
+Parágrafo Sexto. O Fundo poderá realizar operações com derivativos executadas em bolsas de 
+valores, em bolsas de mercadorias e futuros ou em mercados de balcão organizados, contanto 
+que tais operações com derivativos sejam realizadas unicamente com o propósito de administrar 
+os riscos inerentes à Carteira do Fundo ou dos valores mobiliários que a integrem, observados os 
+limites de diversificação e de composição da Carteira dispostos no Capítulo VII. 
+ 
+Parágrafo Sétimo. O Fundo poderá celebrar com terceiros contratos a termo de troca de 
+rentabilidade (swap), com cláusula de liquidação por ajuste financeiro diário, que tenha como 
+objeto de negociação a diferença de variação entre a rentabilidade do Fundo e a rentabilidade do 
+Índice. Estes contratos, bem como eventuais modificações acordadas durante o seu período de 
+vigência, devem ser previamente aprovados pela CVM, divulgados na íntegra no endereço do 
+fundo na rede mundial de computadores e registrados em bolsa de valores, bolsa de mercadorias 
+futuros ou mercado de balcão organizado. 
+ 
+Parágrafo Oitavo. O objetivo e a política de investimento do Fundo, bem como a performance 
+histórica do Fundo ou qualquer declaração sobre o Fundo ou descrição do Fundo, não 
+caracterizam garantia, promessa ou sugestão de rentabilidade aos Cotistas. 
+ 
+Artigo 4º. Investimentos no Fundo não contam com garantia do Administrador, da Gestora, de 
+qualquer prestador de serviço do Fundo, de qualquer mecanismo de seguro, do Fundo Garantidor 
+de Créditos (FGC), de qualquer de suas respectivas Coligadas (conforme aplicável), ou ainda de 
+qualquer outra pessoa ou entidade. 
+ 
+Artigo 5º. O valor da Carteira poderá diminuir, resultando em uma diminuição no valor das Cotas 
+do Fundo. Consequentemente, o valor das Cotas do Fundo detidas por qualquer Cotista poderá, 
+- 12 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+a qualquer tempo, ser inferior ao valor originariamente pago por tal Cotista pelas suas Cotas. 
+ 
+CAPÍTULO III. O ÍNDICE 
+ 
+Artigo 6º. O Índice é um índice de mercado que mede o retorno de um investimento em uma 
+carteira teórica calculada pela MSCI Inc. 
+ 
+Parágrafo Primeiro. O índice MSCI USA Extended ESG Focus Index (ESG-U) captura grandes e 
+médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade 
+e Governança (ESG), listadas nas bolsas de valores norte-americanas e constituintes do MSCI 
+USA Index (parent index).  
+ 
+O índice é baseado na metodologia MSCI Extended ESG Focus que conta com um processo de 
+otimização de fatores ESG (excluindo empresas relacionadas à armas, tabaco, carvão e xisto 
+betuminoso; e favorecendo empresas com melhores scores MSCI ESG ratings) e parâmetros para 
+preservar as características dos respectivos parent index (tracking error, peso mínimo dos ativos, 
+alocação por setores e regiões, turnover, risco sistemático e específico).  
+ 
+O universo de empresas do parente index utilizado como base para a otimização de fatores 
+descrito acima utiliza a metodologia MSCI Global Investable Market Indexes (GIMI) que conta 
+com uma abordagem bem definida e consistente de construção de índice que permite 
+comparações entre diferentes regiões, tamanhos de capitalização de mercado, setores e fatores 
+de estilos. Esta metodologia busca oferecer cobertura extensa das oportunidades de 
+investimentos mais relevantes dando forte ênfase em critérios de liquidez, investibilidade e 
+replicabilidade. 
+ 
+O índice é revisado trimestralmente – em Fevereiro, Maio, Agosto e Novembro –com o objetivo 
+de refletir as mudanças dos mercados de ações subjacentes de maneira periódica enquanto limita 
+giro do índice. Durante as revisões semestrais em Maio e Novembro, o índice é rebalanceado e os 
+pontos de corte para grandes e médias capitalizações de mercado e seleção dos constituintes do 
+parent index são recalculados 
+ 
+Parágrafo Segundo. A taxa de câmbio a ser utilizada nas transações e divulgações relacionadas 
+ao Índice será aquela indicada pelo código “PTAX 800” (taxa de câmbio calculada pelo Banco 
+Central do Brasil), ou qualquer outra referência que a CVM vier a adotar para a cotação do Real 
+(R$) frente ao Dólar (US$). Em linha com o apresentado pela Instrução CVM 577 datada de 
+07/07/2016, capítulo 1 - item 10, a utilização da Taxa “PTAX 800” reflete de forma apropriada o 
+valor justo da cota do fundo em detrimento da Taxa de Câmbio Referencial (D2), visto que, os 
+ativos que compõem a carteira do fundo são convertidos em moeda nacional, a partir da paridade 
+USD/BRL pela taxa “PTAX 800”, mitigando desta forma, o efeito variação cambial na conversão, 
+devido à diferença entre a paridade das moedas em Reais. 
+ 
+Parágrafo Terceiro. A variação cambial, a periodicidade da divulgação da composição e pesos 
+atribuídos a cada ação que compõe o Índice, bem como a eventual existência de características 
+peculiares inerentes a um fundo de índice regido por regulamentação estrangeira serão 
+apontados como Fatores de Risco na página do Fundo na rede mundial de computadores. 
+ 
+Artigo 7º. Nem o Fundo, nem a Gestora, nem o Administrador são responsáveis pela gestão, 
+cálculo, divulgação e manutenção do Índice. 
+- 13 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Parágrafo Primeiro. Caso a MSCI Inc deixe de gerir, calcular, divulgar ou manter o Índice, o 
+Administrador deverá imediatamente divulgar tal fato, na forma da regulamentação aplicável, e 
+necessariamente convocar uma assembleia geral de Cotistas na qual os Cotistas deverão 
+deliberar acerca de eventual mudança no objetivo de investimento do Fundo ou, caso contrário, 
+pela liquidação e encerramento do Fundo, nos termos do Parágrafo Segundo abaixo. 
+ 
+Parágrafo Segundo. Nos termos do Parágrafo Primeiro, caso os Cotistas não aprovem, em uma 
+assembleia geral de Cotistas devidamente convocada ou em qualquer futura convocação de tal 
+assembleia, uma mudança no objetivo de investimento do Fundo, o Administrador deverá dar 
+início aos procedimentos de liquidação do Fundo, em conformidade com o presente 
+Regulamento. 
+ 
+Artigo 8º. Todas as informações sobre o Índice dispostas neste Regulamento foram obtidas junto 
+à MSCI Inc e podem ser encontradas na página do Fundo na rede mundial de computadores 
+(https://www.xpasset.com.br/etfs/esgu11), a partir do link específico do Fundo, bem como nos 
+materiais de divulgação do Fundo. Nem o Fundo, o Administrador, a Gestora, ou qualquer outro 
+prestador de serviço que preste serviços ao Fundo ou em benefício do Fundo, tampouco 
+quaisquer de suas Coligadas, será responsável por qualquer incorreção de tais informações sobre 
+o Índice ou, ainda, por incorreções no cálculo do Índice. 
+ 
+CAPÍTULO IV. ADMINISTRAÇÃO DO FUNDO 
+ 
+Seção I. Atribuições do Administrador 
+ 
+Artigo 9º. A administração do Fundo será exercida pelo Administrador. 
+ 
+Parágrafo Primeiro. O Administrador deverá exercer suas atividades com boa fé, transparência, 
+diligência e lealdade, sempre no único e exclusivo benefício dos Cotistas, nos termos da legislação 
+e regulamentação aplicáveis e do presente Regulamento. 
+ 
+Parágrafo Segundo. O Administrador tem poderes para praticar todos os atos necessários à 
+administração do Fundo, inclusive a contratação de terceiros devidamente habilitados para a 
+prestação de serviços relativos às atividades do Fundo, nos termos do disposto no presente 
+Regulamento e na legislação e regulamentação aplicáveis. 
+ 
+Parágrafo Terceiro. Sem prejuízo do disposto acima, o Administrador deverá fazer com que a 
+gestão da Carteira do Fundo seja realizada em conformidade com as instruções da Gestora e nos 
+termos do Artigo 17 abaixo. 
+ 
+Parágrafo Quarto. O Administrador celebrará um Contrato de Agente Autorizado com cada 
+Corretora, previamente aprovada pelo Administrador, que deseje atuar como intermediária dos 
+Cotistas na integralização e no resgate de Cotas diretamente com o Fundo. 
+ 
+Parágrafo Quinto. As Cotas do Fundo somente poderão ser integralizadas ou resgatadas por 
+Agentes Autorizados. Uma lista com informações atualizadas a respeito dos Agentes Autorizados 
+e suas informações para contato será divulgada diariamente na página do Fundo na rede mundial 
+de computadores. 
+ 
+- 14 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Artigo 10. Sem prejuízo das demais disposições legais aplicáveis, incluem-se entre os deveres e 
+obrigações do Administrador: 
+ 
+(i) 
+manter, às suas expensas, atualizados e em perfeita ordem, por pelo menos 5 (cinco) anos 
+após o encerramento do Fundo (ou, no caso de a CVM instituir qualquer procedimento 
+administrativo relativo ao Fundo, até o encerramento de tal procedimento administrativo) 
+os seguintes livros e registros: 
+ 
+(a) 
+Registros de Cotistas e registros de transferências de Cotas; 
+(b) livro de atas de todas as assembleias gerais de Cotistas; 
+(c) 
+livro de presença dos Cotistas em todas as assembleias gerais de Cotistas; 
+(d) arquivo contendo todos os pareceres dos auditores independentes do Fundo, desde 
+a criação do Fundo; e 
+(e) 
+registros e demonstrações contábeis e demais documentos relativos a todas as 
+operações realizadas pelo Fundo ou em nome do Fundo e a todos os ativos detidos 
+pelo Fundo. 
+ 
+(ii) 
+emitir e resgatar Lotes Mínimos de Cotas nos termos de Ordens de Integralização e Ordens 
+de Resgate devidamente emitidas, conforme aplicável; 
+(iii) 
+celebrar operações relativas a ativos do Fundo nos termos das instruções da Gestora e 
+receber as Receitas pagáveis ao Fundo; 
+(iv) 
+exercer, ou diligenciar para que sejam exercidos, todos os direitos inerentes ao patrimônio 
+e às atividades do Fundo; 
+(v) 
+manter em custódia, em entidade devidamente habilitada para tal serviço, os valores 
+mobiliários integrantes da Carteira do Fundo, tomando todas as providências úteis ou 
+necessárias à defesa dos interesses do Fundo; 
+(vi) 
+pagar qualquer multa cominatória imposta nos termos legislação vigente aplicável por cada 
+dia de atraso no cumprimento de quaisquer dos prazos previstos na Instrução CVM 359/02 
+e na Instrução CVM 558/15 e, ainda, eventuais multas decorrentes de sanções dispostas no 
+Regulamento de Emissores da B3; 
+(vii) 
+cumprir as deliberações aprovadas em qualquer assembleia geral de Cotistas devidamente 
+convocada; 
+(viii) cumprir e fazer cumprir todas as disposições deste Regulamento; 
+(ix) 
+representar o Fundo, conforme instruído pela Gestora, em assuntos relativos aos 
+Emissores, incluindo, sem limitação, a representação do Fundo em assembleias gerais de 
+acionistas dos Emissores, com o direito de exercer os respectivos direitos de voto, em 
+nome do Fundo, em qualquer assunto devidamente submetido a tais assembleias gerais 
+de acionistas de Emissores; 
+ 
+(x) 
+comunicar à CVM, no prazo de até 5 (cinco) Dias Úteis, contado a partir da deliberação de 
+qualquer assembleia geral de Cotistas devidamente convocada, quaisquer dos seguintes 
+atos relativos ao Fundo: 
+ 
+(a) 
+alteração deste Regulamento; 
+(b) renúncia ou substituição do Administrador; 
+(c) 
+fusão; 
+(d) incorporação; 
+(e) 
+cisão; e 
+(f) 
+liquidação; 
+- 15 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+(xi) 
+prestar as informações sobre a Carteira que lhe forem solicitadas pelos Cotistas, conforme 
+a legislação aplicável; 
+(xii) 
+praticar os demais atos relativos ao Fundo e à Carteira, conforme instruído pela Gestora e 
+permitido pela legislação aplicável; e 
+(xiii) não reter para si quaisquer ativos, taxas ou direitos que pertençam ao Fundo e que venha 
+a receber, em decorrência de sua condição como Administrador do Fundo, que não seja a 
+Taxa de Administração prevista no Artigo 13 abaixo. 
+ 
+Seção II. Segregação das Atividades do Administrador 
+ 
+Artigo 11. O exercício da administração do Fundo deverá ser mantido segregado das demais 
+atividades do Administrador e com estas não se confunde. O Administrador poderá continuar a 
+exercer todas as atividades que não lhe sejam defesas pela legislação e regulamentação a ela 
+aplicáveis. 
+ 
+Seção III. Substituição do Administrador 
+ 
+Artigo 12. A substituição do Administrador somente se dará em qualquer das seguintes 
+hipóteses: 
+ 
+(i) 
+renúncia do Administrador, mediante notificação por escrito a cada Cotista e à CVM, 
+entregue com a antecedência mínima de 10 (dez) dias; 
+(ii) 
+destituição do Administrador por deliberação de Cotistas que detenham pelo menos a 
+maioria absoluta das Cotas em circulação, tomada em uma assembleia geral de Cotistas 
+devidamente convocada por Cotistas que detenham pelo menos 5% (cinco por cento) (ou 
+o número máximo permitido pela legislação aplicável, a qualquer tempo, se superior a 5% 
+(cinco por cento)) das Cotas em circulação; ou 
+(iii) 
+descredenciamento para o exercício da atividade de administração de carteira, por decisão 
+final da CVM. 
+ 
+Parágrafo Primeiro. Nos casos de renúncia do Administrador (nos termos do disposto no Artigo 
+12, item (i)), ou destituição do Administrador por voto dos Cotistas (nos termos do Artigo 12, item 
+(ii)), o Administrador deverá permanecer no exercício de suas funções até que o seu substituto 
+tenha assumido o papel e as obrigações de administrador do Fundo. No caso de 
+descredenciamento do Administrador pela CVM (nos termos do disposto no Artigo 12, item (iii)), 
+a CVM indicará uma instituição financeira para assumir temporariamente as funções de 
+administrador do Fundo, até que o substituto do Administrador tenha efetivamente assumido o 
+papel e as obrigações de administrador do Fundo. 
+ 
+Parágrafo Segundo. No caso de renúncia ou destituição do Administrador (nos termos do Artigo 
+12, (i)), (a) o Administrador deverá propor, e a Gestora poderá indicar, um administrador 
+substituto, a ser votado em uma assembleia geral de Cotistas, e (b) o Administrador convocará 
+de imediato ou, em qualquer hipótese, no prazo de 15 (quinze) dias, contado a partir da renúncia 
+ou destituição do Administrador, uma assembleia geral de Cotistas para deliberar sobre tal 
+substituição. A presença de um quórum (conforme definido na Instrução CVM 359/02 ou em outra 
+legislação aplicável) de instalação deverá ser exigido para deliberar sobre quaisquer assuntos 
+apresentados a tal assembleia geral de Cotistas e um administrador substituto poderá ser 
+aprovado pelo voto favorável dos detentores da maioria das Cotas em circulação. 
+- 16 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Seção IV. Remuneração do Administrador 
+ 
+Artigo 13. O Administrador deverá receber do Fundo a Taxa de Administração, incidente sobre o 
+Patrimônio Líquido, referente à remuneração global paga mensalmente pelo Fundo. A Taxa de 
+Administração será provisionada diariamente, com base em um total de 252 (duzentos e 
+cinquenta e dois) Dias Úteis por ano, e paga mensalmente até o 5º (quinto) Dia Útil do mês 
+subsequente à sua vigência. 
+ 
+Parágrafo Primeiro. A Taxa de Administração referida no caput acima não compreende os valores 
+referentes às taxas de administração dos fundos em que o Fundo investe, inclusive a taxa de 
+administração paga ao Fundo de Índice Alvo 
+ 
+Parágrafo Segundo. É vedada a cobrança de taxa de performance, nos termos do Artigo 13, parágrafo 
+4º, da Instrução CVM 359/02. 
+Artigo 14. O valor da Taxa de Administração não poderá ser aumentado sem a aprovação prévia 
+dos Cotistas que detenham, pelo menos, a maioria das Cotas em circulação, devidamente 
+reunidos em uma assembleia geral de Cotistas. O Administrador poderá a qualquer tempo reduzir 
+tais taxas sem a aprovação dos Cotistas desde que tal redução se aplique de maneira uniforme a 
+todos os Cotistas. 
+ 
+Seção V. Vedações Aplicáveis ao Administrador 
+ 
+Artigo 15. Sem prejuízo das demais disposições legais aplicáveis, o Administrador, na qualidade 
+de administrador do Fundo e, quando aplicável, cada um dos Agentes Autorizados, ficam 
+proibidos de praticar, direta ou indiretamente, qualquer dos seguintes atos em nome do Fundo: 
+ 
+(i) 
+receber depósitos em sua própria conta corrente; 
+(ii) 
+contrair ou efetuar quaisquer empréstimos, ressalvado o disposto nos Artigos 12 e 60 da 
+Instrução CVM 359/02 e regulamentação aplicável; 
+(iii) 
+prestar qualquer fiança, aval, aceite ou coobrigar-se sob qualquer outra forma nas 
+operações praticadas pelo Fundo; 
+(iv) 
+realizar operações com ações fora de bolsa de valores ou de mercado de balcão organizado 
+por entidade autorizada pela CVM, ressalvadas as hipóteses de: 
+ 
+(a) 
+subscrições de ofertas públicas; 
+(b) exercício de direitos de preferência; e 
+(c) 
+operações previamente autorizadas pela CVM; 
+ 
+(v) 
+observado o disposto no Capítulo VIII, praticar qualquer ato na qualidade de acionista de 
+Emissores que possa impedir a negociação das Cotas do Fundo de Índice Alvo em bolsa de 
+valores; e 
+(vi) 
+vender Cotas à prestação. 
+ 
+CAPÍTULO V. GESTÃO DO FUNDO 
+ 
+Seção I. Atribuições da Gestora 
+ 
+Artigo 16. A gestão da carteira do Fundo será realizada pela Gestora. 
+- 17 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Artigo 17. A Gestora deverá desempenhar as seguintes funções, em conformidade com o 
+previsto no presente Regulamento e nos termos da regulamentação aplicável da CVM, e de 
+acordo com o Contrato de Gestão: 
+(i) 
+gerir a Carteira em nome do Fundo; 
+(ii) 
+instruir o Administrador a respeito da representação do Fundo em assembleias gerais de 
+acionistas de Emissores e sobre o exercício de direitos de voto em nome do Fundo no que 
+concerne a qualquer assunto submetido a uma assembleia geral de acionistas de 
+Emissores; 
+(iii) 
+instruir o Administrador a tomar quaisquer outras medidas relativas à gestão do Fundo e 
+permitidas pela legislação e regulamentação aplicáveis; 
+(iv) 
+custear todas as despesas com propaganda do Fundo, inclusive com a elaboração do 
+prospecto do Fundo; e 
+(v) 
+contratar formador de mercado para as Cotas do Fundo, observado o disposto no Artigo 
+30, Parágrafo Único. 
+ 
+Seção II. Remuneração da Gestora 
+ 
+Artigo 18. A Gestora fará jus a uma parcela da Taxa de Administração, a ser paga diretamente 
+pelo Fundo à Gestora. 
+ 
+Seção III. Substituição da Gestora 
+ 
+Artigo 19. A Gestora somente será substituída mediante notificação por escrito do 
+Administrador à Gestora sobre a ocorrência de quaisquer dos seguintes eventos: 
+ 
+(i) 
+rescisão e/ou resilição do Contrato de Gestão; 
+(ii) 
+renúncia da Gestora, mediante notificação por escrito a cada Cotista e à CVM, entregue 
+com a antecedência mínima de 30 (trinta) dias; 
+(iii) 
+inadimplemento substancial de qualquer das obrigações assumidas pela Gestora através 
+do Contrato de Gestão, não tendo sido tal inadimplemento sanado no prazo de 60 
+(sessenta) Dias Úteis, contado a partir do recebimento, pela Gestora, de notificação do 
+referido inadimplemento por parte do Administrador; 
+(iv) 
+insolvência, intervenção, liquidação ou falência da Gestora; 
+(v) 
+aprovação pelo voto de Cotistas que detenham a maioria absoluta das Cotas em 
+circulação, reunidos em assembleia geral de Cotistas devidamente convocada por Cotistas 
+que detenham pelo menos 5% (cinco por cento) das Cotas em circulação; ou 
+(vi) 
+descredenciamento para o exercício da atividade de administração de carteira, por decisão 
+final da CVM. 
+ 
+Parágrafo Primeiro. No caso de renúncia da Gestora nos termos do disposto no Artigo 19, item 
+(ii), ou de destituição da Gestora por voto dos cotistas, no termos do inciso (v) acima, a Gestora 
+deverá permanecer no exercício de suas funções até que a sua substituta tenha assumido o papel 
+e as obrigações de gestora da Carteira do Fundo. No caso de descredenciamento da Gestora pela 
+CVM, nos termos do inciso (vi) acima, o Administrador convocará uma assembleia geral de 
+Cotistas para escolher o novo gestor do Fundo. 
+ 
+Parágrafo Segundo. Nos casos de renúncia ou destituição da Gestora, (i) o Administrador deverá 
+propor um gestor substituto, a ser votado em uma assembleia geral de Cotistas, e (ii) o 
+- 18 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Administrador convocará de imediato ou, em qualquer hipótese, no prazo de 15 (quinze) dias, 
+contado a partir da renúncia ou destituição da Gestora, uma assembleia geral de Cotistas para 
+deliberar sobre tal substituição. 
+ 
+CAPÍTULO VI. PATRIMÔNIO DO FUNDO 
+ 
+Artigo 20. O valor do Patrimônio Líquido será calculado diariamente pelo Administrador com 
+base nas normas contábeis vigentes expedidas pela CVM, ficando ressalvado que as negociações 
+dos ativos integrantes da Carteira realizados em um Dia de Pregão na B3 deverão ser refletidos 
+no Patrimônio Líquido no Dia de Cota subsequente. 
+ 
+CAPÍTULO VII. POLÍTICA DE INVESTIMENTO DO FUNDO 
+ 
+Artigo 21. O Fundo investirá no mínimo 95% (noventa e cinco por cento) de seu patrimônio em 
+Cotas do Fundo de Índice Alvo, ou em posições compradas no mercado futuro, de forma a refletir 
+indiretamente a variação e rentabilidade do Índice, observados os limites definidos no presente 
+Regulamento. 
+ 
+Parágrafo Primeiro. Não obstante o disposto nos demais Parágrafos do presente Artigo, durante 
+o período compreendido entre os 5 (cinco) Dias Úteis anteriores e os 5 (cinco) Dias Úteis 
+posteriores à Data de Rebalanceamento (“Período de Rebalanceamento”), a Gestora poderá, a 
+seu exclusivo critério, instruir o Administrador a adotar os procedimentos especiais previstos 
+neste Regulamento, tais como (i) a suspensão das integralizações de Cotas e (ii) o resgate de 
+Cotas na forma da Seção II do Capítulo IX do presente Regulamento. 
+ 
+Parágrafo Segundo. Casos de desenquadramento ao limite mínimo de 95% (noventa e cinco por 
+cento) disposto no caput deste Artigo serão justificados por escrito pelo Administrador à CVM 
+dentro de 5 (cinco) Dias Úteis, contados a partir da data da verificação de tal desenquadramento. 
+ 
+Artigo 22. O Fundo poderá investir até 5% (cinco por cento) de seu Patrimônio Líquido, isolada 
+ou cumulativamente, em quaisquer dos Investimentos Permitidos ou em dinheiro, ficando 
+ressalvado que nenhuma taxa de administração, de gestão ou qualquer outra taxa poderá ser 
+paga pelo Fundo sobre o montante de quaisquer investimentos em fundos de investimento 
+administrados pelo Administrador que excedam 1% (um por cento) do Patrimônio Líquido. 
+ 
+Parágrafo Único. O total das margens de garantia exigidas do Fundo em suas operações com 
+derivativos não poderá exceder 20% (vinte por cento) do Patrimônio Líquido. 
+ 
+CAPÍTULO VIII. OPERAÇÕES DE EMPRÉSTIMO DE COTAS  
+ 
+Capítulo I. Regras Gerais  
+ 
+Artigo 23. As Cotas do Fundo podem ser objeto de empréstimo e de garantia, conforme 
+regulamentação aplicável e conforme disposto neste Regulamento. 
+ 
+Parágrafo Primeiro. As cotas objeto das operações previstas no caput devem estar depositadas 
+em custódia nas entidades prestadoras de serviços de compensação e liquidação, registro e 
+custódia de títulos e valores mobiliários autorizados pela CVM, devendo o Cotista autorizar, prévia 
+e expressamente, a realização de operações desta natureza. 
+- 19 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Parágrafo Segundo. Todas os títulos emprestados pelo Fundo deverão ser restituídas ao Fundo 
+no vencimento do prazo do respectivo empréstimo. 
+ 
+Parágrafo Terceiro. Não obstante o número de títulos objeto de empréstimo ou de garantia 
+prestada pelo Fundo a qualquer tempo, o Administrador será obrigado a entregar os títulos 
+necessários para o atendimento de solicitações de Cotistas relativas ao resgate de Cotas bem 
+como ao empréstimo de títulos para voto, conforme previsto no Capítulo III da presente Seção VIII 
+e no Artigo 60, Parágrafo Segundo, da Instrução CVM 359/02. 
+ 
+Capítulo II. Empréstimo de Títulos ao Mercado 
+ 
+Artigo 24. O Fundo poderá efetuar operações de empréstimo de títulos ao mercado na forma da 
+regulamentação sobre operações de empréstimo de títulos em vigor, contanto que (i) o valor total 
+das títulos emprestados ao mercado pelo Fundo a qualquer momento, conforme previsto neste 
+Capítulo II, não ultrapasse o limite de 90% (noventa por cento) do Patrimônio Líquido do Fundo e 
+(ii) não sejam emprestados mais de 90% (noventa por cento) do número total de ações de qualquer 
+Ação do Índice detida pelo Fundo. 
+ 
+Capítulo III. Empréstimo de Títulos aos Cotistas para Voto 
+ 
+Artigo 25. Qualquer Cotista que deseje votar em uma assembleia geral de acionistas de qualquer 
+Emissor poderá, através do Agente Autorizado, solicitar do Administrador um empréstimo 
+gratuito de títulos da Carteira emitidas por tal Emissor e detidas pelo Fundo, na forma da 
+regulamentação em vigor, e isento de qualquer taxa de aluguel. Para os fins deste Artigo 25, o 
+Administrador providenciará a transferência dos títulos da Carteira emprestadas ao respectivo 
+Cotista junto à entidade responsável pela custódia de tais títulos da Carteira. 
+ 
+Parágrafo Primeiro. Tendo em vista que cada Cota busca representar uma determinada 
+quantidade de ativos integrantes da carteira do Fundo, o Cotista que solicitar o empréstimo de 
+determinado título da Carteira terá direito a tomar emprestada a quantidade de tal título da 
+Carteira equivalente à respectiva quantidade de títulos da Carteira que o número total de Cotas 
+detidas por tal Cotista represente no final do dia da solicitação de tal empréstimo. Caso a 
+quantidade de Títulos do Índice que o Cotista tenha direito de tomar em empréstimo seja 
+fracionária, tal número será arredondado para o menor número inteiro mais próximo. 
+ 
+Parágrafo Segundo. Os títulos da Carteira poderão ser emprestados aos Cotistas somente para 
+os fins de voto em uma assembleia geral de acionistas nos termos do presente Artigo 25, e para 
+nenhum outro fim. A solicitação de empréstimo de títulos da Carteira por Cotistas para os fins de 
+voto, nos termos deste Artigo 25, somente poderá ser feita após a convocação da assembleia 
+geral do respectivo Emissor e tal solicitação deverá ser comunicada ao Administrador por 
+intermédio de um dos Agentes Autorizados, com pelo menos 5 (cinco) e com no máximo 6 (seis) 
+Dias de Pregão de antecedência à realização da respectiva assembleia geral de acionistas. 
+ 
+Parágrafo Terceiro. Nos termos do Artigo 12, Parágrafo Oitavo, da Instrução CVM 359/02, o 
+Administrador poderá, durante os 5 (cinco) primeiros dias do Período de Rebalanceamento, 
+rejeitar ou limitar empréstimos de títulos da Carteira na forma deste Capítulo III, desde que tal 
+restrição se limite à parcela de títulos da Carteira cujo empréstimo poderia, a critério da Gestora, 
+vir a causar danos significativos na capacidade do Fundo de atingir seu objetivo de investimento. 
+- 20 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Parágrafo Quarto. Na hipótese do Parágrafo Terceiro acima, o Administrador deverá divulgar, 
+na página do Fundo na rede mundial de computadores e na forma prevista na Seção XI abaixo, 
+uma lista com a identificação e a quantidade de ações da Carteira de titularidade do Fundo que 
+não estejam sendo disponibilizadas para o empréstimo de que trata este Artigo 25, ficando 
+ressalvado que o Administrador deverá justificar as razões pelas quais tais títulos da Carteira não 
+estarão disponíveis para empréstimo, conforme o disposto no Parágrafo Terceiro acima. 
+ 
+Parágrafo Quinto. Os títulos da Carteira tomados em empréstimo na forma deste Capítulo III 
+deverão ser entregues aos Cotistas solicitantes no prazo exigido pela B3 para tal entrega. 
+ 
+Parágrafo Sexto. Nos termos do Parágrafo Sexto do Artigo 12 da Instrução CVM 359/02, os 
+Cotistas deverão restituir ao Fundo os títulos da Carteira tomadas em empréstimo em até 1 (um) 
+Dia Útil após a data da realização da respectiva assembleia geral de acionistas do Emissor, não 
+podendo alienar suas Cotas caucionadas em garantia do empréstimo dos títulos da Carteira nos 
+termos do Artigo 26 abaixo. 
+ 
+Artigo 26. Os Cotistas que solicitarem um empréstimo de títulos da Carteira na forma deste 
+Capítulo III deverão caucionar, como garantia da operação de empréstimo de títulos da Carteira, 
+uma quantidade de Cotas que, em conjunto, represente o número total de títulos da Carteira a 
+serem tomadas em empréstimo, tendo em vista que cada Cota busca representar uma 
+determinada quantidade de títulos da Carteira integrantes da Carteira. 
+ 
+Parágrafo Único. As Cotas caucionadas na forma prevista no caput deste Artigo 26 podem servir 
+simultaneamente à caução de mais de um empréstimo de títulos da Carteira por um mesmo 
+Cotista, nos termos do Artigo 12, Parágrafo Quarto, da Instrução CVM 359/02. 
+ 
+Artigo 27. Não obstante o disposto no Artigo 26 acima, os Cotistas que solicitarem operações de 
+empréstimo de títulos da Carteira deverão arcar com todos os custos relativos a tal empréstimo, 
+incluindo, sem limitação, as taxas cobradas pela B3. O Administrador também poderá exigir de 
+tais Cotistas o ressarcimento ao Fundo por quaisquer custos incorridos pelo Fundo em relação às 
+respectivas operações de empréstimo de títulos da Carteira, desde que tais custos sejam 
+informados antecipadamente aos Cotistas por meio da página do Fundo na rede mundial de 
+computadores, nos termos do Parágrafo Segundo abaixo. 
+ 
+Parágrafo Primeiro. Além de tomar as medidas necessárias para a excussão das Cotas 
+caucionadas na forma do Artigo 26 acima, o Fundo cobrará dos Cotistas que não observarem o 
+prazo para devolução dos títulos estipulado no Artigo 25, Parágrafo Sexto, acima, as mesmas 
+taxas usualmente cobradas pelo Fundo para operações de empréstimo de títulos da Carteira 
+realizadas na forma prevista no Artigo 24 acima ou, caso não haja mercado para tal tipo de 
+operação, a taxa média obtida junto a 3 (três) Corretoras. 
+ 
+Parágrafo Segundo. Os custos e as taxas previstos no caput deste Artigo 27 serão divulgados 
+diariamente na página do Fundo na rede mundial de computadores. 
+ 
+CAPÍTULO IX. COTAS 
+ 
+Seção I. Características 
+ 
+- 21 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Artigo 28. Cada Cota será registrada e escriturada em nome de seu titular. 
+ 
+Parágrafo Primeiro. A identidade de cada Cotista e o número de Cotas detido por cada Cotista 
+serão inscritos no registro de Cotistas mantido pelo Administrador, em consonância com os 
+dados fornecidos pelos Agentes Autorizados e pela B3, conforme aplicável. 
+ 
+Parágrafo Segundo. O registro das Cotas será realizado de forma escritural. 
+ 
+Artigo 29. O Valor Patrimonial das Cotas será o valor resultante da divisão do Patrimônio Líquido 
+do Fundo pelo número de Cotas em circulação, sendo calculado ao final de cada Dia de Cota. 
+ 
+Artigo 30. Para fins de integralização e resgate de Cotas, o Administrador deverá utilizar o Valor 
+Patrimonial das Cotas apurado no encerramento do Dia de Pregão em que a respectiva 
+solicitação foi processada. As operações de integralização e de resgate deverão ser liquidadas nos 
+termos do Artigo 32, Parágrafo Sexto, abaixo. 
+ 
+Seção II. Integralização e Resgate de Cotas 
+ 
+Artigo 31. As Cotas poderão ser objeto de distribuição pública nos termos da Instrução CVM 359 
+ou outra regulamentação aplicável, intermediadas pelos Distribuidores, distribuídas e liquidadas por 
+meio do Sistema de Distribuição de Ativos (DDA) da B3. Após a listagem do Fundo, liquidação da 
+distribuição pública, e início da negociação das Cotas no mercado secundário, novas Cotas serão 
+emitidas e resgatadas somente em Lotes Mínimos de Cotas ou em múltiplos de Lotes Mínimos de 
+Cotas, por meio dos Agentes Autorizados, utilizando-se a Central Depositária Online (CAC) da B3. 
+ 
+Parágrafo Primeiro. Um Lote Mínimo de Cotas somente poderá ser emitido e entregue de 
+acordo com uma Ordem de Integralização devidamente submetida por um Agente Autorizado e 
+mediante a concomitante entrega de uma Cesta pelo respectivo Agente Autorizado ao Fundo. 
+ 
+Parágrafo Segundo. Os Lotes Mínimos de Cotas somente poderão ser resgatados e entregues 
+mediante uma Ordem de Resgate devidamente submetida por um Agente Autorizado e 
+mediante a concomitante entrega de uma Cesta ao respectivo Agente Autorizado pelo Fundo. 
+ 
+Artigo 32. A composição da Cesta, seja para fins de uma Ordem de Integralização ou de uma 
+Ordem de Resgate, obedecerá às seguintes regras (“Cesta”): 
+ 
+(i) 
+terá, no mínimo, 95% (noventa e cinco por cento) do seu valor representado por Cotas do 
+Fundo de Índice Alvo; e 
+(ii) 
+poderá ter, no máximo, 5% (cinco por cento) do seu valor representado por Investimentos 
+Permitidos e/ou Valores em Dinheiro. 
+ 
+Parágrafo Primeiro. Não obstante o disposto no caput deste Artigo, a Gestora, a seu exclusivo 
+critério, poderá definir Cestas distintas para fins de execução de Ordens de Integralização e de 
+Ordens de Resgate, conforme o caso, ficando ressalvado que a Cesta aplicável a cada Ordem de 
+Integralização ou Ordem de Resgate:(a) constará do Arquivo de Composição da Cesta divulgado 
+diariamente na página do Fundo na rede mundial de computadores antes da abertura do pregão 
+da B3; (b) observará a composição descrita neste Artigo; e (c) poderá, a exclusivo critério da 
+Gestora, compreender cupons, direitos, recibos de subscrição e certificados de desdobramento 
+relativos àqueles valores mobiliários eventualmente existentes na Carteira do Fundo, de acordo 
+- 22 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+com o Parágrafo Décimo Primeiro do Artigo 18 da Instrução CVM 359/02 (“Direitos sobre 
+Ações”). 
+ 
+Parágrafo Segundo. Em situações excepcionais de dificuldade na execução de Ordens de 
+Integralização ou Ordens de Resgate, devida à baixa liquidez das Cotas do Fundo de Índice Alvo 
+que componham a Cesta, a Gestora, a seu exclusivo critério, poderá substituir tais Cotas do Fundo 
+de Índice Alvo por Valores em Dinheiro, limitados a 5% (cinco por cento) do valor total da Cesta. 
+ 
+Parágrafo Terceiro. Ordens de Integralização e Ordens de Resgate recebidas pelo Administrador 
+em Dias de Pregão antes das 14h00 (quatorze horas), horário de Brasília (“Horário de Corte para 
+Ordens”) serão processadas no mesmo Dia de Pregão. Ordens de Integralização e Ordens de 
+Resgate recebidas pelo Administrador após o Horário de Corte para Ordens não serão aceitas 
+pelo Administrador. 
+ 
+Parágrafo Quarto. As Ordens de Resgate somente serão aceitas pelo Administrador e 
+processadas pela B3 mediante envio da (a) “Solicitação de resgate de Lotes Mínimos de Cotas e 
+apuração de Imposto de Renda Retido na Fonte (IRF)”, ou (b) “Declaração de Isenção”, conforme 
+a condição tributária do Cotista — cujos formulários encontram-se disponíveis na página do 
+Fundo na rede mundial de computadores — em até duas horas antes do fechamento do pregão 
+no Dia de Pregão, atestando a condição tributária do Cotista na data do Pedido de Resgate. 
+ 
+Parágrafo Quinto. O Arquivo de Composição da Cesta descrevendo a composição da Cesta a ser 
+entregue por ocasião da execução de uma Ordem de Integralização e de uma Ordem de Resgate 
+será divulgado na página do Fundo na rede mundial de computadores após o encerramento do 
+pregão da B3 em qualquer Dia de Pregão e antes da abertura da B3 para operações no próximo 
+Dia de Pregão. Um Arquivo de Composição da Cesta valerá para Ordens de Integralização e para 
+Ordens de Resgate recebidas após a sua divulgação e até o próximo Horário de Corte para 
+Ordens. 
+ 
+Parágrafo Sexto. A integralização e o resgate de Lotes Mínimos de Cotas nos termos do disposto 
+neste Artigo deverão ser liquidados em D+2. Qualquer alteração do referido prazo de liquidação 
+por parte da B3 será prontamente divulgada na página do Fundo na rede mundial de 
+computadores. 
+ 
+Parágrafo Sétimo. Os Agentes Autorizados submeterão uma Ordem de Integralização ou uma 
+Ordem de Resgate que, em cada caso, não será considerada aceita até que a B3 tenha 
+apresentado a tal Agente Autorizado, por meio eletrônico, uma confirmação por escrito 
+(“Confirmação”) de que a respectiva Ordem de Integralização ou Ordem de Resgate, conforme 
+o caso, foi aceita. 
+ 
+Parágrafo Oitavo. Qualquer Cotista sujeito a tributação que solicite a um Agente Autorizado que 
+efetue o resgate de um ou mais Lotes Mínimos de Cotas detidos por tal Cotista deverá fornecer 
+ao respectivo Agente Autorizado, além do(s) documento(s) mencionado(s) no Parágrafo Quarto 
+deste Artigo, as notas de corretagem e demais documentos (“Registros de Cotista”) necessários 
+para que o Administrador apure o custo de aquisição das Cotas a serem resgatadas, devendo tal 
+Agente Autorizado entregar tais Registros do Cotista ao Administrador pelo menos duas horas 
+antes do fechamento do pregão no Dia de Pregão da data do Pedido de Resgate. Caso o 
+Administrador não receba tais Registros do Cotista pelo menos duas horas antes do fechamento 
+do pregão no Dia de Pregão da data da apresentação de tal Pedido de Resgate, o Pedido de 
+- 23 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Resgate em questão não deverá ser aceito pelo Administrador. 
+ 
+Seção III. Amortização de Cotas 
+ 
+Artigo 33. As amortizações poderão ser feitas tão somente a critério do Administrador, conforme 
+instruções da Gestora. Considera-se amortização o pagamento em moeda corrente nacional, de 
+forma proporcional a todos os Cotistas, de parcela do Valor Patrimonial de suas respectivas 
+Cotas, sem redução no número de Cotas. 
+ 
+Parágrafo Único. O Administrador poderá efetuar uma amortização trimestral de Cotas nos 
+termos previstos no caput deste Artigo somente se a performance do Fundo se mostrar superior 
+à performance do Índice durante o trimestre precedente. 
+ 
+Seção IV. Negociação de Cotas 
+ 
+Artigo 34. As Cotas serão admitidas à negociação no mercado secundário por intermédio da B3, 
+e poderão ser adquiridas ou vendidas por qualquer Corretora. O Administrador, a Gestora, suas 
+respectivas Coligadas, bem como seus respectivos diretores e funcionários, poderão adquirir e 
+negociar as Cotas a qualquer tempo, sob as mesmas condições estabelecidas neste Regulamento 
+para os demais Cotistas, no que tange às condições para emissão, integralização, resgate, 
+amortização e negociação de Cotas, observadas as restrições quanto ao exercício do direito de voto 
+nos casos previstos neste Regulamento.. 
+ 
+Parágrafo Primeiro. Não obstante o disposto no caput deste Artigo, a Gestora não atuará como 
+formadora de mercado para as Cotas, porém poderá contratar, em nome do Fundo, formador de 
+mercado para as Cotas do Fundo. 
+ 
+Parágrafo Segundo. As Cotas do Fundo poderão ser negociadas pelo Administrador e pessoas a 
+ela ligadas sob as mesmas condições dos outros Cotistas do Fundo. 
+ 
+CAPÍTULO X. ASSEMBLEIA GERAL DE COTISTAS 
+ 
+Seção I. Competência da Assembleia Geral de Cotistas 
+ 
+Artigo 35. Caberá privativamente à assembleia geral de Cotistas do Fundo, observados os 
+respectivos quóruns de deliberação definidos no presente Regulamento, deliberar sobre: 
+ 
+(i) 
+as demonstrações contábeis anuais do Fundo, a serem arquivadas junto à CVM; 
+(ii) 
+substituição do Administrador; 
+(iii) 
+qualquer alteração na política de investimento do Fundo definida no Artigo 21 acima (salvo 
+alterações nas hipóteses previstas no Artigo 34, Parágrafo Primeiro, da Instrução CVM 
+359/02); 
+(iv) 
+aumento na Taxa de Administração, de Custódia, de Entrada ou de Saída, se aplicável; 
+(v) 
+mudança de endereço da página do Fundo na rede mundial de computadores; 
+(vi) 
+fusão, incorporação, cisão, transformação ou liquidação do Fundo; 
+(vii) 
+alterações no contrato de sublicenciamento celebrado entre o detentor da licença do 
+Índice e o Administrador, caso essas alterações acarretem aumento de despesas para o 
+Fundo; e 
+(viii) quaisquer outras alterações neste Regulamento, não relacionadas aos itens (ii) a (v) do 
+- 24 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+presente Artigo. 
+ 
+Parágrafo Primeiro. Não obstante o disposto no item (viii) do caput deste Artigo, este 
+Regulamento poderá ser alterado pelo Administrador independentemente da assembleia geral 
+de Cotistas ou de consulta aos Cotistas, sempre que tal alteração decorrer exclusivamente da 
+necessidade de atendimento a exigência expressa da CVM, de entidade autorreguladora, de 
+entidade administradora de mercado organizado onde as cotas do fundo sejam admitidas à 
+negociação, de adequação às normas legais ou regulamentares, de alteração do prazo de que 
+trata o Parágrafo Segundoº do art. 12 da Instrução CVM 359/02 ou, ou, ainda, em virtude da 
+atualização de endereço ou informações para contato com o Administrador. 
+ 
+Parágrafo Segundo. As decisões da assembleia geral de Cotistas relativas aos itens (ii) a (vii) do 
+caput deste Artigo serão consideradas como fatos relevantes para os fins do disposto no Artigo 
+abaixo. 
+ 
+Parágrafo Terceiro. As demonstrações contábeis do Fundo cujo relatório de auditoria não 
+contiver opinião modificada podem ser consideradas automaticamente aprovadas caso a 
+assembleia correspondente não seja instalada em virtude do não comparecimento de quaisquer 
+investidores. 
+ 
+Parágrafo Quarto. Na hipótese de liquidação do Fundo por deliberação da assembleia geral e após 
+a divisão do patrimônio do Fundo entre os cotistas, o Administrador deve promover o seu 
+encerramento, encaminhando a documentação à CVM, previstas nos Artigos 69 e 70, Parágrafo 
+Único, da Instrução CVM 359/02. 
+ 
+Artigo 36. Quaisquer alterações a este Regulamento passam a vigorar a partir da data do 
+protocolo junto à CVM dos seguintes documentos, o qual deverá ser realizado no prazo de 5 
+(cinco) Dias Úteis, contado a partir da data de aprovação de tais alterações em assembleia geral 
+de Cotistas devidamente convocada: 
+(i) 
+lista de Cotistas presentes à respectiva assembleia geral de Cotistas; 
+(ii) 
+cópia da ata da respectiva assembleia geral de Cotistas; e 
+(iii) 
+exemplar do Regulamento, consolidando as alterações efetuadas. 
+ 
+Artigo 37. A assembleia geral de Cotistas deverá ser sempre convocada mediante notificação 
+entregue à B3 e publicada na página do Fundo na rede mundial de computadores com pelo menos 
+10 (dez) dias de antecedência da data da respectiva assembleia geral de Cotistas. 
+ 
+Parágrafo Único. O edital de convocação deverá obrigatoriamente informar o dia, o horário e o 
+local de realização da assembleia geral de Cotistas, a ordem do dia com os assuntos sobre os quais 
+a assembleia deverá deliberar, bem como o detalhamento das propostas específicas de 
+alterações ao Regulamento, conforme aplicável. 
+ 
+Artigo 38. A assembleia geral ordinária de Cotistas deverá ser convocada pelo Administrador 
+anualmente, até o dia 30 de junho de cada ano, para deliberar sobre as demonstrações contábeis 
+do Fundo. 
+ 
+Parágrafo Único. A assembleia geral ordinária somente poderá ser realizada após a divulgação 
+na página do Fundo na rede mundial de computadores das demonstrações contábeis relativas ao 
+exercício, com prazo de antecedência mínimo de 15 (quinze) dias, devendo tais demonstrações 
+- 25 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ficar à disposição dos Cotistas na sede do Administrador. 
+ 
+Artigo 39. A assembleia geral de Cotistas também poderá ser convocada a qualquer tempo pelo 
+Administrador ou por solicitação por escrito de Cotista ou Cotistas que detenham, no mínimo, 
+5% (cinco por cento) das Cotas em circulação (um “Grupo de Cotistas”). 
+ 
+Parágrafo Primeiro. No prazo de 30 (trinta) dias, contado a partir do recebimento de uma 
+solicitação por escrito por parte de um Grupo de Cotistas, o Administrador expedirá notificação 
+convocando a assembleia geral de Cotistas solicitada por tal Grupo de Cotistas. 
+ 
+Parágrafo Segundo. O Grupo de Cotistas que convocar uma assembleia geral de Cotistas deverá 
+pagar todos os custos e despesas de tal assembleia geral de Cotistas, bem como os custos e 
+despesas com a convocação de tal assembleia geral, exceto se definido de outro modo pela 
+assembleia geral de Cotistas. 
+ 
+Artigo 40. A assembleia geral de Cotistas também deverá ser convocada pelo Administrador e às 
+suas expensas, no prazo de 15 (quinze) dias, sempre que: 
+ 
+(i) 
+o erro de aderência, calculado como o desvio padrão populacional das diferenças entre a 
+variação percentual diária do valor patrimonial das Cotas e a variação percentual diária do Índice 
+nos últimos 60 (sessenta) pregões seja superior a 2 (dois) pontos percentuais, desde que tal erro 
+de aderência não seja reenquadrado ao limite de 2 (dois) pontos percentuais até o 15º (décimo 
+quinto) Dia Útil consecutivo subsequente à data de verificação do respectivo erro de aderência; 
+(ii) 
+a diferença entre a rentabilidade acumulada do Fundo e do valor de fechamento  da 
+rentabilidade acumulada do Índice nos últimos 60 (sessenta) pregões seja superior a 2 (dois) 
+pontos percentuais, desde que tal diferença de rentabilidade não seja reenquadrada ao limite de 
+2 (dois) pontos percentuais até o 15º (décimo quinto) Dia Útil consecutivo subsequente à data de 
+verificação da respectiva diferença de rentabilidade; ou 
+(iii) 
+a diferença entre a rentabilidade acumulada do Fundo e  do valor de fechamento do Índice 
+em um período de 12 (doze) meses for superior a 4 (quatro) pontos percentuais, desde que tal 
+diferença de rentabilidade não seja reenquadrada ao limite de 4 (quatro) pontos percentuais até 
+o 30º (trigésimo) Dia Útil consecutivo subsequente à data de verificação da respectiva diferença 
+de rentabilidade. 
+ 
+Parágrafo Primeiro. A ocorrência de qualquer dos eventos referidos no presente Artigo deverá 
+ser divulgada imediatamente na página do Fundo na rede mundial de computadores. 
+ 
+Parágrafo Segundo. A ordem do dia da assembleia geral de Cotistas convocada em razão da 
+ocorrência de qualquer dos eventos previstos no presente Artigo deverá compreender os 
+seguintes itens: 
+ 
+(i) 
+explicações, por parte do Administrador, em conjunto com a Gestora, das razões que, no 
+seu entendimento, motivaram o erro de aderência ou a diferença de rentabilidade. Tais 
+explicações deverão ser divulgadas também na página do Fundo na rede mundial de 
+computadores com antecedência mínima de 15 (quinze) dias da realização da assembleia geral 
+de Cotistas convocada nos termos deste Artigo, e permanecerão disponíveis na referida página 
+durante um período de 30 (trinta) dias, contado a partir da data de sua realização; e 
+(ii) 
+deliberação acerca da possibilidade de liquidação do Fundo ou sobre a substituição do 
+Administrador, matéria sobre a qual não poderão votar Coligadas do Administrador. 
+- 26 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Parágrafo Terceiro. Não obstante o disposto no caput do presente Artigo, e nos termos do Artigo 
+35, Parágrafo Quarto, da Instrução CVM 359/02, as assembleias gerais de Cotistas convocadas em 
+razão da ocorrência de qualquer dos eventos previstos neste Artigo deverão ter intervalo mínimo 
+de (i) 90 (noventa) dias caso a assembleia geral de Cotistas tenha decidido pela substituição do 
+Administrador, nos termos do Artigo 12, item (ii) do Regulamento, ou (ii) 30 (trinta) dias, caso a 
+assembleia geral de Cotistas tenha decidido pela manutenção do Administrador. 
+ 
+Artigo 41. As deliberações da assembleia geral de Cotistas, que deve ser instalada com a 
+presença de pelo menos 1 (um) Cotista ou seu representante legal, serão tomadas pelo critério 
+da maioria dos votos dos Cotistas presentes ou devidamente representados em tal assembleia, 
+sendo atribuído um voto a cada Cota. 
+ 
+Parágrafo Único.  As matérias definidas no item (ii) do Artigo 12 e nos itens (ii),(iii), (iv) e (vi) do 
+Artigo 35 acima devem ser aprovadas pelo voto de Cotistas que detenham a maioria absoluta das 
+Cotas emitidas pelo Fundo, ficando o Administrador e suas respectivas Coligadas impedidos de 
+votar em deliberações relativas à substituição do Administrador. 
+ 
+Artigo 42. Somente Cotistas do Fundo, seus representantes legais ou procuradores validamente 
+constituídos há menos de um ano poderão votar na assembleia geral de Cotistas. 
+ 
+Artigo 43. Será permitida a realização de assembleia geral de Cotistas por meio eletrônico 
+mediante envio de manifestação de voto devidamente assinada, desde que comprovadamente 
+recebida a manifestação do Cotista pelo Administrador, em seu endereço físico ou em endereço 
+eletrônico indicados no Serviço de Atendimento ao Cotista, até 3 (três) dias úteis antes do início 
+da assembleia geral. Nesses casos, os Cotistas deverão manifestar sua concordância ou não com 
+as propostas da ordem do dia. 
+ 
+Seção II. Assembleia Geral de Acionistas dos Emissores 
+ 
+Artigo 44. O Fundo tem como política o exercício de seu direito de voto em assembleias gerais 
+de acionistas de Emissores apenas com relação a matérias consideradas de suma relevância ao 
+Emissor. 
+ 
+Parágrafo Primeiro. A Gestora do Fundo adota política de exercício de direito de voto em 
+assembleias, que disciplina os princípios gerais, o processo decisório e quais são as matérias 
+relevantes obrigatórias para o exercício do direito de voto. Tal política orienta as decisões da 
+Gestora em assembleias de detentores de títulos e valores mobiliários que confiram aos seus 
+titulares o direito de voto. 
+ 
+Parágrafo Segundo. A política de voto da Gestora, em sua versão integral, está disponível na 
+página do Fundo na rede mundial de computadores https://www.xpasset.com.br/ 
+ 
+CAPÍTULO XI. DIVULGAÇÃO DE INFORMAÇÕES 
+ 
+Seção I. Página do Fundo na Rede Mundial de Computadores 
+ 
+Artigo 45. O Fundo tem uma página eletrônica na rede mundial de computadores, no endereço 
+https://www.xpasset.com.br/etfs/esgu11, com acesso disponível a partir do link específico 
+- 27 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+do Fundo, que contém as informações exigidas pelo Artigo 39 da Instrução CVM 359/02. 
+ 
+Parágrafo Único. Não haverá prospecto de distribuição pública das Cotas. Quaisquer materiais 
+de divulgação serão publicados na página do Fundo na rede mundial de computadores. 
+ 
+Artigo 46. O Administrador deve zelar para que as informações referentes ao Artigo 39 da 
+Instrução CVM 359/02 sejam divulgadas de forma contínua e atualizada, e que o endereço do 
+Fundo na rede mundial de computadores possua capacidade técnica de acesso simultâneo 
+compatível com o número de cotistas do Fundo. 
+ 
+Seção II. Divulgação ao Mercado e aos Cotistas 
+ 
+Artigo 47. Em cada Dia de Pregão, o Administrador informará à B3 o Valor Patrimonial de cada 
+Cota, a composição da Carteira e o valor do Patrimônio Líquido do Fundo. 
+ 
+Artigo 48. Nos termos do Artigo 42 da Instrução CVM 359/02, os Cotistas serão informados 
+acerca de suas posições em conformidade com a legislação e regulamentação aplicáveis. 
+ 
+Parágrafo Primeiro. O Administrador do Fundo divulgará, ampla e imediatamente, por meio da 
+página inicial do portal do Fundo na rede mundial de computadores, dos endereços de 
+correspondência eletrônicos cadastrados na forma do inciso IV do Artigo 39 da Instrução CVM 
+359/02, e do sistema de divulgação de informações da bolsa de valores ou do mercado de balcão 
+organizado (sistema de divulgação de informações da B3), no qual as Cotas do Fundo sejam 
+negociadas, qualquer ato ou fato relevante, de modo a garantir a todos os Cotistas acesso a 
+informações que possam, direta ou indiretamente, influenciar suas decisões quanto à permanência 
+no Fundo ou, no caso de outros investidores, quanto à aquisição das Cotas. 
+ 
+Parágrafo Segundo. As informações devidas à CVM, periódicas ou eventuais, devem ser 
+disponibilizados, pelo Administrador do Fundo por meio eletrônico ou endereço da CVM na rede 
+mundial de computadores, de acordo com a legislação em vigor, além de divulgar através do 
+sistema de divulgação de informações da B3 e através da página inicial do portal do Fundo na rede 
+mundial de computadores. 
+ 
+Seção III. Serviço de Atendimento aos Cotistas 
+ 
+Artigo 49. Os Cotistas poderão obter informações e esclarecer dúvidas a respeito do Fundo da 
+seguinte forma: 
+ 
+(i) 
+mediante correspondência enviada à sede do Administrador, no endereço Av. Presidente 
+Juscelino Kubitschek, nº 1909, 9º andar, Torre Sul, Vila Nova Conceição, CEP 04543-907, 
+São Paulo- SP, aos cuidados Client Desk; 
+ 
+(ii) 
+por correio eletrônico endereçado ao Administrador, no seguinte endereço: 
+atendimentoafs@br.bnpparibas.com  e ri@xpasset.com.br ; ou 
+ 
+(iii) 
+por telefone, através do número: (11) 3841-3157 ou 3841-3168. 
+ 
+CAPÍTULO XII. DEMONSTRAÇÕES CONTÁBEIS E RELATÓRIOS DE AUDITORIA 
+ 
+- 28 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Artigo 50. O Fundo terá escrituração contábil própria, devendo os investimentos, livros, registros 
+e demonstrações contábeis do Fundo ser segregados em relação àqueles do Administrador. 
+ 
+Artigo 51. O exercício fiscal do Fundo será de 1 (um) ano, encerrando-se em 31 de março de cada 
+ano civil. 
+ 
+Artigo 52. As demonstrações contábeis do Fundo, relativas a cada exercício contábil encerrado 
+em 31 de março de cada ano, estão sujeitas e deverão ser preparadas em conformidade com o 
+PLANO CONTÁBIL DOS FUNDOS DE INVESTIMENTO - COFI, editado pela CVM. 
+ 
+Parágrafo Único. Nos termos do Artigo 45 da Instrução CVM 359/02, as informações 
+disponibilizadas ao público, bem como eventuais materiais de divulgação do Fundo, não podem 
+estar em desacordo com a página do Fundo na rede mundial de computadores, com o 
+Regulamento do Fundo ou com o relatório anual protocolado na CVM. 
+ 
+Artigo 53. As demonstrações contábeis do Fundo serão auditadas anualmente por um auditor 
+independente registrado na CVM, e divulgadas pelo Administrador na página eletrônica do Fundo 
+na rede mundial de computadores. 
+ 
+CAPÍTULO XIII. ENCARGOS DO FUNDO 
+ 
+Artigo 54. Os Encargos do Fundo serão pagos pelo Fundo. 
+ 
+Parágrafo Primeiro  – Até o momento em que o patrimônio líquido do Fundo atingir, pela primeira 
+vez, a quantia de R$100.000.000,00 (cem milhões de reais), a GESTORA reembolsará o Fundo pelo 
+pagamento das  seguintes despesas:  
+ 
+I. despesas relativas a cobrança de taxa de fiscalização CVM; 
+II. despesas com o registro de documentos em cartório, impressão, expedição e publicação de 
+relatórios e informações periódicas previstas nesta Instrução; 
+III. despesas com correspondências de interesse do Fundo, inclusive comunicações aos cotistas; 
+IV. emolumentos e comissões pagas por operações do Fundo 
+V.  honorários e despesas do auditor independente;  
+VI. honorários de advogado, custas e despesas processuais correlatas, incorridas em razão de 
+defesa dos interesses do Fundo, em juízo ou fora dele, inclusive o valor da condenação imputada 
+ao fundo, se for o caso;  
+VII.       despesas bancárias, inclusive de abertura e manutenção de contas B3, SELIC e CBLC; 
+VIII. 
+despesas incorridas com o fechamento de contratos de câmbio para transações 
+permitidas ou relativas a operações envolvendo certificados ou recibo de depósito de títulos, 
+caso tais ativos passem a integrar o Índice; 
+IX.custos e despesas com custódia e liquidação de operações com títulos e valores mobiliários do 
+Fundo; e 
+X. “royalties” devidos pela utilização do índice de referência de acordo com a seção “O Fundo ― 
+Taxas, Despesas e Encargos ― Taxa de Licenciamento” da página do Fundo na rede mundial de 
+computadores https://www.xpasset.com.br/etfs/esgu11 
+ 
+Parágrafo Segundo - O reembolso, pela Gestora, das despesas mencionadas acima, deverá ser 
+realizado até o dia 10 (dez) do mês subsequente ao pagamento das referidas despesas pelo Fundo. 
+ 
+- 29 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Parágrafo Terceiro. O Administrador poderá determinar que parcelas da Taxa de Administração 
+sejam pagas diretamente pelo Fundo aos prestadores de serviço do Fundo que tenham sido 
+contratados pelo Administrador, desde que a soma de tais parcelas não exceda o valor total da 
+Taxa de Administração. 
+ 
+Parágrafo Quarto. Quaisquer despesas não especificamente previstas como Encargos do Fundo 
+serão pagas pelo Administrador. 
+ 
+CAPÍTULO XIV. DISPOSIÇÕES GERAIS 
+ 
+Artigo 55. Toda e qualquer disputa originada e/ou relativa a este Regulamento será resolvida 
+exclusiva e definitivamente mediante procedimento de arbitragem instituído e realizado 
+conforme o Regulamento de Arbitragem da (“ICC Brasil”). A gestão e a supervisão do processo 
+de arbitragem incumbirão à ICC Brasil – Câmara de Comércio Internacional no Brasil, conforme o 
+Regulamento de Arbitragem da ICC Brasil (“Regras de Arbitragem”). 
+ 
+Parágrafo Primeiro. O tribunal arbitral será composto de 3 (três) árbitros, um dos quais a ser 
+nomeado pelo demandante, outro pelo demandado e um que será indicado pelos 2 (dois) árbitros 
+nomeados pelo demandante e pelo demandado no prazo de 20 (vinte) Dias Úteis após a 
+confirmação do segundo árbitro, o qual presidirá o tribunal arbitral conforme o disposto no 
+presente Regulamento e nas Regras de Arbitragem. 
+ 
+Parágrafo Segundo. A arbitragem será conduzida na Cidade de São Paulo, Estado de São Paulo, 
+onde será emitida a sentença arbitral, em conformidade com a legislação brasileira, no idioma 
+português, que será o idioma exclusivo do processo. O tribunal arbitral observará as disposições 
+deste Regulamento e os costumes comerciais universalmente reconhecidos e aplicáveis aos 
+mercados de capitais nacionais e internacionais. 
+ 
+Parágrafo Terceiro. Aplicam-se à arbitragem as Regras de Arbitragem na data de constituição 
+do Fundo e as disposições da Lei nº 9.307, de 23 de setembro de 1996 (Lei Brasileira de 
+Arbitragem). 
+ 
+Parágrafo Quarto. A sentença arbitral será definitiva e obrigará cada uma das partes ao 
+procedimento arbitral, as quais concordam em se vincular a qualquer sentença arbitral, parcial ou 
+final, e expressamente renunciam a qualquer tipo de recurso contra a sentença arbitral. 
+ 
+Parágrafo Quinto. Sem prejuízo da validade desta cláusula de arbitragem, as partes do 
+procedimento arbitral deverão eleger, à exclusão de qualquer outra, a jurisdição da Comarca de 
+São Paulo, Estado de São Paulo, se e quando necessário, exclusivamente para os fins de (i) obter 
+medidas liminares ou tutelas antecipadas em garantia do processo de arbitragem a ser iniciado 
+entre as partes e/ou para garantir a exigência e/ou eficácia do processo de arbitragem e (ii) para 
+obter mandados e medidas de execução específica, ficando ressalvado que, uma vez atingido o 
+respectivo objetivo, o tribunal arbitral, a ser constituído ou já constituído, conforme aplicável, 
+retomará a plena e exclusiva jurisdição para solucionar todas as questões, quer de natureza 
+processual ou de mérito. O recurso de uma das partes à autoridade judicial especificada neste 
+dispositivo para obter tais medidas ou para implementar quaisquer medidas determinadas pelo 
+tribunal arbitral não será tido como uma infração ou uma renúncia a esta cláusula de arbitragem 
+e não afetará os poderes respectivos reservados ao tribunal arbitral. 
+ 
+- 30 - 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Parágrafo Sexto. Nenhum árbitro poderá ser um funcionário, representante, Coligada ou ex-
+funcionário de qualquer uma das partes envolvidas no respectivo processo de arbitragem. 
+ 
+Parágrafo Sétimo. Exceto se convencionado pelas partes entre si por escrito ou salvo conforme 
+exigido pela legislação pertinente, as partes, seus respectivos representantes e testemunhas e os 
+membros do tribunal de arbitragem obrigam-se a manter em sigilo a existência, o teor e todas as 
+sentenças relativas ao processo de arbitragem, juntamente com todos os materiais utilizados em 
+tal processo e produzidos para os fins da arbitragem, e a preservar a confidencialidade dos 
+documentos submetidos pela outra parte durante o processo de arbitragem – salvo e na medida 
+em que sua divulgação possa ser exigida por conta de obrigação legal ou para fins de execução. 
+ 
+Parágrafo Oitavo. Os custos, as despesas (outras que não as custas e despesas judiciais) e os 
+honorários dos árbitros incorridos nos processos de arbitragem serão repartidos igualmente 
+entre as partes até a sentença final ser proferida pelo tribunal arbitral. A sentença arbitral final 
+determinará à parte vencida que reembolse todos os custos, despesas e honorários dos árbitros 
+incorridos pela outra parte, acrescidos de (i) juros de 1% (um por cento) ao mês, e (ii) pro rata die, 
+a variação correspondendo a 100% (cem por cento) do Índice Nacional de Preços ao Consumidor, 
+calculado a partir da data de desembolso até a data do efetivo reembolso. Caso uma parte seja 
+vencedora parcial, o tribunal arbitral determinará os custos, despesas e honorários dos árbitros 
+proporcionalmente à culpa das partes, conforme constar da sentença arbitral. Não obstante o 
+disposto no presente Parágrafo, cada parte arcará com os honorários e despesas de seus 
+respectivos consultores jurídicos. 
+ 
+Artigo 56. Todo investidor ao (i) solicitar a integralização de Cotas, (ii) adquirir Cotas na B3 ou (iii) 
+de qualquer outra forma se tornar Cotista do Fundo estará automaticamente aderindo e 
+concordando com todas as disposições do presente Regulamento e das Regras de Arbitragem. 
+ 
+ 
