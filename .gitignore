@@ -1,2 +1,6 @@
 venv/lib/python3.12/site-packages/pt_core_news_lg/
+.idea/
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
 
