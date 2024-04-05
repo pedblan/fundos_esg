@@ -2,6 +2,7 @@
 Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre regulamentos de fundos de investimento ESG.
 - O scraping foi feito em 01/04/2024. Os arquivos de texto, de dados e metadados constam do programa, para que outros pesquisadores façam suas próprias análises.
 - Este é meu primeiro trabalho do gênero. Correções, sugestões e aprimoramentos serão bem-vindos.
+  - Os resultados da análise baseiam-se em filtros dos textos dos regulamentos e no processamento destes mediante a API da OpenAI. Gostaria de incentivar outros pesquisadores a reproduzirem  a pesquisa, editando as palavras-chave dos filtros (filtro.py) e a orientação ("prompt", em 4_pesquisa_esg.ipynb) à API.
 ## Estrutura
 ### /notebooks
 - contém os cadernos Jupyter com cada um dos passos da pesquisa.
@@ -9,7 +10,9 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
   - 2_converte_txt.ipynb: converte os regulamentos de pdf para txt
   - 3_aed.ipynb: faz análise exploratória dos dados obtidos pelo scraping de fundo
   - 4_pesquisa_esg.ipynb: comunica-se com a API da OpenAI para uma análise mais aprofundada dos regulamentos
+    - neste caderno se encontra o prompt dirigido à API da OpenAI. Gostaria de incentivar interessados a editar o prompt e apresentar as respostas obtidas.
   - 5_analise_esg.ipynb: faz análise NLP de objetivos, metodologia, referências e relatório da cada fundo
+  
 ### /data
 #### /json/
 - apresenta dados empregados em cada etapa da pesquisa
@@ -32,6 +35,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
     - O módulo PyMuPDF/fitz tem um problema conhecido: RuntimeError(f“Directory '{directory}' does not exist”)
 RuntimeError: Directory 'static/' does not exist from import fitz. Consegui corrigir isso seguindo as orientações deste link: https://stackoverflow.com/questions/67982760/raise-runtimeerrorfdirectory-directory-does-not-exist-runtimeerror-dire
 - filtro.py: funções para filtrar os arquivos txt, o que dá mais foco à pesquisa e reduz o preço da consulta à API OpenAI.
+  - os filtros selecionam frases que tem uma das palavras-chave de método/relatório/referência E uma das palavras-chave temáticas. Gostaria de incentivar interessados a reproduzirem o experimento, editando as palavras-chave dos filtros.
 - grafico.py: funções para fazer gráficos apresentando correlações de dados
 - scraping.py: função para fazer o scraping no sítio da Anbima.
   - biblioteca empregada: Selenium

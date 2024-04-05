@@ -4,5 +4,5 @@ venv/lib/python3.12/site-packages/pt_core_news_lg/
 .virtual_documents/
 __pycache__/
 .DS_Store
-.python_version
+.python-version
 
