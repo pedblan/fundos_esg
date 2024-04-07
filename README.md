@@ -36,7 +36,8 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
     - O módulo PyMuPDF/fitz tem um problema conhecido: RuntimeError(f“Directory '{directory}' does not exist”)
 RuntimeError: Directory 'static/' does not exist from import fitz. Consegui corrigir isso seguindo as orientações deste link: https://stackoverflow.com/questions/67982760/raise-runtimeerrorfdirectory-directory-does-not-exist-runtimeerror-dire
 - filtro.py: funções para filtrar os arquivos txt, o que dá mais foco à pesquisa e reduz o preço da consulta à API OpenAI.
-  - os filtros selecionam frases que tem uma das palavras-chave de método/relatório/referência E uma das palavras-chave temáticas. Gostaria de incentivar interessados a reproduzirem o experimento, editando as palavras-chave dos filtros.
+  - os filtros selecionam frases que tem tanto uma das palavras-chave de método/relatório/referência quanto uma das palavras-chave temáticas. A divisão por frases se justifica pela convenção estilística que caracteriza documentos jurídico-empresariais, e.g., contratos: frases longas, com alguma complexidade sintática.
+  - Gostaria de incentivar interessados a reproduzirem o experimento, editando as palavras-chave dos filtros.
 - grafico.py: funções para fazer gráficos apresentando correlações de dados
 - scraping.py: função para fazer o scraping no sítio da Anbima.
   - biblioteca empregada: Selenium
