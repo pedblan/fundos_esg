@@ -28,7 +28,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 ### /src
 - analise.py: função destinada a comunicar-se com o modelo OpenAI. Requer pass-key, obtida mediante cadastro no site respectivo: https://www.openai.com
 - analise_nlp.py: diversas funções para NLP do material obtido
-  - emprega biblioteca spaCY, que requer download de corpus da língua portuguesa. Empreguei pt_core_news_lg, disponível em: https://spacy.io/models/pt 
+  - emprega biblioteca spaCY, que requer download de corpus da língua portuguesa. Empreguei pt_core_news_lg, que não se encontra neste pacote, por causa do tamanho do arquivo. Está disponível para download em: https://spacy.io/models/pt 
 - converte_txt.py: função para extrair texto dos arquivos pdf e gravá-lo em arquivos txt.
   - Emprega o módulo PyMuPDF, que é importado sob o nome de "fitz".
     - Este foi o único módulo que conseguiu extrair a informação de caixas de texto, formato comum a vários regulamentos pesquisados
