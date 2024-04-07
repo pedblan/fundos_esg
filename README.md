@@ -3,7 +3,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 - O scraping foi feito em 01/04/2024. Os arquivos de texto, de dados e metadados constam do programa, para que outros pesquisadores façam suas próprias análises.
 - Este é meu primeiro trabalho do gênero. Correções, sugestões e aprimoramentos serão bem-vindos.
   - Os resultados da análise baseiam-se em filtros dos textos dos regulamentos e no processamento destes mediante a API da OpenAI. Gostaria de incentivar outros pesquisadores a reproduzirem  a pesquisa, editando as palavras-chave dos filtros (src/filtro.py) e a orientação ("prompt", em notebooks/4_pesquisa_esg.ipynb) à API.
-  - Para reproduzir a pesquisa, é necessário instalar as bibliotecas listados em requirements.txt, por meio do comando pip necessário, e descarregar manualmente o ChromeDriver (webdriver que opera o navegador Google Chrome para a biblioteca Selenium), bem como o corpus da língua portuguesa pt_core_news_lg, que subsidia a biblioteca spaCy. Também é preciso configurar uma chave para a API da OpenAI. Mais informações nos respectivos sites e documentos de ajuda.
+  - Para reproduzir a pesquisa, é necessário instalar as bibliotecas listadas em requirements.txt, por meio do comando pip necessário, e descarregar manualmente o ChromeDriver (webdriver que opera o navegador Google Chrome para a biblioteca Selenium), bem como o corpus da língua portuguesa pt_core_news_lg, que subsidia a biblioteca spaCy. Também é preciso configurar uma chave para a API da OpenAI. Mais informações nos respectivos sites e documentos de ajuda.
 ## Estrutura
 ### /notebooks
 - contém os cadernos Jupyter com cada um dos passos da pesquisa.
