@@ -2,12 +2,12 @@
 Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre regulamentos de fundos de investimento ESG.
 - O scraping foi feito em 01/04/2024. Os arquivos de texto, de dados e metadados constam do programa, para que outros pesquisadores façam suas próprias análises.
 - Este é meu primeiro trabalho do gênero. Correções, sugestões e aprimoramentos serão bem-vindos.
-  - Os resultados da análise baseiam-se em filtros dos textos dos regulamentos e no processamento destes mediante a API da OpenAI. Gostaria de incentivar outros pesquisadores a reproduzirem  a pesquisa, editando as palavras-chave dos filtros (src/filtro.py) e a orientação ("prompt", em notebooks/4_pesquisa_esg.ipynb) à API.
+  - Os resultados da análise baseiam-se em filtros dos textos dos regulamentos e no processamento dos trechos filtrados mediante a API da OpenAI. Gostaria de incentivar outros pesquisadores a reproduzirem  a pesquisa, editando as palavras-chave dos filtros (src/filtro.py) e a orientação ("prompt", em notebooks/4_pesquisa_esg.ipynb) à API.
   - Para reproduzir a pesquisa, é necessário instalar as bibliotecas listadas em requirements.txt, por meio do comando pip necessário, e descarregar manualmente o ChromeDriver (webdriver que opera o navegador Google Chrome para a biblioteca Selenium), bem como o corpus da língua portuguesa pt_core_news_lg, que subsidia a biblioteca spaCy. Também é preciso configurar uma chave para a API da OpenAI. Mais informações nos respectivos sites e documentos de ajuda.
 - Contato: http://pedblan.wordpress.com
 ## Estrutura
 ### /notebooks
-- contém os cadernos Jupyter com cada um dos passos da pesquisa.
+- Contém os cadernos Jupyter com cada um dos passos da pesquisa.
   - 1_coleta.ipynb: faz a coleta de dados
   - 2_converte_txt.ipynb: converte os regulamentos de pdf para txt
   - 3_aed.ipynb: faz análise exploratória dos dados obtidos pelo scraping de fundo
@@ -16,9 +16,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
   - 5_analise_esg.ipynb: faz análise NLP de objetivos, metodologia, referências e relatório da cada fundo
   
 ### /data
-#### /json/
-- apresenta dados empregados em cada etapa da pesquisa
-- json
+#### /json/ - Apresenta dados empregados em cada etapa da pesquisa
   - total_links.json: resultado do scraping inicial, dos resultados de pesquisa na página da Anbima. 
   - metadados.json: resultado do scraping da página de cada fundo
   - respostas.json: respostas da API OpenAI
@@ -27,7 +25,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 - arquivos pdf dos regulamentos dos fundos, descarregados na página da Anbima ou buscados manualmente, em caso de erro 
 #### /txt/
 - versão em txt dos arquivos pdf, para posterior análise textual
-### /src
+### /src - Contém scripts usados nos cadernos Jupyter
 - analise.py: função destinada a comunicar-se com o modelo OpenAI. Requer pass-key, obtida mediante cadastro no site respectivo: https://www.openai.com
 - analise_nlp.py: diversas funções para NLP do material obtido
   - emprega biblioteca spaCY, que requer download de corpus da língua portuguesa. Empreguei pt_core_news_lg, que não se encontra neste pacote, por causa do tamanho do arquivo. Está disponível para download em: https://spacy.io/models/pt 
