@@ -42,5 +42,5 @@ RuntimeError: Directory 'static/' does not exist from import fitz. Consegui corr
   - biblioteca empregada: Selenium
   - webdriver empregado: Chromedriver, que faz uso automático do navegador Chrome
     - requer que se descarregue o webdriver em https://chromedriver.chromium.org/downloads
-    - o Chromedriver deve ser descarregado em alguma pasta da variável de ambiente PATH (recurso do sistema operacional que confere onde procurar arquivos executáveis).
+    - o Chromedriver deve ser descarregado em alguma pasta da variável de ambiente PATH (recurso do sistema operacional que verifica onde procurar arquivos executáveis).
     - Num Mac, a lista destas pastas inclui /usr/local/bin. O Windows e o Linux seguem procedimentos parecidos, é preciso descobrir a pasta certa.
