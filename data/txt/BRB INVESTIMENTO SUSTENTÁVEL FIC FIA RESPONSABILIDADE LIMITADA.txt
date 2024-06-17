@@ -66,13 +66,14 @@ cotistas, no âmbito de suas competências específicas, por quaisquer danos res
 com as disposições deste regulamento ou da regulamentação pertinente, desde que tais infrações sejam 
 confirmadas por uma sentença judicial ou um laudo arbitral definitivo. 
  
-ADMINISTRAÇÃO 
+ 
  
  
  
  
 Página 2 de 13 
  
+ADMINISTRAÇÃO 
  
 Art. 5º. A BRB Distribuidora de Títulos e Valores Mobiliários S/A, inscrita no CNPJ sob o n.º 
 33.850.686/0001-69, com sede social no SAUN Quadra 05 Bloco C, Torre II, Centro Empresarial CNC, 2º 
@@ -136,13 +137,13 @@ GESTÃO
 Art. 6º.  A Plural Investimentos Gestão de Recursos LTDA, inscrita no CNPJ sob o n.º 09.630.188/0001-
 26, com sede social na Avenida Brigadeiro Faria lima 3400, conjunto 91 Parte – Itaim BIBI, São Paulo – SP, 
 devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) a prestar os serviços de Administração 
-de carteira, conforme o Ato Declaratório 10.817 de 15 de janeiro de 2010, atuará como GESTOR do FUNDO. 
  
  
  
  
 Página 3 de 13 
  
+de carteira, conforme o Ato Declaratório 10.817 de 15 de janeiro de 2010, atuará como GESTOR do FUNDO. 
  
 Parágrafo Primeiro: O Gestor é instituição financeira participante aderente ao Foreign Account Tax 
 Compliance Act (“FATCA") com Global Intermediary Identification Number (“GIIN”) TKU1IM.00004.ME.076. 
@@ -235,8 +236,8 @@ Art. 9º. O BRB - Banco de Brasília S/A, inscrito no CNPJ sob o n.º 00.000.208
 cidade de Brasília/DF, no SAUN Quadra 05 Bloco C, Torre II, Centro Empresarial CNC, empresa ligada ao 
 ADMINISTRADOR, atuará como o principal DISTRIBUIDOR de cotas do FUNDO. 
  
-Parágrafo Primeiro.  O ADMINISTRADOR e o GESTOR podem contratar, em nome do FUNDO, outros 
-distribuidores, desde que devidamente 
+Parágrafo Primeiro.  O GESTOR pode contratar, em nome do FUNDO, outros distribuidores, desde que 
+devidamente 
 habilitados e autorizados a prestar serviços de distribuição de cotas. 
  
 Parágrafo Segundo. As atividades de escrituração da emissão e resgate de cotas, tesouraria e de controle 
@@ -397,13 +398,12 @@ adequação do Regulamento do FUNDO à legislação vigente ou julgamento sobre 
 seu ADMINISTRADOR, GESTOR e demais prestadores de serviços.  
  
 Art. 22. As aplicações ocorrerão mediante: (i) solicitação verbal, escrita ou eletrônica (se disponível) ao 
-DISTRIBUIDOR ou diretamente ao ADMINISTRADOR; e (ii) débito em conta corrente do COTISTA, mantida no 
-Banco de Brasília S/A, ou mediante ordem de crédito/débito via CETIP, este desde que com prévia 
-concordância do ADMINISTRADOR. 
+DISTRIBUIDOR; e (ii) débito em conta corrente do COTISTA, mantida no Banco de Brasília S/A, ou mediante 
+ordem de crédito/débito via CETIP. 
  
 Parágrafo único. As aplicações serão efetuadas pelo valor da cota de fechamento em vigor no dia da efetiva 
 disponibilização dos recursos investidos pelo COTISTA (D0) ao FUNDO, desde que observado o horário de 
-funcionamento do FUNDO, determinado pelo ADMINISTRADOR. 
+funcionamento do FUNDO. 
  
 Art. 23. É facultado ao ADMINISTRADOR suspender, a qualquer momento e por prazo indeterminado, novas 
 aplicações no FUNDO, desde que tal suspensão se aplique indistintamente a novos investidores e cotistas 
@@ -416,13 +416,14 @@ público-alvo do fundo.
  
  
 Art. 24. Os resgates ocorrerão mediante: (i) solicitação verbal, escrita ou eletrônica (se disponível) do 
-COTISTA ao DISTRIBUIDOR ou diretamente ao ADMINISTRADOR; (ii) atingimento de saldo financeiro bruto 
-no FUNDO inferior ao valor mínimo de permanência, caso em que o resgate ocorrerá de forma automática e 
-pelo total de cotas disponíveis (resgate total); (iii) conversão de cotas em recursos baseada no valor da cota 
-de fechamento do dia seguinte ao pedido do resgate (D+1); e (iv) crédito em conta corrente do COTISTA, 
-mantida no BRB – Banco de Brasília S/A, ou mediante ordem de crédito via CETIP, este desde que com prévia 
-concordância do ADMINISTRADOR, ambos os casos líquido de impostos no 4º dia útil após a solicitação do 
+COTISTA ao DISTRIBUIDOR; (ii) atingimento de saldo financeiro bruto no FUNDO inferior ao valor mínimo de 
+permanência, caso em que o resgate ocorrerá de forma automática e pelo total de cotas disponíveis (resgate 
+total); (iii) conversão de cotas em recursos baseada no valor da cota de fechamento do dia seguinte ao pedido 
+do resgate (D+1); e (iv) crédito em conta corrente do COTISTA, mantida no BRB – Banco de Brasília S/A, ou 
+mediante ordem de crédito via CETIP, ambos os casos líquido de impostos no 4º dia útil após a solicitação do 
 resgate (D+4). 
+ 
+ 
  
  
  

@@ -1,0 +1,943 @@
+ 
+1 
+ 
+ 
+REGULAMENTO DO IT NOW RUSSELL® 1000 GREEN REVENUES 50  
+FUNDO DE ÍNDICE INVESTIMENTO SUSTENTÁVEL 
+CNPJ – 41.054.432/0001-62 
+ 
+1. ADMINISTRADOR 
+ITAÚ UNIBANCO S.A., sediado na Praça Alfredo Egydio de Souza Aranha, nº 100, Cidade: São Paulo, Estado: SP, CNPJ 
+nº 60.701.190/0001-04, ato declaratório CVM n.° 990. 
+ 
+2. GESTOR e CUSTODIANTE 
+2.1. ITAÚ UNIBANCO ASSET MANAGEMENT LTDA., Av. Brigadeiro Faria Lima, nº 3500, 4º andar, Itaim Bibi, São Paulo - 
+SP, CNPJ nº 40.430.971/0001-96, ato declaratório CVM nº 18.862 de 25/06/2021. (“Gestor"). 
+2.2. ITAÚ UNIBANCO S.A., sediado na Praça Alfredo Egydio de Souza Aranha, nº 100, Cidade: São Paulo, Estado: SP, 
+CNPJ nº 60.701.190/0001-04, ato declaratório CVM n.° 990. (“Custodiante”). 
+ 
+3. PRESTADOR DE SERVIÇOS DE ESCRITURAÇÃO DA EMISSÃO, RESGATE E NEGOCIAÇÃO DAS COTAS DO 
+FUNDO (“ESCRITURADOR”) 
+ITAÚ CORRETORA  DE VALORES S.A., sediado na Av. Brigadeiro Faria Lima, nº 3400 – 10º andar, Cidade: São Paulo, 
+Estado: SP, CNPJ nº 61.194.353/0001-64. 
+ 
+4. DEFINIÇÕES 
+“Agente Autorizado”. Cada Corretora e/ou Distribuidora de títulos e valores mobiliários, devidamente habilitada e pertencente 
+ao sistema de distribuição de valores mobiliários, que tenha firmado Contrato de Agente Autorizado.  
+ 
+“Ajuste de Integralização”. Relativamente a uma Ordem de Integralização, a diferença positiva ou negativa entre (i) o valor 
+da Cesta divulgado pelo ADMINISTRADOR na abertura do Dia Útil Local e no Exterior do recebimento e aceitação da ordem, 
+e (ii) o valor de fechamento da Cesta no mesmo dia. 
+ 
+“Ajuste de Resgate”. Relativamente a uma Ordem de Resgate, a diferença positiva ou negativa entre (i) o valor da Cesta 
+divulgado pelo ADMINISTRADOR na abertura do Dia Útil Local e no Exterior do recebimento e aceitação da ordem, e (ii) o 
+valor de fechamento da Cesta no mesmo dia. 
+ 
+“Arquivo de Composição da Cesta”. O arquivo determinando o valor em moeda corrente nacional da Cesta, conforme 
+calculado pelo GESTOR e divulgado, em cada Dia Útil Local e no Exterior, diariamente na página do FUNDO na rede mundial 
+de computadores antes da abertura do pregão da B3.  
+ 
+“B3”. Bolsa, Brasil, Balcão S.A. 
+ 
+“Cesta”. Significa o valor em moeda corrente nacional a ser entregue por cotistas ou pelo FUNDO para fins de integralização 
+ou resgate de Lotes Mínimos de Cotas, respectivamente.  
+ 
+“Contrato de Agente Autorizado”. Contrato entre o ADMINISTRADOR, representando o FUNDO, e respectivo Agente 
+Autorizado, estabelecendo os termos e condições para integralização e resgate de Lotes Mínimos de Cotas do FUNDO.  
+ 
+“Contrato de Licença”. Contrato firmado entre a Frank Russell Company e o ADMINISTRADOR, tendo por objeto a 
+concessão de licença de uso do índice Russell® 1000 Green Revenues 50, bem como da marca e certas informações a ele 
+associadas, para a finalidade específica de utilização como índice de referência do FUNDO. A expressão Contrato de Licença 
+abrange o contrato de sublicenciamento do índice para o FUNDO, se houver.  
+ 
+“CVM”. A Comissão de Valores Mobiliários.  
+ 
+“Dia Útil Local e no Exterior”. Qualquer dia em que a B3 e a bolsa no exterior em que as ações são negociadas estejam 
+abertas para negociações.  
+ 
+ 
+2 
+ 
+ 
+“Dia Útil Local”. Qualquer dia que não seja (i) sábado, (ii) domingo, ou (iii) outro dia em que os bancos nas cidades de São 
+Paulo, Estado de São Paulo, Brasil e a B3 estejam obrigados ou autorizados por lei ou regulamentação aplicável a 
+permanecer fechados.  
+ 
+“Direitos sobre Ativos”. Cupons, direitos, recibos de subscrição e certificados de desdobramento relativos àqueles valores 
+mobiliários eventualmente existentes na carteira do FUNDO, nos termos da regulamentação aplicável. 
+ 
+“EFPC”. Entidades fechadas de previdência complementar, conforme reguladas pela Resolução CMN nº 4.661/2018. 
+ 
+“FUNDO”. O It Now Russell® 1000 Green Revenues 50 Fundo de Índice. 
+ 
+“Horário de Corte para Ordens”. O horário ou respectivos horários, sempre anterior(es) ao horário de fechamento do pregão 
+da B3 e informado(s) na página do FUNDO na rede mundial de computadores, que será(ão) considerado(s) limite para que 
+Ordens de Integralização e Ordens de Resgate, conforme aplicável, sejam processadas no mesmo dia, desde que este seja 
+Dia Útil Local e no Exterior.  
+ 
+“Horário para a Entrega da Cesta”. O horário ou os respectivos horários, sempre anterior(es) ao horário de fechamento do 
+pregão da B3 e posterior(es) ao Horário de Corte para Ordens e informado(s) na página do FUNDO na rede mundial de 
+computadores, que deverá(ão) ser observado(s) pelo Agente Autorizado para a entrega de Cestas no ambiente da página 
+transacional do site www.itnow.com.br com a finalidade de efetivar as Ordens de Integralização.  
+ 
+“Índice” ou “RUSSELL® 1000 GREEN REVENUES 50”. Índice RUSSELL® 1000 GREEN REVENUES 50, calculado, 
+publicado e divulgado por Frank Russell Company (“Frank Russell”), cujas características estão definidas no item 7 deste 
+Regulamento.  
+ 
+“Investimentos Permitidos”. São os seguintes instrumentos financeiros e valores mobiliários, nos quais o FUNDO poderá 
+investir até 5% (cinco por cento) de seu Patrimônio Líquido: (i) títulos públicos de emissão do Tesouro Nacional; (ii) títulos 
+de renda fixa de emissão de instituições financeiras; (iii) cotas de fundos de investimento com as características de renda 
+fixa, referenciada ou curto prazo; (iv) operações compromissadas, realizadas de acordo com a regulamentação do Conselho 
+Monetário Nacional; (v) operações com derivativos realizadas em bolsas de valores, em bolsas de mercadorias e futuros ou 
+em mercados de balcão organizados, no Brasil ou no exterior, exclusivamente para administração dos riscos inerentes à 
+carteira do FUNDO ou dos ativos financeiros subjacentes, observado o previsto no item 8.5 e a legislação e regulamentação 
+aplicáveis; (vi) cotas de outros fundos de índices negociados no Brasil, (vii) títulos públicos ou outros títulos de baixo risco 
+de crédito no exterior; e (viii) outros ativos financeiros com liquidez não incluídos no índice de referência.  
+ 
+“Ligada”. consideram-se pessoas ligadas: (i) as empresas nas quais o ADMINISTRADOR ou o GESTOR, seus controladores, 
+administradores ou dependentes destes, ocupem cargo de administração ou que, individualmente ou em conjunto, participem 
+em porcentagem superior a 10% (dez por cento) do capital social; e (ii) os controladores, funcionários e prepostos do 
+ADMINISTRADOR e do GESTOR, bem como seus dependentes. 
+ 
+“Lote Mínimo de Cotas”. Lote padrão de cotas, conforme divulgado pelo GESTOR, a qualquer tempo, que possa ser emitido 
+ou entregue ao FUNDO, respectivamente, nos termos de uma Ordem de Integralização ou Ordem de Resgate, devidamente 
+apresentada por um Agente Autorizado nos termos deste Regulamento.  
+ 
+“Moeda de Referência do FUNDO”. Embora o FUNDO tenha como parâmetro um índice estrangeiro, a moeda de referência 
+do FUNDO será moeda corrente brasileira (real). Para fins de cálculo de aderência do FUNDO ao Índice, o valor da carteira 
+teórica do Índice será convertido diariamente para moeda corrente brasileira, de acordo com os parâmetros de apreçamento 
+do CUSTODIANTE, e a aderência do FUNDO ao Índice terá como base o valor da carteira do Índice convertido para moeda 
+corrente brasileira. Tendo em vista que o FUNDO investirá preponderantemente em ações no exterior, para fins de cálculo 
+diário da cota do FUNDO será considerado o valor das ações convertido para moeda corrente brasileira de acordo com os 
+mesmos critérios de conversão acima referidos.  
+ 
+“Ordem de Integralização”. Uma ordem emitida por um Agente Autorizado, por solicitação de seus clientes, para que o 
+FUNDO emita um ou mais Lote(s) Mínimo(s) de Cotas em contraprestação à entrega de uma ou mais Cesta(s) pelo 
+respectivo Agente Autorizado ao FUNDO.  
+ 
+3 
+ 
+ 
+ 
+“Ordem de Resgate”. Uma ordem emitida por um Agente Autorizado, por solicitação de seus clientes, para que o FUNDO 
+entregue uma ou mais Cesta(s) em contraprestação à entrega de um ou mais Lote(s) Mínimo de Cotas pelo respectivo 
+Agente Autorizado.  
+ 
+“Patrimônio Líquido”. A soma (a) do disponível com o valor de todos os ativos integrantes da carteira do FUNDO e das 
+Receitas acumuladas e não distribuídas, menos (b) as exigibilidades do FUNDO, incluindo taxas e despesas acumuladas e 
+não pagas.  
+ 
+“Pedido de Integralização”. Solicitação do investidor a um Agente Autorizado que efetue a integralização de um ou mais 
+Lotes Mínimos de Cotas.  
+ 
+“Pedido de Resgate”. Solicitação de qualquer cotista a um Agente Autorizado que efetue o resgate de um ou mais Lotes 
+Mínimos de Cotas detidos por tal cotista.  
+ 
+“Receitas”. Rendimentos, dividendos, Direitos sobre Ativos e outros direitos relativos aos ativos da carteira do FUNDO, bem 
+como outras receitas do FUNDO e valores a receber.  
+ 
+“Registros de Cotista”. Notas de corretagem e demais documentos fornecidos ao respectivo Agente Autorizado por qualquer 
+cotista que solicite a um Agente Autorizado que efetue o resgate de um ou mais Lotes Mínimos de Cotas detidos por tal 
+cotista.  
+ 
+“RPPS”. Regimes próprios de previdência social instituídos pela União, Estados, Distrito Federal e Municípios, conforme 
+regulados pela Resolução CMN nº 3.922/2010. 
+ 
+“Seguradoras e EAPC”. Sociedades seguradoras, sociedades de capitalização, entidades abertas de previdência 
+complementar e resseguradores locais, conforme reguladas pela Resolução CMN nº 4.444/2015. 
+ 
+“Taxa de Ingresso”. Taxa, em benefício do FUNDO, cobrada do investidor por ocasião do Pedido de Integralização, calculada 
+pelo GESTOR, em cada Dia Útil Local e no Exterior, segundo fórmula constante da página do FUNDO na rede mundial de 
+computadores. A Taxa de Ingresso, apurada pelo GESTOR e aplicável a integralizações num determinado Dia Útil Local e 
+no Exterior, será divulgada pelo ADMINISTRADOR ao final de cada Dia Útil Local e no Exterior. A Taxa de Ingresso é 
+destinada a repassar ao investidor custos e despesas incorridas pelo FUNDO na aquisição dos ativos que compõem a 
+carteira do FUNDO, a fim de evitar prejuízos para os demais cotistas do FUNDO decorrentes da integralização de cotas do 
+FUNDO em moeda corrente nacional. A fórmula da Taxa de Ingresso refletirá as seguintes despesas: (i) diferença positiva 
+ou negativa entre o preço de aquisição dos ativos financeiros do FUNDO em relação ao preço utilizado para contabilizar o 
+valor do correspondente ativo no cálculo do valor da cota, nos termos deste regulamento, inclusive a diferença relativa às 
+taxas de câmbio da negociação e do cálculo da cota, (ii) despesas com o fechamento de câmbio para remessa de recursos 
+ao exterior para aquisição de ativos pelo FUNDO, (iii) despesas de negociação para aquisição de ativos no mercado 
+estrangeiro pelo FUNDO, tais como emolumentos e corretagens, e (iv) eventuais tributos incidentes sobre a remessa de 
+recursos ao exterior ou aquisição dos ativos.   
+ 
+“Taxa de Integralização e Resgate Bolsa”. Taxa de processamento cobrada pela B3 do solicitante por Ordem de 
+Integralização e/ou Ordem de Resgate. 
+ 
+“Taxa de Saída”. Taxa, em benefício do FUNDO, cobrada do cotista por ocasião do Pedido de Resgate, calculada pelo 
+GESTOR, em cada Dia Útil Local e no Exterior, segundo fórmula constante da página do FUNDO na rede mundial de 
+computadores.  A Taxa de Saída, apurada pelo GESTOR e aplicável aos Resgates num determinado Dia Útil Local e no 
+Exterior, será divulgada pelo ADMINISTRADOR ao final de cada Dia Útil Local e no Exterior. A Taxa de Saída é destinada 
+a repassar ao cotista custos e despesas relacionadas à venda dos ativos pelo FUNDO para o pagamento do resgate de 
+cotas, a fim de evitar prejuízos para os demais cotistas do FUNDO decorrentes de tal resgate em moeda corrente nacional.  
+A fórmula da Taxa de Saída refletirá as seguintes despesas: (i) diferença positiva ou negativa entre o preço de venda dos 
+ativos financeiros do FUNDO em relação ao preço utilizado para contabilizar o valor do correspondente ativo no cálculo do 
+valor da cota, nos termos deste regulamento, inclusive a diferença relativa às taxas de câmbio da negociação e do cálculo 
+da cota, (ii) despesas referentes ao fechamento de câmbio para ingresso de recursos no Brasil em decorrência da venda de 
+ 
+4 
+ 
+ 
+ativos pelo FUNDO, (iii) despesas de negociação para venda de ativos no mercado estrangeiro pelo FUNDO, tais como 
+emolumentos e corretagens, e (iv) eventuais tributos incidentes sobre a venda dos ativos ou o ingresso de recursos no Brasil 
+oriundos dessa venda.  
+ 
+“Valor Patrimonial”. O valor patrimonial líquido das cotas do FUNDO, calculado nos termos do item 13.4. 
+ 
+5. DO FUNDO, SUAS CARACTERÍSTICAS E SEU OBJETIVO 
+5.1. O IT NOW RUSSELL® 1000 GREEN REVENUES 50 FUNDO DE ÍNDICE (“FUNDO”), constituído sob a forma de 
+condomínio aberto, é uma comunhão de recursos destinada à aplicação em ativos financeiros com o objetivo de refletir as 
+variações de rentabilidade, deduzidas taxas e despesas, do índice RUSSELL® 1000 GREEN REVENUES 50, calculado pela 
+Frank Russell. O objetivo do FUNDO será alcançado principalmente por meio do investimento nas ações que compõem o 
+Índice que são negociadas nas bolsas internacionais. O GESTOR possui um processo de engajamento periódico junto ao 
+provedor do índice (FTSE) para monitoramento de metodologia e promoção de maior alinhamento aos objetivos do fundo. 
+Para 
+mais 
+informações 
+sobre 
+nossa 
+política 
+e 
+formulário 
+de 
+metodologia 
+ASG 
+acesse:  
+https://www.itnow.com.br/reve11/documentos/ 
+5.1.1. As aplicações do FUNDO deverão obedecer, no que couber, as vedações aplicáveis às EFPC e RPPS expressamente 
+transcritas neste Regulamento, cabendo exclusivamente aos cotistas, no entanto, o controle e consolidação dos respectivos 
+limites de alocação e concentração a eles aplicáveis, nos termos das regulamentações a que estão sujeitos. 
+5.1.2. O FUNDO está autorizado a realizar investimentos no exterior, sem qualquer limitação.  
+5.2. O FUNDO é constituído sob a forma de condomínio aberto, sujeito às regras de emissão e resgate previstas neste 
+Regulamento. Não obstante, as cotas do FUNDO são admitidas à negociação na B3. O FUNDO terá prazo indeterminado 
+de duração.  
+5.3. O FUNDO é regido por este Regulamento e pelas disposições legais e regulamentares que lhe forem aplicáveis.  
+5.4. O objetivo e a política de investimento do FUNDO, bem como a performance histórica do FUNDO ou qualquer declaração 
+sobre o FUNDO ou descrição do FUNDO, não caracterizam garantia, promessa ou sugestão de rentabilidade aos cotistas.  
+5.5. Investimentos no FUNDO não contam com garantia do ADMINISTRADOR, de qualquer mecanismo de seguro, do 
+FUNDO Garantidor de Créditos – FGC, ou ainda, de qualquer outra pessoa ou entidade.  
+5.6. Pela própria natureza do FUNDO, o valor dos ativos do FUNDO pode diminuir, e consequentemente, o valor de suas 
+cotas também poderá diminuir. Sendo assim, o valor das cotas detidas por cada cotista poderá, a qualquer tempo, ser inferior 
+ao valor originalmente pago pelo cotista por suas cotas.  
+ 
+6. PÚBLICO ALVO 
+6.1. O FUNDO, observada a legislação e regulamentação aplicáveis, é destinado a investidores em geral, incluindo, sem 
+limitação, pessoas físicas e jurídicas, fundos de investimento, EFPC, RPPS, EAPC e Seguradoras, que (a) estejam 
+legalmente habilitados a adquirir cotas do FUNDO, (b) aceitem todos os riscos inerentes ao investimento no FUNDO, e (c) 
+busquem retorno de rentabilidade condizente com o objetivo do FUNDO e sua política de investimento. Caso o investimento 
+no FUNDO seja realizado por investidor não residente, este investidor deverá avaliar a adequação da aquisição das cotas 
+do FUNDO à legislação aplicável em sua jurisdição.  
+6.2. Os Agentes Autorizados deverão realizar a verificação da condição acima relativamente aos potenciais adquirentes de 
+cotas do FUNDO.  
+6.3. O cotista declara ciência e concordância de que (i) não competirá ao ADMINISTRADOR ou ao GESTOR a operação 
+dos planos previdenciários quer sob o controle de passivo, quer sob a sua respectiva situação econômico-financeira ou pelas 
+obrigações assumidas pelo cotista perante terceiros; e (ii) os nomes do ADMINISTRADOR ou do GESTOR não poderão ser 
+vinculados aos planos de benefício de natureza previdenciária oferecidos pelo cotista. Adicionalmente, o cotista declara-se 
+exclusivamente responsável pela instituição, operação e resultados do plano de benefício de natureza previdenciária por ele 
+constituído, administrado e executado. 
+ 
+7. CARACTERÍSTICAS DO ÍNDICE RUSSELL® 1000 GREEN REVENUES 50 
+7.1. O Índice RUSSELL® 1000 GREEN REVENUES 50 pertence a Frank Russell e busca refletir a performance das 
+empresas americanas de elevada capitalização de mercado engajadas na transição para uma economia verde. 
+7.2. As empresas são selecionadas dentre as 1.000 empresas norte americanas de maior capitalização de mercado, 
+pertencentes ao índice Russell® 1000 Green Revenues 50, ranqueadas pelo percentual de receita verde (receita proveniente 
+de produtos e serviços que impactam positivamente ou que não produzem impacto no meio ambiente, apurado segundo 
+metodologia proprietária da FTSE Russell). São selecionadas as 50 maiores proporções de receita verde, sendo que quando 
+há empate, ambas as empresas são incluídas.  
+ 
+5 
+ 
+ 
+7.3. O índice é ponderado pelo valor de mercado das empresas, ajustado pelo percentual de receita verde. Além disso, há 
+peso máximo de 10% (dez por cento) por empresa, peso mínimo de 0,50% (zero vírgula cinquenta por cento) e limite de 
+diferença por setor de 15% (quinze por cento) em relação ao índice Russell® 1000 Green Revenues 50. 
+7.4. Os rebalanceamentos são semestrais, e nestes incide um buffer no qual as empresas já presentes no índice que se 
+mantenham dentre as 60 maiores proporções de receita verde são mantidas em detrimento da entrada de novos 
+componentes. 
+7.5. Para maiores detalhes sobre o Índice consulte a metodologia do Índice disponível na página (site) na rede mundial de 
+computadores www.itnow.com.br e na página https://www.ftserussell.com. 
+7.6. A Frank Russell realiza a gestão, cálculo, divulgação e manutenção do Índice. Nenhuma obrigação ou responsabilidade 
+por tais atividades poderão ser atribuídas ao FUNDO, ao GESTOR e/ou ao ADMINISTRADOR do FUNDO. Nem a Frank 
+Russell, o FUNDO, o ADMINISTRADOR ou o GESTOR terão qualquer responsabilidade por, ou asseguram a precisão ou 
+completude do Índice ou qualquer informação nele incluída. 
+7.6.1. Caso a Frank Russell deixe de gerir, calcular, divulgar ou manter o Índice, o ADMINISTRADOR deverá imediatamente 
+divulgar tal fato aos cotistas, na forma da regulamentação aplicável, e necessariamente convocar uma assembleia geral de 
+cotistas na qual os cotistas deverão deliberar acerca de eventual mudança no objetivo de investimento do FUNDO ou, caso 
+contrário, pela liquidação e encerramento do FUNDO. A mesma regra será aplicada em caso de não prorrogação do Contrato 
+de Licença ou caso ocorra a resilição ou resolução do Contrato de Licença, nas hipóteses em que tal resilição ou resolução 
+seja permitida nos termos do Contrato de Licença.  
+7.7. Todas as informações sobre o Índice dispostas neste Regulamento, na página do FUNDO na rede mundial de 
+computadores, bem como nos materiais de divulgação do FUNDO, foram ou serão, conforme o caso, obtidas por meio (i) da 
+Frank Russell ou de sua respectiva página na rede mundial de computadores, e (ii) de fontes públicas de informação, não 
+sendo o FUNDO, nem o ADMINISTRADOR, nem o GESTOR, ou qualquer outro prestador de serviços ao FUNDO ou em 
+benefício deste, tampouco quaisquer de suas Ligadas, responsável por qualquer incorreção das informações do Índice, 
+incluindo as incorreções no cálculo do Índice.  
+7.8. A descrição das características do Índice, conforme acima, reflete a metodologia do Índice em vigor na data de 
+constituição do FUNDO. Eventuais alterações desta metodologia que venham a ser realizadas pela Frank Russell serão 
+objeto de atualização no site do FUNDO e da Frank Russell. 
+ 
+8. POLÍTICA DE INVESTIMENTO 
+8.1. A carteira do FUNDO poderá incluir (a) ações e ADRs de companhias estrangeiras negociadas no mercado internacional 
+que sejam componentes do Índice, (b) Brazilian Depositary Receipts (“BDRs”) negociados no mercado nacional lastreados 
+nas ações descritas no item (a); (c) BDRs lastreados em cotas de fundos de índice estrangeiro que sigam o Índice; (d) cotas 
+de fundo de índice estrangeiro que sigam o Índice, (e) posições compradas nos mercados futuros, no Brasil e no exterior, 
+do Índice, a fim de refletir sua variação e rentabilidade; (f) posições compradas no mercado futuro de dólar, a fim de proteger 
+o risco de descolamento (erro de aderência) decorrente da exposição cambial gerada pelas posições mantidas nos mercados 
+futuros do Índice, no Brasil e no exterior, assim como pelas posições em dinheiro, renda fixa local, fundos de investimento e 
+contas a receber em reais; (g) Investimentos Permitidos, (h) Receitas acumuladas e não distribuídas, e (i) dinheiro, 
+observados os limites de diversificação e de composição da carteira do FUNDO detalhados abaixo.  
+8.2. Ressalvado o disposto no item 8.2.1, o FUNDO investirá no mínimo 95% (noventa e cinco por cento) de seu patrimônio 
+em ações e ADRs de companhias estrangeiras negociadas no mercado internacional que sejam componente do Índice, 
+BDRs negociados no mercado nacional lastreados nestas ações, BDRs lastreados em cotas de fundos de índice estrangeiro 
+que sigam o Índice, cotas de fundo de índice estrangeiro que sigam o Índice ou em posições compradas nos mercados 
+futuros do Índice, no Brasil ou no exterior, a fim de refletir sua variação e rentabilidade, observados os limites previstos neste 
+Regulamento.  
+8.2.1. O FUNDO poderá investir até 95% (noventa e cinco por cento) de seu patrimônio em posições compradas no mercado 
+futuro de dólar, a fim de proteger o risco de descolamento (erro de aderência) decorrente da exposição cambial gerada pelas 
+posições mantidas nos mercados futuros do Índice no Brasil e no exterior, assim como pelas posições em dinheiro, renda 
+fixa local, fundos de investimento e contas a receber em reais. 
+8.2.2. Os contratos futuros previstos no item 8.1 realizados no Brasil devem ser negociados em bolsa de mercadorias e de 
+futuros e liquidados em câmaras e prestadores de serviços de compensação e liquidação que assumam a posição de 
+contraparte central.  
+8.3. Nos restantes 5% (cinco por cento) de sua carteira, o FUNDO poderá deter outros ativos não incluídos no Índice, desde 
+que estes constituam Investimentos Permitidos.  
+8.3.1. O FUNDO poderá investir até 5% (cinco por cento) de seu patrimônio líquido em cotas de fundos de investimento 
+administrados ou geridos pelo ADMINISTRADOR, GESTOR ou entidades a ele ligadas, sendo que os investimentos nesses 
+ 
+6 
+ 
+ 
+fundos que excedam 1% (um por cento) do patrimônio líquido do FUNDO, somente poderão ser realizados em fundos que 
+prevejam taxa de administração igual a zero.  
+8.4. Casos de desenquadramento ao limite mínimo de 95% (noventa e cinco por cento) disposto no item 8.2. serão 
+justificados por escrito pelo ADMINISTRADOR à CVM dentro de 5 (cinco) Dias Úteis, contados a partir da data da verificação 
+de tal desenquadramento.  
+8.5. O total das margens de garantia exigidas do FUNDO em suas operações com derivativos não poderá exceder 15% 
+(quinze por cento) do Patrimônio Líquido.  
+8.6. O GESTOR deverá tomar todas as decisões de investimento e desinvestimento com relação aos recursos ou ativos do 
+FUNDO, e deverá gerir a carteira do FUNDO buscando alcançar o objetivo de investimento do FUNDO. 
+8.6.1. O GESTOR não buscará auferir rentabilidade superior à performance e ao desempenho do Índice, tampouco recorrerá 
+a posições defensivas em caso de flutuações extraordinárias no mercado.  
+8.7. As Receitas recebidas pelo FUNDO não serão pagas aos cotistas e serão reinvestidas em Investimentos Permitidos.  
+8.8. O FUNDO poderá celebrar com terceiros contratos a termo de troca de rentabilidade (“swap”), com cláusula de liquidação 
+por ajuste financeiro diário, que tenha como objeto de negociação a diferença de variação entre a rentabilidade do FUNDO 
+e a rentabilidade do Índice. Estes contratos devem ser: (i) previamente aprovados pela CVM; (ii) registrados em bolsas de 
+valores, mercadorias e futuros ou mercado de balcão organizado; e (iii) divulgados na íntegra no site www.itnow.com.br. 
+8.8.1. As operações previstas no item 8.8 devem atender ao disposto no item 8.5. acima, observado que o término da 
+vigência destas operações deve ser divulgado com pelo menos 30 (trinta) dias de antecedência, sendo considerado fato 
+relevante para fins do disposto na Instrução CVM 359. 
+ 
+9. ADMINISTRAÇÃO E GESTÃO DO FUNDO 
+9.1. A administração e a gestão do FUNDO serão exercidas pelo ADMINISTRADOR, acima qualificado.  
+9.1.1. Observadas as limitações legais e as previstas na regulamentação em vigor e neste Regulamento, o 
+ADMINISTRADOR tem poderes para praticar todos os atos necessários à administração e gestão da carteira do FUNDO, 
+bem como para exercer todos os direitos inerentes aos ativos que a integrem, inclusive a contratação de terceiros 
+devidamente habilitados para a prestação de serviços relativos às atividades do FUNDO. 
+9.2. O ADMINISTRADOR contratará Agentes Autorizados para intermediar as solicitações de integralização e resgate de 
+cotas do FUNDO. As cotas somente poderão ser integralizadas ou resgatadas por meio de tais Agentes Autorizados. 
+9.3. Uma lista com informações atualizadas a respeito dos Agentes Autorizados, incluindo sua identificação e informações 
+para contato será divulgada diariamente na página do FUNDO na rede mundial de computadores.  
+9.4. O ADMINISTRADOR deverá ser substituído nos seguintes casos: 
+(i) descredenciamento para o exercício da atividade de administração de carteira, por decisão final da CVM;  
+(ii) renúncia; ou 
+(iii) destituição, por deliberação da assembleia geral de cotistas. 
+9.5. Na hipótese de renúncia, o ADMINISTRADOR deverá imediatamente convocar assembleia geral de cotistas para 
+deliberar sobre a sua substituição ou a liquidação do FUNDO. O ADMINISTRADOR permanecerá responsável pela 
+administração do FUNDO até que o novo administrador indicado pela assembleia geral de cotistas tenha assumido suas 
+funções como administrador do FUNDO ou até a liquidação do FUNDO, o que ocorrer primeiro.  
+9.6. Na hipótese de destituição do ADMINISTRADOR pela assembleia geral de cotistas, o ADMINISTRADOR deverá 
+comunicar imediatamente tal fato à CVM, na forma da regulamentação em vigor. 
+9.7. É vedado ao ADMINISTRADOR praticar os seguintes atos em nome do FUNDO: 
+(i) receber depósito em sua própria conta corrente;  
+(ii) contrair ou efetuar empréstimos, ressalvado o disposto na regulamentação aplicável, e em regulamentação que vier a ser 
+emitida pela CVM neste sentido;  
+(iii) prestar fiança, aval, aceite ou coobrigar-se sob qualquer outra forma;  
+(iv) ressalvados os casos expressamente previstos neste regulamento, realizar operações com ações fora de bolsa de 
+valores ou de mercado de balcão organizado por entidade autorizada pela CVM, ressalvadas as hipóteses de (a) subscrição 
+em distribuições públicas, (b) exercício de direito de preferência pelo FUNDO, e (c) operações previamente autorizadas pela 
+CVM; 
+(v) vender cotas do FUNDO à prestação; 
+(vi) praticar qualquer ato de liberalidade; e 
+(vi) praticar qualquer ato que possa impedir a negociação das Ações do Índice em bolsa de valores. 
+9.8. É vedado ao FUNDO: (i) locar, emprestar, tomar emprestado, empenhar ou caucionar ativos financeiros, exceto nas 
+hipóteses previstas no item 12; (ii) realizar operações denominadas day trade, assim consideradas aquelas iniciadas e 
+encerradas no mesmo dia, independentemente do FUNDO possuir estoque ou posição anterior do mesmo ativo; (iii) realizar 
+ 
+7 
+ 
+ 
+operações no mercado de derivativos que permitam alavancagem, ou seja, operações cujo valor seja superior ao Patrimônio 
+Líquido do FUNDO ou que obriguem os cotistas aportarem recursos adicionais para cobrir prejuízo do FUNDO; (iv) realizar 
+operações a descoberto; (v) aplicar seus recursos em ativos financeiros no exterior, ressalvados os casos admitidos pela 
+regulamentação vigente ou expressamente admitidos ou autorizados pelo regulador competente; (vi) adquirir ativos e 
+emissão de pessoas físicas, sociedades limitadas ou sociedades por ações de capital fechado, (vii) aplicar em títulos ou 
+outros ativos financeiros nos quais ente federativo (estados, distrito federal e municípios) figure como emissor, devedor ou 
+preste fiança, aval, aceite ou coobrigação sob qualquer forma; e (viii) aplicar em títulos ou ativos financeiros emitidos por 
+instituições financeiras controladas por entes federativos. 
+ 
+10. DO PATRIMÔNIO LÍQUIDO DO FUNDO 
+10.1. O Patrimônio Líquido do FUNDO será calculado em todo Dia Útil Local após o fechamento do mercado local e, em 
+Dias Úteis Locais em que o mercado principal em que as ações componentes do Índice sejam negociadas esteja em 
+funcionamento, depois do fechamento desse mercado, com base nos valores dos ativos da carteira do FUNDO, 
+considerando as normas contábeis vigentes adotadas pela CVM e os parâmetros de apreçamento do CUSTODIANTE e 
+observadas as disposições do item 13.4 abaixo.   
+ 
+11. REMUNERAÇÃO 
+11.1. Pela prestação dos serviços de administração e gestão do FUNDO, o ADMINISTRADOR receberá taxa de 
+administração equivalente ao percentual anual de 0,50% (zero vírgula cinquenta por cento), calculada sobre o Patrimônio 
+Líquido. Essa remuneração será calculada e apropriada diariamente por Dia Útil Local, pró-rata, considerando-se o ano com 
+252 (duzentos e cinquenta e dois) dias úteis, devendo ser paga mensalmente, no primeiro dia útil do mês subsequente ao 
+mês vencido.   
+11.2. A taxa de administração prevista engloba os pagamentos devidos aos prestadores de serviço do FUNDO, inclusive de 
+custódia dos ativos financeiros integrantes da carteira do FUNDO, desde que o somatório desses pagamentos não exceda 
+o montante total da taxa de administração fixada neste Regulamento, porém não inclui os valores referentes às taxas de 
+administração dos fundos em que o FUNDO investe, a remuneração do prestador de serviços de auditoria das 
+demonstrações financeiras do FUNDO, nem os valores correspondentes aos demais encargos do FUNDO, os quais serão 
+debitados do FUNDO de acordo com o disposto neste regulamento e na regulamentação. 
+11.3. O ADMINISTRADOR poderá, ainda, reduzir unilateralmente as taxas previstas neste item 11 sem necessidade de 
+aprovação da assembleia geral de cotistas, devendo tal redução ser aplicável, de maneira uniforme, a todos os cotistas. O 
+ADMINISTRADOR deverá comunicar qualquer mudança nas taxas previstas neste item 11, na forma da regulamentação 
+aplicável, e promover a devida alteração neste Regulamento. As taxas previstas neste item 11 não podem ser majoradas 
+sem prévia aprovação da assembleia geral de cotistas. 
+ 
+12. DAS OPERAÇÕES DE EMPRÉSTIMO DE ATIVOS DA CARTEIRA DO FUNDO 
+12.1.  O FUNDO poderá realizar operações de empréstimo de ativos financeiros, na forma regulada pela CVM e conforme 
+disposto neste Regulamento.   
+12.1.1. O FUNDO poderá realizar operações de empréstimo de valores mobiliários negociados no mercado local na forma 
+da regulamentação sobre operações de empréstimo de ativos financeiros em vigor, contanto que: (i) tenham prazo fixo e 
+todos os ativos financeiros emprestados sejam devolvidas ao FUNDO no vencimento do prazo, (ii) o valor total dos ativos 
+financeiros emprestados pelo FUNDO na forma deste item  não ultrapasse o limite de 50% (cinquenta por cento) do valor do 
+Patrimônio Líquido do FUNDO e (iii) não sejam emprestadas mais de 50% (cinquenta por cento) do montante de cada ativo 
+financeiro detido pelo FUNDO. 
+12.1.2. O ADMINISTRADOR deverá honrar os pagamentos de Pedidos de Resgate, caso os ativos financeiros necessários 
+para efetivar tais operações estejam sendo objeto de empréstimo ou de garantia prestada pelo FUNDO em suas operações 
+e não seja razoavelmente possível reverter tais operações em tempo hábil.  
+12.1.3. As Receitas de Empréstimos serão revertidas integralmente para o FUNDO. Essas receitas serão líquidas de 
+eventuais taxas cobradas nas operações de empréstimos de ativos financeiros do FUNDO. 
+12.2. Tendo em vista a natureza dos ativos financeiros investidos pelo FUNDO que compõem o Índice, os empréstimos para 
+fins de exercício de direito de voto em assembleias gerais de emissores não se aplicam. 
+ 
+13. DAS COTAS DO FUNDO 
+13.1. As cotas do FUNDO correspondem a frações ideais do patrimônio do FUNDO, devendo ser nominativas e escrituradas 
+em nome do seu titular. 
+ 
+8 
+ 
+ 
+13.2. A condição de cotista é caracterizada pela inscrição no registro de cotistas mantido pelo ESCRITURADOR.  No caso 
+das cotas estarem depositadas em uma central depositária, a condição de cotista poderá ser atestada pelos registros 
+mantidos por essa depositária e fornecidos periodicamente ao ESCRITURADOR. 
+13.2.1. O FUNDO aderiu ao Regulamento da B3 o qual tem por objeto disciplinar a prestação, pela B3, de serviço de custódia 
+de ativos financeiros e outros instrumentos financeiros (“Ativos Negociáveis”), emitidos por pessoa jurídica de direito público 
+u privado. O Serviço de Custódia da B3 instrumentaliza-se, nos termos da legislação vigente, mediante a transferência da 
+titularidade de Ativos Negociáveis registrados em nome de investidor original para o da B3, que passa a ostentar, em 
+consequência, a qualidade de proprietária fiduciária dos Ativos Negociáveis, exclusivamente para fins de custódia, sem que 
+disto resulte transferência plena de sua propriedade. Para que as cotas sejam negociáveis por meio da B3, o investidor 
+deverá estar ciente de que suas cotas estarão registradas perante o ESCRITURADOR em nome da B3, esta na qualidade 
+de proprietária fiduciária. No entanto, a B3 fornecerá ao ESCRITURADOR, sempre que este solicitar, as informações sobre 
+a titularidade das cotas que estejam sob a sua custódia.  
+13.3. O registro de cotas do FUNDO será realizado de forma escritural. 
+13.4. O Valor Patrimonial de cada cota do FUNDO é resultante da divisão do valor do Patrimônio Líquido do FUNDO pelo 
+número de cotas existentes, observado o disposto no item 10.1. deste Regulamento. A apuração do valor dos ativos do 
+FUNDO, para efeito de cálculo do valor da cota utilizada nas aplicações e resgates no FUNDO, será feita de acordo com a 
+seguinte metodologia:  
+(a) ativos do mercado nacional – será feita diariamente pelo ADMINISTRADOR, ou terceiros por ele contratados, de acordo 
+com o manual de apreçamento do CUSTODIANTE do FUNDO, preferencialmente com base em fontes públicas do mercado 
+nacional;  
+(b) ativos do mercado internacional – sempre que possível e observado o disposto no item 10.1, será realizada da mesma 
+forma e no mesmo horário que para os ativos do mercado nacional. Todavia, caso os ativos do mercado internacional não 
+tenham cotação diária divulgada até o momento da apuração do valor diário da cota do FUNDO, o ADMINISTRADOR, ou 
+terceiros por ele contratados, poderão estimar o valor desses ativos, verificando a aderência dessa estimativa ao último valor 
+disponível do ativo, preferencialmente com base em fontes públicas internacionais;  
+(c) consolidação do valor dos ativos do FUNDO e determinação do patrimônio global do FUNDO – observado o disposto no 
+item 10.1, o ADMINISTRADOR, ou terceiros por ele contratados, estimarão o valor diário dos ativos do mercado internacional 
+sem cotação até o momento da apuração do valor da cota do FUNDO, verificará a aderência dessa estimativa às fontes 
+públicas internacionais disponíveis e consolidará o valor estimado desses ativos com o valor dos ativos do mercado nacional 
+e com o valor dos ativos do mercado internacional que tenham cotação diária, obtendo, assim, o valor global do patrimônio 
+do FUNDO e, consequentemente, o valor da cota do FUNDO a ser utilizado para aplicações e resgates. 
+(d) com relação à taxa de câmbio para conversão dos ativos adquiridos no mercado internacional, serão observados os 
+critérios estabelecidos para conversão de moedas pelas normas gerais aplicáveis aos fundos de investimento (ou, na 
+ausência de tais critérios, os parâmetros de apreçamento do CUSTODIANTE). 
+13.5. Tanto na integralização quanto no resgate de cotas do FUNDO deve ser utilizado o Valor Patrimonial das cotas, 
+apurado, no encerramento do Dia Útil Local e no Exterior da data da solicitação, conforme a metodologia disposta no item 
+13.4 acima.  
+13.6. As cotas do FUNDO poderão ser objeto de empréstimo e de garantia, inclusive em garantia das operações de 
+empréstimo de ações na forma da regulamentação em vigor.  
+13.7. Tanto a CVM quanto a B3 poderão suspender a negociação das cotas do FUNDO sempre que determinarem que isso 
+seja apropriado para a proteção dos investidores. Além da suspensão da negociação das cotas, a B3 poderá também adotar 
+outras medidas previstas em suas normas, regulamentos e procedimentos operacionais, tais como leilão de cotas do FUNDO 
+em circunstâncias como a suspensão da negociação de ativos da carteira do FUNDO. Similarmente, a autoridade do 
+mercado organizado em que as ações sejam negociadas também poderá adotar a suspensão de negociação de tais ações 
+e outras medidas previstas em suas normas, regulamentos e procedimentos operacionais.  
+ 
+14. INTEGRALIZAÇÕES E RESGATES DE COTAS  
+14.1. Exceto se de outra forma expressamente prevista neste Regulamento, as cotas serão emitidas e resgatadas somente 
+em Lotes Mínimos de Cotas ou em múltiplos de Lotes Mínimos de Cotas. 
+14.1.1. Um Lote Mínimo de Cotas somente poderá ser emitido (a) de acordo com uma Ordem de Integralização devidamente 
+submetida por um Agente Autorizado e (b) mediante a entrega de uma Cesta ao FUNDO. Os Lotes Mínimos de Cotas 
+somente poderão ser resgatados (a) mediante uma Ordem de Resgate devidamente submetida por um Agente Autorizado 
+e (b) mediante a entrega de uma Cesta pelo FUNDO.  
+ 
+9 
+ 
+ 
+14.2. Ordens de Integralização do FUNDO somente serão aceitas em Dias Úteis Locais e no Exterior até o respectivo Horário 
+de Corte para Ordens e serão convertidas no mesmo dia e liquidadas em até 1 (um) dia útil, de acordo com o prazo 
+estabelecido pela B3, desde que observadas as regras previstas neste Regulamento. 
+14.2.1. Ordens de Resgate de cotas do FUNDO somente serão aceitas (i) em Dias Úteis Locais e no Exterior até o respectivo 
+Horário de Corte para Ordens; e (ii) desde que os 3 (três) dias posteriores à Ordem de Resgate também sejam, de forma 
+subsequente, considerados dias úteis na bolsa no exterior em que as ações são negociadas. Referidas Ordens serão 
+convertidas no mesmo dia e liquidadas em até 3 (três) dias Úteis Locais, desde que observadas as regras previstas neste 
+Regulamento. 
+14.2.2 Ordens de Integralização ou Ordens de Resgate feitas em dias em que estas não são aceitas ou após o Horário de 
+Corte para Ordens não serão processadas, devendo, caso permaneça o interesse na emissão ou resgate, ser enviada nova 
+Ordem no Dia Útil Local e no Exterior imediatamente subsequente no qual seja possível aceitar a Ordem, observadas as 
+regras e os horários estabelecidos nos itens 14.2 e 14.2.1 acima.  
+14.3. A Cesta, seja para fins de uma Ordem de Integralização ou de uma Ordem de Resgate, será composta integralmente 
+de recursos em moeda corrente nacional e, (i) no caso de Ordem de Integralização será entregue ao Agente Autorizado, nos 
+termos definidos pelo Agente Autorizado, observado que esta entrega deve ser efetivada antes do Horário para a Entrega 
+da Cesta com a antecedência necessária para permitir o cumprimento da condição prevista no item 14.6.1, conforme definido 
+no item 4, e (ii) no caso de Ordem de Resgate, será entregue ao cotista em até 3 (três) Dias Úteis Locais, desde que a 
+Ordem de Resgate seja realizada na forma prevista no item 14.2.1.  
+14.4. O Arquivo de Composição da Cesta descrevendo a composição da Cesta a ser entregue por ocasião da execução de 
+uma Ordem de Integralização e de uma Ordem de Resgate será divulgado na página do FUNDO na rede mundial de 
+computadores antes da abertura da B3 para operações no Dia Útil Local e no Exterior. Um Arquivo de Composição da Cesta 
+valerá para Ordens de Integralização e para Ordens de Resgate recebidas após a sua divulgação e até o próximo Horário 
+de Corte para Ordens. 
+14.5. Observado o disposto nos itens 14.2 e 14.2.1, a integralização e o resgate de Lotes Mínimos de Cotas deverão ser 
+liquidados, respectivamente (i) até o encerramento do 1º (primeiro) Dia Útil Local subsequente ao recebimento da Ordem de 
+Integralização; e (ii) em até 3 (três) Dias Úteis Locais do recebimento da Ordem de Resgate. Qualquer alteração do referido 
+prazo de liquidação por parte da B3 ou em decorrência de alterações de procedimentos envolvendo a transferência de ativos 
+negociados na bolsa no exterior em que os referidos ativos são negociados que inviabilizem temporária ou definitivamente 
+a liquidação no prazo acima previsto, será prontamente divulgada na página do FUNDO na rede mundial de computadores. 
+Adicionalmente, sempre que houver suspensão da negociação das ações ou em caso de interrupção de fluxos cambiais 
+entre o Brasil e o mercado de negociação das ações, a liquidação das Ordens de Integralização ou Resgate poderá ser 
+realizada em prazo superior ao do disposto neste item.  
+14.6. Os Agentes Autorizados submeterão uma Ordem de Integralização ou uma Ordem de Resgate que, em cada caso, 
+não será considerada aceita até que o ADMINISTRADOR, por meio da B3 e/ou página transacional do site 
+www.itnow.com.br, tenha apresentado a tal Agente Autorizado uma confirmação de que a respectiva Ordem de 
+Integralização ou Ordem de Resgate, conforme o caso, foi aceita. 
+14.6.1. Independentemente da aceitação pelo ADMINISTRADOR de determinada Ordem de Integralização, caso a(s) 
+Cesta(s) para a efetivação desta Ordem não seja(m) entregue(s) na página transacional do site www.itnow.com.br 
+pelo Agente Autorizado até o Horário para a Entrega da Cesta, a Ordem de Integralização não será liquidada pelo 
+ADMINISTRADOR, que automaticamente cancelará a emissão de cotas referentes a esta Ordem.  
+14.7. A Taxa de Ingresso e o Ajuste de Integralização deverão ser pagos pelos cotistas no Dia Útil Local seguinte ao da 
+Ordem de Integralização. A Taxa de Saída e o Ajuste de Resgate deverão ser pagos pelos cotistas no dia da liquidação da 
+Ordem de Resgate. Referidos pagamentos deverão ser realizados, conforme instruções que o cotista receber de seu Agente 
+Autorizado, podendo haver compensação entre saldos credores e devedores se for o caso. 
+14.7.1. Caso o credor do valor do Ajuste de Integralização ou Resgate seja o cotista, o respectivo crédito será disponibilizado 
+pelo FUNDO ao Agente Autorizado por meio da B3, cabendo ao Agente Autorizado entregá-lo ao cotista. Nesta hipótese, o 
+Ajuste de Integralização será disponibilizado pelo FUNDO no Dia Útil Local seguinte ao da Ordem de Integralização e o 
+Ajuste de Resgate será disponibilizado pelo FUNDO no dia da liquidação da Ordem de Resgate. 
+14.7.2. Os valores recebidos pelo Fundo a título de Ajuste de Integralização e Resgate (quando o Fundo for credor do ajuste), 
+bem como de Taxa de Ingresso e Taxa de Saída serão convertidos em benefício do FUNDO. 
+14.8. Qualquer cotista que solicite a um Agente Autorizado que efetue o resgate de um ou mais Lotes Mínimos de Cotas 
+detidos por tal cotista (“Pedido de Resgate”) deverá fornecer ao respectivo Agente Autorizado as notas de corretagem e 
+demais documentos (“Registros de Cotista”) necessários para que o ADMINISTRADOR apure o custo de aquisição das 
+Cotas a serem resgatadas, devendo tal Agente Autorizado entregar tais Registros do Cotista ao ADMINISTRADOR pelo 
+ 
+10 
+ 
+ 
+menos 3 (três) horas antes do respectivo Horário de Corte para Ordens. Caso o ADMINISTRADOR não receba tais Registros 
+do Cotista dentro deste prazo, o Pedido de Resgate em questão será cancelado.  
+14.9. Sem prejuízo das demais regras previstas neste Regulamento, as Ordens de Resgate somente serão efetivadas se o 
+cotista possuir saldo de cotas igual ou superior ao solicitado na respectiva Ordem de Resgate. Nos Resgates, as cotas que 
+serão destruídas, para fins de entrega da(s) Cesta(s) aos cotistas, serão bloqueadas no momento da aceitação da Ordem 
+pelo ADMINISTRADOR, conforme previsto no item 14.6.  
+14.10. As integralizações de cotas do FUNDO poderão ser suspensas, a critério do ADMINISTRADOR, sempre que (i) a B3 
+ou a CVM suspender a negociação de cotas do FUNDO, ou (ii) as autoridades estrangeiras competentes suspenderem a 
+negociação das ações componentes do Índice. 
+14.10.1. Adicionalmente, os resgates de cotas do FUNDO poderão ser suspensos, a critério do ADMINISTRADOR sempre 
+que as autoridades estrangeiras competentes suspenderem a negociação das ações em que o FUNDO concentre a qualquer 
+tempo suas aplicações.   
+14.11. Quando da Ordem de Resgate, a Cesta poderá compreender, a exclusivo critério do GESTOR, cupons, direitos, 
+recibos de subscrição e certificados de desdobramento relativos àqueles valores mobiliários eventualmente existentes na 
+carteira do FUNDO, nos termos da regulamentação aplicável.  
+14.12. Na efetivação de Ordem de Integralização e/ou Resgate, a B3 poderá cobrar, do respectivo solicitante, uma taxa de 
+processamento da ordem (“Taxa de Integralização e Resgate Bolsa”). No caso da tal cobrança, referida taxa será cobrada 
+por ordem efetivada, independentemente da quantidade de lotes mínimos integralizados e/ou resgatados.  
+14.12.1. O valor da Taxa de Integralização e Resgate Bolsa é divulgado pela B3, por meio de ofícios aos Agentes 
+Autorizados. 
+14.13. Sem prejuízo ao disposto no item 14.8, Solicitações de Ordens de Integralização e Pedidos de Resgate ao Agente 
+Autorizado devem ser precedidas da entrega pelo respectivo investidor ou cotista ao Agente Autorizado, com a antecedência 
+por este exigida, das informações e documentos necessários para que o Agente Autorizado possa assegurar o cumprimento 
+das normas e regulamentos legais relacionadas a cadastro e prevenção à lavagem de dinheiro.   
+ 
+15. DA AMORTIZAÇÃO DE COTAS 
+15.1. Em casos excepcionais e a critério do ADMINISTRADOR, poderá ser realizada a amortização de cotas do FUNDO. 
+Para os fins deste item, amortização significa o pagamento em moeda corrente nacional a todos os cotistas de parcela do 
+Valor Patrimonial de suas cotas, sem redução do número de cotas.  
+15.2. O ADMINISTRADOR somente poderá utilizar tal faculdade caso a performance do FUNDO mostre-se superior à 
+performance do Índice. 
+ 
+16. DA NEGOCIAÇÃO DE COTAS 
+16.1. As cotas do FUNDO serão listadas para negociação no mercado secundário na B3. 
+16.2. Pessoas físicas e jurídicas ligadas ao ADMINISTRADOR poderão, desde que permitido pela regulamentação em vigor, 
+(i) negociar cotas do FUNDO, e (ii) atuar como formador de mercado para as cotas do FUNDO e, nessa hipótese, negociar 
+cotas do FUNDO conforme parâmetros estabelecidos para a atividade de formador de mercado. 
+16.3. Não obstante o disposto no item 16.2, o GESTOR não poderá atuar como formador de mercado para as cotas do 
+FUNDO.  
+  
+17. POLÍTICA DE DISTRIBUIÇÃO DE RESULTADOS 
+17.1. Os resultados do FUNDO serão automaticamente nele reinvestidos. Caso os direitos relativos aos ativos da carteira 
+do FUNDO não sejam imediatamente pagos ou distribuídos ao FUNDO, o FUNDO manterá os respectivos direitos em sua 
+carteira, utilizando-se o GESTOR dos mecanismos de gestão disponíveis para, tão somente, buscar evitar um impacto 
+adverso relevante no nível de aderência do FUNDO ao Índice.  
+ 
+18. ASSEMBLEIA GERAL 
+18.1. Compete exclusivamente à assembleia geral de cotistas deliberar sobre: (i) demonstrações contábeis do FUNDO; (ii) 
+substituição do ADMINISTRADOR; (iii) mudança no objetivo e política de investimento do FUNDO; (iv) aumento na taxa de 
+administração, de Ingresso ou de Saída; (v) mudança de endereço da página do FUNDO na rede mundial de computadores; 
+(vi) fusão, incorporação, cisão, transformação ou liquidação do FUNDO; (vii) alterações no Contrato de Licença, caso essas 
+alterações acarretem aumento de despesas para o FUNDO; e (viii) outras alterações no Regulamento que não sejam 
+resultado de decisões relativas aos incisos (ii) a (v) deste item 18.1.  
+18.1.1. Não obstante o disposto no inciso (viii) do item 18.1, este Regulamento pode ser alterado pelo ADMINISTRADOR, 
+independentemente da assembleia geral de cotistas ou de consulta aos cotistas, sempre que tal alteração decorrer 
+ 
+11 
+ 
+ 
+exclusivamente da necessidade de atendimento a exigência expressa da CVM, de entidade autorreguladora, de entidade 
+administradora de mercado organizado na qual as cotas do FUNDO sejam admitidas à negociação, de adequação a normas 
+legais ou regulamentares ou, ainda, em virtude da atualização de endereço ou informações para contato com o 
+ADMINISTRADOR.  
+18.2. A assembleia geral de cotistas deverá ser convocada por edital enviado à B3 e publicado na página do FUNDO na 
+rede mundial de computadores. 
+18.2.1. Do edital de convocação devem constar, obrigatoriamente, dia, hora e local em que será realizada a assembleia 
+geral de cotistas, a ordem do dia com os assuntos a serem tratados, bem como o detalhamento sobre propostas específicas 
+de alterações no Regulamento, se for o caso. 
+18.2.2. A convocação da assembleia geral de cotistas deve ser feita com, no mínimo, 10 (dez) dias de antecedência da data 
+de sua realização.  
+18.2.3. A assembleia geral ordinária deve ser convocada pelo ADMINISTRADOR anualmente, até 30 (trinta) de junho de 
+cada ano, para deliberar sobre as demonstrações contábeis do FUNDO.  
+18.3. A assembleia geral ordinária somente pode ser realizada após a divulgação na página do FUNDO na rede mundial de 
+computadores das demonstrações contábeis relativas ao exercício, com prazo de antecedência mínimo de quinze (15) dias, 
+devendo tais demonstrações serem mantidas à disposição dos cotistas na sede do ADMINISTRADOR.  
+18.3.1. Na hipótese da não instalação da assembleia geral para deliberação relativa às demonstrações contábeis do FUNDO, 
+em decorrência do não comparecimento de quaisquer cotistas, serão consideradas automaticamente aprovadas caso as 
+demonstrações contábeis não contenham opinião modificada. 
+18.4. Além da convocação prevista no item 18.2.3 deste Regulamento, a assembleia geral de cotistas pode ser convocada 
+a qualquer tempo pelo ADMINISTRADOR ou solicitada por cotista ou grupo de cotistas que detenha, no mínimo, 5% (cinco 
+por cento) do total de cotas emitidas. 
+18.5. Quando a realização da assembleia geral de cotistas for solicitada por um ou mais cotistas que detenham, no mínimo, 
+5% (cinco por cento) do total de cotas emitidas, o ADMINISTRADOR deve realizar a convocação, em até 30 (trinta) dias, às 
+expensas do(s) requerente(s), salvo se a assembleia geral de cotistas assim convocada deliberar em contrário. 
+18.6. A assembleia geral de cotistas também deverá ser convocada pelo ADMINISTRADOR e às suas expensas, no prazo 
+de 15 (quinze) dias, sempre que:  
+(i) for verificado erro de aderência, calculado como o desvio padrão populacional das diferenças entre a variação percentual 
+diária do Valor Patrimonial das cotas e a variação percentual diária do valor de fechamento do Índice nos últimos 60 
+(sessenta) pregões seja superior a 2 (dois) pontos percentuais, desde que tal erro de aderência não seja reenquadrado ao 
+limite de 2 (dois) pontos percentuais até o 15º (décimo quinto) Dia Útil Local consecutivo subsequente à data de verificação 
+do respectivo erro de aderência;  
+(ii) a diferença entre a rentabilidade acumulada do FUNDO e a rentabilidade acumulada do valor de fechamento do Índice 
+nos últimos 60 (sessenta) pregões seja superior a 2 (dois) pontos percentuais, desde que tal diferença de rentabilidade não 
+seja reenquadrada ao limite de 2 (dois) pontos percentuais até o 15º (décimo quinto) Dia Útil Local consecutivo subsequente 
+à data de verificação da respectiva diferença de rentabilidade; ou  
+(iii) a diferença entre a rentabilidade acumulada do FUNDO e a rentabilidade acumulada do valor de fechamento do Índice 
+em um período de 12 (doze) meses for superior a 4 (quatro) pontos percentuais, desde que tal diferença de rentabilidade 
+não seja reenquadrada ao limite de 4 (quatro) pontos percentuais até o 30º (trigésimo) Dia Útil Local consecutivo 
+subsequente à data de verificação da respectiva diferença de rentabilidade.   
+18.6.1. A ocorrência de qualquer dos eventos referidos nos incisos do item 18.6 deverá ser divulgada imediatamente na 
+página do FUNDO na rede mundial de computadores, devendo a primeira divulgação relativa aos incisos (i) e (ii) ocorrer 
+após decorridos sessenta pregões da data da listagem das cotas na B3, enquanto que a primeira divulgação relativa ao 
+inciso (iii) deverá ocorrer após decorridos 12 (doze) meses daquela data.  
+18.6.2 A ordem do dia da assembleia geral de cotistas convocada devido às condições previstas no caput e incisos do item 
+18.6 deverá compreender os seguintes itens: 
+I. explicações, por parte do ADMINISTRADOR, em conjunto com o GESTOR, das razões que, no seu entendimento, 
+motivaram o erro de aderência ou a diferença de rentabilidade. Tais explicações deverão ser divulgadas também na página 
+do FUNDO na rede mundial de computadores com antecedência mínima de quinze dias da realização da assembleia e 
+mantidas até 30 (trinta) dias após sua realização; e 
+II. deliberação acerca da extinção do FUNDO ou substituição do ADMINISTRADOR ou GESTOR, matéria sobre a qual não 
+poderão votar pessoas ligadas, respectivamente, ao ADMINISTRADOR ou GESTOR. 
+18.6.3. Não obstante o disposto no item 18.6, as assembleias gerais de cotistas convocadas devido às condições previstas 
+no item 18.6 deverão ter intervalo mínimo de trinta dias, no caso da manutenção do ADMINISTRADOR e do GESTOR, e de 
+noventa dias, caso a assembleia geral de cotistas anterior tenha decidido por sua substituição. 
+ 
+12 
+ 
+ 
+18.7. As deliberações da assembleia geral de cotistas, que deve ser instalada com a presença de pelo menos um cotista ou 
+representante legal, são tomadas pelo critério da maioria dos votos dos cotistas presentes ou devidamente representados 
+em tal assembleia, sendo atribuído um voto a cada cota.  
+18.7.1. As matérias previstas nos incisos (ii) (iii), (iv) e (vi) do item 18.1 deste Regulamento devem ser aprovadas pelo voto 
+dos cotistas que detenham a maioria absoluta das cotas do FUNDO, sendo o ADMINISTRADOR, o GESTOR e pessoas a 
+eles respectivamente ligadas impedidos de votar quando se tratar de deliberação sobre a substituição do ADMINISTRADOR 
+ou GESTOR.  
+18.7.2. Nenhum cotista poderá votar pela indicação de um novo administrador ou gestor para o FUNDO, caso tal cotista seja 
+ligado, direta ou indiretamente, a tal candidato a novo administrador ou gestor, respectivamente, do FUNDO. 
+18.7.4. O quórum de deliberação definido no item 18.7.1 não se aplica para as votações em assembleias gerais de cotistas 
+ocorridas por força do disposto no inciso II do item 9.4 combinado com item 9.5, bem como no inciso II do item 18.6.2 
+combinado com o item 18.6, (ii), deste Regulamento, prevalecendo, portanto, o critério de decisão por voto da maioria de 
+cotas do FUNDO de titularidade dos cotistas presentes ou devidamente representados em tais assembleias gerais de 
+cotistas.  
+18.7.5. Somente podem votar na assembleia geral de cotistas, os cotistas do FUNDO, seus representantes legais ou 
+procuradores legalmente constituídos há menos de um ano. 
+18.8. Se após a terceira convocação de assembleia geral não houver quorum para deliberação relativa às matérias previstas 
+nos incisos (i) e (v) do item 18.1 do Regulamento, estas serão consideradas aprovadas.   
+ 
+19. DE EXERCÍCIO DE VOTO 
+19.1.O ADMINISTRADOR do FUNDO adota como Política de Direito de Voto participar e votar nas Assembleias gerais dos 
+emissores dos ativos financeiros da carteira do FUNDO quando, a seu critério, entender que a matéria a ser deliberada na 
+assembleia apresenta relevância ou destacada relação com os interesses do FUNDO.  
+ 
+20. POLÍTICA DE DIVULGAÇÃO DE INFORMAÇÕES 
+20.1. O FUNDO tem uma página na rede mundial de computadores, no endereço http://www.itnow.com.br, que contém todas 
+as informações previstas na regulamentação aplicável, bem como quaisquer informações relativas ao FUNDO que sejam 
+consideradas relevantes pelo ADMINISTRADOR. 
+ 
+20.1.1. Detalhes sobre as operações de integralização e resgate de cotas estão disponíveis na página do FUNDO na rede 
+mundial de computadores e serão atualizados periodicamente, na forma da regulamentação aplicável. 
+20.1.2. O ADMINISTRADOR divulgará, ampla e imediatamente, qualquer ato ou fato relevante inerente ao funcionamento 
+do FUNDO ou à capacidade do ADMINISTRADOR de exercer suas funções, que possa vir a causar impacto relevante na 
+capacidade do FUNDO de atingir seu objetivo por meio (i) da página inicial do FUNDO na rede mundial de computadores, 
+(ii) dos endereços de correspondência eletrônicos cadastrados na página do FUNDO, e (iii) do sistema de divulgação de 
+informações da B3. 
+20.2. O ADMINISTRADOR divulgará à B3, em cada Dia Útil Local, o Valor Patrimonial de cada cota, a composição da carteira 
+do FUNDO e o valor do patrimônio líquido do FUNDO. 
+20.2.1. Os cotistas serão comunicados de suas posições na forma da regulamentação aplicável, conforme legislação em 
+vigor para o mercado de ações.  
+20.2.2. Os cotistas que integralizarem ou resgatarem cotas do FUNDO receberão comunicação por escrito do custodiante 
+ou do escriturador das cotas contendo, no mínimo, informações quanto à data, quantidade de cotas envolvidas e valor da 
+operação. 
+20.3. Os cotistas poderão obter informações e esclarecer dúvidas a respeito do FUNDO das seguintes formas: (i) por meio 
+de correspondência enviada à atenção do ADMINISTRADOR; (ii) por mensagem de correio ou (iii) por telefone. As 
+informações para contato com o ADMINISTRADOR estão divulgadas na página do FUNDO na rede mundial de 
+computadores, no endereço www.itnow.com.br.   
+ 
+21. DAS DEMONSTRAÇÕES CONTÁBEIS E DOS RELATÓRIOS DE AUDITORIA 
+21.1. O FUNDO tem escrituração contábil própria, sendo suas contas e demonstrações contábeis segregadas daquelas do 
+ADMINISTRADOR.  
+21.2. As demonstrações contábeis do FUNDO, relativas ao exercício contábil findo em 31 de março de cada ano, estão 
+sujeitas e deverão ser preparadas de acordo com as normas contábeis expedidas pela CVM.  
+21.3. No prazo de 60 (sessenta) dias após o encerramento do exercício contábil, as demonstrações contábeis do FUNDO 
+devem ser colocadas à disposição de qualquer interessado que as solicitar ao ADMINISTRADOR.  
+ 
+13 
+ 
+ 
+21.3.1. Não obstante o disposto no item 21.3 sempre que requisitado por cotistas ou investidores potenciais, o 
+ADMINISTRADOR deverá deixar à disposição de tais cotistas ou investidores, as seguintes informações: (i) as últimas 
+demonstrações financeiras do FUNDO, bem como o balanço e demonstração dos lucros, perdas e ganhos retidos pelo 
+FUNDO; e (ii) demonstrações financeiras similares às mencionadas no item (i) acima relativas aos últimos dois anos em que 
+o FUNDO esteve em operação. 
+21.4. As demonstrações contábeis do FUNDO serão auditadas anualmente por auditor independente registrado na CVM, e 
+divulgadas pelo ADMINISTRADOR na página do FUNDO na rede mundial de computadores. As demonstrações contábeis 
+auditadas são obrigatórias somente para fundos em atividade por mais de 90 (noventa) dias. 
+ 
+22. ENCARGOS 
+22.1. Constituem encargos do FUNDO, além da taxa de administração, na forma definida no Regulamento, as seguintes 
+despesas: (i) taxas, impostos ou contribuições federais, estaduais ou municipais, que recaiam ou venham a recair sobre os 
+bens, direitos e obrigações do FUNDO; (ii) despesas com o registro de documentos em cartório, impressão, expedição e 
+publicação de relatórios, formulários e periódicos, previstas na regulamentação pertinente; (iii) despesas com 
+correspondência de interesse do FUNDO; (iv) honorários e despesas do auditor independente; (v) emolumentos e comissões 
+pagas por operações do FUNDO; (vi) honorários de advogado, custas e despesas processuais correlatas, incorridas em 
+razão de defesa dos interesses do FUNDO, em juízo ou fora dele, inclusive o valor de qualquer condenação imputada ao 
+FUNDO; (vii) a contribuição anual devida às bolsas de valores ou à entidade do mercado de balcão organizado em que o 
+FUNDO tenha suas cotas admitidas à negociação; (viii) despesas com custódia e liquidação de operações com ativos 
+financeiros do FUNDO; (ix) despesas com fechamento de câmbio para as operações permitidas, ou relativas a operações 
+envolvendo certificados ou recibos de depósito de valores mobiliários, caso tais ativos venham a fazer parte do Índice; e (x) 
+“royalties” devidos pela utilização do índice de referência, desde que cobrados de acordo com o Contrato de Licença.  
+ 
+23. FATORES DE RISCO 
+O FUNDO apresenta riscos, destacando-se:  
+(A) RISCO DE DESCOLAMENTO DE RENTABILIDADE ENTRE O FUNDO E O ÍNDICE – A performance do FUNDO pode 
+não refletir integralmente a performance do Índice, visto que a implementação dos objetivos de investimento do FUNDO está 
+sujeita a uma série de limitações, tais como:  
+• 
+taxas e despesas devidas pelo FUNDO; 
+• 
+taxas e custos operacionais, despesas e diferenças temporais incorridas no ajuste da composição da carteira do 
+FUNDO em razão de alterações na composição do Índice;  
+• 
+Rendimento e dividendos declarados pelas companhias cujas ações compõem a carteira teórica do Índice, mas 
+ainda não pagas ou recebidas pelo FUNDO; 
+• 
+impactos relacionados à variação cambial e aos critérios de apreçamento das ações na carteira do FUNDO, inclusive 
+eventuais diferenças entre as taxas de câmbio para cálculo do valor da cota e a taxa de câmbio efetiva das 
+operações realizadas pelo FUNDO por ocasião das integralizações e resgates de cotas do FUNDO que porventura 
+não sejam compensadas pela cobrança de taxas de Ingresso e Saída; 
+• 
+outros custos e despesas relacionados às operações de integralizações e resgate de cotas do FUNDO que 
+porventura não sejam compensadas pela cobrança de taxas de ingresso e saída; 
+• 
+diferenças entre a plataforma eletrônica na qual as ações são negociadas e aquela em que o Índice é divulgado. 
+(B) LIQUIDEZ DAS COTAS DO FUNDO - Não há como garantir que um mercado ativo de negociação de cotas do FUNDO 
+será mantido e não se pode prever os reais níveis de preço pelos quais as cotas do FUNDO poderão ser negociadas ou os 
+tamanhos dos lotes dessa negociação.  
+(C) LIQUIDEZ DOS ATIVOS QUE COMPÕEM A CARTEIRA DO FUNDO – É possível que os cotistas não recebam os 
+resgates solicitados, caso não haja liquidez no mercado para negociação das ações negociadas nas bolsas internacionais 
+ou de outros ativos que componham a carteira do FUNDO. Adicionalmente, conforme acima referido, a falta de liquidez de 
+ativos que compõem a carteira pode gerar oscilações no valor da cota e erros de aderência ou descolamentos no FUNDO. 
+(D) RISCO DE INVESTIMENTO EM RENDA VARIÁVEL – O mercado de bolsa de valores é considerado um mercado de alto 
+risco devido às grandes variações de rendimentos a que está sujeito. Adicionalmente, os investimentos em ações estão 
+sujeitos a riscos de perda de parte do capital investido em razão de degeneração da situação econômico-financeira da 
+empresa emissora das ações. Tendo em vista a composição da carteira do FUNDO, o investimento no FUNDO, bem como 
+os investimentos pelo FUNDO em ações negociadas nos mercados internacionais envolvem os riscos inerentes a qualquer 
+investimento em renda variável.   
+ 
+14 
+ 
+ 
+(E) RISCOS DE MERCADO – os ativos do FUNDO estão sujeitos às oscilações dos mercados em que são negociados, 
+afetando seus preços, taxas de juros, ágios, deságios e volatilidades e produzindo flutuações no valor das cotas do FUNDO, 
+que podem representar ganhos ou perdas para os cotistas. 
+(F) SISTÊMICO – a negociação e os valores dos ativos do FUNDO podem ser afetados por condições econômicas nacionais, 
+internacionais e por fatores exógenos diversos, tais como interferências de autoridades governamentais e órgãos 
+reguladores nos mercados, moratórias, alterações da política monetária, ou da regulamentação aplicável aos fundos de 
+investimento em índice de mercado – fundos de índice e às suas operações, podendo, eventualmente, causar perdas aos 
+cotistas. 
+(G) DERIVATIVOS – a realização de operações de derivativos pelo FUNDO pode (i) aumentar a volatilidade do FUNDO, (ii) 
+limitar ou ampliar as possibilidades de retornos, (iii) não produzir os efeitos pretendidos e (iv) determinar perdas ou ganhos 
+aos cotistas do FUNDO. Adicionalmente, ainda que as operações de derivativos tenham objetivo de proteção da carteira 
+contra determinados riscos, não é possível garantir a inexistência de perdas se ocorrerem os riscos que se pretendia 
+proteger.  
+(H) AS COTAS DO FUNDO PODERÃO SER NEGOCIADAS NA B3 COM ÁGIO OU DESÁGIO EM RELAÇÃO AO VALOR 
+PATRIMONIAL – O Valor Patrimonial do FUNDO poderá diferir do preço de negociação das cotas do FUNDO na B3. 
+Enquanto o Valor Patrimonial do FUNDO reflete o valor de mercado da carteira do FUNDO, os preços de negociação das 
+cotas FUNDO na B3 poderão ser inferiores ou superiores ao seu respectivo Valor Patrimonial. Espera-se que o preço de 
+negociação das cotas do FUNDO flutue baseado principalmente no Valor Patrimonial do FUNDO e na oferta e procura de 
+suas cotas, as quais irão variar com base nas condições de mercado e outros fatores, tais como a conjuntura econômica do 
+Brasil e dos Estados Unidos da América e a confiança do investidor e suas expectativas relacionadas ao mercado de capitais 
+brasileiro e norte-americano. Contudo, não há nenhuma garantia de que isso ocorra ou continue ocorrendo. Ainda, apesar 
+do fato de os mecanismos de emissão e resgate de cotas de FUNDO destinarem-se a ajudar a manutenção do preço de 
+negociação das cotas em níveis semelhantes ao Valor Patrimonial do FUNDO, não há garantias de que investidores irão de 
+fato ou sempre que necessário solicitar a emissão e o resgate de cotas do FUNDO quando tais desvios ocorrerem ou de 
+que estas emissões e resgates irão de fato reduzir a diferença entre o preço de negociação das cotas do FUNDO na B3 e o 
+seu respectivo Valor Patrimonial. 
+(I) EMISSÃO E RESGATE – A emissão e o resgate de cotas do FUNDO somente poderão ser efetuados perante o 
+ADMINISTRADOR por meio dos Agentes Autorizados em Lotes Mínimos de Cotas ou múltiplos inteiros destes, salvo no 
+caso de liquidação do FUNDO. Os Agentes Autorizados podem juntar dois ou mais investidores para formar um Lote Mínimo 
+de Cotas, mas ainda assim esses podem não conseguir subscrever ou resgatar suas cotas no momento em que desejarem 
+fazê-lo ou quando for mais favorável fazê-lo.  
+(J) INVESTIMENTO EM MERCADOS INTERNACIONAIS – existe a possibilidade de o valor oficial dos ativos negociados 
+em mercados internacionais ser disponibilizado em periodicidade distinta da utilizada para os ativos nacionais e para 
+valorização das cotas do FUNDO. Nesse caso, o CUSTODIANTE poderá estimar o valor desses ativos. Como consequência 
+(i) o valor estimado será obtido por meio de fontes públicas de divulgação de cotação de ativos; (ii) não está livre de riscos 
+e aproximações; e (iii) apesar de constituir a melhor prática do ponto de vista econômico, há risco de o valor estimado ser 
+distinto do valor real de negociação dos ativos estrangeiros e de ser diverso do valor oficial divulgado pelo seu administrador 
+ou custodiante no exterior. 
+(K) A FRANK RUSSELL PODE PARAR DE ADMINISTRAR, CALCULAR, PUBLICAR OU MANTER O RUSSELL® 1000 
+GREEN REVENUES 50 O QUE PODERIA LEVAR À LIQUIDAÇÃO DO FUNDO - A FRANK RUSSELL administra, calcula, 
+publica e mantém o RUSSELL® 1000 GREEN REVENUES 50. Contudo, a FRANK RUSSELL não tem obrigação de fazê-lo 
+e não se pode assegurar que a FRANK RUSSELL continuará a administrar, calcular, publicar e manter este índice no decorrer 
+da existência do FUNDO. De acordo com o Regulamento, se a FRANK RUSSELL parar de administrar, calcular, publicar ou 
+manter o Índice os cotistas serão obrigados a decidir sobre a alteração ou não do objetivo de investimento ou, se for o caso, 
+sobre a liquidação do FUNDO. Se os cotistas não conseguirem chegar a um acordo acerca de um novo objetivo de 
+investimento para o FUNDO ou sobre a eventual liquidação do FUNDO, o ADMINISTRADOR está autorizado a promover 
+imediatamente a liquidação do FUNDO, conforme previsto no regulamento, o que poderá afetar adversamente o Valor 
+Patrimonial do FUNDO e de suas cotas. 
+(L) TANTO A CVM QUANTO A B3 PODERÃO SUSPENDER A NEGOCIAÇÃO DE COTAS DO FUNDO - Tanto a CVM quanto 
+a B3 poderão suspender a negociação das cotas do FUNDO sempre que determinarem que isso seja apropriado para a 
+proteção dos investidores. Nestes casos, os investidores não poderão comprar ou vender cotas do FUNDO na B3 durante 
+qualquer período no qual a negociação das cotas esteja suspensa. Se a negociação das cotas do FUNDO for suspensa, o 
+preço de negociação destas poderá ser afetado e poderá divergir significativamente do Valor Patrimonial por cota. Além 
+disso, em virtude das limitações impostas ao resgate de cotas, é possível que o cotista, no caso de suspensão da negociação 
+das cotas do FUNDO, sofra perdas financeiras decorrentes de menor liquidez de seu investimento.  
+ 
+15 
+ 
+ 
+(M) SUSPENSÃO DA NEGOCIAÇÃO DAS AÇÕES – A autoridade do mercado organizado em que as ações que compõem 
+o Índice sejam negociadas também poderá adotar a suspensão de negociação de tais ações e outras medidas previstas em 
+suas normas, regulamentos e procedimentos operacionais inviabilizando a persecução pelo FUNDO de sua política de 
+investimento. A suspensão da negociação das ações poderá resultar em dificuldades de apreçamento do FUNDO no 
+mercado local, descolamentos de rentabilidade entre o FUNDO e o Índice ou mesmo inviabilidade de processamento de 
+solicitações de integralização e resgate. Persistindo tal condição por período significativo, o ADMINISTRADOR convocará 
+assembleia geral de cotistas para determinar o tratamento do impacto desse fato no FUNDO.   
+(N) LICENÇA DE USO DOS NOMES E MARCAS RUSSELL® 1000 GREEN REVENUES 50 PODERÁ SER RESCINDIDA OU 
+NÃO SER PRORROGADA – A FRANK RUSSELL e o ADMINISTRADOR firmaram um Contrato de Licença de Uso de Marca 
+("Contrato de Licença"), pelo qual a FRANK RUSSELL concedeu uma licença ao ADMINISTRADOR para o uso das marcas 
+"RUSSELL” e do índice RUSSELL® 1000 GREEN REVENUES 50. O Contrato de Licença pode ser resilido ou resolvido em 
+diversas hipóteses nele previstas, ou não ser prorrogado. Nessa hipótese, o ADMINISTRADOR convocará assembleia geral 
+de cotistas para determinar o tratamento do impacto desse fato no FUNDO, nos termos previstos neste Regulamento. Para 
+maiores informações, acesse a página do FUNDO na rede mundial de computadores no endereço www.itnow.com.br 
+(O) RISCO DE ERROS, FALHAS, ATRASOS NO FORNECIMENTO OU DISPONIBILIZAÇÃO DO ÍNDICE - Podem ocorrer 
+erros, falhas, atrasos no fornecimento ou disponibilização do Índice. Nem o ADMINISTRADOR, nem o GESTOR, nem 
+qualquer outro prestador de serviço do FUNDO atuam no cálculo, fornecimento ou disponibilização do Índice, nem possuem 
+meios de evitar a ocorrência desses eventos e, consequentemente, nenhum deles terá qualquer obrigação ou 
+responsabilidade relativamente a tais eventos.  
+(P) RISCO DE DESEMPENHO DO SETOR – O Índice mede o desempenho de empresas dos setores de tecnologia e 
+consumo. O desempenho de tais ações pode ser inferior ao desempenho geral ou desempenho de outras ações específicas 
+disponíveis para negociação. 
+(Q) RISCOS DECORRENTES DAS OPERAÇÕES DE CÂMBIO / CÉNARIOS DE ALTA VOLATILIDADE – Tendo em vista 
+que o objetivo do FUNDO é buscado por meio do investimento no exterior, destaca-se o risco de as operações de câmbio, 
+que envolvem a entrada e saída de recursos do País, serem suspensas ou encerradas pelas autoridades competentes do 
+Brasil ou pelas autoridades competentes das jurisdições nas quais o FUNDO investe, ou sujeitas a controles cambiais, sendo 
+certo que tais fatos inviabilizariam a política de investimento do FUNDO, podendo culminar no encerramento do FUNDO. Há 
+o risco destas operações de câmbio tornarem-se demasiadamente custosas pela majoração da tributação aplicável, hipótese 
+que inviabilizaria as operações do FUNDO, ou de integralização e resgate de cotas do FUNDO, e que também podem 
+ocasionar a liquidação do FUNDO. 
+Existe também o risco de cenários de alta volatilidade de mercado, especialmente em relação ao mercado de câmbio, em 
+que tais operações, a despeito da cobrança de taxa de ingresso ou saída, possam gerar agravamento dos riscos de 
+descolamento e erro de aderência em detrimento dos demais cotistas do FUNDO. Em cenários de alta volatilidade, o 
+ADMINISTRADOR poderá acionar o órgão regulador local para que seja permitido adotar mediadas como o cancelamento 
+ou a suspensão de pedidos de integralizações e resgates no FUNDO. 
+Destaca-se que para o cálculo do valor diário da cota do FUNDO é válida a utilização da taxa de câmbio BM&F D2. Referida 
+taxa pode ser distinta da divulgada oficialmente pelo Banco Central do Brasil (BACEN). 
+(R) RISCO DE VARIAÇÃO CAMBIAL OU DE MOEDA – Este tipo de risco está associado à oscilação da taxa de câmbio. 
+Considerando que o FUNDO realizará operações e aplicações em ativos financeiros que geram exposição em variação 
+cambial, essas oscilações podem valorizar ou desvalorizar as cotas do FUNDO. Ao mesmo tempo, operações de derivativos, 
+tais como posições compradas em mercados futuros Índice podem gerar erro de aderência ou descolamento em decorrência 
+de variação cambial, considerando o fato de que o valor do Índice e da carteira do FUNDO serão convertidos para a Moeda 
+de Referência do Fundo.  Embora nesse último caso o FUNDO pretenda mitigar tais riscos por meio de operações de 
+derivativos (posições compradas no mercado futuro de dólar), a contratação de tais operações está sujeita aos riscos 
+referidos no item “G” acima.  
+(S) RISCO DE INVESTIMENTO EM FUNDOS DE GESTÃO PASSIVA - o GESTOR do FUNDO não recorrerá a posições 
+defensivas em caso de flutuações extraordinárias de mercado, nem eliminarão papéis de um emissor das respectivas 
+carteiras, exceto se o emissor for removido do Índice.  
+(T) O INVESTIMENTO EM FUNDOS DE ÍNDICE NÃO É IDÊNTICO AO INVESTIMENTO DIRETO NAS AÇÕES E VALORES 
+MOBILIÁRIOS QUE COMPÕEM O ÍNDICE - O investimento em fundos de índice está sujeito a riscos adicionais àqueles 
+inerentes ao investimento nos valores mobiliários que compõem o índice, relacionado à seleção de ativos da carteira do 
+FUNDO, despesas e outros fatores. 
+(W) ALTERAÇÕES NO PERÍODO DE LIQUIDAÇÃO APLICÁVEL À INTEGRALIZAÇÃO DAS COTAS DO FUNDO - O prazo 
+de liquidação para a entrega de ativos ou recursos em decorrência de operações de integralização e resgate de cotas do 
+FUNDO são baseados nos procedimentos atuais dos mercados organizados (e respectivas câmaras de liquidação) em que 
+ 
+16 
+ 
+ 
+as cotas do FUNDO são negociadas, bem como prazos de liquidação de operações de câmbio, podendo vir a ser alterados 
+pelos respectivos administradores de mercado/câmaras de liquidação.   
+(X) A AQUISIÇÃO E VENDA DE COTAS DO FUNDO TÊM CUSTOS. A aquisição e venda de cotas do FUNDO têm custos 
+de corretagem e “spread”.  Os investidores que adquiram ou vendam cotas do FUNDO pagarão comissões e outros valores 
+ao intermediário que executar a respectiva operação. O FUNDO também pagará comissões e outros valores ao intermediário 
+que executar as operações de aquisição ou venda de ações nos mercados internacionais.  Além disso, em ambos os casos, 
+as operações de aquisição e venda de cotas têm o custo de “spread”, caracterizado pela diferença entre os valores pelos 
+quais os participantes do mercado de valores mobiliários estão dispostos a comprar e vender as cotas. A negociação 
+frequente por um investidor pode ter impacto negativo significativo no resultado final do investidor. Isto é particularmente 
+verdadeiro no caso de investidores que fazem investimentos periódicos frequentes em pequena quantidade de cotas num 
+período longo de tempo.  
+(Y) RISCO DE INADIMPLÊNCIA DA CONTRAPARTE EM OPERAÇÕES DE DERIVATIVOS – Observados os limites 
+previstos neste regulamento, algumas operações de derivativos podem não contar com garantia da bolsa ou de sistemas de 
+liquidação e custódia, sendo dessa forma assumido pelo FUNDO o risco de inadimplência da contraparte da operação 
+estruturada. 
+ 
+24. INTEGRALIZAÇÕES E RESGATES EM DIAS SEM EXPEDIENTE BANCÁRIO 
+Não serão permitidos integralizações ou resgates no FUNDO nos dias considerados não úteis, bem como nos dias não 
+considerados como Dia Útil Local e no Exterior, conforme definidos no item 4. Adicionalmente, não serão permitidos resgates 
+no FUNDO, caso os 3 (três) dias posteriores à solicitação não sejam considerados úteis, de forma subsequente, na bolsa 
+no exterior em que ações integrantes do Índice são negociadas. 
+ 
+25. DISPOSIÇÕES GERAIS  
+25.1. Pessoas jurídicas ligadas ao ADMINISTRADOR poderão atuar como corretora do FUNDO intermediando a compra e 
+venda de ativos que compõem a carteira do FUNDO, devendo, no entanto, cobrar taxas iguais ou melhores do que as 
+geralmente praticadas pelo mercado para investidores institucionais, tais como o FUNDO. 
+25.2. Todo investidor ao (i) solicitar a integralização de cotas do FUNDO (ii) adquirir cotas do FUNDO na B3 ou (iii) de 
+qualquer outra forma se tornar cotista do FUNDO estará automaticamente aderindo e concordando com todas as disposições 
+deste Regulamento. 
+25.3. Para mais informações sobre o FUNDO, consulte a página do FUNDO na rede mundial de computadores, no endereço 
+www.itnow.com.br (por meio do link ETFs It Now, selecione o It Now Russell® 1000 Green Revenues 50). Consultoria e 
+informações sobre investimentos fale com o seu gerente ou entre em contato com o Investfone 4004-4828 (capitais e regiões 
+metropolitanas) ou 0800 011 8944 (demais localidades). Para dúvidas, sugestões e reclamações, se necessário, utilize o 
+SAC Itaú 0800 728 0728, todos os dias, 24h, ou o Fale Conosco (www.itnow.com.br). Se desejar a reavaliação da solução 
+apresentada após utilizar esses canais, ligue para a Ouvidoria Corporativa Itaú 0800 570 0011, dias úteis, das 9 às 18h, 
+Caixa Postal nº 67.600, CEP 03162-971. Deficientes auditivos, todos os dias, 24h, 0800 722 1722. 
+ 
+26.  FORO 
+Fica eleito o foro do domicílio ou da sede do cotista, salvo se o domicílio ou sede do cotista não se situar em território 
+brasileiro, caso em que fica eleito o foro da Cidade de São Paulo, Estado de São Paulo. 
+ 
+ 
+São Paulo - SP, 29 de dezembro de 2023. 
+  
+ 

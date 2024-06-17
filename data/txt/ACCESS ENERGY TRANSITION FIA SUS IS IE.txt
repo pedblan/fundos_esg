@@ -5,8 +5,8 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
 1 
 REGULAMENTO DO  
-ACCESS ENERGY TRANSITION FUNDO DE INVESTIMENTO EM AÇÕES SUSTENTÁVEL IS INVESTIMENTO NO 
-EXTERIOR  
+ACCESS ENERGY TRANSITION FUNDO DE INVESTIMENTO EM AÇÕES SUSTENTÁVEL IS 
+INVESTIMENTO NO EXTERIOR  
 CNPJ/MF nº 12.047.839/0001-64 (“FUNDO”) 
  
 I - CONDIÇÕES ESPECÍFICAS 
@@ -112,13 +112,13 @@ OBJETIVO DO FUNDO
 O FUNDO busca alcançar retornos sustentáveis e acima do mercado a 
 longo prazo, investindo em fundos de investimento de ações 
 constituídos no exterior e geridos pela BNP Paribas Asset 
-Management. O Fundo investido (BNP Paribas Energy Transition) 
-investe em empresas globais com produtos e/ou serviços que tenham 
-soluções ambientais transitórias e facilitadoras que contribuam para a 
-transição do sistema energético global por meio da descarbonização, 
-digitalização e descentralização. O processo de investimento do 
-FUNDO segue os critérios ASG da Política de Sustentabilidade da 
-Gestora e está disponível em https://bnpp.lk/Energy-Transition . 
+Management, que tenham objetivo de investimento sustentável. O 
+Fundo investido (BNP Paribas Energy Transition) investe em empresas 
+globais com produtos e/ou serviços que tenham soluções ambientais 
+transitórias e facilitadoras que contribuam para a transição do sistema 
+energético global por meio da descarbonização, digitalização e 
+descentralização. O processo de investimento do FUNDO segue os 
+critérios ASG da Política de Sustentabilidade da Gestora. 
  
 *Mais informações no Artigo 3° do Regulamento. 
  
@@ -286,7 +286,7 @@ DOCUMENTOS OBRIGATÓRIOS
  
 Termo de Adesão e Ciência de Riscos: Sim 
 Regulamento: Sim 
-Demonstração de Desempenho: Sim 
+Demonstração de Desempenho: Não 
 Formulário de Informações Complementares: Sim 
 Lâmina de Informações Essenciais: Não 
  
@@ -364,34 +364,30 @@ Máximo
 Instituição financeira autorizada a funcionar pelo 
 Banco Central do Brasil 
 0% 
-Vedado% 
+Vedado 
 Companhia aberta 
 0% 
 Vedado 
-Fundo de investimento 
+Fundo de investimento em ações constituído no 
+exterior 
 0% 
-100% 
+Sem limites 
+Fundo de Investimento 
+0% 
+5% 
 Pessoa Física 
 0% 
  Vedado 
-Pessoa jurídica de direito privado que não seja 
-companhia aberta ou instituição financeira autorizada 
-a funcionar pelo Banco Central do Brasil (1) 
-0% 
-Vedado 
-União federal 
-0% 
-Até 10% 
 POLÍTICA DE INVESTIMENTO 
-Composição da carteira: : Aplicar, no mínimo, 90% (noventa por cento), da 
-carteira do FUNDO, em ativos financeiros ou cotas de fundos de investimento 
-que apresentem como principal fator de risco a variação de preços de ações 
-no Exterior, admitidas à negociação no mercado à vista de bolsa de valores 
-ou entidade do mercado de balcão organizado correspondentes, 
-considerando que a rentabilidade do FUNDO variará conforme o patamar das 
-taxas de juros praticadas pelo mercado ou Índice de ações, sendo também 
-impactada pelos custos e despesas do FUNDO e da taxa de administração 
-disposta neste Regulamento. 
+Composição da carteira: : Aplicar, no mínimo, 95% (noventa e cinco por 
+cento), da carteira do FUNDO, em cotas de fundos de investimento que 
+apresentem como principal fator de risco a variação de preços de ações 
+no Exterior, admitidas à negociação no mercado à vista de bolsa de 
+valores ou entidade do mercado de balcão organizado correspondentes, 
+considerando que a rentabilidade do FUNDO variará conforme o patamar 
+das taxas de juros praticadas pelo mercado ou Índice de ações, sendo 
+também impactada pelos custos e despesas do FUNDO e da taxa de 
+administração disposta neste Regulamento. 
  
 Instrumentos Derivativos 
 Possibilidade: Sim 
@@ -401,12 +397,13 @@ Permite Alavancar: Não
  
 Investimento em Crédito Privado:  Vedado 
  
-Investimento no Exterior: Mínimo 90% do PL 
-Tipo de Ativo: Cotas do fundo BNP Paribas Energy Transition –  Código ISIN 
+Investimento no Exterior: Mínimo 95% do PL 
+Tipo de Ativo: Cotas do fundo BNP Paribas Energy Transition –  Código 
 ISIN LU2294712109, gerido pela BNP Paribas e domiciliado no exterior. 
 Região: Global 
 Gestão: Ativa 
-Aquisição de cotas de fundos e/ou veículos de investimento no exterior: Sim 
+Aquisição de cotas de fundos e/ou veículos de investimento no exterior: 
+Sim 
 Riscos: Todos os riscos já estão devidamente contemplados no capítulo 
 correspondente 
  
@@ -417,14 +414,12 @@ ATIVOS FINANCEIROS
 RELACIONADOS AO 
 ADMINISTRADOR 
  
-Ativos 
-Financeiros 
-de 
-emissão 
+Ativos Financeiros de emissão do 
+ADMINISTRADOR 
+e/ou 
 do 
-ADMINISTRADOR e/ou do 
-GESTORA, ou de empresas 
-a eles ligadas: 
+GESTORA, ou de empresas a 
+eles ligadas: 
 Possibilidade: Não 
  
 Cotas 
@@ -432,22 +427,25 @@ de
 fundos 
 de 
 investimentos 
-administrados e/ou geridos 
+administrados 
+e/ou 
+geridos 
 pelo 
 ADMINISTRADOR 
-e/ou pela GESTORA, ou de 
-empresas a eles ligadas: 
+e/ou 
+pela 
+GESTORA, ou de empresas a 
+eles ligadas: 
 Possibilidade: Sim 
 Limite: 100% do PL 
  
-* 
-Mais informações no 
-Artigo 
-6º, 
+* Mais informações no Artigo 6º, 
 Parágrafo 
-Primeiro do Regulamento. 
-CONSELHO CONSULTIVO 
-DE INVESTIMENTOS 
+Primeiro 
+do 
+Regulamento. 
+CONSELHO CONSULTIVO DE 
+INVESTIMENTOS 
  
 Conselho Consultivo: Não 
  
@@ -458,6 +456,14 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 4 
+Pessoa jurídica de direito privado que não seja 
+companhia aberta ou instituição financeira autorizada 
+a funcionar pelo Banco Central do Brasil (1) 
+0% 
+Vedado 
+União federal 
+0% 
+Até 5% 
  
 (1) 
 A aplicação em ativos financeiros de emissão de sociedades por ações de capital fechado e/ou de 
@@ -472,23 +478,23 @@ Líquido)
 Mínimo 
 Máximo 
 Cotas de Fundos de Investimento constituídos no exterior  
-90%1 
+95%1 
 Até 100% 
-Máximo para o Conjunto de Ativos listados abaixo – Até 10% do Patrimônio Líquido 
+Máximo para o Conjunto de Ativos listados abaixo – Até 5% do Patrimônio Líquido 
 Cotas de fundos e Cotas de fundos de investimento em cotas de fundos 
 administrados pelo ADMINISTRADOR, GESTORA ou empresas a eles 
 ligadas, registrados com base na Instrução CVM 555/14 e alterações 
 posteriores.      
 0% 
-Até 10% 
+Até 5% 
 Títulos públicos federais e operações compromissadas lastreadas em 
 títulos públicos federais. 
 0% 
-Até 10% 
+Até 5% 
 Títulos de responsabilidade de emissores privados, ou de emissores 
 públicos outros que não a União Federal. 
 0% 
-Vedado% 
+Vedado 
  
 ¹ O investimento pelo FUNDO nos ativos financeiros listados neste grupo não está sujeito aos limites de concentração 
 descritos no quadro “Limites de Concentração por Emissor” acima, de forma que o FUNDO poderá estar exposto a 
@@ -549,10 +555,10 @@ de Concentração por Emissor” e “Limites por Modalidade de Ativo”, nas �
 Regulamento, e na regulamentação em vigor, principalmente no que tange à categoria a que o FUNDO 
 pertence.  
  
-Parágrafo Segundo –Para fins do presente Regulamento,consideram-se como ativos financeiros: 
- 
-I- títulos da dívida pública;  
-II- contratos derivativos; 
+Parágrafo Segundo – A GESTORA possui Estratégia de Sustentabilidade que descreve seus objetivos e 
+metodologia de investimento sustentável, em linha com as Regras e Procedimentos para Investimentos em 
+Ativos Sustentáveis publicada pela Anbima. O documento está disponível na página da GESTORA e pode 
+ser acessada através do link: https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/ 
  
  
  
@@ -560,6 +566,18 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 6 
+ 
+Para maiores informações sobre a metodologia ASG utilizada no processo de investimento do FUNDO, a 
+GESTORA disponibiliza os seguintes relatórios, conforme modelos disponibilizados pela Anbima:  
+ 
+Formulário de Metodologia ASG: https://bnpp.lk/Energy-Transition 
+ 
+Reporte ASG: https://bnpp.lk/ASG-EnergyTransition 
+ 
+Parágrafo Terceiro - Para fins do presente Regulamento,consideram-se como ativos financeiros: 
+ 
+I- títulos da dívida pública;  
+II- contratos derivativos; 
 III- desde que a emissão ou negociação tenha sido objeto de registro ou de autorização pela CVM, ações, 
 debêntures, bônus de subscrição, cupons, direitos, recibos de subscrição e certificados de desdobramentos, 
 certificados de depósito de valores mobiliários, cédulas de debêntures, cotas de fundos de investimento, 
@@ -599,6 +617,11 @@ diretamente no FUNDO.
 Artigo 4°- São considerados ativos financeiros no exterior os ativos financeiros negociados no exterior que 
 tenham a mesma natureza econômica dos ativos financeiros no Brasil. 
  
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+7 
+ 
 Parágrafo Primeiro- Caso o FUNDO tenha sido indicado nas “Condições Específicas” deste Regulamento, 
 no Quadro “Política de Investimento” a possibilidade de “Investimento no Exterior”, é permitido ao 
 FUNDO o investimento em ativos financeiros no exterior, desde que, obervem ao menos, uma das 
@@ -609,11 +632,6 @@ depósito central, em todos os casos, por instituições devidamente autorizados
 supervisionados por autoridade local reconhecida; ou  
 II – ter sua existência diligentemente verificada pelo ADMINISTRADOR ou pelo CUSTODIANTE do FUNDO 
 e desde que tais ativos sejam escriturados ou custodiados, em ambos os casos, por entidade devidamente 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-7 
 autorizada para o exercício da atividade por autoridade de países signatários do Tratado de Assunção ou em 
 outras jurisdições, desde que, neste último caso, seja supervisionada por autoridade local reconhecida. 
 Parágrafo Segundo- Caso tenha sido indicado nas “Condições Específicas” deste Regulamento, no Quadro 
@@ -655,6 +673,13 @@ Parágrafo Primeiro - Os limites de concentração por emissor indicados no Quad
 Concentração por Emissor” nas “Condições Específicas” deste Regulamento, não se aplicam aos 
 investimentos realizados pelo FUNDO em: (i) ativos financeiros no exterior; (ii) ações admitidas à 
 negociação em bolsa de valores ou entidade de mercado de balcão organizado; (iii) bônus ou recibos de 
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+8 
 subscrição e certificados de depósitos de ações; (iv) cotas de fundos de investimento de Ações e cotas de 
 Fundos de Índice de ações; e (v) Brazilian Depositary Receipts, classificados como nível II e III. 
  
@@ -675,13 +700,6 @@ I – ao emissor do ativo subjacente; e
 II – à contraparte, quando se tratar de derivativos sem garantia de liquidação por câmaras ou prestadores de 
 serviços de compensação e de liquidação autorizados a funcionar pelo Banco Central do Brasil ou pela CVM. 
  
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-8 
 Artigo 6°- Cumulativamente aos limites por emissor, o FUNDO observará os limites de concentração por 
 modalidade de ativo financeiro, definidos nos Quadros “Limites  por Modalidade de Ativo”, nas “Condições 
 Específicas” deste Regulamento, com relação aos ativos financeiros, sem prejuízo das normas aplicáveis à 
@@ -721,6 +739,11 @@ regulamentação em vigor aplicável às RPPS, qual seja, a Resolução do Conse
 4.963, de 25 de novembro de 2021, e alterações posteriores (“Resolução CMN 4.963”), que estejam previstas 
 neste Regulamento, observadas as disposições dos Parágrafos Primeiro à Terceiro abaixo.  
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+9 
 Parágrafo Primeiro – Os RPPS são responsáveis pelo enquadramento de seus investimentos aos limites 
 estabelecidos pela mencionada Resolução CMN 4.963 e demais normas específicas, aplicáveis a elas e às 
 suas aplicações, sendo que o controle dos referidos limites não é de responsabilidade do ADMINISTRADOR 
@@ -732,11 +755,6 @@ sejam cursadas exclusivamente através de serviço autorizado pelo BACEN ou pela
  
 Parágrafo Terceiro - É vedado ao FUNDO: 
  
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-9 
 I - realizar operações à descoberto no mercado de derivativos ou que gerem exposição superior a um vez o 
 seu patrimônio liquido; 
 II - prestar fiança, aval, aceite ou coobrigar-se sob qualquer outra forma; 
@@ -777,6 +795,13 @@ ser afetado negativamente. A queda dos preços dos ativos integrantes da carteir
 existindo, no entanto, garantia de que não se estendam por períodos longos e/ou indeterminados. Em 
 determinados momentos de mercado, a volatilidade dos preços dos ativos, passivos e dos derivativos pode 
 ser elevada, podendo acarretar oscilações bruscas no resultado do FUNDO. Em relação às ações, o seu preço 
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+10 
 depende de fatores específicos das companhias emissoras bem como de fatores globais da economia 
 brasileira e internacional. As ações brasileiras tem um histórico de volatilidade elevada e períodos longos de 
 rentabilidade reduzida ou negativa, o que pode afetar a rentabilidade do FUNDO.  
@@ -788,13 +813,6 @@ pelo FUNDO. Alterações nas condições financeiras dos emissores dos títulos 
 investidores têm sobre tais condições, bem como alterações nas condições econômicas e políticas que 
 possam comprometer a sua capacidade de pagamento, podem trazer impactos significativos em termos de 
 preços e liquidez dos ativos desses emissores. Mudanças na percepção da qualidade dos créditos dos 
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-10 
 emissores, mesmo que não fundamentadas, poderão trazer impactos nos preços dos títulos, 
 comprometendo também sua liquidez.  
  
@@ -834,6 +852,11 @@ FUNDO, e/ou aos fundos investidos e/ou aos cotistas, tanto pela CVM quanto por r
 cada segmento de investidores (Previc, Susep, Ministério da Seguridade Social, dentre outros), incluindo, 
 mas não se limitando, àquelas referentes a tributos e às regras e condições de investimento, podem causar 
 um efeito adverso relevante ao FUNDO e/ou aos fundos investidos, como, por exemplo, eventual impacto 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+11 
 no preço dos ativos financeiros e/ou na performance das posições financeiras adquiridas pelo FUNDO, bem 
 como a necessidade do FUNDO se desfazer de ativos que de outra forma permaneceriam em sua carteira. 
  
@@ -845,11 +868,6 @@ nos quais o FUNDO invista ou, ainda, pela variação do Real em relação a outr
 do FUNDO estarão expostos a alterações nas condições política, econômica ou social nos países onde 
 investe, o que pode afetar negativamente o valor de seus ativos. Podem ocorrer atrasos na transferência de 
 juros, dividendos, ganhos de capital ou principal, entre países onde o FUNDO invista e o Brasil, o que pode 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-11 
 interferir na liquidez e no desempenho do FUNDO. As operações do FUNDO poderão ser executadas em 
 bolsa de valores, de mercadoria e futuros ou registradas em sistemas de registro, de custódia ou de 
 liquidação de diferentes países que podem estar sujeitos a distintos níveis de regulamentação e 
@@ -890,6 +908,13 @@ apresentação e divulgação ao agente pagador e distribuidor do FUNDO, e em ce
 IRS e ou para o Tesouro Nacional americano, como disposto no Regulamento do FATCA ou no IGA – Modelo 
 1. Os investidores também são aconselhados a verificar com os seus distribuidores e custodiantes as suas 
 intenções de cumprimento e atendimento aos requerimentos do FATCA. Não obstante esse produto ser 
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+12 
 exclusivamente oferecido no território nacional e ter como público alvo residentes no Brasil, caso um 
 investidor seja identificado como americano nos termos do FATCA, retenções americanas poderão ser 
 aplicadas aos investimentos estrangeiros do FUNDO e, portanto, os resultados decorrentes do FUNDO 
@@ -901,13 +926,6 @@ que seu preço é decorrente de diversos fatores baseados em expectativas futura
 nas “Condições Específicas” deste Regulamento, no Quadro “Política de Investimento” a possibilidade de 
 investimento em “Instrumento Derivativos” e, ainda, a possibilidade de “Posicionamento” e que “Permite 
 Alavancar”, o FUNDO poderá utilizar derivativos para alavancar sua carteira, o que pode causar variação 
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-12 
 significativa na rentabilidade do FUNDO. A utilização de estratégias com derivativos como parte 
 integrante da política de investimento do FUNDO pode resultar em perdas patrimoniais para seus 
 cotistas, sendo que em havendo a possibilidade de alavancagem, se assim estiver definido nas 
@@ -945,6 +963,11 @@ de liquidação do FUNDO ou resgate de cotas.
 CAPÍTULO V 
 DO CONSELHO CONSULTIVO DE INVESTIMENTOS 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+13 
 Artigo 13 – O FUNDO terá um Conselho Consultivo de Investimentos, caso tenha sido indicado no Quadro 
 “Política de Investimento” a possibilidade afirmativa de existência de “Conselho Consultivo de 
 Investimentos”, nas “Condições Específicas” deste Regulamento. 
@@ -956,11 +979,6 @@ ativos pelo FUNDO permitidos neste Regulamento;
 II – recomendar pelo investimento ou amortização de recursos recebidos pelo FUNDO a título de alienação 
 ou liquidação dos investimentos do FUNDO. 
  
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-13 
 Artigo 14 – O Conselho Consultivo de Investimentos será composto pela quantidade de membros indicados 
 no Quadro “Política de Investimento”, item “Quantidade de Membros”, nas “Condições Específicas” deste 
 Regulamento, sendo que suas nomeações deverão ser aprovadas por Assembleia Geral. 
@@ -1000,6 +1018,13 @@ representá-los em determinada reunião, com validade igual ou inferior a 1 (um)
 autenticada da referida procuração seja entregue na sede do ADMINISTRADOR antes da ocorrência da 
 próxima reunião convocada. 
  
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+14 
 Parágrafo Terceiro – O ADMINISTRADOR considerará válidas todas as procurações recebidas que 
 atendam as condições descritas no parágrafo anterior, e que não tenham sido expressamente revogadas 
 pelo respectivo membro do Conselho Consultivo de Investimentos. 
@@ -1012,13 +1037,6 @@ Artigo 16– Os membros do Conselho Consultivo de Investimentos devem informar a
 e este aos cotistas ou à GESTORA, conforme o caso, qualquer situação que os coloque, potencial ou 
 efetivamente, em situação de conflito de interesses com o FUNDO. 
  
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-14 
 Parágrafo Único - A implantação pela GESTORA das deliberações do Conselho Consultivo de Investimento 
 estará sujeita às condições de mercado. 
  
@@ -1057,6 +1075,11 @@ base no resultado do FUNDO; ou
 II- Se o “Método” indicado no Quadro “Remuneração” for “Passivo”, a Taxa de Performance será cobrada 
 com base no resultado de cada aplicação efetuada por cada cotista. 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+15 
 CAPÍTULO VII 
 DOS ENCARGOS DO FUNDO 
  
@@ -1068,11 +1091,6 @@ a recair sobre os bens, direitos e obrigações do FUNDO;
 II – despesas com o registro de documentos em cartório, impressão, expedição e publicação de relatórios e 
 informações periódicas previstas na Instrução CVM n° 555/14; 
 III – despesas com correspondências de interesse do FUNDO, inclusive comunicações aos cotistas; 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-15 
 IV – honorários e despesas do auditor independente;  
 V – emolumentos e comissões pagas por operações do FUNDO;  
 VI – honorários de advogado, custas e despesas processuais correlatas, incorridas em razão de defesa dos 
@@ -1112,6 +1130,13 @@ de decisão judicial ou arbitral, operações de cessão fiduciária, execução
 dissolução de sociedade conjugal ou união estável por via judicial ou escritura pública que disponha sobre a 
 partilha de bens e transferência de administração ou portabilidade de planos de previdência.  
  
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+16 
 Parágrafo Segundo- É facultado ao ADMINISTRADOR suspender, a qualquer momento, novas aplicações 
 no FUNDO, desde que tal suspensão se aplique indistintamente a novos investidores e cotistas atuais. A 
 suspensão do recebimento de novas aplicações em um dia não impede a reabertura posterior do FUNDO 
@@ -1123,13 +1148,6 @@ Artigo 24 - Na emissão das cotas do FUNDO deve ser utilizado o valor da cota do
 Artigo 25 – Conforme indicado nas “Condições Específicas” deste Regulamento, no Quadro “Emissão e 
 Resgate”, no item “Tipo de Cota do Fundo”, o FUNDO adota a cota de “Fechamento”, de forma que o valor 
 da cota do dia será o resultante da divisão do valor do patrimônio líquido pelo número de cotas do FUNDO, 
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-16 
 apurados, ambos, no encerramento do mesmo dia, assim entendido, o horário de fechamento dos mercados 
 em que o FUNDO atue. 
  
@@ -1144,10 +1162,10 @@ Parágrafo Segundo – O ADMINISTRADOR e a GESTORA poderão gravar toda e qualqu
 telefônica com os cotistas, bem como utilizar referidas gravações para efeito de prova, em juízo ou fora dele, 
 das ordens transmitidas e das demais informações nelas contidas. 
  
-Parágrafo Terceiro – Em feriados de âmbito estadual ou municipal na sede do ADMINISTRADOR, o FUNDO 
-funcionará normalmente para movimentações realizadas via Clearing (B3 S.A. – Brasil Bolsa Balcão), ficando 
-o cotista sujeito às restrições provenientes da falta de expediente bancário na sede do ADMINISTRADOR 
-nas demais hipóteses de liquidação de resgates e aplicações previstas no Regulamento.  
+Parágrafo Terceiro – Em feriados de âmbito estadual ou municipal na sede do ADMINISTRADOR, o 
+FUNDO funcionará normalmente para movimentações realizadas via Clearing (B3 S.A. – Brasil Bolsa 
+Balcão), ficando o cotista sujeito às restrições provenientes da falta de expediente bancário na sede do 
+ADMINISTRADOR nas demais hipóteses de liquidação de resgates e aplicações previstas no Regulamento.  
  
 Parágrafo Quarto – Nas localidades abrangidas pelos feriados mencionados no Parágrafo Terceiro acima 
 os créditos dos recursos, serão efetivados no primeiro dia útil subsequente, e para fundos de ação não serão 
@@ -1169,6 +1187,11 @@ deverá estar em conformidade com a política de Marcação à Mercado estabelec
 na qualidade de controlador dos ativos do FUNDO devendo ser observados os seguintes procedimentos: 
  
 I - o resgate de cotas será realizado mediante transferência do ativo para a conta de custódia do cotista; 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+17 
 III –  Caso o FUNDO possua um único cotista, o referido cotista poderá  escolher o ativo a ser resgatado, 
 observada a manutenção do enquadramento da carteira do FUNDO. 
 II - o ADMINISTRADOR, assim que comunicado da intenção do cotista de resgatar cotas em ativos, 
@@ -1180,11 +1203,6 @@ operação, firmarão termo específico ou ata para formalizá-la.
 Parágrafo Único - Quando o resgate de cotas do FUNDO for efetuado através da entrega de ativos, a 
 tributação incidente sobre o rendimento auferido se dará em conformidade com as especificações do 
 Capítulo X deste Regulamento. 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-17 
  
  
 Artigo 29- O FUNDO poderá realizar o resgate compulsório de cotas, nos casos em que: 
@@ -1224,6 +1242,13 @@ indicado da convocação.
 CAPÍTULO X 
 DA TRIBUTAÇÃO 
  
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+18 
 Artigo 33 – A tributação aplicável aos cotistas do FUNDO e ao FUNDO será aquela definida pela legislação 
 tributária brasileira. Poderá haver tratamento tributário diferente do disposto neste Capítulo. O cotista que 
 de acordo com a legislação vigente não estiver sujeito à tributação do Imposto de Renda e do Imposto sobre 
@@ -1235,13 +1260,6 @@ Artigo 34 - A situação tributária descrita neste Capítulo pode ser alterada 
 instituição de novos tributos, seja através de alteração das alíquotas vigentes. 
  
 Artigo 35 – A tributação aplicável aos cotistas do FUNDO será a seguinte: 
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-18 
  
 I- Imposto de Renda (IR): O ADMINISTRADOR buscará seus melhores esforços para que a composição da 
 carteira seja enquadrada como de renda variável, para fins da legislação tributária em vigor. Nesse sentido, 
@@ -1280,6 +1298,11 @@ líquido do FUNDO.
 CAPÍTULO XII 
 DAASSEMBLEIA GERAL DE COTISTAS 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+19 
 Artigo 39 – Compete privativamente à assembleia geral de Cotistas deliberar sobre:  
  
 (i) as demonstrações contábeis apresentadas pelo ADMINISTRADOR;  
@@ -1291,11 +1314,6 @@ Artigo 39 – Compete privativamente à assembleia geral de Cotistas deliberar s
 (vii) a alteração do Regulamento, ressalvado o disposto no Parágrafo Único abaixo. 
 (viii) a emissão de novas cotas; e 
 (ix) a prorrogação do Prazo de Duração. 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-19 
  
 Parágrafo Único – Este Regulamento poderá ser alterado, independentemente da assembleia geral, 
 sempre que tal alteração: (i) decorrer exclusivamente da necessidade de atendimento a exigências 
@@ -1337,6 +1355,13 @@ Artigo 44– Somente podem votar na assembleia geral os Cotistas do FUNDO que es
 registro de Cotistas na data da convocação da assembleia geral, seus representantes legais ou procuradores 
 legalmente constituídos há menos de 1 (um) ano.  
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+20 
+ 
 Artigo 45 – Os Cotistas terão a faculdade de votar por meio de comunicação escrita ou eletrônica, desde 
 que comprovadamente recebida a manifestação do Cotista, pelo ADMINISTRADOR, em seu endereço físico 
 ou em endereço eletrônico indicados no Serviço de Atendimento ao Cotista, até 1 (um) dia antes do início 
@@ -1346,13 +1371,6 @@ propostas da ordem do dia.
 CAPÍTULO XIII 
 DAS DISPOSIÇÕES GERAIS 
  
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-20 
 Artigo 46 - A forma de comunicação que será utilizada pelo ADMINISTRADOR com os cotistas para a 
 divulgação das informações definidas na regulamentação, neste Regulamento e no Formulário de 
 Informações Complementares será aquela a definida no Quadro “Serviço de Atendimento ao Cotista”, 

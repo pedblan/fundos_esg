@@ -43,6 +43,12 @@ será impactada em virtude dos custos e despesas do FUNDO, inclusive taxa de adm
 4.1. Embora o FUNDO não adote compromisso de concentração em nenhum ativo ou fator de risco em especial, o 
 GESTOR buscará a alocação em ativos que apresentem externalidades positivas vinculadas às questões ambientais, 
 sociais e de governança corporativa. 
+4.1.1. Por meio de um portfólio de crédito diversificado o FUNDO tem como objetivo conectar seus investimentos a 
+empresas com atividades econômicas diretamente relacionadas à geração de externalidades positivas para a sociedade 
+e/ou para o meio ambiente (exemplos de setores elegíveis: Saneamento, educação, saúde, energia renovável, gestão de 
+resíduos, entre outros). Além deste diferencial, o FUNDO pode realizar investimentos em títulos verdes, títulos ligados a 
+sustentabilidade (SLBs) e emissões bancárias, quando o uso dos recursos dessas emissões estiver alinhado com a 
+geração externalidades socioambientais positivas. 
 4.2 Com o intuito de avaliar a vinculação dos ativos às questões ambientais, sociais e de governança corporativa, seja 
 para aquisição ou para monitoramento da aderência dos ativos a referidas questões, o GESTOR se valerá de metodologia 
 própria, podendo formular questionários a serem respondidos pelos emissores, que abordem aspectos considerados 
@@ -55,11 +61,6 @@ de metodologia ASG acesse: www.itauassetmanagement.com.br/insights/investimento-
 4.4. No processo de seleção de ativos para investimento ou para monitoramento da aderência dos ativos a referidas 
 questões o GESTOR poderá se basear, adicionalmente às políticas próprias, na opinião de certificadores independentes 
 que tenham expertise na avaliação de emissores e emissões vinculadas a questões ambientais, sociais e de governança 
-corporativa. Essas certificações podem ser baseadas nos Green Bond Principles, Climate Bonds, ou outros padrões para 
-certificação de emissões de dívida atreladas a questões ambientais, sociais e de governança corporativa. 
-4.5. O GESTOR realizará operações de derivativos com o objetivo de mitigar o risco associado à oscilação da taxa de 
-câmbio decorrente das operações do FUNDO no exterior. 
-4.6. O FUNDO está autorizado a realizar, direta ou indiretamente, aplicações em ativos financeiros no exterior.  
  
 Corporativo | Externo 
  
@@ -68,6 +69,11 @@ Corporativo | Externo
  
 2 
  
+corporativa. Essas certificações podem ser baseadas nos Green Bond Principles, Climate Bonds, ou outros padrões para 
+certificação de emissões de dívida atreladas a questões ambientais, sociais e de governança corporativa. 
+4.5. O GESTOR realizará operações de derivativos com o objetivo de mitigar o risco associado à oscilação da taxa de 
+câmbio decorrente das operações do FUNDO no exterior. 
+4.6. O FUNDO está autorizado a realizar, direta ou indiretamente, aplicações em ativos financeiros no exterior.  
 4.6.1. O GESTOR é responsável por executar, na seleção dos ativos financeiros no exterior, procedimentos compatíveis 
 com as melhores práticas do mercado, assegurando que as estratégias a serem implementadas no exterior estejam de 
 acordo com o objetivo, política de investimento e níveis de risco do FUNDO. 
@@ -118,12 +124,6 @@ respectivos regulamentos.
 As aplicações ocorrerão mediante: (i) instrução verbal, escrita ou eletrônica (se disponível) ao distribuidor ou diretamente 
 ao ADMINISTRADOR; (ii) adesão aos documentos exigidos pela regulamentação, significando que ele teve acesso ao 
 inteiro teor de tais documentos, conhece os riscos de investir no FUNDO e está ciente de que o ADMINISTRADOR, o 
-GESTOR e empresas ligadas podem manter negócios com emissores de ativos financeiros do FUNDO; e (iii) depósito ou 
-transferência eletrônica do valor do investimento à conta do FUNDO. 
-6.1. Os recursos aportados serão convertidos em cotas escriturais, nominativas e correspondentes a frações ideais do 
-patrimônio do FUNDO. 
-6.2. O investidor será considerado cotista a partir da inscrição do seu nome no registro de cotistas, que pode se dar 
-inclusive por meio de sistemas informatizados.  
  
 Corporativo | Externo 
  
@@ -132,6 +132,12 @@ Corporativo | Externo
  
 3 
  
+GESTOR e empresas ligadas podem manter negócios com emissores de ativos financeiros do FUNDO; e (iii) depósito ou 
+transferência eletrônica do valor do investimento à conta do FUNDO. 
+6.1. Os recursos aportados serão convertidos em cotas escriturais, nominativas e correspondentes a frações ideais do 
+patrimônio do FUNDO. 
+6.2. O investidor será considerado cotista a partir da inscrição do seu nome no registro de cotistas, que pode se dar 
+inclusive por meio de sistemas informatizados.  
 6.3. A cota do FUNDO terá seu valor atualizado nos dias úteis, permanecerá escriturada em nome do cotista e não poderá 
 ser cedida nem transferida, salvo nas situações previstas na regulamentação. 
 6.4. As aplicações no FUNDO poderão ser suspensas a qualquer momento e por prazo indeterminado. 
@@ -456,7 +462,7 @@ Para mais informações sobre o FUNDO, consulte a Lâmina ou visite a página do
 mundial de computadores.  
  
  
-São Paulo – SP, 07 de dezembro de 2023. 
+São Paulo – SP, 28 de fevereiro de 2024. 
  
  
 Dúvidas, reclamações e sugestões, fale com o seu Gerente ou com a Área de Atendimento (11) 3631-2555. Se 

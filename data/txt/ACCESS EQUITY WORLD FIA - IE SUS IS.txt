@@ -91,8 +91,6 @@ I - CONDIÇÕES ESPECÍFICAS
  
  
  
- 
- 
 CARACTERÍSTICAS DO 
 FUNDO 
  
@@ -109,27 +107,19 @@ Investimento no Exterior
 III do Regulamento. 
 OBJETIVO DO FUNDO 
  
-O objetivo do FUNDO é proporcionar a seus cotistas valorização de suas 
-cotas mediante alocação em ativos financeiros e/ou fundos de investimento 
-negociados, direta ou indiretamente, no exterior. O fundo investido (BNPP 
-Sustainable Global Low Vol Equity)  tem uma carteira composta por ações 
-de empresas socialmente responsáveis, selecionadas através de um 
-processo de investimento que visa minimizar a volatilidade no fundo. O 
-processo de investimento segue os critérios ASG da Política de 
-Sustentabilidade da gestora, com objetivo de reduzir as emissões de gases 
-de efeito estufa, respeitando os direitos humanos e os direitos dos acionistas 
-minoritários. 
-O 
-processo 
-de 
-investimento 
-está 
-disponível 
-em 
-(https://bnpp.lk/access-equity-world)  A alocação do FUNDO deverá 
-obedecer as limitações previstas neste Regulamento e na regulamentação 
-em vigor, principalmente no que tange à categoria a que o FUNDO 
-pertence.   
+O FUNDO busca alcançar retornos sustentáveis e acima do mercado a longo 
+prazo, investindo em fundos de investimento de ações constituídos no 
+exterior e geridos pela BNP Paribas Asset Management, que tenham objetivo 
+de investimento sustentável. . O fundo investido (BNPP Sustainable Global 
+Low Vol Equity) tem uma carteira composta por ações de empresas 
+socialmente responsáveis, selecionadas através de um processo de 
+investimento que visa minimizar a volatilidade no fundo. O processo de 
+investimento segue os critérios ASG da Política de Sustentabilidade da 
+gestora, com objetivo de reduzir as emissões de gases de efeito estufa, 
+respeitando os direitos humanos e os direitos dos acionistas minoritários. A 
+alocação do FUNDO deverá obedecer as limitações previstas neste 
+Regulamento e na regulamentação em vigor, principalmente no que tange à 
+categoria a que o FUNDO pertence.   
 *Mais informações no Artigo 3° do Regulamento.  
  
  
@@ -137,10 +127,10 @@ pertence.
  
 FATORES DE RISCO 
  
-Mercado, Crédito, Liquidez, Concentração por Emissor, Decorrente da 
-Oscilação de Mercados Futuros, Decorrente da Precificação dos Ativos, 
-Cambial, Regulatório, Derivativos, Alocação dos Ativos, Enquadramento Fiscal, 
-Mercado Externo, Decorrente do Investimento no Mercado Externo – FATCA. 
+Mercado, Crédito, Liquidez, Concentração por Emissor, Decorrente da Oscilação 
+de Mercados Futuros, Decorrente da Precificação dos Ativos, Cambial, 
+Regulatório, Derivativos, Alocação dos Ativos, Enquadramento Fiscal, Mercado 
+Externo, Decorrente do Investimento no Mercado Externo – FATCA. 
  
 *Mais informações no Capítulo IV do Regulamento 
  
@@ -148,14 +138,14 @@ PRESTADORES DE SERVIÇOS
  
 Administrador: BANCO BNP PARIBAS BRASIL S.A., com sede na Cidade de São Paulo, Estado de São Paulo, na Av. 
 Presidente Juscelino Kubitschek, nº 1909, 9º a 11º andares, Torre Sul, inscrito no CNPJ/ME sob nº 01.522.368/0001-82, 
-devidamente autorizado a funcionar no país através da Autorização de Funcionamento nº 96.00639119, datada de 16 
-de outubro de 1996, e autorizada a prestar os serviços de administração de carteiras de ativos financeiros por meio do 
-Ato Declaratório CVM nº 4.448, de 21 de agosto de 1997 (“ADMINISTRADOR”). 
+devidamente autorizado a funcionar no país através da Autorização de Funcionamento nº 96.00639119, datada de 16 de 
+outubro de 1996, e autorizada a prestar os serviços de administração de carteiras de ativos financeiros por meio do Ato 
+Declaratório CVM nº 4.448, de 21 de agosto de 1997 (“ADMINISTRADOR”). 
  
-Gestora: BNP PARIBAS ASSET MANAGEMENT BRASIL LTDA., com sede na Cidade de São Paulo, Estado de São 
-Paulo, na Av. Presidente Juscelino Kubitschek, nº 1909, 10º andar, Torre Sul, inscrita no CNPJ/ME sob n° 
-02.562.663/0001-25, devidamente autorizada a prestar os serviços de administração de carteiras de ativos financeiros 
-por meio do Ato Declaratório CVM nº 5.032, datado de 03 de setembro de 1998 (”GESTORA”). 
+Gestora: BNP PARIBAS ASSET MANAGEMENT BRASIL LTDA., com sede na Cidade de São Paulo, Estado de São Paulo, 
+na Av. Presidente Juscelino Kubitschek, nº 1909, 10º andar, Torre Sul, inscrita no CNPJ/ME sob n° 02.562.663/0001-25, 
+devidamente autorizada a prestar os serviços de administração de carteiras de ativos financeiros por meio do Ato 
+Declaratório CVM nº 5.032, datado de 03 de setembro de 1998 (”GESTORA”). 
  
 Custodiante: ADMINISTRADOR, devidamente autorizado a prestar os serviços de custódia de valores mobiliários, 
 conforme Ato Declaratório CVM n° 6.628 de 13 de dezembro de 2001 (“CUSTODIANTE”). 
@@ -322,7 +312,7 @@ DOCUMENTOS OBRIGATÓRIOS
  
 Termo de Adesão e Ciência de Riscos: Sim 
 Regulamento: Sim 
-Demonstração de Desempenho: Sim 
+Demonstração de Desempenho: Não 
 Formulário de Informações Complementares: Sim 
 Lâmina de Informações Essenciais: Não 
  
@@ -352,6 +342,8 @@ Término do período: 31 de agosto
 Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
   
 3 
+ 
+ 
  
  
  
@@ -405,35 +397,30 @@ Emissor
 Percentagem (sobre o Patrimônio Líquido) 
 Mínimo 
 Máximo 
-Instituição financeira autorizada a funcionar pelo 
-Banco Central do Brasil 
+Instituição financeira autorizada a funcionar pelo Banco 
+Central do Brasil 
 0% 
-Até 10% 
+Vedado 
 Companhia aberta 
 0% 
 Vedado 
-Fundo de investimento 
+Fundo de investimento em ações constituído no 
+exterior 
 0% 
-Sem limites 
+Sem limite 
+Fundo de Investimento 
+0 
+5% 
 Um único fundo de investimento 
 0% 
 Até 100% 
-Pessoa natural ou pessoa jurídica de direito privado 
-que não seja companhia aberta ou instituição 
-financeira autorizada a funcionar pelo Banco Central 
-do Brasil 
-0% 
-Vedado 
-União federal 
-0% 
-Até 10% 
 POLÍTICA DE INVESTIMENTO 
-Composição da carteira: Aplicar, no mínimo, 90% (noventa 
-por cento), da carteira do FUNDO, em ativos financeiros ou 
-Cotas de Fundos de Investimento que apresentem como 
-principal fator de risco a variação de preços de ações no 
-Exterior, admitidas à negociação no mercado à vista de bolsa 
-de valores ou entidade do mercado de balcão organizado 
+Composição da carteira: Aplicar, no mínimo, 95% (noventa 
+e cinco por cento), da carteira do FUNDO  em cotas de 
+Fundos de Investimento que apresentem como principal 
+fator de risco a variação de preços de ações no Exterior, 
+admitidas à negociação no mercado à vista de bolsa de 
+valores ou entidade do mercado de balcão organizado 
 correspondentes, considerando que a rentabilidade do 
 FUNDO variará conforme o patamar das taxas de juros 
 praticadas pelo mercado ou Índice de ações, sendo também 
@@ -448,7 +435,7 @@ Permite Alavancar: Não
  
 Investimento em Crédito Privado:  Vedado 
  
-Investimento no Exterior:  Mínimo 90% do total do PL 
+Investimento no Exterior:  Mínimo 95% do total do PL 
 Tipo de Ativo: Cotas de fundo de investimento do BNP 
 Paribas Funds Sustainable Global Low Vol Equity (Código 
 ISIN LU2582359241), gerido pela BNP Paribas e domiciliado 
@@ -457,12 +444,12 @@ Região:  Global
 Gestão: Ativa 
 Aquisição de cotas de fundos e/ou veículos de 
 investimento no exterior: Sim 
-Riscos: Todos os riscos já estão devidamente contemplados 
-no capítulo correspondente 
+Riscos: Todos os riscos já estão devidamente 
+contemplados no capítulo correspondente 
  
 O ADMINISTRADOR e a GESTORA asseguram que foram 
-atendidas as condições constantes do Anexo 101 da Instrução 
-CVM n° 555/14. 
+atendidas as condições constantes do Anexo 101 da 
+Instrução CVM n° 555/14. 
  
 * Mais informações no Capítulo III do Regulamento. 
  
@@ -478,7 +465,7 @@ do
 ADMINISTRADOR e/ou do GESTORA, ou 
 de empresas a eles ligadas: 
 Possibilidade: Sim 
-Limite: 10%  sobre o  do PL do FUNDO 
+Limite: 5%  sobre o  do PL do FUNDO 
  
 Cotas 
 de 
@@ -508,6 +495,14 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 4 
+Pessoa natural ou pessoa jurídica de direito privado que 
+não seja companhia aberta ou instituição financeira 
+autorizada a funcionar pelo Banco Central do Brasil 
+0% 
+Vedado 
+União federal 
+0% 
+Até 5% 
  
  
 LIMITES POR MODALIDADE DE ATIVO 
@@ -516,33 +511,28 @@ Percentagem (sobre o Patrimônio
 Líquido) 
 Mínimo 
 Máximo 
-Cotas de Fundos de Investimento de Ações constituídos no exterior, 
-cuja estratégia de investimento seja selecionar ativos de baixa 
-volatilidade, descorrelacionados com seus respectivos mercados. 
-90%1 
+Cotas de Fundos de Investimento constituídos no exterior  
+95%1 
 Até 100% 
-Máximo para o Conjunto de Ativos listados abaixo – Até 33% do Patrimônio Líquido 
+Máximo para o Conjunto de Ativos listados abaixo – Até 5% do Patrimônio Líquido 
 Cotas de fundos e Cotas de fundos de investimento em cotas de fundos 
 administrados pelo ADMINISTRADOR, GESTORA ou empresas a eles 
 ligadas, registrados com base na Instrução CVM 555/14 e alterações 
 posteriores.      
 0% 
-Até 10% 
+Até 5% 
 Títulos públicos federais e operações compromissadas lastreadas em 
 títulos públicos federais. 
 0% 
-Até 10% 
+Até 5% 
 Títulos de responsabilidade de emissores privados, ou de emissores 
 públicos outros que não a União Federal. 
 0% 
-Até 10% 
+Vedado 
  
-¹ O investimento pelo FUNDO nos ativos financeiros listados neste grupo não está sujeito aos limites de 
-concentração descritos no quadro “Limites de Concentração por Emissor” acima, de forma que o FUNDO poderá 
-estar exposto a significativa concentração em ativos financeiros de poucos emissores, com os riscos daí decorrentes. 
- 
- 
- 
+¹ O investimento pelo FUNDO nos ativos financeiros listados neste grupo não está sujeito aos limites de concentração 
+descritos no quadro “Limites de Concentração por Emissor” acima, de forma que o FUNDO poderá estar exposto a 
+significativa concentração em ativos financeiros de poucos emissores, com os riscos daí decorrentes. 
  
  
  
@@ -573,6 +563,9 @@ estar exposto a significativa concentração em ativos financeiros de poucos emi
 Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
   
 5 
+ 
+ 
+ 
 II- CONDIÇÕES GERAIS 
  
 CAPÍTULO I 
@@ -580,8 +573,8 @@ CAPÍTULO I
   
 DO FUNDO 
  
-Artigo 1º - O FUNDO será regido pelo presente regulamento (“Regulamento”), bem como pelas 
-disposições legais e regulamentares que lhe forem aplicáveis. 
+Artigo 1º - O FUNDO será regido pelo presente regulamento (“Regulamento”), bem como pelas disposições 
+legais e regulamentares que lhe forem aplicáveis. 
  
 CAPÍTULO II 
 DO PÚBLICO ALVO 
@@ -590,17 +583,17 @@ Artigo 2º– O FUNDO é destinado aos cotistas definidos no Quadro “Público 
 “Condições Específicas” deste Regulamento. 
  
 Parágrafo Primeiro- Ao ingressar no FUNDO, os cotistas devem assinar o Termo de Adesão e Ciência de 
-Riscos, através do qual atestam que (A) tiveram acesso aos documentos indicados no Quadro 
-“Documentos Obrigatórios”, conforme consta das “Condições Específicas” deste Regulamento, a fim de 
-atestar e que (B) conhecem, entendem e aceitam os riscos relativos ao FUNDO em razão dos mercados de 
-sua atuação, de que não há qualquer garantia contra eventuais perdas patrimoniais que possam ser 
-incorridas pelo FUNDO, de que a concessão de registro para a venda de cotas do FUNDO não implica, por 
-parte da Comissão de Valores Mobiliários (“CVM”), garantia de veracidade das informações prestadas, e 
-caso tenha sido indicado no Quadro “Política de Investimento”, nas “Condições Específicas” deste 
-Regulamento, a possibilidade de investimentos em “Instrumentos Derivativos” e, ainda, a possibilidade 
-de “Posicionamento” e que “Permite Alavancar” , as estratégias de investimento do FUNDO podem 
-resultar em perdas superiores ao capital aplicado e a consequente obrigação do cotista de aportar recursos 
-adicionais para cobrir o prejuízo do FUNDO. 
+Riscos, através do qual atestam que (A) tiveram acesso aos documentos indicados no Quadro “Documentos 
+Obrigatórios”, conforme consta das “Condições Específicas” deste Regulamento, a fim de atestar e que (B) 
+conhecem, entendem e aceitam os riscos relativos ao FUNDO em razão dos mercados de sua atuação, de 
+que não há qualquer garantia contra eventuais perdas patrimoniais que possam ser incorridas pelo FUNDO, 
+de que a concessão de registro para a venda de cotas do FUNDO não implica, por parte da Comissão de 
+Valores Mobiliários (“CVM”), garantia de veracidade das informações prestadas, e caso tenha sido indicado 
+no Quadro “Política de Investimento”, nas “Condições Específicas” deste Regulamento, a possibilidade de 
+investimentos em “Instrumentos Derivativos” e, ainda, a possibilidade de “Posicionamento” e que 
+“Permite Alavancar” , as estratégias de investimento do FUNDO podem resultar em perdas superiores ao 
+capital aplicado e a consequente obrigação do cotista de aportar recursos adicionais para cobrir o prejuízo 
+do FUNDO. 
  
 Parágrafo Segundo - Esse produto deve ser exclusivamente oferecido no território nacional e ter como 
 público alvo residentes no Brasil. 
@@ -610,21 +603,18 @@ CAPÍTULO III
 DA POLÍTICA DE INVESTIMENTO E DIVERSIFICAÇÃO DA CARTEIRA 
  
 Artigo 3° – O objetivo do FUNDO é proporcionar a seus cotistas valorizações de suas cotas, mediante 
-aplicações de recursos financeiros em carteira composta por, no mínimo, 90% (noventa por cento) em 
-ativos financeiros que apresentem como principal fator de risco a variação de preços de ações no Exterior, 
+aplicações de recursos financeiros em carteira composta por, no mínimo, 90% (noventa por cento) em ativos 
+financeiros que apresentem como principal fator de risco a variação de preços de ações no Exterior, 
 admitidas à negociação no mercado à vista de bolsa de valores ou entidade do mercado de balcão 
-organizado correspondentes, considerando que a rentabilidade do FUNDO variará conforme o patamar 
-das taxas de juros praticadas pelo mercado ou Índice de ações, sendo também impactada pelos custos e 
+organizado correspondentes, considerando que a rentabilidade do FUNDO variará conforme o patamar das 
+taxas de juros praticadas pelo mercado ou Índice de ações, sendo também impactada pelos custos e 
 despesas do FUNDO e da taxa de administração e performance, se houver, disposta neste Regulamento.  
  
-Parágrafo Primeiro - A alocação do FUNDO deverá obedecer as limitações descritas nos Quadros 
-“Limites de Concentração por Emissor” e “Limites por Modalidade de Ativo”, nas “Condições Específicas” 
-deste Regulamento, e na regulamentação em vigor, principalmente no que tange à categoria a que o 
-FUNDO pertence.  
+Parágrafo Primeiro - A alocação do FUNDO deverá obedecer as limitações descritas nos Quadros “Limites 
+de Concentração por Emissor” e “Limites por Modalidade de Ativo”, nas “Condições Específicas” deste 
+Regulamento, e na regulamentação em vigor, principalmente no que tange à categoria a que o FUNDO 
+pertence.  
  
-Parágrafo Segundo –Para fins do presente Regulamento,consideram-se como ativos financeiros: 
- 
-I- títulos da dívida pública;  
  
  
  
@@ -632,15 +622,29 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 6 
+Parágrafo Segundo – A GESTORA possui Estratégia de Sustentabilidade que descreve seus objetivos e 
+metodologia de investimento sustentável, em linha com as Regras e Procedimentos para Investimentos 
+em Ativos Sustentáveis publicada pela Anbima. O documento está disponível na página da GESTORA e 
+pode ser acessada através do link: https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/ 
+ 
+Para maiores informações sobre a metodologia ASG utilizada no processo de investimento do FUNDO, a 
+GESTORA disponibiliza os seguintes relatórios, conforme modelos disponibilizados pela Anbima:  
+ 
+Formulário de Metodologia ASG: https://bnpp.lk/access-equity-world 
+ 
+Reporte ASG: https://bnpp.lk/ASG-EquityWorld  
+ 
+Parágrafo Terceiro - Para fins do presente Regulamento,consideram-se como ativos financeiros: 
+ 
+I- títulos da dívida pública;  
 II- contratos derivativos; 
 III- desde que a emissão ou negociação tenha sido objeto de registro ou de autorização pela CVM, ações, 
-debêntures, bônus de subscrição, cupons, direitos, recibos de subscrição e certificados de 
-desdobramentos, certificados de depósito de valores mobiliários, cédulas de debêntures, cotas de fundos 
-de investimento, notas promissórias, e quaisquer outros valores mobiliários, que não os referidos no inciso 
-IV;  
-IV- títulos ou contratos de investimento coletivo, registrados na CVM e ofertados publicamente, que 
-gerem direito de participação, de parceria ou de remuneração, inclusive resultante de prestação de 
-serviços, cujos rendimentos advêm do esforço do empreendedor ou de terceiros;  
+debêntures, bônus de subscrição, cupons, direitos, recibos de subscrição e certificados de desdobramentos, 
+certificados de depósito de valores mobiliários, cédulas de debêntures, cotas de fundos de investimento, 
+notas promissórias, e quaisquer outros valores mobiliários, que não os referidos no inciso IV;  
+IV- títulos ou contratos de investimento coletivo, registrados na CVM e ofertados publicamente, que gerem 
+direito de participação, de parceria ou de remuneração, inclusive resultante de prestação de serviços, cujos 
+rendimentos advêm do esforço do empreendedor ou de terceiros;  
 V- certificados ou recibos de depósitos emitidos no exterior com lastro em valores mobiliários de emissão 
 de companhia aberta brasileira; 
 VI- o ouro, ativo financeiro, desde que negociado em padrão internacionalmente aceito;  
@@ -667,6 +671,11 @@ investimento aberto registrados na CVM.
 Parágrafo Quinto – O registro a que se refere o Parágrafo Quarto deste Artigo deverá ser realizado em 
 contas de depósito específicas, abertas diretamente em nome do FUNDO. 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+7 
 Parágrafo Sexto - É vedado ao FUNDO, ainda, aplicar em cotas de fundos de investimento que invistam 
 diretamente no FUNDO. 
  
@@ -681,21 +690,15 @@ condições:
 I – ser registrados em sistema de registro, objeto de escrituração de ativos, objeto de custódia ou objeto de 
 depósito central, em todos os casos, por instituições devidamente autorizados em seus países de origem e 
 supervisionados por autoridade local reconhecida; ou  
-II – ter sua existência diligentemente verificada pelo ADMINISTRADOR ou pelo CUSTODIANTE do 
-FUNDO e desde que tais ativos sejam escriturados ou custodiados, em ambos os casos, por entidade 
+II – ter sua existência diligentemente verificada pelo ADMINISTRADOR ou pelo CUSTODIANTE do FUNDO 
+e desde que tais ativos sejam escriturados ou custodiados, em ambos os casos, por entidade devidamente 
+autorizada para o exercício da atividade por autoridade de países signatários do Tratado de Assunção ou em 
+outras jurisdições, desde que, neste último caso, seja supervisionada por autoridade local reconhecida. 
  
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-7 
-devidamente autorizada para o exercício da atividade por autoridade de países signatários do Tratado de 
-Assunção ou em outras jurisdições, desde que, neste último caso, seja supervisionada por autoridade local 
-reconhecida. 
- 
-Parágrafo Segundo- Caso tenha sido indicado nas “Condições Específicas” deste Regulamento, no 
-Quadro “Política de Investimento” a possibilidade de “Investimento no Exterior”, o ADMINISTRADOR 
-deve certificar-se de que o custodiante ou escriturador do fundo ou veículo de investimento no exterior 
-possui estrutura, processos e controles internos adequados para desempenhar as seguintes atividades:  
+Parágrafo Segundo- Caso tenha sido indicado nas “Condições Específicas” deste Regulamento, no Quadro 
+“Política de Investimento” a possibilidade de “Investimento no Exterior”, o ADMINISTRADOR deve 
+certificar-se de que o custodiante ou escriturador do fundo ou veículo de investimento no exterior possui 
+estrutura, processos e controles internos adequados para desempenhar as seguintes atividades:  
  
 I- prestar serviço de custódia ou escrituração de ativos, conforme aplicável;  
 II- executar sua atividade com boa fé, diligência e lealdade, mantendo práticas e procedimentos para 
@@ -704,29 +707,35 @@ vinculadas;
 III- realizar a boa guarda e regular movimentação dos ativos mantidos em custódia ou, no caso de 
 escrituradores, atestar a legitimidade e veracidade dos registros e titularidade dos ativos; e  
 IV- 
-verificar a existência, a boa guarda e a regular movimentação dos ativos integrantes da carteira do 
-fundo ou veículo de investimento no exterior. 
+verificar a existência, a boa guarda e a regular movimentação dos ativos integrantes da carteira do fundo 
+ou veículo de investimento no exterior. 
  
 Parágrafo Terceiro - Caso tenha sido indicado nas “Condições Específicas” deste Regulamento, no Quadro 
 “Política de Investimento” a possibilidade de “Investimento no Exterior”, o FUNDO só estará autorizado 
 a realizar operações com derivativos no exterior caso tais operações observem, ao menos, uma das 
 seguintes condições:  
  
-I – sejam registradas em sistemas de registro, objeto de escrituração, objeto de custódia; ou registradas 
-em sistema de liquidação financeira, em todos os casos, por sistemas devidamente autorizados em seus 
-países de origem e supervisionados por autoridade local reconhecida;  
+I – sejam registradas em sistemas de registro, objeto de escrituração, objeto de custódia; ou registradas em 
+sistema de liquidação financeira, em todos os casos, por sistemas devidamente autorizados em seus países 
+de origem e supervisionados por autoridade local reconhecida;  
 II – sejam informadas às autoridades locais;  
-III – sejam negociadas em bolsas, plataformas eletrônicas ou liquidadas por meio de contraparte central; 
-ou 
+III – sejam negociadas em bolsas, plataformas eletrônicas ou liquidadas por meio de contraparte central; ou 
 IV – tenham, como contraparte, instituição financeira ou entidades a ela filiada e aderente às regras do 
 Acordo da Basiléia, classificada como de baixo risco de crédito, na avaliação do gestor, e que seja 
 supervisionada por autoridade local reconhecida. 
  
-Artigo 5°- O FUNDO deverá observar os limites de concentração por emissor, definidos no Quadro 
-“Limites de Concentração por Emissor”, nas “Condições Específicas” deste Regulamento. Caso conste no 
-no Quadro “Limites de Concentração por Emissor”, “Máximo”, “Não há”, nas “Condições Específicas” 
-deste Regulamento, significa que o FUNDO pode estar exposto a significativa concentração em ativos 
-de poucos emissores, com os riscos daí decorrentes. 
+Artigo 5°- O FUNDO deverá observar os limites de concentração por emissor, definidos no Quadro “Limites 
+de Concentração por Emissor”, nas “Condições Específicas” deste Regulamento. Caso conste no no Quadro 
+“Limites de Concentração por Emissor”, “Máximo”, “Não há”, nas “Condições Específicas” deste 
+Regulamento, significa que o FUNDO pode estar exposto a significativa concentração em ativos de 
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+8 
+poucos emissores, com os riscos daí decorrentes. 
  
 Parágrafo Primeiro - Os limites de concentração por emissor indicados no Quadro “Limites de 
 Concentração por Emissor” nas “Condições Específicas” deste Regulamento, não se aplicam aos 
@@ -749,26 +758,18 @@ Parágrafo Segundo- O valor das posições do FUNDO em contratos derivativos é 
 dos limites estabelecidos neste Artigo, cumulativamente, em relação:  
  
 I – ao emissor do ativo subjacente; e  
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-8 
-II – à contraparte, quando se tratar de derivativos sem garantia de liquidação por câmaras ou prestadores 
-de serviços de compensação e de liquidação autorizados a funcionar pelo Banco Central do Brasil ou pela 
-CVM. 
+II – à contraparte, quando se tratar de derivativos sem garantia de liquidação por câmaras ou prestadores de 
+serviços de compensação e de liquidação autorizados a funcionar pelo Banco Central do Brasil ou pela CVM. 
  
 Artigo 6°- Cumulativamente aos limites por emissor, o FUNDO observará os limites de concentração por 
-modalidade de ativo financeiro, definidos nos Quadros “Limites  por Modalidade de Ativo”, nas 
-“Condições Específicas” deste Regulamento, com relação aos ativos financeiros, sem prejuízo das normas 
-aplicáveis à sua classe. 
+modalidade de ativo financeiro, definidos nos Quadros “Limites  por Modalidade de Ativo”, nas “Condições 
+Específicas” deste Regulamento, com relação aos ativos financeiros, sem prejuízo das normas aplicáveis à 
+sua classe. 
  
 Parágrafo Primeiro - O FUNDO poderá deter parte de seu patrimônio líquido em títulos ou valores 
 mobiliários de emissão do ADMINISTRADOR, da GESTORA ou de empresas a eles ligadas, no limite 
-estabelecido no Quadro “Ativos Financeiros Relacionados ao Administrador”, nas “Condições 
-Específicas” deste Regulamento, sendo vedada a aquisição de ações de emissão do ADMINISTRADOR. 
+estabelecido no Quadro “Ativos Financeiros Relacionados ao Administrador”, nas “Condições Específicas” 
+deste Regulamento, sendo vedada a aquisição de ações de emissão do ADMINISTRADOR. 
  
 Parágrafo Segundo – Para efeitos deste Regulamento: 
  
@@ -789,36 +790,36 @@ Resolução do Conselho Monetário Nacional n.º 4.661, de 25 de maio de 2018, e
  
 Parágrafo Único - As EFPC são responsáveis pelo enquadramento de seus investimentos aos limites 
 estabelecidos pela mencionada Resolução CMN 4661 e demais normas específicas, aplicáveis a elas e às 
-suas aplicações, sendo que o controle dos referidos limites não é de responsabilidade do 
-ADMINISTRADOR e/ou da GESTORA deste FUNDO. 
+suas aplicações, sendo que o controle dos referidos limites não é de responsabilidade do ADMINISTRADOR 
+e/ou da GESTORA deste FUNDO. 
  
 Artigo 8° - Caso tenha sido indicado no Quadro “Informações Adicionais”, nas “Condições Específicas” 
 deste Regulamento, que o FUNDO recebe recursos de Regimes Próprios de Previdência Social (“RPPS”), o 
-FUNDO deverá obedecer as diretrizes de diversificação de investimentos e vedações estabelecidas na 
-regulamentação em vigor aplicável às RPPS, qual seja, a Resolução do Conselho Monetário Nacional nº 
-3.922, de 25 de novembro de 2010, e alterações posteriores (“Resolução CMN 3922”), que estejam 
-previstas neste Regulamento, observadas as disposições dos Parágrafos Primeiro à Terceiro abaixo.  
- 
-Parágrafo Primeiro – Os RPPS são responsáveis pelo enquadramento de seus investimentos aos limites 
-estabelecidos pela mencionada Resolução CMN 3922 e demais normas específicas, aplicáveis a elas e às 
-suas aplicações, sendo que o controle dos referidos limites não é de responsabilidade do 
-ADMINISTRADOR e/ou da GESTORA deste FUNDO. 
- 
-Parágrafo Segundo - O FUNDO poderá utilizar seus ativos financeiros para a prestação de garantias de 
-operações próprias, bem como emprestar ativos financeiros, desde que tais operações de empréstimo 
-sejam cursadas exclusivamente através de serviço autorizado pelo BACEN ou pela CVM. 
  
  
 Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
   
 9 
+FUNDO deverá obedecer as diretrizes de diversificação de investimentos e vedações estabelecidas na 
+regulamentação em vigor aplicável às RPPS, qual seja, a Resolução do Conselho Monetário Nacional nº 
+3.922, de 25 de novembro de 2010, e alterações posteriores (“Resolução CMN 3922”), que estejam previstas 
+neste Regulamento, observadas as disposições dos Parágrafos Primeiro à Terceiro abaixo.  
+ 
+Parágrafo Primeiro – Os RPPS são responsáveis pelo enquadramento de seus investimentos aos limites 
+estabelecidos pela mencionada Resolução CMN 3922 e demais normas específicas, aplicáveis a elas e às 
+suas aplicações, sendo que o controle dos referidos limites não é de responsabilidade do ADMINISTRADOR 
+e/ou da GESTORA deste FUNDO. 
+ 
+Parágrafo Segundo - O FUNDO poderá utilizar seus ativos financeiros para a prestação de garantias de 
+operações próprias, bem como emprestar ativos financeiros, desde que tais operações de empréstimo 
+sejam cursadas exclusivamente através de serviço autorizado pelo BACEN ou pela CVM. 
  
 Parágrafo Terceiro - É vedado ao FUNDO: 
  
 I - realizar operações a descoberto no mercado de derivativos ou que gerem exposição superior a um vez o 
 seu patrimônio liquido;  
-II - aplicar recursos, diretamente ou por meio de cotas de fundo de investimento, em títulos ou outros 
-ativos financeiros nos quais ente federativo figure como emissor, devedor ou preste fiança, aval, aceite ou 
+II - aplicar recursos, diretamente ou por meio de cotas de fundo de investimento, em títulos ou outros ativos 
+financeiros nos quais ente federativo figure como emissor, devedor ou preste fiança, aval, aceite ou 
 coobrigar-se sob qualquer outra forma; 
 III - aplicar em cotas de fundos de investimento em direitos creditórios não padronizados (FIDC-NP) e em 
 cotas de fundos de investimento em cotas de fundos de investimento em direitos creditórios não 
@@ -827,42 +828,29 @@ IV - atuar em modalidades operacionais ou negociar com duplicatas, títulos de c
 não os previstos neste Regulamento; 
 V - negociar cotas de fundos de índice em mercado de balcão; 
 VI - aplicar direta ou indiretamente recursos na aquisição de cotas de fundo de investimento destinado 
-exclusivamente a investidores qualificados ou profissionais, quando não atendidos os critérios 
-estabelecidos em regulamentação específica;  
+exclusivamente a investidores qualificados ou profissionais, quando não atendidos os critérios estabelecidos 
+em regulamentação específica;  
 VII - remunerar quaisquer prestadores de serviço relacionados direta ou indiretamente aos fundos de 
 investimento em que foram aplicados seus recursos, de forma distinta das seguintes:   
 a) taxas de administração, performance, ingresso ou saída previstas em regulamento; ou  
 b) encargos do fundo, nos termos da regulamentação da CVM; 
-VIII - aplicar recursos na aquisição de cotas de fundo de investimento cujos prestadores de serviço, ou 
-partes a eles relacionadas, direta ou indiretamente, figurem como emissores dos ativos das carteiras, salvo 
-as hipóteses previstas na regulamentação da CVM; 
+VIII - aplicar recursos na aquisição de cotas de fundo de investimento cujos prestadores de serviço, ou partes 
+a eles relacionadas, direta ou indiretamente, figurem como emissores dos ativos das carteiras, salvo as 
+hipóteses previstas na regulamentação da CVM; 
 IX – aplicar em ativos emitidos por companhias securitizadoras. 
  
 Artigo 9° – O ADMINISTRADOR e a GESTORA estão autorizados a atuar, direta ou indiretamente, como 
 contraparte em operações da carteira do FUNDO. 
  
 Artigo 10° - Os limites referidos neste Capítulo, descritos nas “Condições Específicas” deste Regulamento,  
-serão cumpridos diariamente, com base no patrimônio líquido do FUNDO com no máximo 1 (um) dia útil 
-de defasagem. 
+serão cumpridos diariamente, com base no patrimônio líquido do FUNDO com no máximo 1 (um) dia útil de 
+defasagem. 
  
 CAPÍTULO IV 
 DOS FATORES DE RISCO 
  
 Artigo 11° – Antes de tomar uma decisão de investimento no FUNDO, o potencial investidor deve 
-considerar cuidadosamente, tendo em vista sua própria situação financeira e seus objetivos de 
-investimento, todas as informações disponíveis neste Regulamento e, em particular, avaliar os principais 
-fatores de risco descritos abaixo, aos quais os investimentos do FUNDO estão sujeitos: 
- 
-I - Risco de Mercado: consiste na variação dos preços dos ativos decorrentes das condições de mercado 
-quando de sua negociação. Como o FUNDO contabiliza seus ativos pelo ”valor de mercado”, poderá haver 
-variação expressiva no preço dos títulos entre a data de sua emissão ou aquisição e a de resgate ou 
-vencimento. As oscilações poderão ocorrer em função da reação dos mercados frente a notícias 
-econômicas e políticas, tanto no Brasil como no exterior, podendo ainda responder a notícias específicas a 
-respeito dos emissores dos ativos da carteira do FUNDO. Nessas circunstâncias, o patrimônio líquido do 
-FUNDO pode ser afetado negativamente. A queda dos preços dos ativos integrantes da carteira pode ser 
-temporária, não existindo, no entanto, garantia de que não se estendam por períodos longos e/ou 
-indeterminados. Em determinados momentos de mercado, a volatilidade dos preços dos ativos, passivos e 
-dos derivativos pode ser elevada, podendo acarretar oscilações bruscas no resultado do FUNDO. Em 
+considerar cuidadosamente, tendo em vista sua própria situação financeira e seus objetivos de investimento, 
  
  
  
@@ -870,45 +858,60 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 10 
-relação às ações, o seu preço depende de fatores específicos das companhias emissoras bem como de 
-fatores globais da economia brasileira e internacional. As ações brasileiras tem um histórico de volatilidade 
-elevada e períodos longos de rentabilidade reduzida ou negativa, o que pode afetar a rentabilidade do 
-FUNDO.  
+todas as informações disponíveis neste Regulamento e, em particular, avaliar os principais fatores de risco 
+descritos abaixo, aos quais os investimentos do FUNDO estão sujeitos: 
+ 
+I - Risco de Mercado: consiste na variação dos preços dos ativos decorrentes das condições de mercado 
+quando de sua negociação. Como o FUNDO contabiliza seus ativos pelo ”valor de mercado”, poderá haver 
+variação expressiva no preço dos títulos entre a data de sua emissão ou aquisição e a de resgate ou 
+vencimento. As oscilações poderão ocorrer em função da reação dos mercados frente a notícias econômicas 
+e políticas, tanto no Brasil como no exterior, podendo ainda responder a notícias específicas a respeito dos 
+emissores dos ativos da carteira do FUNDO. Nessas circunstâncias, o patrimônio líquido do FUNDO pode 
+ser afetado negativamente. A queda dos preços dos ativos integrantes da carteira pode ser temporária, não 
+existindo, no entanto, garantia de que não se estendam por períodos longos e/ou indeterminados. Em 
+determinados momentos de mercado, a volatilidade dos preços dos ativos, passivos e dos derivativos pode 
+ser elevada, podendo acarretar oscilações bruscas no resultado do FUNDO. Em relação às ações, o seu preço 
+depende de fatores específicos das companhias emissoras bem como de fatores globais da economia 
+brasileira e internacional. As ações brasileiras tem um histórico de volatilidade elevada e períodos longos de 
+rentabilidade reduzida ou negativa, o que pode afetar a rentabilidade do FUNDO.  
  
 II - Risco de Crédito: consiste no risco de inadimplência por parte das contrapartes e dos emissores dos 
 títulos componentes da carteira do FUNDO, não cumprirem suas obrigações de pagar tanto o principal 
-como os respectivos juros de suas dívidas, podendo resultar em perda dos rendimentos e do capital 
-investido pelo FUNDO. Alterações nas condições financeiras dos emissores dos títulos e/ou na percepção 
-que os investidores têm sobre tais condições, bem como alterações nas condições econômicas e políticas 
-que possam comprometer a sua capacidade de pagamento, podem trazer impactos significativos em 
-termos de preços e liquidez dos ativos desses emissores. Mudanças na percepção da qualidade dos 
-créditos dos emissores, mesmo que não fundamentadas, poderão trazer impactos nos preços dos títulos, 
+como os respectivos juros de suas dívidas, podendo resultar em perda dos rendimentos e do capital investido 
+pelo FUNDO. Alterações nas condições financeiras dos emissores dos títulos e/ou na percepção que os 
+investidores têm sobre tais condições, bem como alterações nas condições econômicas e políticas que 
+possam comprometer a sua capacidade de pagamento, podem trazer impactos significativos em termos de 
+preços e liquidez dos ativos desses emissores. Mudanças na percepção da qualidade dos créditos dos 
+emissores, mesmo que não fundamentadas, poderão trazer impactos nos preços dos títulos, 
 comprometendo também sua liquidez.  
  
 III - Risco de Liquidez: é caracterizado pela redução acentuada ou mesmo pela falta de demanda pelos 
-ativos componentes da carteira do FUNDO, dificultando ou impedindo a venda de posições pela 
-GESTORA no preço e no momento desejado. A ausência e/ou diminuição da “liquidez” pode produzir 
-perdas para o FUNDO e/ou a incapacidade, pelo FUNDO, de liquidar e/ou precificar adequadamente 
-determinados ativos.  
+ativos componentes da carteira do FUNDO, dificultando ou impedindo a venda de posições pela GESTORA 
+no preço e no momento desejado. A ausência e/ou diminuição da “liquidez” pode produzir perdas para o 
+FUNDO e/ou a incapacidade, pelo FUNDO, de liquidar e/ou precificar adequadamente determinados ativos.  
  
 IV - Risco de Concentração por Emissor: o FUNDO pode estar exposto à significativa concentração, 
-respectivamente, em ativos de um mesmo emissor ou em determinadas modalidades de ativos, 
-observadas as disposições constantes da regulamentação em vigor. A concentração da carteira do FUNDO 
-acarreta o comprometimento de uma parcela maior de seu patrimônio em ativos de um único ou de 
-poucos emissores ou em uma única ou em poucas modalidades de ativos, potencializando, desta forma, o 
-risco nas hipóteses, respectivamente, de inadimplemento dos emissores dos ativos integrantes da carteira 
-do FUNDO e/ou intermediários das operações realizadas na carteira do FUNDO ou de desvalorização dos 
-referidos ativos. 
+respectivamente, em ativos de um mesmo emissor ou em determinadas modalidades de ativos, observadas 
+as disposições constantes da regulamentação em vigor. A concentração da carteira do FUNDO acarreta o 
+comprometimento de uma parcela maior de seu patrimônio em ativos de um único ou de poucos emissores 
+ou em uma única ou em poucas modalidades de ativos, potencializando, desta forma, o risco nas hipóteses, 
+respectivamente, de inadimplemento dos emissores dos ativos integrantes da carteira do FUNDO e/ou 
+intermediários das operações realizadas na carteira do FUNDO ou de desvalorização dos referidos ativos. 
  
 V - Risco Decorrente da Oscilação de Mercados Futuros: Alguns dos ativos componentes da carteira do 
-FUNDO podem estar sujeitos a restrições de negociação por parte das bolsas de valores e de mercadorias 
-e futuros ou de órgãos reguladores. Essas restrições podem ser relativas ao volume das operações, à 
+FUNDO podem estar sujeitos a restrições de negociação por parte das bolsas de valores e de mercadorias e 
+futuros ou de órgãos reguladores. Essas restrições podem ser relativas ao volume das operações, à 
 participação no volume de negócios e às oscilações máximas de preços, entre outras. Em situações em que 
 tais restrições estiverem sendo praticadas, as condições de movimentação dos ativos da carteira e 
 precificação dos ativos poderá ser prejudicada.  
  
 VI- Risco Decorrente da Precificação dos Ativos: A precificação dos ativos integrantes da carteira do 
 FUNDO pode estar sujeita a restrições de negociação por parte das bolsas de valores e de mercadorias e 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+11 
 futuros ou de órgãos reguladores. Referidas restrições poderão ocasionar variações nos valores dos ativos 
 integrantes da carteira do FUNDO, resultando em aumento ou redução no valor das cotas. 
  
@@ -919,18 +922,12 @@ nos preços dos papéis e nos Ativos Financeiros em geral, sendo que tais varia�
 desempenho do FUNDO. 
  
 VIII - Risco Regulatório: As eventuais alterações e/ou interpretações das normas ou leis aplicáveis ao 
-FUNDO, e/ou aos fundos investidos e/ou aos cotistas, tanto pela CVM quanto por reguladores específicos 
-a cada segmento de investidores (Previc, Susep, Ministério da Seguridade Social, dentre outros), incluindo, 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-11 
+FUNDO, e/ou aos fundos investidos e/ou aos cotistas, tanto pela CVM quanto por reguladores específicos a 
+cada segmento de investidores (Previc, Susep, Ministério da Seguridade Social, dentre outros), incluindo, 
 mas não se limitando, àquelas referentes a tributos e às regras e condições de investimento, podem causar 
 um efeito adverso relevante ao FUNDO e/ou aos fundos investidos, como, por exemplo, eventual impacto 
-no preço dos ativos financeiros e/ou na performance das posições financeiras adquiridas pelo FUNDO, 
-bem como a necessidade do FUNDO se desfazer de ativos que de outra forma permaneceriam em sua 
-carteira. 
+no preço dos ativos financeiros e/ou na performance das posições financeiras adquiridas pelo FUNDO, bem 
+como a necessidade do FUNDO se desfazer de ativos que de outra forma permaneceriam em sua carteira. 
  
 IX - Risco de Mercado Externo: caso tenha sido indicado, nas “Condições Específicas” deste Regulamento, 
 no Quadro “Política de Investimento” a possibilidade de “Investimento no Exterior”, o FUNDO poderá 
@@ -938,10 +935,10 @@ manter em sua carteira ativos financeiros negociados no exterior e, consequentem
 pode ser afetada por requisitos legais ou regulatórios, por exigências tributárias relativas a todos os países 
 nos quais o FUNDO invista ou, ainda, pela variação do Real em relação a outras moedas. Os investimentos 
 do FUNDO estarão expostos a alterações nas condições política, econômica ou social nos países onde 
-investe, o que pode afetar negativamente o valor de seus ativos. Podem ocorrer atrasos na transferência 
-de juros, dividendos, ganhos de capital ou principal, entre países onde o FUNDO invista e o Brasil, o que 
-pode interferir na liquidez e no desempenho do FUNDO. As operações do FUNDO poderão ser executadas 
-em bolsa de valores, de mercadoria e futuros ou registradas em sistemas de registro, de custódia ou de 
+investe, o que pode afetar negativamente o valor de seus ativos. Podem ocorrer atrasos na transferência de 
+juros, dividendos, ganhos de capital ou principal, entre países onde o FUNDO invista e o Brasil, o que pode 
+interferir na liquidez e no desempenho do FUNDO. As operações do FUNDO poderão ser executadas em 
+bolsa de valores, de mercadoria e futuros ou registradas em sistemas de registro, de custódia ou de 
 liquidação de diferentes países que podem estar sujeitos a distintos níveis de regulamentação e 
 supervisionados por autoridades locais reconhecidas, entretanto, não existe maneira de garantir o mesmo 
 padrão de conduta em diferentes mercados e nem, tampouco, a igualdade de condições de acesso aos 
@@ -958,25 +955,14 @@ recebidos pelo FUNDO após 31 de dezembro de 2016 aos quais possa se atribuir fo
 poderão se sujeitar à tributação pelo imposto de renda americano na fonte, à alíquota de 30% (trinta por 
 cento), exceto se o FUNDO cumprir com o FATCA. A observância ao FATCA será atendida através e em 
 decorrência do acordo firmado com o Secretário do Tesouro Nacional dos Estados Unidos, segundo o qual 
-o FUNDO, representado pelo ADMINISTRADOR, concorda em entregar determinados relatórios e 
-atender a determinados requisitos no que dizem respeito à retenção de pagamentos feitos em favor de 
-certos investidores do FUNDO ou, se o FUNDO for elegível, por ser presumido como um fundo que atende 
-os requerimentos constantes do FATCA. O acordo entre o governo brasileiro e o governo americano  
+o FUNDO, representado pelo ADMINISTRADOR, concorda em entregar determinados relatórios e atender 
+a determinados requisitos no que dizem respeito à retenção de pagamentos feitos em favor de certos 
+investidores do FUNDO ou, se o FUNDO for elegível, por ser presumido como um fundo que atende os 
+requerimentos constantes do FATCA. O acordo entre o governo brasileiro e o governo americano  
 (Intergovernmental Agreement – IGA, Modelo 1) foi firmado em 23 de setembro de 2014. Qualquer 
 montante de tributos americanos retidos não deverá ser restituído pela autoridade fiscal americana 
-(“Internal Revenue Service” – “IRS”). Ao aplicar no FUNDO, os  cotistas reconhecem que o FUNDO 
-pretende cumprir com qualquer e toda obrigação prevista na regulamentação do FATCA e qualquer outra 
-a ela relacionada ou com o intergovernamental relacionado ao FATCA, a fim de evitar a retenção prevista 
-nessas regulamentações (“FATCA Withholding”), ou tomar quaisquer outras medidas que forem 
-razoavelmente necessárias para evitar tal retenção (“FATCA Withholding”) sobre os pagamentos 
-recebidos pelo FUNDO. Ao aplicar no FUNDO, os cotistas reconhecem que o FUNDO poderá, quando 
-solicitado pela regulamentação do FATCA: (i) requerer informações adicionais referentes aos cotistas e 
-seus beneficiários finais, bem como formulários necessários para cumprir com as obrigações previstas no 
-FATCA; e (ii) ser solicitado a apresentar relatórios referentes a informações relacionadas aos cotistas e 
-seus beneficiários finais ao IRS e ao Tesouro Nacional americano, juntamente com as informações 
-relacionadas aos pagamentos feitos pelo FUNDO a tais cotistas. Esta é uma área complexa, razão pela 
-qual os potenciais investidores devem consultar seus assessores quanto às informações que possam ser 
-requeridas para apresentação e divulgação ao agente pagador e distribuidor do FUNDO, e em certas 
+(“Internal Revenue Service” – “IRS”). Ao aplicar no FUNDO, os  cotistas reconhecem que o FUNDO pretende 
+cumprir com qualquer e toda obrigação prevista na regulamentação do FATCA e qualquer outra a ela 
  
  
  
@@ -984,30 +970,41 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 12 
-circunstâncias para o IRS e ou para o Tesouro Nacional americano, como disposto no Regulamento do 
-FATCA ou no IGA – Modelo 1. Os investidores também são aconselhados a verificar com os seus 
-distribuidores e custodiantes as suas intenções de cumprimento e atendimento aos requerimentos do 
-FATCA. Não obstante esse produto ser exclusivamente oferecido no território nacional e ter como público 
-alvo residentes no Brasil, caso um investidor seja identificado como americano nos termos do FATCA, 
-retenções americanas poderão ser aplicadas aos investimentos estrangeiros do FUNDO e, portanto, os 
-resultados decorrentes do FUNDO poderão ser impactados. 
+relacionada ou com o intergovernamental relacionado ao FATCA, a fim de evitar a retenção prevista nessas 
+regulamentações (“FATCA Withholding”), ou tomar quaisquer outras medidas que forem razoavelmente 
+necessárias para evitar tal retenção (“FATCA Withholding”) sobre os pagamentos recebidos pelo FUNDO. 
+Ao aplicar no FUNDO, os cotistas reconhecem que o FUNDO poderá, quando solicitado pela 
+regulamentação do FATCA: (i) requerer informações adicionais referentes aos cotistas e seus beneficiários 
+finais, bem como formulários necessários para cumprir com as obrigações previstas no FATCA; e (ii) ser 
+solicitado a apresentar relatórios referentes a informações relacionadas aos cotistas e seus beneficiários 
+finais ao IRS e ao Tesouro Nacional americano, juntamente com as informações relacionadas aos 
+pagamentos feitos pelo FUNDO a tais cotistas. Esta é uma área complexa, razão pela qual os potenciais 
+investidores devem consultar seus assessores quanto às informações que possam ser requeridas para 
+apresentação e divulgação ao agente pagador e distribuidor do FUNDO, e em certas circunstâncias para o 
+IRS e ou para o Tesouro Nacional americano, como disposto no Regulamento do FATCA ou no IGA – Modelo 
+1. Os investidores também são aconselhados a verificar com os seus distribuidores e custodiantes as suas 
+intenções de cumprimento e atendimento aos requerimentos do FATCA. Não obstante esse produto ser 
+exclusivamente oferecido no território nacional e ter como público alvo residentes no Brasil, caso um 
+investidor seja identificado como americano nos termos do FATCA, retenções americanas poderão ser 
+aplicadas aos investimentos estrangeiros do FUNDO e, portanto, os resultados decorrentes do FUNDO 
+poderão ser impactados. 
    
 XI - Risco de Derivativos: os derivativos são contratos de liquidação futura que podem apresentar, durante 
 períodos de tempo indeterminado, comportamento diversos dos ativos nos quais são referenciados, visto 
-que seu preço é decorrente de diversos fatores baseados em expectativas futuras. Caso tenha sido 
-indicado, nas “Condições Específicas” deste Regulamento, no Quadro “Política de Investimento” a 
-possibilidade de investimento em “Instrumento Derivativos” e, ainda, a possibilidade de 
-“Posicionamento” e que “Permite Alavancar”, o FUNDO poderá utilizar derivativos para alavancar sua 
-carteira, o que pode causar variação significativa na rentabilidade do FUNDO. A utilização de estratégias 
-com derivativos como parte integrante da política de investimento do FUNDO pode resultar em 
-perdas patrimoniais para seus cotistas, sendo que em havendo a possibilidade de alavancagem, se 
-assim estiver definido nas “Condições Específicas” deste Regulamento, as operações com derivativos 
-poderão inclusive acarretar perdas superiores ao capital aplicado e a consequente obrigação do cotista 
-de aportar recursos adicionais para cobrir o prejuízo do FUNDO. Adicionalmente, os derivativos são 
-negociados em bolsas ou em mercado de balcão, que significa para o FUNDO (i) a necessidade de manter 
-parte de sua carteira de títulos depositada em margens de garantia, inclusive sujeito a chamadas 
-adicionais de margens; e (ii) a vinculação dos eventuais valores a receber destes contratos aos sistemas de 
-garantias das bolsas ou dos contratos de balcão em que o FUNDO for contraparte. 
+que seu preço é decorrente de diversos fatores baseados em expectativas futuras. Caso tenha sido indicado, 
+nas “Condições Específicas” deste Regulamento, no Quadro “Política de Investimento” a possibilidade de 
+investimento em “Instrumento Derivativos” e, ainda, a possibilidade de “Posicionamento” e que “Permite 
+Alavancar”, o FUNDO poderá utilizar derivativos para alavancar sua carteira, o que pode causar variação 
+significativa na rentabilidade do FUNDO. A utilização de estratégias com derivativos como parte 
+integrante da política de investimento do FUNDO pode resultar em perdas patrimoniais para seus 
+cotistas, sendo que em havendo a possibilidade de alavancagem, se assim estiver definido nas 
+“Condições Específicas” deste Regulamento, as operações com derivativos poderão inclusive acarretar 
+perdas superiores ao capital aplicado e a consequente obrigação do cotista de aportar recursos 
+adicionais para cobrir o prejuízo do FUNDO. Adicionalmente, os derivativos são negociados em bolsas ou 
+em mercado de balcão, que significa para o FUNDO (i) a necessidade de manter parte de sua carteira de 
+títulos depositada em margens de garantia, inclusive sujeito a chamadas adicionais de margens; e (ii) a 
+vinculação dos eventuais valores a receber destes contratos aos sistemas de garantias das bolsas ou dos 
+contratos de balcão em que o FUNDO for contraparte. 
  
 XII - Risco de Alocação dos Ativos: caso tenha sido indicado, nas “Condições Específicas” deste 
 Regulamento, no Quadro “Política de Investimento” a possibilidade de “Investimento no Exterior”, após 
@@ -1015,17 +1012,22 @@ a seleção dos fundos de investimento em que o FUNDO investirá, a GESTORA ter�
 acompanhar diariamente o mercado e os reflexos desses nos fundos investidos. Como resultado, a 
 GESTORA analisará constantemente se a parcela alocada em ativos emitidos e/ou negociados no exterior 
 e a parcela alocada em fundos domiciliados no Brasil estão coerentes com a política de investimento e com 
-o objetivo de retorno do FUNDO, levando-se em conta a evolução diária dos mercados em que o(s) 
-fundo(s) do exterior investem, a variação diária do câmbio (USD x Real), a variação dos mercados e a 
-precificação dos ativos em que os fundos de investimentos domiciliados no Brasil investem. 
+o objetivo de retorno do FUNDO, levando-se em conta a evolução diária dos mercados em que o(s) fundo(s) 
+do exterior investem, a variação diária do câmbio (USD x Real), a variação dos mercados e a precificação dos 
+ativos em que os fundos de investimentos domiciliados no Brasil investem. 
  
-XIII - Risco de Enquadramento Fiscal: poderá haver alteração da regra tributária, criação de novos 
-tributos, interpretação diversa da atual sobre a incidência de quaisquer tributos ou, ainda, da revogação de 
-isenções vigentes, sujeitando o FUNDO ou seus cotistas a novos recolhimentos não previstos inicialmente. 
+XIII - Risco de Enquadramento Fiscal: poderá haver alteração da regra tributária, criação de novos tributos, 
+interpretação diversa da atual sobre a incidência de quaisquer tributos ou, ainda, da revogação de isenções 
+vigentes, sujeitando o FUNDO ou seus cotistas a novos recolhimentos não previstos inicialmente. 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+13 
 Parágrafo Único – Além dos riscos acima, o FUNDO poderá estar sujeito a outros riscos inerentes à 
-aplicação em Ativos Financeiros em geral que podem afetar adversamente o desempenho do FUNDO e 
-suas características operacionais. 
+aplicação em Ativos Financeiros em geral que podem afetar adversamente o desempenho do FUNDO e suas 
+características operacionais. 
  
 Artigo 12 - Não obstante a diligência do ADMINISTRADOR em colocar em prática a política de 
 investimento delineada neste Capítulo, os investimentos do FUNDO, por sua própria natureza, estarão 
@@ -1033,11 +1035,6 @@ sempre sujeitos a flutuações do mercado e a riscos de crédito, não podendo o
 hipótese alguma, ser responsabilizado por eventual depreciação dos ativos da carteira ou prejuízo em caso 
 de liquidação do FUNDO ou resgate de cotas. 
  
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-13 
 CAPÍTULO V 
 DO CONSELHO CONSULTIVO DE INVESTIMENTOS 
  
@@ -1053,9 +1050,9 @@ ativos pelo FUNDO permitidos neste Regulamento;
 II – recomendar pelo investimento ou amortização de recursos recebidos pelo FUNDO a título de alienação 
 ou liquidação dos investimentos do FUNDO. 
  
-Artigo 14 – O Conselho Consultivo de Investimentos será composto pela quantidade de membros 
-indicados no Quadro “Política de Investimento”, item “Quantidade de Membros”, nas “Condições 
-Específicas” deste Regulamento, sendo que suas nomeações deverão ser aprovadas por Assembleia Geral. 
+Artigo 14 – O Conselho Consultivo de Investimentos será composto pela quantidade de membros indicados 
+no Quadro “Política de Investimento”, item “Quantidade de Membros”, nas “Condições Específicas” deste 
+Regulamento, sendo que suas nomeações deverão ser aprovadas por Assembleia Geral. 
  
 Parágrafo Primeiro – Todos os membros deverão ter reputação ilibada, a ser declarada no momento da 
 posse no cargo de membro do Conselho Consultivo de Investimentos, podendo ser indicados funcionários, 
@@ -1067,28 +1064,17 @@ ADMINISTRADOR, que deverá informar a todos os demais membros do Conselho Consul
 Investimentos, bem como aos cotistas do FUNDO ou à GESTORA, conforme o caso, sobre tal renúncia. 
  
 Parágrafo Terceiro – O responsável que tenha indicado o membro renunciante deverá nomear novo 
-membro, sendo que a nomeação dependerá de Assembleia Geral, a ser convocada especialmente para 
-esse fim. Em qualquer caso, o membro do Conselho Consultivo de Investimentos deverá permanecer no 
-cargo até sua efetiva substituição. 
+membro, sendo que a nomeação dependerá de Assembleia Geral, a ser convocada especialmente para esse 
+fim. Em qualquer caso, o membro do Conselho Consultivo de Investimentos deverá permanecer no cargo 
+até sua efetiva substituição. 
  
 Parágrafo Quarto – Os membros do Conselho Consultivo de Investimentos e seus respectivos suplentes 
-não receberão qualquer remuneração do FUNDO pelo exercício de suas funções, salvo quando 
-constituídos por iniciativa do ADMINISTRADOR e/ou da GESTORA, que, neste caso, os membros do 
-Conselho Consultivo de Investimentos podem ser remunerados com parcela da Taxa de Administração. 
+não receberão qualquer remuneração do FUNDO pelo exercício de suas funções, salvo quando constituídos 
+por iniciativa do ADMINISTRADOR e/ou da GESTORA, que, neste caso, os membros do Conselho 
+Consultivo de Investimentos podem ser remunerados com parcela da Taxa de Administração. 
  
 Artigo 15 – O quórum para instalação e deliberação das reuniões do Conselho Consultivo de Investimentos 
 será sempre o de maioria simples. As recomendações do Conselho Consultivo de Investimentos serão 
-aprovadas por maioria simples, sendo que os membros indicados pela GESTORA terão poder de veto 
-sobre quaisquer recomendações.  
- 
-Parágrafo Primeiro – As reuniões do Conselho Consultivo de Investimentos poderão ser realizadas por 
-videoconferência ou teleconferência, casos em que as respectivas atas serão preparadas pelo secretário da 
-reunião e encaminhadas para assinatura dos membros presentes na reunião pessoalmente, por telefone 
-ou videoconferência. A concordância por e-mail dos termos da ata supre a assinatura formal do membro 
-do Conselho. 
- 
-Parágrafo Segundo – Os membros do Conselho Consultivo de Investimentos poderão ser representados 
-por procuradores com poderes gerais para representá-los em quaisquer reuniões ou específicos para 
  
  
  
@@ -1096,6 +1082,17 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 14 
+aprovadas por maioria simples, sendo que os membros indicados pela GESTORA terão poder de veto sobre 
+quaisquer recomendações.  
+ 
+Parágrafo Primeiro – As reuniões do Conselho Consultivo de Investimentos poderão ser realizadas por 
+videoconferência ou teleconferência, casos em que as respectivas atas serão preparadas pelo secretário da 
+reunião e encaminhadas para assinatura dos membros presentes na reunião pessoalmente, por telefone ou 
+videoconferência. A concordância por e-mail dos termos da ata supre a assinatura formal do membro do 
+Conselho. 
+ 
+Parágrafo Segundo – Os membros do Conselho Consultivo de Investimentos poderão ser representados 
+por procuradores com poderes gerais para representá-los em quaisquer reuniões ou específicos para 
 representá-los em determinada reunião, com validade igual ou inferior a 1 (um) ano, desde que uma cópia 
 autenticada da referida procuração seja entregue na sede do ADMINISTRADOR antes da ocorrência da 
 próxima reunião convocada. 
@@ -1112,21 +1109,19 @@ Artigo 16 – Os membros do Conselho Consultivo de Investimentos devem informar 
 e este aos cotistas ou à GESTORA, conforme o caso, qualquer situação que os coloque, potencial ou 
 efetivamente, em situação de conflito de interesses com o FUNDO. 
  
-Parágrafo Único - A implantação pela GESTORA das deliberações do Conselho Consultivo de 
-Investimento estará sujeita às condições de mercado. 
+Parágrafo Único - A implantação pela GESTORA das deliberações do Conselho Consultivo de Investimento 
+estará sujeita às condições de mercado. 
  
 CAPÍTULO VI 
 DA REMUNERAÇÃO AOS PRESTADORES DE SERVIÇO DO FUNDO 
  
-Artigo 17 - O ADMINISTRADOR receberá a título de taxa de administração, pela prestação de seus 
-serviços de administração, salvo os serviços de custódia e auditoria independente, a remuneração descrita 
-no Quadro “Remuneração”, item “Taxa de Administração”, nas “Condições Específicas” deste 
-Regulamento.  
+Artigo 17 - O ADMINISTRADOR receberá a título de taxa de administração, pela prestação de seus serviços 
+de administração, salvo os serviços de custódia e auditoria independente, a remuneração descrita no 
+Quadro “Remuneração”, item “Taxa de Administração”, nas “Condições Específicas” deste Regulamento.  
  
 Parágrafo Único - A Taxa de Administração será calculada e provisionada diariamente, tendo como base o 
-patrimônio líquido do 1° (primeiro) dia útil imediatamente anterior, com a aplicação da fração de 1/252 
-(um duzentos e cinquenta e dois avos), por dias úteis, e apropriada até o 5° (quinto) dia útil do mês 
-subsequente. 
+patrimônio líquido do 1° (primeiro) dia útil imediatamente anterior, com a aplicação da fração de 1/252 (um 
+duzentos e cinquenta e dois avos), por dias úteis, e apropriada até o 5° (quinto) dia útil do mês subsequente. 
  
 Artigo 18- O CUSTODIANTE receberá do FUNDO, a título de taxa de custódia, a remuneração descrita no 
 Quadro “Remuneração”, item “Taxa de Máxima de Custódia”, nas “Condições Específicas” deste 
@@ -1138,22 +1133,22 @@ mensalmente, até o 5º (quinto) dia útil do mês subsequente ao vencido.
 Artigo 19- A cobrança de Taxa de Performance, Taxa de Ingresso e Taxa de Saída serão indicadas, se 
 existentes, no Quadro “Remuneração”, nas “Condições Específicas” deste Regulamento. 
  
-Parágrafo Único - O valor da Taxa de Performance, se houver, será cobrado conforme consta do Quadro 
-“Remuneração”, item “Período de Cobrança”, nas “Condições Específicas” deste Regulamento, e será 
-pago à GESTORA no 1º (primeiro) dia útil subsequente ao vencimento de cada “Período de Cobrança” ou 
-na ocorrência de resgates, após a dedução de todas as despesas do FUNDO, inclusive da Taxa de 
-Administração.  
- 
-Artigo 20- A Taxa de Performance, se houver, será cobrada de acordo com o Quadro “Remuneração”, 
-item “Método”, constante das “Condições Específicas” deste Regulamento e conforme abaixo: 
- 
- 
  
 Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
   
 15 
-I- Se o “Método” indicado no Quadro “Remuneração” for “Ativo”, a Taxa de Performance será cobrada 
-com base no resultado do FUNDO; ou 
+ 
+Parágrafo Único - O valor da Taxa de Performance, se houver, será cobrado conforme consta do Quadro 
+“Remuneração”, item “Período de Cobrança”, nas “Condições Específicas” deste Regulamento, e será pago 
+à GESTORA no 1º (primeiro) dia útil subsequente ao vencimento de cada “Período de Cobrança” ou na 
+ocorrência de resgates, após a dedução de todas as despesas do FUNDO, inclusive da Taxa de 
+Administração.  
+ 
+Artigo 20- A Taxa de Performance, se houver, será cobrada de acordo com o Quadro “Remuneração”, item 
+“Método”, constante das “Condições Específicas” deste Regulamento e conforme abaixo: 
+ 
+I- Se o “Método” indicado no Quadro “Remuneração” for “Ativo”, a Taxa de Performance será cobrada com 
+base no resultado do FUNDO; ou 
 II- Se o “Método” indicado no Quadro “Remuneração” for “Passivo”, a Taxa de Performance será cobrada 
 com base no resultado de cada aplicação efetuada por cada cotista. 
  
@@ -1163,18 +1158,18 @@ DOS ENCARGOS DO FUNDO
 Artigo 21 - Constituem encargos do FUNDO as seguintes despesas, que lhe podem ser debitadas 
 diretamente:  
  
-I – taxas, impostos ou contribuições federais, estaduais, municipais ou autárquicas, que recaiam ou 
-venham a recair sobre os bens, direitos e obrigações do FUNDO;  
+I – taxas, impostos ou contribuições federais, estaduais, municipais ou autárquicas, que recaiam ou venham 
+a recair sobre os bens, direitos e obrigações do FUNDO;  
 II – despesas com o registro de documentos em cartório, impressão, expedição e publicação de relatórios e 
 informações periódicas previstas na Instrução CVM n° 555/14; 
 III – despesas com correspondências de interesse do FUNDO, inclusive comunicações aos cotistas; 
 IV – honorários e despesas do auditor independente;  
 V – emolumentos e comissões pagas por operações do FUNDO;  
 VI – honorários de advogado, custas e despesas processuais correlatas, incorridas em razão de defesa dos 
-interesses do FUNDO, em juízo ou fora dele, inclusive o valor da condenação imputada ao FUNDO, se for 
-o caso; 
-VII – parcela de prejuízos não coberta por apólices de seguro e não decorrente diretamente de culpa ou 
-dolo dos prestadores dos serviços de administração no exercício de suas respectivas funções;  
+interesses do FUNDO, em juízo ou fora dele, inclusive o valor da condenação imputada ao FUNDO, se for o 
+caso; 
+VII – parcela de prejuízos não coberta por apólices de seguro e não decorrente diretamente de culpa ou dolo 
+dos prestadores dos serviços de administração no exercício de suas respectivas funções;  
 VIII – despesas relacionadas, direta ou indiretamente, ao exercício de direito de voto decorrente de ativos 
 financeiros do FUNDO;  
 IX – despesas com liquidação, registro, e custódia de operações com títulos e valores mobiliários, ativos 
@@ -1191,6 +1186,13 @@ ADMINISTRADOR, devendo ser por ele incorridas, inclusive as despesas relacionada
 Conselho Consultivo de Investimentos por iniciativa do ADMINISTRADOR ou da GESTORA, se for o caso, 
 podendo os membros indicados ser remunerados com parcela da Taxa de Administração. 
  
+ 
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+16 
 CAPÍTULO VIII 
 DA EMISSÃO E RESGATE DE COTAS 
  
@@ -1199,22 +1201,13 @@ nominativas, e conferem iguais direitos e obrigações aos cotistas.
  
 Artigo 23 - Caso tenha sido indicado, nas “Condições Específicas” deste Regulamento, no Quadro “Política 
 de Investimento” a possibilidade de “Investimento no Exterior”, o valor da cota do dia será resultante da 
-divisão do valor do patrimônio líquido pelo número de cotas do FUNDO, apurados, ambos, no 
-encerramento do dia, assim entendido como o horário do fechamento dos mercados em que o FUNDO 
-atue. 
+divisão do valor do patrimônio líquido pelo número de cotas do FUNDO, apurados, ambos, no encerramento 
+do dia, assim entendido como o horário do fechamento dos mercados em que o FUNDO atue. 
  
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-16 
-Parágrafo Primeiro- A cota do FUNDO não poderá ser objeto de cessão ou transferência, exceto nos 
-casos de decisão judicial ou arbitral, operações de cessão fiduciária, execução de garantia, sucessão 
-universal, dissolução de sociedade conjugal ou união estável por via judicial ou escritura pública que 
-disponha sobre a partilha de bens e transferência de administração ou portabilidade de planos de 
-previdência.  
+Parágrafo Primeiro- A cota do FUNDO não poderá ser objeto de cessão ou transferência, exceto nos casos 
+de decisão judicial ou arbitral, operações de cessão fiduciária, execução de garantia, sucessão universal, 
+dissolução de sociedade conjugal ou união estável por via judicial ou escritura pública que disponha sobre a 
+partilha de bens e transferência de administração ou portabilidade de planos de previdência.  
  
 Parágrafo Segundo- É facultado ao ADMINISTRADOR suspender, a qualquer momento, novas aplicações 
 no FUNDO, desde que tal suspensão se aplique indistintamente a novos investidores e cotistas atuais. A 
@@ -1225,30 +1218,35 @@ Artigo 24 - Na emissão das cotas do FUNDO deve ser utilizado o valor da cota do
 “Condições Específicas” deste Regulamento, no Quadro “Emissão e Resgate”. 
  
 Artigo 25 – Conforme indicado nas “Condições Específicas” deste Regulamento, no Quadro “Emissão e 
-Resgate”, no item “Tipo de Cota do Fundo”, o FUNDO adota a cota de “Fechamento”, de forma que o 
-valor da cota do dia será o resultante da divisão do valor do patrimônio líquido pelo número de cotas do 
-FUNDO, apurados, ambos, no encerramento do mesmo dia, assim entendido, o horário de fechamento 
-dos mercados em que o FUNDO atue. 
+Resgate”, no item “Tipo de Cota do Fundo”, o FUNDO adota a cota de “Fechamento”, de forma que o valor 
+da cota do dia será o resultante da divisão do valor do patrimônio líquido pelo número de cotas do FUNDO, 
+apurados, ambos, no encerramento do mesmo dia, assim entendido, o horário de fechamento dos mercados 
+em que o FUNDO atue. 
  
-Artigo 26 – As condições de aplicação e o resgate de cotas do FUNDO serão definidas conforme descrito 
-no Quadro “Emissão e Resgate” constante das “Condições Específicas” deste Regulamento.  
+Artigo 26 – As condições de aplicação e o resgate de cotas do FUNDO serão definidas conforme descrito no 
+Quadro “Emissão e Resgate” constante das “Condições Específicas” deste Regulamento.  
  
 Parágrafo Primeiro – Para transmissão de ordens de aplicação e resgate de cotas do FUNDO, os cotistas 
 utilizarão os meios colocados à disposição pelo ADMINISTRADOR para tal finalidade e de acordo com o 
 Quadro “Movimentação” constante das “Condições Específicas” deste Regulamento. 
  
 Parágrafo Segundo – O ADMINISTRADOR e a GESTORA poderão gravar toda e qualquer ligação 
-telefônica com os cotistas, bem como utilizar referidas gravações para efeito de prova, em juízo ou fora 
-dele, das ordens transmitidas e das demais informações nelas contidas. 
+telefônica com os cotistas, bem como utilizar referidas gravações para efeito de prova, em juízo ou fora dele, 
+das ordens transmitidas e das demais informações nelas contidas. 
  
 Parágrafo Terceiro – Para fins deste Capítulo, solicitações de aplicações e resgates de cotas efetuados aos 
 sábados, domingos e em feriados nacionais serão processados no primeiro dia útil subsequente.  
  
-Parágrafo Quarto  –Em feriados de âmbito estadual ou municipal na sede do ADMINISTRADOR, o 
-FUNDO funcionará normalmente para movimentações realizadas via Clearing (B3 S.A. – Brasil Bolsa 
-Balcão), ficando o cotista sujeito às restrições provenientes da falta de expediente bancário na sede do 
-ADMINISTRADOR nas demais hipóteses de liquidação de resgates e aplicações previstas no Regulamento. 
+Parágrafo Quarto  –Em feriados de âmbito estadual ou municipal na sede do ADMINISTRADOR, o FUNDO 
+funcionará normalmente para movimentações realizadas via Clearing (B3 S.A. – Brasil Bolsa Balcão), ficando 
+o cotista sujeito às restrições provenientes da falta de expediente bancário na sede do ADMINISTRADOR 
+nas demais hipóteses de liquidação de resgates e aplicações previstas no Regulamento. 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+17 
 Artigo 27 - A amortização e o resgate de cotas do FUNDO poderão ser efetuados em moeda corrente 
 nacional, por meio de documento de ordem de crédito (DOC) ou transferência eletrônica disponível (TED) 
 ou, ainda, através da B3 S.A. – Brasil, Bolsa, Balcão. 
@@ -1256,16 +1254,10 @@ ou, ainda, através da B3 S.A. – Brasil, Bolsa, Balcão.
 Artigo 28 – Caso tenha sido indicado nas “Condições Específicas” deste Regulamento, a possibilidade de 
 “Integralização e Resgate em Ativos Financeiros”, o resgate de cotas do FUNDO poderá ser efetuado 
 através da entrega de ativos constantes da carteira do FUNDO, sendo que a precificação destes ativos 
-deverá estar em conformidade com a política de Marcação à Mercado estabelecida pelo 
-ADMINISTRADOR, na qualidade de controlador dos ativos do FUNDO devendo ser observados os 
-seguintes procedimentos: 
+deverá estar em conformidade com a política de Marcação à Mercado estabelecida pelo ADMINISTRADOR, 
+na qualidade de controlador dos ativos do FUNDO devendo ser observados os seguintes procedimentos: 
  
 I - o resgate de cotas será realizado mediante transferência do ativo para a conta de custódia do cotista; 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-17 
 II –  Caso o FUNDO possua um único cotista, o referido cotista poderá  escolher o ativo a ser resgatado, 
 observada a manutenção do enquadramento da carteira do FUNDO. 
 III - o ADMINISTRADOR, assim que comunicado da intenção do cotista de resgatar cotas em ativos, 
@@ -1285,13 +1277,13 @@ para investimento pelo FUNDO, em razão de condições adversas de mercado, e qu
 possam comprometer o cumprimento do “Objetivo do FUNDO”, com a consequente entrega aos cotistas 
 dos valores excedentes e não investidos, ou  
  
-(ii) o FUNDO não alcance um Patrimônio Líquido mínimo de R$ 1.000.000,00(um milhão de reais) dentro 
-de 90 (noventa) dias a contar do início de suas atividades, com a consequente entrega aos cotistas dos 
-valores investidos. 
+(ii) o FUNDO não alcance um Patrimônio Líquido mínimo de R$ 1.000.000,00(um milhão de reais) dentro de 
+90 (noventa) dias a contar do início de suas atividades, com a consequente entrega aos cotistas dos valores 
+investidos. 
  
-Parágrafo Único – O resgate compulsório de cotas de que se trata o Artigo 26, deverá ser realizado de 
-forma equânime, simultânea e proporcional entre todos os cotistas e só poderá ser realizado quando não 
-ensejar a cobrança de taxa de saída. 
+Parágrafo Único – O resgate compulsório de cotas de que se trata o Artigo 26, deverá ser realizado de forma 
+equânime, simultânea e proporcional entre todos os cotistas e só poderá ser realizado quando não ensejar 
+a cobrança de taxa de saída. 
  
 CAPÍTULO IX 
 DAS DEMONSTRAÇÕES FINANCEIRAS 
@@ -1307,6 +1299,13 @@ solicitar ao ADMINISTRADOR, no prazo máximo de 90 (noventa) dias após o encerr
 Parágrafo Primeiro - As demonstrações financeiras anuais do FUNDO serão auditadas por auditor 
 independente registrado na CVM. 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+ 
+  
+18 
+ 
 Parágrafo Segundo- As deliberações relativas às demonstrações financeiras do FUNDO que não 
 contiverem ressalvas podem ser consideradas automaticamente aprovadas caso a assembleia geral de 
 cotistas correspondente não seja instalada em virtude do não comparecimento de quaisquer cotistas ou 
@@ -1316,22 +1315,15 @@ indicado da convocação.
 CAPÍTULO X 
 DA TRIBUTAÇÃO 
  
- 
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
- 
-  
-18 
 Artigo 33 – A tributação aplicável aos cotistas do FUNDO e ao FUNDO será aquela definida pela legislação 
-tributária brasileira. Poderá haver tratamento tributário diferente do disposto neste Capítulo. O cotista 
-que de acordo com a legislação vigente não estiver sujeito à tributação do Imposto de Renda e do Imposto 
-sobre Operações Financeiras por motivo de isenção, tributação pela alíquota zero, imunidade e outros, 
-deverá apresentar ao ADMINISTRADOR documentação comprobatória da sua situação tributária 
-conforme as determinações da legislação.           
+tributária brasileira. Poderá haver tratamento tributário diferente do disposto neste Capítulo. O cotista que 
+de acordo com a legislação vigente não estiver sujeito à tributação do Imposto de Renda e do Imposto sobre 
+Operações Financeiras por motivo de isenção, tributação pela alíquota zero, imunidade e outros, deverá 
+apresentar ao ADMINISTRADOR documentação comprobatória da sua situação tributária conforme as 
+determinações da legislação.           
                                                                                
-Artigo 34 - A situação tributária descrita neste Capítulo pode ser alterada a qualquer tempo, seja através 
-da instituição de novos tributos, seja através de alteração das alíquotas vigentes. 
+Artigo 34 - A situação tributária descrita neste Capítulo pode ser alterada a qualquer tempo, seja através da 
+instituição de novos tributos, seja através de alteração das alíquotas vigentes. 
  
 Artigo 35 – A tributação aplicável aos cotistas do FUNDO será a seguinte: 
  
@@ -1342,8 +1334,8 @@ os cotistas serão tributados pelo imposto de renda exclusivamente no resgate de
 resgate e o custo de aquisição da cota, considerados pelo seu valor patrimonial. 
  
 II- Imposto sobre Operações Financeiras (IOF): Atualmente, as operações da carteira e os resgates de cotas 
-de fundos de investimento em ações estão sujeitos à alíquota zero no que se refere ao IOF, o que não 
-impede que tais alíquotas sejam majoradas a qualquer tempo, por ato do Poder Executivo. 
+de fundos de investimento em ações estão sujeitos à alíquota zero no que se refere ao IOF, o que não impede 
+que tais alíquotas sejam majoradas a qualquer tempo, por ato do Poder Executivo. 
  
 Artigo 36 - A tributação aplicável ao FUNDO será a seguinte: 
  
@@ -1361,6 +1353,11 @@ de renda variável, o que poderá sujeitar seus cotistas à tributação diversa
 Artigo 37 – Na hipótese do FUNDO realizar aplicações em ativos financeiros em mercado externo serão 
 observadas também as normas tributárias daquele País.  
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+19 
 CAPÍTULO XI 
 DA POLÍTICA DE DISTRIBUIÇÃO DE RESULTADOS 
  
@@ -1373,11 +1370,6 @@ DA ASSEMBLEIA GERAL DE COTISTAS
  
 Artigo 39 – Compete privativamente à assembleia geral de Cotistas deliberar sobre:  
  
- 
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-19 
 (i) as demonstrações contábeis apresentadas pelo ADMINISTRADOR;  
 (ii) a substituição do ADMINISTRADOR ou do CUSTODIANTE;  
 (iii) a fusão, a incorporação, a cisão, a transformação ou a liquidação do FUNDO;  
@@ -1402,31 +1394,18 @@ Parágrafo Único –  As deliberações relativas às demonstrações contábei
 ressalvas serão consideradas automaticamente aprovadas caso a assembleia correspondente não seja 
 instalada em virtude do não comparecimento de quaisquer Cotistas.  
  
-Artigo 41 – Além da assembleia geral prevista acima, o ADMINISTRADOR, o CUSTODIANTE, ou o 
-Cotista ou grupo de Cotistas que detenha, no mínimo, 5% (cinco por cento) do total de cotas emitidas pelo 
-FUNDO, podem convocar a qualquer tempo assembleia geral de Cotistas, para deliberar sobre ordem do 
-dia de interesse do FUNDO ou dos seus Cotistas. 
+Artigo 41 – Além da assembleia geral prevista acima, o ADMINISTRADOR, o CUSTODIANTE, ou o Cotista 
+ou grupo de Cotistas que detenha, no mínimo, 5% (cinco por cento) do total de cotas emitidas pelo FUNDO, 
+podem convocar a qualquer tempo assembleia geral de Cotistas, para deliberar sobre ordem do dia de 
+interesse do FUNDO ou dos seus Cotistas. 
  
 Parágrafo Único – A convocação por iniciativa do CUSTODIANTE ou de Cotistas será dirigida ao 
 ADMINISTRADOR, que deverá, no prazo máximo de 30 (trinta) dias contados do recebimento, realizar a 
-convocação da assembleia geral às expensas dos requerentes, salvo se a assembleia geral assim 
-convocada deliberar em contrário. 
+convocação da assembleia geral às expensas dos requerentes, salvo se a assembleia geral assim convocada 
+deliberar em contrário. 
  
 Artigo 42 – A convocação da assembleia geral deve ser encaminhada a cada Cotista e disponibilizada nas 
 páginas do ADMINISTRADOR e dos distribuidores na rede mundial de computadores.   
- 
-Parágrafo Primeiro – A convocação de assembleia geral deverá ser feita com 10 (dez) dias de 
-antecedência, no mínimo, da data da sua realização.  
- 
-Parágrafo Segundo – A presença da totalidade dos Cotistas supre a falta de convocação. 
- 
-Artigo 43 – A assembleia geral se instalará com a presença de qualquer número de Cotistas. As 
-deliberações da assembleia geral serão tomadas por maioria de votos dos Cotistas presentes, cabendo a 
-cada cota 1 (um) voto.  
- 
-Artigo 44 – Somente podem votar na assembleia geral os Cotistas do FUNDO que estejam inscritos no 
-registro de Cotistas na data da convocação da assembleia geral, seus representantes legais ou 
-procuradores legalmente constituídos há menos de 1 (um) ano.  
  
  
  
@@ -1435,6 +1414,19 @@ Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com
  
   
 20 
+Parágrafo Primeiro – A convocação de assembleia geral deverá ser feita com 10 (dez) dias de antecedência, 
+no mínimo, da data da sua realização.  
+ 
+Parágrafo Segundo – A presença da totalidade dos Cotistas supre a falta de convocação. 
+ 
+Artigo 43 – A assembleia geral se instalará com a presença de qualquer número de Cotistas. As deliberações 
+da assembleia geral serão tomadas por maioria de votos dos Cotistas presentes, cabendo a cada cota 1 (um) 
+voto.  
+ 
+Artigo 44 – Somente podem votar na assembleia geral os Cotistas do FUNDO que estejam inscritos no 
+registro de Cotistas na data da convocação da assembleia geral, seus representantes legais ou procuradores 
+legalmente constituídos há menos de 1 (um) ano.  
+ 
 Artigo 45 – Os Cotistas terão a faculdade de votar por meio de comunicação escrita ou eletrônica, desde 
 que comprovadamente recebida a manifestação do Cotista, pelo ADMINISTRADOR, em seu endereço 
 físico ou em endereço eletrônico indicados no Serviço de Atendimento ao Cotista, até 1 (um) dia antes do 
@@ -1445,10 +1437,10 @@ propostas da ordem do dia.
 CAPÍTULO XIII 
 DA POLÍTICA DE EXERCÍCIO DE DIREITO DE VOTO 
  
-Artigo 46 - A GESTORA poderá exercer todo e qualquer direito inerente aos ativos que compõem a 
-carteira do FUNDO, especialmente, mas não se limitando, ao comparecimento e exercício do direito de 
-voto, a seu próprio critério, nas reuniões ou assembleias gerais dos fundos de investimento ou companhias 
-em que o fundo invista. 
+Artigo 46 - A GESTORA poderá exercer todo e qualquer direito inerente aos ativos que compõem a carteira 
+do FUNDO, especialmente, mas não se limitando, ao comparecimento e exercício do direito de voto, a seu 
+próprio critério, nas reuniões ou assembleias gerais dos fundos de investimento ou companhias em que 
+o fundo invista. 
  
 Artigo 47 – A GESTORA adota Política de Exercício de Direito de Voto em Assembleias, que disciplina os 
 princípios gerais, o processo decisório e quais são as matérias relevantes obrigatórias para o exercício do 
@@ -1458,9 +1450,9 @@ site http://www.bnpparibas.com.br em “Asset Management”.
  
 Parágrafo Único - A Política de Exercício do Direito de Voto adotada pela GESTORA visa atender 
 exclusivamente os interesses dos cotistas dos fundos, levando em conta as melhores práticas de 
-governança. A GESTORA pode abster-se do exercício de voto obedecendo às exceções previstas no 
-Código Anbima de Regulação e Melhores Práticas para os Fundos de Investimento e na sua Política de 
-Exercício de Voto. 
+governança. A GESTORA pode abster-se do exercício de voto obedecendo às exceções previstas no Código 
+Anbima de Regulação e Melhores Práticas para os Fundos de Investimento e na sua Política de Exercício de 
+Voto. 
  
 CAPÍTULO XIV 
 DAS DISPOSIÇÕES GERAIS 
@@ -1470,6 +1462,11 @@ divulgação das informações definidas na regulamentação, neste Regulamento 
 Informações Complementares será aquela a definida no Quadro “Serviço de Atendimento ao Cotista”, 
 constante das “Condições Específicas” deste Regulamento. 
  
+ 
+ 
+Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
+  
+21 
 Artigo 49 - Admite-se, nas hipóteses em que este Regulamento exija a “ciência”, “atesto”, “manifestação 
 de voto” ou “concordância” dos cotistas, que estes se deem por meio eletrônico.  
  
@@ -1483,15 +1480,10 @@ ADMINISTRADOR, podendo adquirir, inclusive, títulos em novos lançamentos regis
 pública ou privada que sejam coordenados, liberados ou de que participem as referidas empresas. 
  
 Artigo 52– Em caso de morte, incapacidade ou extinção de cotista do FUNDO, o representante do espólio, 
-do incapaz ou do sucessor exercerá os direitos e cumprirá as obrigações, perante o ADMINISTRADOR, 
-que cabiam ao de cujus ou ao incapaz, observadas as prescrições legais. 
+do incapaz ou do sucessor exercerá os direitos e cumprirá as obrigações, perante o ADMINISTRADOR, que 
+cabiam ao de cujus ou ao incapaz, observadas as prescrições legais. 
  
- 
-Ouvidoria BNP Paribas: 0800-771-5999 – ouvidoria@br.bnpparibas.com 
-  
-21 
- 
-Artigo 53 - Fica eleito o foro da Cidade de São Paulo, Estado de São Paulo, com renúncia expressa a 
-qualquer outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas ou controvérsias relativas ao 
-FUNDO, bem como questões decorrentes deste Regulamento. 
+Artigo 53 - Fica eleito o foro da Cidade de São Paulo, Estado de São Paulo, com renúncia expressa a qualquer 
+outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas ou controvérsias relativas ao FUNDO, 
+bem como questões decorrentes deste Regulamento. 
  

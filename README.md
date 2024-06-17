@@ -25,6 +25,7 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
 - arquivos pdf dos regulamentos dos fundos, descarregados na página da Anbima ou buscados manualmente, em caso de erro 
 #### /txt/
 - versão em txt dos arquivos pdf, para posterior análise textual
+
 ### /src
 - analise.py: função destinada a comunicar-se com o modelo OpenAI. Requer pass-key, obtida mediante cadastro no site respectivo: https://www.openai.com
 - analise_nlp.py: diversas funções para NLP do material obtido
@@ -35,7 +36,9 @@ Este pacote apresenta scripts, cadernos e dados empregados em pesquisa sobre reg
     - O módulo PyMuPDF/fitz tem um problema conhecido: RuntimeError(f“Directory '{directory}' does not exist”)
 RuntimeError: Directory 'static/' does not exist from import fitz. Consegui corrigir isso seguindo as orientações deste link: https://stackoverflow.com/questions/67982760/raise-runtimeerrorfdirectory-directory-does-not-exist-runtimeerror-dire
 - filtro.py: funções para filtrar os arquivos txt, o que dá mais foco à pesquisa e reduz o preço da consulta à API OpenAI.
-  - os filtros selecionam frases que tem uma das palavras-chave de método/relatório/referência E uma das palavras-chave temáticas. Gostaria de incentivar interessados a reproduzirem o experimento, editando as palavras-chave dos filtros.
+  - os filtros selecionam frases que tem uma das palavras-chave de metodologia/relatório/objetivo
+E uma das palavras-chave temáticas. Gostaria de incentivar interessados a reproduzirem o experimento, editando as
+palavras-chave dos filtros.
 - grafico.py: funções para fazer gráficos apresentando correlações de dados
 - scraping.py: função para fazer o scraping no sítio da Anbima.
   - biblioteca empregada: Selenium

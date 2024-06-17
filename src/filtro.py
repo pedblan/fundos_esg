@@ -13,7 +13,11 @@ import json
 diretorio_entrada = '../data/txt/'
 
 def metodologias(fundo):
-    """Faz a pesquisa de metodologias e objetivos ESG segundo listas de palavras-chave."""
+    """Faz a pesquisa de metodologias e objetivos ESG segundo listas de palavras-chave.
+    O script devolve ao dicionário de metadados três entradas: metodologia, objetivo e relatório.
+    Os respectivos valores são obtidos por um filtro que seleciona todas as frases que contém pelo menos uma palavra
+    entre as palavras-chave do elemento buscado, juntamente com pelo menos uma palavra do contexto ESG em geral,
+    conforme as listas abaixo."""
     
     # Palavras-chave
     palavras_metodologia = ["metodologia", "critérios", "método", "métodos", "abordagem", "avaliação", "índice", "índices", "filtro", "parâmetros", "princípio", "princípios", "diretrizes", "engajamento", "ações continuadas", "métrica", "métricas", "indicadores", "estratégia", "escore", "escore", "certificado", "certificação"]

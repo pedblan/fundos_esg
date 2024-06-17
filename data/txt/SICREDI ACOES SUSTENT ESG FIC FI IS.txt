@@ -242,7 +242,7 @@ pelo mesmo ADMINISTRADOR ou empresas a ele ligadas?
 Sim 
 Os fundos nos quais o FUNDO aplica podem realizar operações de Day Trade, 
 ou seja, operações iniciadas e encerradas no mesmo dia? 
-Sim 
+Não 
 Os fundos nos quais o FUNDO aplica podem manter posições vendidas no 
 mercado de renda variável (Short RV)? 
 Não 
@@ -790,7 +790,7 @@ Fica eleito o foro da cidade de Porto Alegre, estado do Rio Grande do Sul, com e
 renúncia de qualquer outro, por mais privilegiado que possa ser, para dirimir qualquer dúvida ou 
 problema relativo ao FUNDO bem como com relação ao seu Regulamento. 
  
-Porto Alegre (RS), 27 de dezembro de 2023. 
+Porto Alegre (RS), 15 de março de 2024. 
  
 Banco Cooperativo Sicredi S.A. 
 ADMINISTRADOR 

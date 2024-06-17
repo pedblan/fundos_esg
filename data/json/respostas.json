@@ -1,5 +1,27 @@
 {
-    "Aviva IGC ESG IA FC FI Mult Cred Priv IE": {
+    "JGP ESG AÇÕES 100 PREV XP SEG FC FIA": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BB ASSET AÇÕES NORDEA GLOBAL DISRUPTION ESG IE FC": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "investir preponderantemente em cotas de fundos de investimento que respeitem a política ambiental, social e de governança",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Sustainable Finance Disclosure Regulation (SFDR)",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "Aviv IGC ESG IDA FC FI Mult Cred Priv IE": {
         "Origem metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -9,63 +31,7 @@
         "URL referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "BNPP M.CRED FI RF CRED PRIV LP SUST IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "mitigação das mudanças climáticas",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Anbima",
-        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
-        "Relatório ASG": "Sim"
-    },
-    "ITAÚ INDEX ESG ÁGUA AÇÕES FX IE FC DE IS": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar seus recursos em cotas de fundos de investimento classificados como “Ações”, que invistam em empresas globais que estejam aderentes à dimensão 6 (água potável e saneamento) dos Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas com objetivo de garantir a disponibilidade e gestão sustentável de água e saneamento para todos",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": "investimento temático",
-        "Índice": "n/d",
-        "Referência ASG": "Nações Unidas",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "SCHRODER BEST IDEAS ESG FIA IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda variável, investindo em empresas que atendam aos critérios Ambiental, Social e Governança (“ASG”) do Gestor",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo (\"best-in-class\")",
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.schroders.com/pt-br/br/investidores/fundos/",
-        "Relatório ASG": "Não"
-    },
-    "SCH SUST AÇÕES GLOB USD FC FIA IS IE": {
-        "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em empresas que atendam aos critérios de sustentabilidade do Gestor",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "https://www.schroders.com/pt-br/br/investidores/fundos/#/fund/SCHDR_F000015L6P/schroder-sustentabilidade-aes-globais-usd-fundo-de-investimento-em-cotas-de-fundos-de-investimento-em-aes-is-investimento-no-exterior/BR04RMCTF001/profile",
-        "Relatório ASG": "Não"
-    },
-    "BB AÇÕES EQUIDADE IS FI": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "promover a equidade de gênero e proporcionar retornos absolutos no médio e longo prazo",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "filtro positivo",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis30530788.pdf",
-        "Relatório ASG": "Sim"
-    },
-    "BRA P ES EQ GLO FC FI MULT PGBL/VGBL": {
+    "Blackrock FIA Globais ESG IE": {
         "Origem Metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -75,59 +41,42 @@
         "URL Referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "BT P CRED CORP ESG FI RF IS CRED PRIV LP": {
+    "SICREDI ESG IS FIC FIE MULT": {
         "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda fixa, através de ativos que atendam aos critérios ASG do GESTOR",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": [
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "ISE B3",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "JGP ESG INST MASTER FIA IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "aderência às práticas e parâmetros estabelecidos para fundos de natureza ASG",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
-            "integração ESG"
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
         ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/07/Formulario-Anbima-ASG-JGP-INSTITUCIONAL-MASTER-FIA-IS.pdf",
+        "Relatório ASG": "Não"
+    },
+    "ACCESS ENERGY TRANSITION FIA SUS IS IE": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "alcançar retornos sustentáveis e acima do mercado a longo prazo, investindo em fundos de investimento de ações constituídos no exterior e geridos pela BNP Paribas Asset Management, que tenham objetivo de investimento sustentável",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "n/d",
         "Índice": "n/d",
         "Referência ASG": "Anbima",
-        "URL Referência ASG": "https://www.btgpactual.com/asset-management/fundos-abertos/credcorp-esg",
-        "Relatório ASG": "Não"
-    },
-    "JGP ESG FC FIA": {
-        "Origem metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "JGP ESG FC FIA - FEEDER I": {
-        "Origem metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "VOX DESENVOL SUST ICATU PREV IS FI RF CRED PRIV": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "investir em títulos de crédito privado de empresas que contribuam para os Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Formulário de Metodologia ASG disponível no link",
-        "URL Referência ASG": "https://voxcapital.com.br/",
-        "Relatório ASG": "Não"
-    },
-    "CARTEIRA ITAÚ ESG INT FI MULT IE": {
-        "Origem metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
+        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
     },
     "JGP ESG INST FC FIA - FEEDER VII": {
         "Origem Metodologia ASG": "n/d",
@@ -137,44 +86,207 @@
         "Índice": "n/d",
         "Referência ASG": "n/d",
         "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
+        "Relatório ASG": "não"
     },
-    "IT NOW ISE FUNDO DE INDICE IS": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "refletir o retorno de uma carteira composta por ações de empresas com reconhecido comprometimento com a responsabilidade social e a sustentabilidade empresarial, e também atuar como promotor das boas práticas no meio empresarial brasileiro",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "engajamento",
-            "filtro positivo"
-        ],
-        "Índice": "ISE B3",
-        "Referência ASG": "BM&FBOVESPA",
-        "URL Referência ASG": "https://www.itnow.com.br/isus11/documentos/",
-        "Relatório ASG": "Não"
-    },
-    "CSHG MASTER PORT ESG CRED PRIV FI MULT": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar a valorização de suas cotas mediante aplicação de seus recursos em ativos financeiros de empresas que se enquadrem nos critérios de avaliação ESG - Environmental, Social and Governance (Ambiental, Social e Governança)",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "integração ESG",
+    "Mirova Glob Sust Eqt Dol Adv M FIA IE IS": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
     },
-    "BRAM FI RF CRED PRIV IS SUSTENTABILIDADE": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com elevado rating ESG",
+    "TREND ESG GLOBAL FI MULT": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "integrar questões ESG em sua política de investimento, comprometendo-se com o objetivo ESG",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
-            "filtro positivo"
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "SULAMÉRICA PREV JGP 70 ESG FC FI MULT IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia",
+        "Relatório ASG": "Sim"
+    },
+    "B P FEE L E E U C D FI MULT CRED PRIV IE": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "SANTANDER PREV ETHICAL AÇÕES SUST IS FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": [
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa), Comissão de Valores Mobiliários (CVM)",
+        "URL Referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg.",
+        "Relatório ASG": "não"
+    },
+    "BRASILPREV TOP ASG BRASIL IS FIA": {
+        "Origem Metodologia ASG": [
+            "interna",
+            "externa"
+        ],
+        "Objetivo ASG": "promover boas práticas relacionadas aos temas Ambiental, Social e de Governança",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo",
+            "engajamento",
+            "integração ESG"
+        ],
+        "Índice": "S&P/B3 BRASIL ESG",
+        "Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/asg38226078.pdf",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/asg38226078.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BRAD FC FI RF CRED PRIV LP IS PERF SRI 20": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "capturar retornos por meio de investimentos em cotas de Fundos de Investimentos Sustentáveis, que invistam em empresas com elevado rating ESG, adotando a estratégia Best in Class selecionando os emissores que possuam um rating ESG equiparado ou superior ao rating ESG setorial",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo (\"best-in-class\")"
         ],
         "Índice": "n/d",
         "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20Cr%C3%A9dito%20Privado%20IS.pdf",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/formulario-metodologia/Formulario_Metodologia_ASG_SRI.pdf",
         "Relatório ASG": "Não"
     },
-    "JGP EQUILÍBRIO FIF IS RF CRED PRIV LP RESP LIMITADA": {
+    "JGP AÇÕES ESG 100 PREV ICATU SEG FC FIA": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "BB AÇÕES EQUIDADE IS FC FI": {
+        "Origem Metodologia ASG": [
+            "interna",
+            "externa"
+        ],
+        "Objetivo ASG": "capturar retorno por meio de investimento em empresas que promovam equidade de gênero",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "filtro positivo",
+            "best in class",
+            "engajamento",
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Princípios de Empoderamento Feminino da ONU Mulheres (WEPs)",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "SULA PREV CRÉD ESG FIRF CRED PRIV IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar aos Cotistas rentabilidade através de investimentos em ativos financeiros que possuam uma utilização de recursos alinhada com as melhores práticas nas questões ambientais, sociais e de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "filtro positivo",
+            "investimento temático",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "ANBIMA",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BB MULT BLACKROCK MULTI-ASSE IE FC FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "apreciação de capital através da alocação em diversas classes de ativos disponíveis no mercado global que respeitem os princípios de investimento ASG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "BlackRock",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "WRIGHT IMPACTO II FI MULT CRED PRIV IE IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "capturar retorno por meio de investimentos em ativos financeiros que tenham como foco a geração de impacto ambiental e/ou social positivos e que promovam o desenvolvimento sustentável",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "taxonomia da União Europeia para atividades econômicas sustentáveis",
+        "URL Referência ASG": "https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en",
+        "Relatório ASG": "Não"
+    },
+    "SANT ETHICAL AÇÕES SUST SPECIAL IS FC FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa), Comissão de Valores Mobiliários (CVM)",
+        "URL Referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
+        "Relatório ASG": "Não"
+    },
+    "Trend ETF MSCI Em Mkts ESG FI Indice IE": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "captura grandes e médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade e Governança (ESG)",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "filtro positivo"
+        ],
+        "Índice": "MSCI Emerging Markets Extended ESG Focus Index",
+        "Referência ASG": "MSCI Inc.",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BRADESCO H FI DE AÇÕES IS SRI": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "capturar retornos por meio de investimentos preponderantemente em carteira de ações de empresas com alto nível de sustentabilidade e governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG",
+            "filtro positivo (\"best-in-class\")"
+        ],
+        "Índice": "ISE B3",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20%20H%20Fundo%20de%20Investimento%20de%20a%C3%A7%C3%B5es%20IS%20SRI.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BB AÇÕES NORDEA GLOBAL CLIMATE AND ENVIRONMENT IS IE FI": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "PLURAL ESG IS CRED PRIV FI RF LP": {
         "Origem Metodologia ASG": "interna",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -185,10 +297,96 @@
         ],
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
+        "URL Referência ASG": "https://www.genialinvestimentos.com.br/onde-investir/fundos-de-investimento/plural-esg-45-fic-rf-cred-priv-lp/",
+        "Relatório ASG": "Não"
+    },
+    "SCHRODER SUST AÇÕES GLOB USD FIA IS IE": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "investir em empresas que atendam aos critérios de sustentabilidade do Gestor",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "https://www.schroders.com/pt-br/br/investidores/fundos/",
+        "Relatório ASG": "Não"
+    },
+    "JGP EQ ESG PV FI MULT IE": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "BB ESPELHO JGP EQUILÍBRIO FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO FINANCEIRO IS RENDA FIXA CRÉDITO PRIVADO LONGO PRAZO RESP LIMITADA": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": [
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis53191473.pdf",
         "Relatório ASG": "Sim"
     },
-    "BLAC ESG GL BON INC IE FIC FI MULT AGORA": {
+    "SCHRODER BEST IDEAS ESG FIA IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda variável, investindo em empresas que atendam aos critérios Ambiental, Social e Governança (ASG)",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo (\"best-in-class\")",
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://www.schroders.com/pt-br/br/investidores/fundos/",
+        "Relatório ASG": "Não"
+    },
+    "BRAD MULTI GLOBAL EQ ESG USD FIA IE IS": {
+        "Origem Metodologia ASG": [
+            "interna",
+            "externa"
+        ],
+        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas no mercado de renda variável através de fundos no exterior de ações globais que por sua vez invistam em empresas que seguem práticas sustentáveis e éticas",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Bradesco Asset Management (Bram)",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Anbima%20Formul%C3%A1rio%20Metodologia%20ASG_Glb%20Eq%20ESG%20FIA.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BB AÇÕES DIVERSIDADE IS FC FIA": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "investir em empresas de destaque nos três pilares ASG, integrantes do índice IDIVERSA",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG",
+            "investimento temático"
+        ],
+        "Índice": "IDIVERSA B3",
+        "Referência ASG": "Resolução CMN nº 4.963/21",
+        "URL referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis51681561.pdf",
+        "Relatório ASG": "Não"
+    },
+    "ITAÚ ESG H2O AÇÕES IE FI IS": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em ativos financeiros que invistam em empresas globais que estejam aderentes à dimensão 6 (água potável e saneamento) dos Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas com objetivo de garantir a disponibilidade e gestão sustentável de água e saneamento para todos",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "investimento temático"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Relatório ASG": "Não"
+    },
+    "Aviva IGC ESG IA M FI Mult Cred Priv IE": {
         "Origem Metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -203,267 +401,26 @@
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
         "Método ASG": [
-            "integração ESG"
+            "integração ESG",
+            "investimento temático"
         ],
         "Índice": "n/d",
         "Referência ASG": "Sustainable Finance Disclosure Regulation (SFDR)",
         "URL Referência ASG": "www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis41755394.pdf",
         "Relatório ASG": "Sim"
     },
-    "BRAD IS MULT BRL FC FI MULT CRED PRIV IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "COMPASS ESG C S FC FI RF CRED PRIV LP": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "ACCESS ENERGY TRANSITION FIA SUS IS IE": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://bnpp.lk/Energy-Transition",
-        "Relatório ASG": "Não"
-    },
-    "JGP ESG INST FC DE FIA – FEEDER IX": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "JGP CRÉDITO ESG FC FI MULT CRED PRIV IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
-        "Relatório ASG": "Sim"
-    },
-    "BB AÇÕES EQUIDADE IS FC FI": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "investimento em empresas que promovam equidade de gênero",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "filtro positivo",
-            "engajamento",
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Princípios de Empoderamento Feminino da ONU Mulheres",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB AÇÕES ASG BRASIL FC": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar recursos em cotas de fundos de investimento que componham uma carteira de ativos financeiros de renda variável relacionados a empresas brasileiras que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança)",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "S&P/B3 BRASIL ESG",
-        "Referência ASG": "S&P/B3 BRASIL ESG",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "JGP CRÉDITO ESG MASTER FI MULT CRED PRIV IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "assegurar a aderência do FUNDO às práticas e parâmetros estabelecidos para fundos de natureza ASG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
-        "Relatório ASG": "Sim"
-    },
-    "SICREDI AÇÕES SUSTENT ESG FI ALOC IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "superar a variação do índice S&P/B3 BRAZIL ESG, adotando estratégias de investimento que assegurem a aderência às práticas e parâmetros estabelecidos para fundos ESG, levando em consideração o impacto das empresas investidas na sociedade e no meio ambiente",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "Best in Class",
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "S&P/B3 BRAZIL ESG",
-        "Referência ASG": "S&P Dow Jones Índices LLC",
-        "URL Referência ASG": "https://www.sicredi.com.br/site/investimentos/fundos-investimentos/sicredi-acoes-sustentaveis-esg/",
-        "Relatório ASG": "Sim"
-    },
-    "JGP ESG PREV XP MASTER FIA IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": [
-            "filtro negativo",
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2022/12/Formulario-Anbima-JGP-ESG-PREV-XP-MASTER-FIA-IS.pdf",
-        "Relatório ASG": "Não"
-    },
-    "CAIXA FI ACOES SUSTENTABILIDADE EMPRESARIAL ISE - IS": {
+    "BB AÇÕES FX NORD GLOB CLIM ENV IS IE PVT FC": {
         "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "promover, por meio de investimentos em renda variável que atendam aos critérios da metodologia definida pela B3 para o Índice de Sustentabilidade Empresarial – ISE, aspectos de equilíbrio ambiental e climático, melhora das relações das companhias com seus stakeholders e/ou de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "ISE B3",
-        "Referência ASG": "B3",
-        "URL referência ASG": "https://www.caixa.gov.br/Downloads/caixa-asset/formulario-metodologia-asg-caixa-fia-ise.pdf",
-        "Relatório ASG": "não"
-    },
-    "BNPP INSTI FC DE FUNDOS INC DE INVEST EM INFRA RF SUSTENTÁVEL IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "mitigação das mudanças climáticas",
-        "Objetivo Geral/Específico": "específico",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
         "Método ASG": "n/d",
         "Índice": "n/d",
-        "Referência ASG": "Anbima",
-        "URL Referência ASG": [
-            "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
-            "https://bnpp.lk/MasterInfra",
-            "https://bnpp.lk/ASG-MasterInfra"
+        "Referência ASG": "n/d",
+        "URL referência ASG": [
+            "www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis40903923.pdf",
+            "www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/esg40903923.pdf"
         ],
         "Relatório ASG": "Sim"
-    },
-    "BNPP CREDITO INSTITUCIONAL SUSTENTAVEL IS FC DE FI RF CRED PRIV LP": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "mitigação das mudanças climáticas",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Anbima",
-        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
-        "Relatório ASG": "Sim"
-    },
-    "BNPP Master Fdo Inc Inv Infra RF Sust IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "mitigação das mudanças climáticas",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Anbima",
-        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
-        "Relatório ASG": "Sim"
-    },
-    "BTG P F L E E C D FI MULT CRED PRIV IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "VOX DESEN SUST IS FI RF CRED PRIV LP": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "investir em títulos de crédito privado de empresas que contribuam para os Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Agenda 2030 da ONU",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "PLURAL ESG IS CRED PRIV FI RF LP": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": [
-            "filtro negativo",
-            "Rating ESG",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.genialinvestimentos.com.br/onde-investir/fundos-de-investimento/plural-esg-45-fic-rf-cred-priv-lp/",
-        "Relatório ASG": "Não"
-    },
-    "ACCESS EQUITY WORLD FIA - IE SUS IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "reduzir as emissões de gases de efeito estufa, respeitando os direitos humanos e os direitos dos acionistas minoritários",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BRADESCO FIA IS SUSTENT EMPRESARIAL": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com alto nível de sustentabilidade e governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo (\"best-in-class\")",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Bradesco Asset",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/informes-economicos/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20Sustentabilidade%20Empresarial.pdf",
-        "Relatório ASG": "Não"
-    },
-    "Blackrock ESG M-Asset Adv FC FI Mult IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "ITAÚ EXCELÊNCIA SOCIAL AÇÕES FUNDO DE INVESTIMENTO SUSTENTÁVEL": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar recursos em ativos financeiros que replicam o Índice de Sustentabilidade Empresarial da B3 (ISE B3), com comprometimento com a sustentabilidade empresarial",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "engajamento"
-        ],
-        "Índice": "ISE B3",
-        "Referência ASG": "ISE B3",
-        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
-        "Relatório ASG": "Não"
-    },
-    "BRAD IS MUL USD FC FI MULT CRED PRIV IE": {
-        "Origem metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
     },
     "Aviva IGC ESG IDA M FI Mult Cred Priv IE": {
         "Origem Metodologia ASG": "n/d",
@@ -475,17 +432,464 @@
         "URL Referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "BB TOP MULT ASG FI LP": {
+    "BNPP Bradesco FC Fdo Incent Inv Infra Deb Incentivada RF Sustentavel IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "mitigação das mudanças climáticas",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
+    },
+    "BRAM FIA EQUITY GREEN BDR NIVEL I IS": {
         "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "compor exposição balanceada em ativos de Renda Fixa e ativos de Renda Variável, direcionada ao mercado financeiro e de capitais nacional e internacional que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança) e que não gerem dano significativo comprometendo o seu objetivo ASG",
-        "Objetivo Geral/Específico": "geral",
+        "Objetivo ASG": "restrição a setores controversos como armas pesadas e energia a carvão e avaliação de sustentabilidade das empresas com base em seu comprometimento com Governança Corporativa",
+        "Objetivo Geral/Específico": "específico",
         "Método ASG": [
+            "filtro negativo",
             "integração ESG"
         ],
         "Índice": "n/d",
         "Referência ASG": "n/d",
         "URL Referência ASG": "n/d",
         "Relatório ASG": "Não"
+    },
+    "ITAÚ EXCELÊNCIA SOCIAL AÇÕES FUNDO DE INVESTIMENTO SUSTENTÁVEL": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em ativos financeiros que tenham como principal fator replicar o Índice de Sustentabilidade Empresarial da B3 (ISE B3), indicador do desempenho médio das cotações dos ativos de empresas selecionadas pelo seu reconhecido comprometimento com a sustentabilidade empresarial",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "engajamento"
+        ],
+        "Índice": "ISE B3",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Relatório ASG": "Não"
+    },
+    "CAIXA FI ACOES SUSTENTABILIDADE EMPRESARIAL ISE - IS": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "promover, por meio de investimentos em renda variável que atendam aos critérios da metodologia definida pela B3 para o Índice de Sustentabilidade Empresarial – ISE, aspectos de equilíbrio ambiental e climático, melhora das relações das companhias com seus stakeholders e/ou de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "ISE B3",
+        "Referência ASG": "B3",
+        "URL Referência ASG": "https://www.caixa.gov.br/Downloads/caixa-asset/formulario-metodologia-asg-caixa-fia-ise.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BB MULT LP ASG PRIVATE FC FI": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "buscar uma exposição balanceada em ativos de Renda Fixa e ativos de Renda Variável, direcionada ao mercado financeiro e de capitais nacional e internacional que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança) e que não gerem dano significativo, comprometendo o seu objetivo ASG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "integração ESG",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "ITAÚ ACTIVE FIX ESG CRED PRIV MULT FC": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "realizar investimentos alinhados com a geração de externalidades socioambientais positivas",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG",
+            "investimentos de impacto"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Green Bond Principles, Climate Bonds",
+        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Relatório ASG": "Não"
+    },
+    "BRAM FIA IS SUST EMPRESARIAL 2": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "capturar retornos por meio de investimentos no mercado de ações de empresas com alto nível de sustentabilidade e governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo (\"best-in-class\")",
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "Trend ETF MSCI EAFE ESG FI de Indice IE": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "captura grandes e médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade e Governança (ESG), listadas nas bolsas de valores em países desenvolvidos na Europa, África Extremo Oriente e constituintes do MSCI EAFE Index",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "filtro positivo"
+        ],
+        "Índice": "MSCI EAFE Extended ESG Focus Index",
+        "Referência ASG": "MSCI Inc.",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "SULAMERICA CRED ESG FIRF CRED PRIV LP IS": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": [
+            "filtro negativo",
+            "investimento temático",
+            "filtro positivo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "ANBIMA",
+        "URL referência ASG": "https://www.sulamericainvestimentos.com.br/produtos/fundos-de-investimentos/escolha-seu-fundo/",
+        "Relatório ASG": "Não"
+    },
+    "BNP PARIBAS STRATEGIE FIA SUS IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "mitigação das mudanças climáticas e promoção de uma sociedade mais justa e inclusiva",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "ISE",
+        "Referência ASG": "Anbima",
+        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
+    },
+    "IT NOW IGCT FUNDO DE INDICE IS": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "contribuir positivamente e promover o investimento ASG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "engajamento"
+        ],
+        "Índice": "Índice BM&FBOVESPA de Governança Corporativa Trade - IGCT",
+        "Referência ASG": "BM&FBOVESPA",
+        "URL referência ASG": "https://www.itnow.com.br/gove11/documentos/",
+        "Relatório ASG": "não"
+    },
+    "JGP CRÉDITO ESG MASTER FI MULT CRED PRIV IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": [
+            "restrições para investir em certos setores",
+            "utilização de frameworks de avaliação ESG",
+            "práticas para compensar ou diminuir os impactos adversos sobre fatores de sustentabilidade",
+            "engajamento ativo com as companhias investidas"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
+        "Relatório ASG": "Sim"
+    },
+    "SICREDI AÇÕES SUSTENT ESG FI ALOC IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "superar a variação do índice S&P/B3 BRAZIL ESG e assegurar a aderência às práticas e parâmetros estabelecidos para fundos de natureza sustentável",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "Best in Class",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "S&P/B3 BRAZIL ESG",
+        "Referência ASG": "S&P Dow Jones Índices LLC",
+        "URL Referência ASG": "https://www.sicredi.com.br/site/investimentos/fundos-investimentos/sicredi-acoes-sustentaveis-esg/",
+        "Relatório ASG": "Sim"
+    },
+    "BRAD FC FIA ESG GLOBAL BDR NIVEL I": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda variável, analisando os fatores de desempenho ambiental, social e de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "integração ESG",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BB AÇÕES NORDEA GLOBAL DISRUPTION ESG IE FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "PRI (Princípios da ONU para Investimentos Responsáveis)",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "BB MULT BRL ALLSPRING CLI TRA IS IE FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "alcançar a descarbonização total do portfólio até 2050 e investir em empresas em avançado processo de transição climática",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "integração ASG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis47388308.pdf",
+        "Relatório ASG": "Não"
+    },
+    "PLURAL ESG IS CRED PRIV 45 FC FI RF LP": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "https://s3.amazonaws.com/genial-documents/investimentos/fundos/docs/finc/FINC_38281169000130.pdf",
+        "Relatório ASG": "Sim"
+    },
+    "BNPP M.CRED FI RF CRED PRIV LP SUST IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "mitigação das mudanças climáticas",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
+    },
+    "Mirova Glob Sust Equity Adv FIA IE IS": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "Trend ETF MSCI USA ESG FI de Indice IE": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "captura grandes e médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade e Governança (ESG)",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "filtro positivo"
+        ],
+        "Índice": "MSCI USA Extended ESG Focus Index",
+        "Referência ASG": "MSCI Inc.",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "SULAMERICA P C ESG I FC RF CRED PRIV I S": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em cotas de fundos de investimento classificados como 'Renda Fixa Investimento Sustentável' que busquem proporcionar aos seus cotistas rentabilidade através de investimentos em ativos financeiros que possuam uma utilização de recursos alinhada com as melhores práticas nas questões ambientais, sociais e de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "investimento temático",
+            "filtro positivo",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/governanca/",
+        "Relatório ASG": "Não"
+    },
+    "IT NOW ISE FUNDO DE INDICE IS": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "refletir o retorno de uma carteira composta por ações de empresas com reconhecido comprometimento com a responsabilidade social e a sustentabilidade empresarial, e também atuar como promotor das boas práticas no meio empresarial brasileiro",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "engajamento",
+            "filtro positivo"
+        ],
+        "Índice": "ISE B3",
+        "Referência ASG": "BM&FBOVESPA",
+        "URL referência ASG": "https://www.itnow.com.br/isus11/documentos/",
+        "Relatório ASG": "não"
+    },
+    "BTG PACTUAL FEEDER LATAM EM ESG CORPORATE DEBT FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO NO EXTERIOR": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "JGP BRASILPREV FIFE ESG 100 PREV FIA IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "aderência às práticas e parâmetros estabelecidos para fundos de natureza ASG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/07/Formulario-Anbima-JGP-BRASILPREV-FIFE-ESG-100-PREV-FI-EM-ACOES-IS.pdf",
+        "Relatório ASG": "Não"
+    },
+    "JGP CORPORATE II FIF IS RF CRED PRIV LP - RESP LIMITADA": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
+        "Relatório ASG": "Sim"
+    },
+    "BB ASSET AÇÕES EQUIDADE IS FC FI": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "investimento em empresas que promovam equidade de gênero",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "filtro positivo",
+            "best in class",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Princípios de Empoderamento Feminino da ONU Mulheres (WEPs)",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BRAD IS MULTIMAN EQUI USD FC DE FIA IE": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "BRADESCO FIA IS SUSTENT EMPRESARIAL": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com alto nível de sustentabilidade e governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo (\"best-in-class\")"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Bradesco Asset",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/informes-economicos/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20Sustentabilidade%20Empresarial.pdf",
+        "Relatório ASG": "Não"
+    },
+    "GO GLOBAL EQUITY ESG REAIS MULT IE FI": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "avaliar os aspectos sociais, ambientais e de governança corporativa das companhias selecionadas",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "integração ESG",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "BRB INVESTIMENTO SUSTENTAVEL FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM ACOES I – RESPONSABILIDADE LIMITADA": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "promover boas práticas de governança corporativa",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "IGC-T",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://novo.brb.com.br/wp-content/uploads/2024/02/Formulario-Metodologia-ASG-BRB-IS.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BRA P ES EQ GLO FC FI MULT PGBL/VGBL": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "WRIGHT IMPAC SOCIAL FI MULT CRED PRIV IE IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "capturar retorno por meio de investimentos em ativos financeiros que tenham como foco a geração de impacto ambiental e/ou social positivos e que promovam o desenvolvimento sustentável",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "taxonomia da União Europeia para atividades econômicas sustentáveis",
+        "URL Referência ASG": "https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en",
+        "Relatório ASG": "Não"
+    },
+    "JGP EQUILÍBRIO FIF IS RF CRED PRIV LP RESP LIMITADA": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "aderência às práticas e parâmetros estabelecidos para fundos de natureza ESG, considerando restrições para investir em certos setores nocivos à sociedade e ao meio ambiente, utilização de frameworks de avaliação ESG no processo de análise de empresas para controle e avaliação de melhorias das credenciais de sustentabilidade, e práticas para compensar ou diminuir os impactos adversos sobre fatores de sustentabilidade",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
+        "Relatório ASG": "Sim"
+    },
+    "BB TOP AÇÕES NORDEA GLOBAL CLIMATE AND ENVIRONMENT IS IE FI": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": [
+            "www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis40910469.pdf",
+            "www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/esg40910469.pdf"
+        ],
+        "Relatório ASG": "Sim"
+    },
+    "BRAD FC FI MULT ESG GLOBAL": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas pelo mercado, analisando os fatores de desempenho ambiental, social e de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "integração ESG",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "n/d"
+    },
+    "JGP ESG INSTITUCIONAL FC DE FIA ÁGORA": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "JGP CRÉDITO ESG FC FI MULT CRED PRIV IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia/",
+        "Relatório ASG": "Sim"
+    },
+    "JGP ESG FC FIA": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
     },
     "WARREN GREEN FIA IS BDR Nível I": {
         "Origem Metodologia ASG": "interna",
@@ -497,7 +901,7 @@
         "URL Referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "Aviva IGC ESG IA M FI Mult Cred Priv IE": {
+    "JGP ESG INST ADV FC FIA": {
         "Origem Metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -505,7 +909,7 @@
         "Índice": "n/d",
         "Referência ASG": "n/d",
         "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
+        "Relatório ASG": "Não"
     },
     "TREND ESG GLOBAL DOLAR FI MULT": {
         "Origem metodologia ASG": "interna",
@@ -515,88 +919,162 @@
         "Índice": "n/d",
         "Referência ASG": "n/d",
         "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "VOX DESEN SUST IS FI RF CRED PRIV LP": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "investir em títulos de crédito privado de empresas que contribuem para os Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Formulário de Metodologia ASG",
+        "URL Referência ASG": "https://docsend.com/view/fwcuycnczjd68qmz",
         "Relatório ASG": "Não"
     },
-    "BB ASSET AÇÕES NORDEA GLOBAL CLIMATE AND ENVIRONMENT IS IE FC": {
-        "Origem Metodologia ASG": "n/d",
+    "Aviva IGC ESG IA FC FI Mult Cred Priv IE": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "integração ESG",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "SANTANDER ETHICAL AÇÕES SUST IS FI": {
+        "Origem metodologia ASG": "externa",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
         "Método ASG": "n/d",
         "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
+        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa), Comissão de Valores Mobiliários (CVM)",
+        "URL referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
+        "Relatório ASG": "não"
+    },
+    "IT NOW RUSSELL® 1000 GREEN REVENUES 50 FUNDO DE ÍNDICE IS": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "refletir a performance das empresas americanas de elevada capitalização de mercado engajadas na transição para uma economia verde",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "investimento temático"
+        ],
+        "Índice": "FTSE Russell",
+        "Referência ASG": "FTSE Russell",
+        "URL Referência ASG": "https://www.itnow.com.br/reve11/documentos/",
+        "Relatório ASG": "Não"
+    },
+    "ITAU GOVERNANÇA CORPORATIVA ACOES FI IS": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "replicar o Índice de Ações com Governança Corporativa Trade (IGCT) da B3, que atende a critérios adicionais de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "engajamento"
+        ],
+        "Índice": "IGCT da B3",
+        "Referência ASG": "B3",
+        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Relatório ASG": "Não"
+    },
+    "BT P CRED CORP ESG FI RF IS CRED PRIV LP": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda fixa, através de ativos que atendam aos critérios ASG do GESTOR",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL Referência ASG": "https://www.btgpactual.com/asset-management/fundos-abertos/credcorp-esg",
+        "Relatório ASG": "Não"
+    },
+    "BB ETF ÍNDICE DIVERSIDADE B3 INVESTIMENTO SUSTENTÁVEL FUNDO DE ÍNDICE": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "Alocação de recursos em empresas que incorporam boas práticas de diversidade, equidade e inclusão, além de engajamento constante com o provedor da carteira teórica para ampliação da pauta de diversidade.",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "filtro positivo",
+            "engajamento"
+        ],
+        "Índice": "Índice Diversidade B3",
+        "Referência ASG": "B3",
+        "URL Referência ASG": "https://www.bb.com.br/docs/portal/dtvm/metodasgdver11.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BNPP CREDITO INSTITUCIONAL SUSTENTAVEL IS FC DE FI RF CRED PRIV LP": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "mitigação das mudanças climáticas",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
         "Relatório ASG": "Sim"
     },
-    "BRAD FUNDO DE INVESTIMENTO FINANCEIRO RF CRÉD PRIV BAQUARA ESG IS – RESPONSABILIDADE LIMITADA": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
+    "BB AÇÕES ASG BRASIL FC": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em cotas de fundos de investimento que componham uma carteira de ativos financeiros de renda variável relacionados a empresas brasileiras que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança)",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "S&P/B3 BRASIL ESG",
+        "Referência ASG": "S&P/B3 BRASIL ESG",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "JGP ESG SELEÇÃO FC EM AÇÕES": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aderência às práticas e parâmetros estabelecidos para fundos de natureza ASG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Formulário Anbima ASG",
+        "URL Referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/07/Formulario-Anbima-ASG-JGP-INSTITUCIONAL-MASTER-FIA-IS.pdf",
+        "Relatório ASG": "Não"
+    },
+    "BRAM FI RF CRED PRIV IS SUSTENTABILIDADE": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com elevado rating ESG",
+        "Objetivo Geral/Específico": "geral",
         "Método ASG": [
             "filtro positivo"
         ],
         "Índice": "n/d",
         "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/html/pt/fundos-de-investimento.html",
-        "Relatório ASG": "Sim"
-    },
-    "BB TOP AÇÕES DIVERSIDADE IS FIA": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "promover a diversidade através de investimentos em renda variável que reflitam o comportamento do Índice de Diversidade, IDIVERSA B3",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "investimento temático",
-            "engajamento",
-            "integração ESG"
-        ],
-        "Índice": "IDIVERSA B3",
-        "Referência ASG": "B3",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis51681613.pdf",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20Cr%C3%A9dito%20Privado%20IS.pdf",
         "Relatório ASG": "Não"
     },
-    "WRIGHT IMPAC SOCIAL FI MULT CRED PRIV IE IS": {
+    "WA FIA BDR ESG Leaders Hedged Nivel I IS": {
         "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retorno por meio de investimentos em ativos financeiros que tenham como foco a geração de impacto ambiental e/ou social positivos e que promovam o desenvolvimento sustentável",
+        "Objetivo ASG": "investir em empresas norte-americanas de diversos setores econômicos que apresentem rating ASG de excelência (AAA, AA ou A)",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "filtro positivo (\"best-in-class\")",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://www.westernasset.com.br/pt/pdfs/7332_Formulario_Metodologia_ASG.pdf?v=1",
+        "Relatório ASG": "não"
+    },
+    "SULA CRED ASG BB FI FINANCEIRO RF CRED PRIV INVESTIMENTO SUSTENTÁVEL – RESP LIMITADA": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em ativos financeiros e/ou modalidades operacionais que seguem os aspectos ASG",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
             "filtro negativo",
-            "integração ESG",
+            "uso dos métodos de avaliação ASG proprietário",
             "engajamento",
-            "investimentos de impacto"
+            "investimento temático",
+            "filtro positivo"
         ],
         "Índice": "n/d",
-        "Referência ASG": "taxonomia da União Europeia para atividades econômicas sustentáveis",
-        "URL Referência ASG": "https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en",
-        "Relatório ASG": "Não"
-    },
-    "BB ASSET AÇÕES EQUIDADE IS FC FI": {
-        "Origem Metodologia ASG": [
-            "interna",
-            "externa"
-        ],
-        "Objetivo ASG": "promover a equidade de gênero",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "filtro positivo",
-            "engajamento",
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Princípios de Empoderamento Feminino da ONU Mulheres (WEPs)",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "FI RF CRED PRIV IS MÁSTER ESG PREVID": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com elevado rating ESG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo (\"best-in-class\")",
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20Cr%C3%A9dito%20Privado%20IS%20M%C3%A1ster%20ESG%20Previd%C3%AAncia.pdf",
-        "Relatório ASG": "Não"
+        "Referência ASG": "GSIA (Global Sustainable Investment Alliance)",
+        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/governanca/",
+        "Relatório ASG": "Sim"
     },
     "JGP ESG MASTER FIA IS": {
         "Origem Metodologia ASG": "interna",
@@ -612,153 +1090,35 @@
         "URL Referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/02/Formulario-Anbima-JGP-ESG-MASTER-FIA-IS.pdf",
         "Relatório ASG": "Não"
     },
-    "BRASILPREV TOP ASG BRASIL IS FIA": {
-        "Origem Metodologia ASG": "interna e externa",
-        "Objetivo ASG": "promover boas práticas relacionadas aos temas Ambiental, Social e de Governança",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo",
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "S&P/B3 BRASIL ESG",
-        "Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/asg38226078.pdf",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/asg38226078.pdf",
-        "Relatório ASG": "Não"
-    },
-    "Blk ESG M-Asset Adv Master FI Mult IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "SULA PREV CRÉD ESG FIRF CRED PRIV IS": {
+    "BRAD MUL GLO FIX INC ESG USD FI MULT IE": {
         "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade através de investimentos em ativos financeiros que possuam uma utilização de recursos alinhada com as melhores práticas nas questões ambientais, sociais e de governança corporativa",
+        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em diversas classes de ativos financeiros, analisando os fatores de desempenho ambiental, social e de governança corporativa",
         "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "filtro positivo",
-            "investimento temático",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB AÇÕES GOVERNANÇA IS FI": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "promover boas práticas de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "IGC-T divulgado pela B3",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis10418335.pdf",
-        "Relatório ASG": "Não"
-    },
-    "JGP EQ ESG PV ITAUXP FI MULT IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB ESPELHO SULAMÉRICA CRÉDITO ASG FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO FINANCEIRO RENDA FIXA CRED PRIV IS RESP LIMITADA": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em ativos financeiros e/ou modalidades operacionais que seguem os aspectos ASG disponíveis no mercado de renda fixa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "investimento temático",
-            "filtro positivo",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "GSIA (Global Sustainable Investment Alliance)",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis51681664.pdf",
-        "Relatório ASG": "Sim"
-    },
-    "Aviv IGC ESG IDA FC FI Mult Cred Priv IE": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
         "Método ASG": "integração ESG",
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "BRAM FIA EQUITY GREEN BDR NIVEL I IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "restrição a setores controversos como armas pesadas e energia a carvão; avaliação de sustentabilidade das empresas com foco em Governança Corporativa",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "filtro negativo",
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "COMPASS ESG C SEL FI RF CRED PRIV LP IS": {
+    "SCH SUST AÇÕES GLOB USD FC FIA IS IE": {
         "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda variável global, investindo em empresas que atendam aos critérios de sustentabilidade do Gestor",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://www.schroders.com/pt-br/investidores/fundos/#/fund/SCHDR_F000015L6P/schroder-sustentabilidade-aes-globais-usd-fundo-de-investimento-em-cotas-de-fundos-de-investimento-em-aes-is-investimento-no-exterior/BR04RMCTF001/profile",
+        "Relatório ASG": "Não"
+    },
+    "BRASILPREV JGP ESG 100 FC FIA": {
+        "Origem Metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
         "Método ASG": "n/d",
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "https://cgcompass.com/wp-content/uploads/brasil/Compliance/Pol%C3%ADtica%20ESG/Formul%C3%A1rio%20Metodologia%20ASG%20-%20V3%20-%20Final%20052023.pdf",
+        "URL Referência ASG": "n/d",
         "Relatório ASG": "não"
-    },
-    "BRB INVESTIMENTO SUSTENTAVEL FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM ACOES I – RESPONSABILIDADE LIMITADA": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "promover boas práticas de governança corporativa",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "IGC-T",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://novo.brb.com.br/wp-content/uploads/2024/02/Formulario-Metodologia-ASG-BRB-IS.pdf",
-        "Relatório ASG": "Não"
-    },
-    "BB ASSET AÇÕES NORDEA GLOBAL DISRUPTION ESG IE FC": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Sustainable Finance Disclosure Regulation (SFDR)",
-        "URL Referência ASG": "www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis41755418.pdf",
-        "Relatório ASG": "Sim"
-    },
-    "BB ETF ÍNDICE DIVERSIDADE B3 INVESTIMENTO SUSTENTÁVEL FUNDO DE ÍNDICE": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "Alocação de recursos em empresas que incorporam boas práticas de diversidade, equidade e inclusão, além de engajamento constante com o provedor da carteira teórica para ampliação da pauta de diversidade.",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "Índice Diversidade B3",
-        "Referência ASG": "B3",
-        "URL Referência ASG": "https://www.bb.com.br/docs/portal/dtvm/metodasgdver11.pdf",
-        "Relatório ASG": "Não"
     },
     "ITAÚ MOMENTO ESG AÇÕES FI SUSTENTÁVEL": {
         "Origem Metodologia ASG": "interna",
@@ -773,91 +1133,7 @@
         "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
         "Relatório ASG": "Não"
     },
-    "BB TOP AÇOES INDICE SUSTENT EMPR IS FIA": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "promover aspectos de governança corporativa, eficiência econômica, equilíbrio ambiental e justiça social",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "ISE B3",
-        "Referência ASG": "B3",
-        "URL referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis05775731.pdf",
-        "Relatório ASG": "Não"
-    },
-    "PLURAL ESG IS CRED PRIV 45 FC FI RF LP": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://s3.amazonaws.com/genial-documents/investimentos/fundos/docs/finc/FINC_38281169000130.pdf",
-        "Relatório ASG": "Sim"
-    },
-    "FIA IS MÁSTER PREVIDÊNCIA ESG": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com alto nível de sustentabilidade e governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo (\"best-in-class\")"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Bradesco Asset",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20A%C3%A7%C3%B5es%20M%C3%A1ster%20Prev.pdf",
-        "Relatório ASG": "Não"
-    },
-    "JGP BRASILPREV FIFE ESG 100 PREV FIA IS": {
-        "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": [
-            "filtro negativo",
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/07/Formulario-Anbima-JGP-BRASILPREV-FIFE-ESG-100-PREV-FI-EM-ACOES-IS.pdf",
-        "Relatório ASG": "Não"
-    },
-    "ITAÚ ACTIVE FIX ESG CRED PRIV MULT FC": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "buscar a alocação em ativos que apresentem externalidades positivas vinculadas às questões ambientais, sociais e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG",
-            "outros"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Green Bond Principles, Climate Bonds",
-        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
-        "Relatório ASG": "não"
-    },
-    "SAFRA ESTRATÉGIA ASG MASTER II FIA IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "atuar no sentido de propiciar aos seus cotistas valorização de suas cotas mediante aplicação de seus recursos, preponderantemente, em ações de empresas que apresentem altos níveis de governança corporativa e que considerem, tanto em suas decisões estratégicas como no dia a dia de suas operações, as melhores práticas para o desenvolvimento sustentável e preservação do meio ambiente",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "SICREDI ESG IS FIC FIE MULT": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "ISE B3",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Sim"
-    },
-    "CARTEIRA ITAÚ ASSET INT ESG FC MULT IE": {
+    "JGP ESG INSTITUCIONAL FC FIA": {
         "Origem Metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -867,19 +1143,66 @@
         "URL Referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "BB MULT BLACKROCK MULTI-ASSE IE FC FI": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "apreciação de capital através da alocação em diversas classes de ativos disponíveis no mercado global que respeitem os princípios de investimento ASG",
+    "RIO BRAVO ESG IS FC INC INF RF CRED PRIV": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "Investimento Sustentável e engajamento nos fatores ASG nas decisões de investimento e desinvestimento",
         "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Formulário Metodologia ASG",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "JGP ESG PREV XP MASTER FIA IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "aderência do FUNDO às práticas e parâmetros estabelecidos para fundos de natureza ESG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2022/12/Formulario-Anbima-JGP-ESG-PREV-XP-MASTER-FIA-IS.pdf",
+        "Relatório ASG": "Não"
+    },
+    "TAOS ESG FC FI MULT CRED PRIV INVEST SUS": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "ITAÚ AÇÕES GLOBAIS ESG IE FC DE IS": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
         "Método ASG": [
             "integração ESG"
         ],
         "Índice": "n/d",
-        "Referência ASG": "regulação europeia SFDR, BlackRock",
+        "Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
         "URL Referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "BRA P E G F I FC FI MULT CRED PRIV P/V": {
+    "JGP AÇÕES ESG 100 PREV A ICATU S FC FIA": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "JGP ESG INST FC DE FIA – FEEDER IX": {
         "Origem metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -888,94 +1211,6 @@
         "Referência ASG": "n/d",
         "URL referência ASG": "n/d",
         "Relatório ASG": "não"
-    },
-    "JGP EQ ESG PV FI MULT IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "JGP ESG INSTITUCIONAL FC DE FIA ÁGORA": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "SANTANDER PREV ETHICAL 70 SUSTENTABILIDADE MULT IS FC FI": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa)",
-        "URL Referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
-        "Relatório ASG": "Não"
-    },
-    "SULAMERICA CRED ESG FIRF CRED PRIV LP IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "captura diversos aspectos das dimensões ambiental, social e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "uso dos métodos de avaliação ESG proprietário",
-            "engajamento",
-            "investimento temático"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/produtos/fundos-de-investimentos/escolha-seu-fundo/",
-        "Relatório ASG": "Não"
-    },
-    "BRASILPREV JGP ESG 100 FC FIA": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "BRASILPREV PRIVATE ASG FC MULT": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "BB MULT LP ASG FC FI": {
-        "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "buscar uma exposição balanceada em ativos de Renda Fixa e ativos de Renda Variável, direcionada ao mercado financeiro e de capitais nacional e internacional que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança) e que não gerem dano significativo comprometendo o seu objetivo ASG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "integração ESG",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB TOP AÇÕES ASG BRASIL IS FIA": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "promover boas práticas relacionadas aos temas Ambiental, Social e de Governança, proporcionando retornos absolutos no médio e longo prazo",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "S&P/B3 BRASIL ESG",
-        "Referência ASG": "B3 S.A.",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis40911324.pdf",
-        "Relatório ASG": "Não"
     },
     "BRB INVESTIMENTO SUSTENTÁVEL FIC FIA RESPONSABILIDADE LIMITADA": {
         "Origem Metodologia ASG": "interna",
@@ -990,58 +1225,38 @@
         "URL Referência ASG": "https://novo.brb.com.br/wp-content/uploads/2024/02/F02_Formulario-Metodologia-ASG.pdf",
         "Relatório ASG": "Não"
     },
-    "SULAMERICA P C E I M FI RF CRED PRIV IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar aos seus cotistas rentabilidade através de investimentos em ativos financeiros que possuam uma utilização de recursos alinhada com as melhores práticas nas questões ambientais, sociais e de governança corporativa",
+    "BB MULT LP ASG FC FI": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "buscar uma exposição balanceada em ativos de Renda Fixa e ativos de Renda Variável, direcionada ao mercado financeiro e de capitais nacional e internacional que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança) e que não gerem dano significativo comprometendo o seu objetivo ASG",
         "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "filtro positivo",
-            "investimento temático",
-            "engajamento"
-        ],
+        "Método ASG": "integração ESG",
         "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/governanca/",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "SANT ETHICAL AÇÕES SUST SPECIAL IS FC FI": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa), Comissão de Valores Mobiliários (CVM)",
-        "URL referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
-        "Relatório ASG": "Não"
-    },
-    "CONSTELLATION COMPOUN ESG FC FIA ÁGORA": {
-        "Origem Metodologia ASG": "n/d",
+    "BRA P E G F I FC FI MULT CRED PRIV P/V": {
+        "Origem metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
         "Método ASG": "n/d",
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
     },
-    "SULA CRED ASG BB FI FINANCEIRO RF CRED PRIV INVESTIMENTO SUSTENTÁVEL – RESP LIMITADA": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em ativos financeiros e/ou modalidades operacionais que seguem os aspectos ASG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "investimento temático",
-            "filtro positivo",
-            "engajamento"
-        ],
+    "BRAD IS MULT BRL FC FI MULT CRED PRIV IE": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
         "Índice": "n/d",
-        "Referência ASG": "GSIA (Global Sustainable Investment Alliance)",
-        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/governanca/",
-        "Relatório ASG": "Sim"
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "não"
     },
     "SULA CRED INST ESG FI RF CRED PRIV LP IS": {
-        "Origem Metodologia ASG": "interna",
+        "Origem Metodologia ASG": "externa",
         "Objetivo ASG": "captura diversos aspectos das dimensões ambiental, social e de governança corporativa",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
@@ -1054,101 +1269,55 @@
         "Índice": "n/d",
         "Referência ASG": "ANBIMA",
         "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/produtos/fundos-de-investimentos/escolha-seu-fundo/",
-        "Relatório ASG": "Sim"
-    },
-    "TAOS ESG FC FI MULT CRED PRIV INVEST SUS": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "SCHRODER SUST AÇÕES GLOB USD FIA IS IE": {
+    "ITAÚ ACTIVE FIX ESG CRED PRIV MULT FI": {
         "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "investir em empresas que atendam aos critérios de sustentabilidade do Gestor",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.schroders.com/pt-br/br/investidores/fundos/",
-        "Relatório ASG": "Não"
-    },
-    "JGP ESG INST MASTER FIA IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "aderência do FUNDO às práticas e parâmetros estabelecidos para fundos de natureza ASG",
+        "Objetivo ASG": "buscar a alocação em ativos que apresentem externalidades positivas vinculadas às questões ambientais, sociais e de governança corporativa",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
-            "filtro negativo",
+            "integração ESG",
+            "outros"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "Green Bond Principles, Climate Bonds",
+        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Relatório ASG": "Não"
+    },
+    "BB TOP AÇÕES ASG BRASIL IS FIA": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "promover boas práticas relacionadas aos temas Ambiental, Social e de Governança, proporcionando retornos absolutos no médio e longo prazo",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
             "integração ESG",
             "engajamento"
         ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/07/Formulario-Anbima-ASG-JGP-INSTITUCIONAL-MASTER-FIA-IS.pdf",
+        "Índice": "S&P/B3 BRASIL ESG",
+        "Referência ASG": "B3 S.A.",
+        "URL referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis40911324.pdf",
         "Relatório ASG": "Não"
     },
-    "SICREDI ACOES SUSTENT ESG FIC FI IS": {
+    "BNP Paribas Anajé FI RF CRED PRIV IS": {
         "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "investir em fundos que adotem estratégias de investimento sustentável, assegurando a aderência às práticas e parâmetros estabelecidos para fundos classificados como de Investimento Sustentável",
+        "Objetivo ASG": "mitigação das mudanças climáticas",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
+    },
+    "FIA IS MÁSTER PREVIDÊNCIA ESG": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com alto nível de sustentabilidade e governança corporativa",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
             "filtro positivo (\"best-in-class\")",
-            "integração ESG"
-        ],
-        "Índice": "S&P/B3 BRAZIL ESG",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.sicredi.com.br/site/investimentos/fundos-investimentos/sicredi-acoes-sustentaveis-esg/",
-        "Relatório ASG": "Sim"
-    },
-    "GO GLOBAL EQUITY ESG REAIS MULT IE FI": {
-        "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "avaliar os aspectos sociais, ambientais e de governança corporativa das companhias selecionadas",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "integração ESG",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "Trend ETF MSCI USA ESG FI de Indice IE": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "captura grandes e médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade e Governança (ESG)",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "filtro positivo"
-        ],
-        "Índice": "MSCI USA Extended ESG Focus Index",
-        "Referência ASG": "MSCI Inc.",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "SULAMÉRICA PREV JGP 70 ESG FC FI MULT": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://jgp.com.br/esg/conheca-nossa-metodologia",
-        "Relatório ASG": "Sim"
-    },
-    "SAFRA ESTRATÉGIA ASG FC FIA IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "investir em empresas que apresentem altos níveis de governança corporativa e que considerem, tanto em suas decisões estratégicas como no dia a dia de suas operações, as melhores práticas para o desenvolvimento sustentável e preservação do meio ambiente",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
+            "engajamento"
         ],
         "Índice": "n/d",
-        "Referência ASG": "SAFRA",
-        "URL Referência ASG": [
-            "https://www.safra.com.br/investimentos/fundos-de-investimentos/saf-estrat-asg-fic-fia-is.htm",
-            "https://www.safra.com.br/safra-asset/informacoes-relevantes/informacoes-relevantes.htm"
-        ],
+        "Referência ASG": "Bradesco Asset",
+        "URL referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20A%C3%A7%C3%B5es%20M%C3%A1ster%20Prev.pdf",
         "Relatório ASG": "Não"
     },
     "SICREDI PREV MASTER ESG FIE AÇÕES IS": {
@@ -1164,115 +1333,17 @@
         "URL Referência ASG": "https://www.sicredi.com.br/site/previdencia/fundos-investimento/especialmente-constituidos-multimercado-esg/",
         "Relatório ASG": "Sim"
     },
-    "JGP ESG SELEÇÃO FC EM AÇÕES": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "aderência às práticas e parâmetros estabelecidos para fundos ASG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "integração ESG",
-            "engajamento"
-        ],
+    "BRAD IS MUL USD FC FI MULT CRED PRIV IE": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL referência ASG": "https://esg.jgp.com.br/wpcontent/uploads/2023/07/Formulario-Anbima-ASG-JGP-INSTITUCIONAL-MASTER-FIA-IS.pdf",
-        "Relatório ASG": "Não"
-    },
-    "ITAÚ INDEX ESG ENERGIA LIMPA AÇÕES FX IE FC IS": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar seus recursos em cotas de fundos de investimento classificados como “Ações”, que invistam em empresas do setor de energia limpa, promovendo a transição para uma matriz energética mais sustentável",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "investimento temático"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.itauassetmanagement.com.br/insights/investimento-responsavel",
-        "Relatório ASG": "Não"
-    },
-    "WRIGHT IMPACTO II FI MULT CRED PRIV IE IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retorno por meio de investimentos em ativos financeiros que tenham como foco a geração de impacto ambiental e/ou social positivos e que promovam o desenvolvimento sustentável",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "integração ESG",
-            "engajamento",
-            "investimentos de impacto"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "taxonomia da União Europeia para atividades econômicas sustentáveis",
-        "URL referência ASG": "https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en",
-        "Relatório ASG": "Não"
-    },
-    "IT NOW IGCT FUNDO DE INDICE IS": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "manter o índice em linha com o objetivo do fundo, contribuindo positivamente e promovendo o investimento ASG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "engajamento"
-        ],
-        "Índice": "Índice BM&FBOVESPA de Governança Corporativa Trade – IGCT",
-        "Referência ASG": "BM&FBOVESPA",
-        "URL Referência ASG": "https://www.itnow.com.br/gove11/documentos/",
+        "URL referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "RIO BRAVO ESG IS FC INC INF RF CRED PRIV": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "engajamento nos fatores ASG (Ambiental, Social e Governança) nas decisões de investimento e desinvestimento",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "Formulário Metodologia ASG",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Sim"
-    },
-    "WA FIA BDR ESG Leaders Hedged Nivel I IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "investir em empresas norte-americanas de diversos setores econômicos que apresentem rating ASG de excelência (AAA, AA ou A)",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.westernasset.com.br/pt/pdfs/7332_Formulario_Metodologia_ASG.pdf?v=1",
-        "Relatório ASG": "Não"
-    },
-    "BRAD FC FI MULT ESG GLOBAL": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas pelo mercado, analisando os fatores de desempenho ambiental, social e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "integração ESG",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BTG P ESG FI DE INDICE S&P/B3 BR ESG": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "refletir as variações e rentabilidade do Índice S&P/B3 Brazil ESG, antes de taxas e despesas, calculado e administrado pelo Administrador do Índice, observado o disposto no CAPÍTULO V deste Regulamento",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "filtro baseado em normas",
-            "integração ESG"
-        ],
-        "Índice": "S&P/B3 Brazil ESG",
-        "Referência ASG": [
-            "S&P Dow Jones Índices LLC",
-            "Sustainalytics",
-            "SAM",
-            "RepRisk",
-            "Pacto Global da ONU"
-        ],
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "JGP ESG INST ADV FC FIA": {
+    "BRASILPREV PRIVATE ASG FC MULT": {
         "Origem Metodologia ASG": "n/d",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -1282,33 +1353,63 @@
         "URL Referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "ITAÚ ACTIVE FIX ESG CRED PRIV MULT FI": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "buscar a alocação em ativos que apresentem externalidades positivas vinculadas às questões ambientais, sociais e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
+    "SANTANDER PREV ETHICAL 70 SUSTENTABILIDADE MULT IS FC FI": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
         "Índice": "n/d",
-        "Referência ASG": "Green Bond Principles, Climate Bonds",
-        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa)",
+        "URL referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
         "Relatório ASG": "Não"
     },
-    "BB AÇÕES BRL PICT GLOB ENV OPP IS IE FI": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "atribuir capital a empresas com intenção de ter impacto ambiental positivo juntamente com retorno atrativo de risco",
-        "Objetivo Geral/Específico": "específico",
+    "BB ASSET AÇÕES NORDEA GLOBAL CLIMATE AND ENVIRONMENT IS IE FC": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "JGP ESG FC FIA - FEEDER I": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BB AÇÕES GOVERNANÇA IS FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "promover boas práticas de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
         "Método ASG": [
-            "investimento temático",
             "integração ESG",
             "engajamento"
         ],
-        "Índice": "n/d",
-        "Referência ASG": "regulação europeia SFDR",
-        "URL referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis47388362.pdf",
-        "Relatório ASG": "n/d"
+        "Índice": "IGC-T, divulgado pela B3",
+        "Referência ASG": "B3",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis10418335.pdf",
+        "Relatório ASG": "Não"
     },
-    "ITAÚ AÇÕES GLOBAIS ESG IE FC DE IS": {
+    "BB TOP AÇOES INDICE SUSTENT EMPR IS FIA": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "promover aspectos de governança corporativa, eficiência econômica, equilíbrio ambiental e justiça social através de investimentos em renda variável que reflitam o comportamento do Índice de Sustentabilidade Empresarial",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG",
+            "engajamento"
+        ],
+        "Índice": "ISE B3",
+        "Referência ASG": "ISE B3",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis05775731.pdf",
+        "Relatório ASG": "Não"
+    },
+    "ITAÚ AÇÕES GLOBAIS ESG IE FI IS": {
         "Origem Metodologia ASG": "externa",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
@@ -1318,77 +1419,7 @@
         "Índice": "n/d",
         "Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
         "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
-        "Relatório ASG": "Não"
-    },
-    "TREND ESG GLOBAL FI MULT": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "integra questões ESG em sua política de investimento, comprometendo a carteira com o objetivo ESG",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB MULT LP ASG PRIVATE FC FI": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "buscar uma exposição balanceada em ativos de Renda Fixa e ativos de Renda Variável, direcionada ao mercado financeiro e de capitais nacional e internacional que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança) e que não gerem dano significativo",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB AÇÕES DIVERSIDADE IS FC FIA": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "investir em empresas de destaque nos três pilares ASG, integrantes do índice IDIVERSA",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG",
-            "investimento temático"
-        ],
-        "Índice": "IDIVERSA B3",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis51681561.pdf",
-        "Relatório ASG": "Não"
-    },
-    "BB ESPELHO JGP EQUILÍBRIO FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO FINANCEIRO IS RENDA FIXA CRÉDITO PRIVADO LONGO PRAZO RESP LIMITADA": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": [
-            "integração ESG",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis53191473.pdf",
-        "Relatório ASG": "Sim"
-    },
-    "Mirova Glob Sust Equity Adv FIA IE IS": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
         "Relatório ASG": "não"
-    },
-    "BRAD FC FIA ESG GLOBAL BDR NIVEL I": {
-        "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas preponderantemente pelo mercado de renda variável, analisando os fatores de desempenho ambiental, social e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "integração ESG",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
     },
     "BRASILPREV TOP ESG MULT IE FI": {
         "Origem metodologia ASG": "n/d",
@@ -1400,43 +1431,81 @@
         "URL referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "SANTANDER PREV ETHICAL AÇÕES SUST IS FI": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "Boas Práticas de Governança Corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa), Comissão de Valores Mobiliários (CVM)",
-        "URL Referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
-        "Relatório ASG": "Não"
-    },
-    "SULAMERICA P C ESG I FC RF CRED PRIV I S": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar recursos em cotas de fundos de investimento classificados como “Renda Fixa Investimento Sustentável” que busquem proporcionar rentabilidade através de investimentos em ativos financeiros alinhados com as melhores práticas nas questões ambientais, sociais e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro positivo",
-            "investimento temático",
-            "engajamento"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/governanca/",
-        "Relatório ASG": "Não"
-    },
-    "ITAÚ AÇÕES GLOBAIS ESG IE FI IS": {
+    "BRAD FUNDO DE INVESTIMENTO FINANCEIRO RF CRÉD PRIV BAQUARA ESG IS – RESPONSABILIDADE LIMITADA": {
         "Origem Metodologia ASG": "interna",
         "Objetivo ASG": "n/d",
         "Objetivo Geral/Específico": "n/d",
         "Método ASG": [
-            "integração ESG"
+            "filtro positivo"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/artigos/Formulario_Metodologia_ASG_ANBIMA_Baquara.pdf",
+        "Relatório ASG": "Sim"
+    },
+    "JGP EQ ESG PV ITAUXP FI MULT IE": {
+        "Origem metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BLAC ESG GL BON INC IE FIC FI MULT AGORA": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BB TOP MULT ASG FI LP": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "compor exposição balanceada em ativos de Renda Fixa e ativos de Renda Variável, direcionada ao mercado financeiro e de capitais nacional e internacional que adotem boas práticas quanto aos critérios ASG (Ambiental, Social e Governança) e que não gerem dano significativo comprometendo o seu objetivo ASG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": "integração ESG",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL referência ASG": "n/d",
+        "Relatório ASG": "Não"
+    },
+    "BNPP Master Fdo Inc Inv Infra RF Sust IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar a seus cotistas valorizações de suas cotas através de um processo de investimento sustentável que tem por objetivo a mitigação das mudanças climáticas",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
+    },
+    "BRASILPREV TOP EST JGP ESG 100 FC FIA": {
+        "Origem Metodologia ASG": "n/d",
+        "Objetivo ASG": "n/d",
+        "Objetivo Geral/Específico": "n/d",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "não"
+    },
+    "ITAÚ INDEX ESG ENERGIA LIMPA AÇÕES FX IE FC IS": {
+        "Origem metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em cotas de fundos de investimento classificados como “Ações”, que invistam em empresas do setor de energia limpa, tais como solar, eólica e outras fontes de energia renováveis, promovendo a transição para uma matriz energética mais sustentável",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
+            "investimento temático"
         ],
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "URL referência ASG": "https://www.itauassetmanagement.com.br/insights/investimento-responsavel",
         "Relatório ASG": "Não"
     },
-    "BNPP Bradesco FC Fdo Incent Inv Infra Deb Incentivada RF Sustentavel IS": {
+    "BNPP FC Fdos Incent Inv Infra RF Sustentavel IS": {
         "Origem Metodologia ASG": "interna",
         "Objetivo ASG": "mitigação das mudanças climáticas",
         "Objetivo Geral/Específico": "específico",
@@ -1446,181 +1515,76 @@
         "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
         "Relatório ASG": "Sim"
     },
-    "BRASILPREV TOP EST JGP ESG 100 FC FIA": {
-        "Origem metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "JGP ESG AÇÕES 100 PREV XP SEG FC FIA": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "B P FEE L E E U C D FI MULT CRED PRIV IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "BRAD IS MULTIMAN EQUI USD FC DE FIA IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "BRAD MUL GLO FIX INC ESG USD FI MULT IE": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em diversas classes de ativos financeiros, analisando os fatores de desempenho ambiental, social e de governança corporativa",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": "integração ESG",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "BB MULT BRL ALLSPRING CLI TRA IS IE FI": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "alcançar a descarbonização total do portfólio até 2050 e investir em empresas em avançado processo de transição climática",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis47388308.pdf",
-        "Relatório ASG": "não"
-    },
-    "BNP PARIBAS STRATEGIE FIA SUS IS": {
-        "Origem metodologia ASG": "interna",
-        "Objetivo ASG": "proporcionar a seus cotistas valorizações de suas cotas através de um processo de investimento sustentável que visa a mitigação das mudanças climáticas e promoção de uma sociedade mais justa e inclusiva",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "ISE",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "https://bnpp.lk/strategie",
-        "Relatório ASG": "não"
-    },
-    "BB MULT BLACKROCK MULTI-ASSE ESG IE FI": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "agregar rentabilidade aos recursos investidos pelos cotistas servindo-se, preponderantemente, de oportunidades oferecidas no mercado financeiro no exterior, por meio de fundos de investimento geridos pela BlackRock que busquem apreciação de capital através da alocação em diversas classes de ativos disponíveis no mercado global que respeitem os princípios de investimento ASG do fundo",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "integração ESG"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "regulação europeia SFDR",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "JGP AÇÕES ESG 100 PREV A ICATU S FC FIA": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "JGP ESG INSTITUCIONAL FC FIA": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "Mirova Glob Sust Eqt Dol Adv M FIA IE IS": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "JGP AÇÕES ESG 100 PREV ICATU SEG FC FIA": {
-        "Origem metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
     "ITAÚ ESG ENERGIA LIMPA IE FIA IS": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar seus recursos em ativos financeiros de empresas do setor de energia limpa, tais como solar, eólica e outras fontes de energia renováveis, promovendo a transição para uma matriz energética mais sustentável",
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em ativos financeiros de empresas do setor de energia limpa, promovendo a transição para uma matriz energética mais sustentável",
         "Objetivo Geral/Específico": "específico",
         "Método ASG": [
             "investimento temático"
         ],
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
         "Relatório ASG": "Não"
     },
-    "Trend ETF MSCI Em Mkts ESG FI Indice IE": {
+    "SAFRA ESTRATÉGIA ASG FC FIA IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "investir em empresas que apresentem altos níveis de governança corporativa e que considerem, tanto em suas decisões estratégicas como no dia a dia de suas operações, as melhores práticas para o desenvolvimento sustentável e preservação do meio ambiente",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "SAFRA SERVIÇOS DE ADMINISTRAÇÃO FIDUCIÁRIA LTDA.",
+        "URL Referência ASG": [
+            "https://www.safra.com.br/investimentos/fundos-de-investimentos/saf-estrat-asg-fic-fia-is.htm",
+            "https://www.safra.com.br/safra-asset/informacoes-relevantes/informacoes-relevantes.htm"
+        ],
+        "Relatório ASG": "Não"
+    },
+    "BTG P ESG FI DE INDICE S&P/B3 BR ESG": {
         "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "captura grandes e médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade e Governança (ESG), listadas nas bolsas de valores em países emergentes",
+        "Objetivo ASG": "refletir as variações e rentabilidade do Índice S&P/B3 Brazil ESG, antes de taxas e despesas, calculado e administrado pelo Administrador do Índice",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
             "filtro negativo",
-            "filtro positivo"
+            "filtro baseado em normas",
+            "integração ESG"
         ],
-        "Índice": "MSCI Emerging Markets Extended ESG Focus Index",
-        "Referência ASG": "MSCI Inc.",
+        "Índice": "S&P/B3 Brazil ESG",
+        "Referência ASG": [
+            "S&P Dow Jones Índices LLC",
+            "Sustainalytics",
+            "SAM"
+        ],
         "URL Referência ASG": "n/d",
         "Relatório ASG": "Não"
     },
-    "BRAM FIA IS SUST EMPRESARIAL 2": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retornos por meio de investimentos no mercado de ações de empresas com alto nível de sustentabilidade e governança corporativa",
+    "JGP ESG PREVIDENCIÁRIO MASTER FIA IS": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "aderência do FUNDO às práticas e parâmetros estabelecidos para fundos de natureza ASG",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
-            "filtro positivo (\"best-in-class\")",
+            "filtro negativo",
+            "integração ESG",
             "engajamento"
         ],
         "Índice": "n/d",
         "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
+        "URL referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/04/Formulario-Anbima-JGP-ESG-PREV-MASTER-FIA-IS.pdf",
         "Relatório ASG": "Não"
     },
-    "BRADESCO H FI DE AÇÕES IS SRI": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retornos por meio de investimentos preponderantemente em carteira de ações de empresas com alto nível de sustentabilidade e governança corporativa",
-        "Objetivo Geral/Específico": "geral",
+    "BB TOP AÇÕES DIVERSIDADE IS FIA": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "promover a diversidade através de investimentos em renda variável que reflitam o comportamento do Índice de Diversidade, IDIVERSA B3",
+        "Objetivo Geral/Específico": "específico",
         "Método ASG": [
             "integração ESG",
-            "filtro positivo (\"best-in-class\")"
+            "engajamento"
         ],
-        "Índice": "ISE B3",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20%20H%20Fundo%20de%20Investimento%20de%20a%C3%A7%C3%B5es%20IS%20SRI.pdf",
+        "Índice": "IDIVERSA B3",
+        "Referência ASG": "B3",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis51681613.pdf",
         "Relatório ASG": "Não"
     },
     "ÁGORA P E G F I P/V FC FI MULT CRED PRI": {
@@ -1633,102 +1597,116 @@
         "URL referência ASG": "n/d",
         "Relatório ASG": "não"
     },
-    "Trend ETF MSCI EAFE ESG FI de Indice IE": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "capturar grandes e médias empresas com exposição à fatores positivos relacionados ao Meio Ambiente, Sociedade e Governança (ESG)",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "filtro negativo",
-            "filtro positivo"
-        ],
-        "Índice": "MSCI EAFE Extended ESG Focus Index",
-        "Referência ASG": "MSCI Inc.",
-        "URL referência ASG": "n/d",
-        "Relatório ASG": "Não"
-    },
-    "ITAU GOVERNANÇA CORPORATIVA ACOES FI IS": {
-        "Origem Metodologia ASG": "externa",
-        "Objetivo ASG": "aplicar recursos em ativos financeiros que repliquem o Índice de Ações com Governança Corporativa Trade (IGCT) da B3, atendendo a critérios adicionais de governança",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
-            "engajamento"
-        ],
-        "Índice": "IGCT da B3",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
-        "Relatório ASG": "Não"
-    },
-    "SANTANDER ETHICAL AÇÕES SUST IS FI": {
-        "Origem metodologia ASG": "externa",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "Bolsa de Valores de São Paulo (Novo Mercado e Níveis 1 e 2 de Governança Corporativa), Comissão de Valores Mobiliários (CVM)",
-        "URL referência ASG": "https://www.santanderassetmanagement.com.br/investimento-responsavel/esg",
-        "Relatório ASG": "Não"
-    },
-    "BNPP FC Fdos Incent Inv Infra RF Sustentavel IS": {
+    "BNPP INSTI FC DE FUNDOS INC DE INVEST EM INFRA RF SUSTENTÁVEL IS": {
         "Origem Metodologia ASG": "interna",
         "Objetivo ASG": "mitigação das mudanças climáticas",
         "Objetivo Geral/Específico": "específico",
-        "Método ASG": [
-            "integração ESG"
-        ],
+        "Método ASG": "n/d",
         "Índice": "n/d",
         "Referência ASG": "Anbima",
         "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
         "Relatório ASG": "Sim"
     },
-    "Blackrock FIA Globais ESG IE": {
-        "Origem Metodologia ASG": "n/d",
-        "Objetivo ASG": "n/d",
-        "Objetivo Geral/Específico": "n/d",
-        "Método ASG": "n/d",
-        "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "n/d",
-        "Relatório ASG": "não"
-    },
-    "BRAD FI RF CRED PRIV LP IS PERF SRI 20": {
+    "BB AÇÕES EQUIDADE IS FI": {
         "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "capturar retornos por meio de investimentos em cotas de Fundos de Investimentos Sustentáveis, que invistam em empresas com elevado rating ESG",
-        "Objetivo Geral/Específico": "geral",
+        "Objetivo ASG": "promover a equidade de gênero e proporcionar retornos absolutos no médio e longo prazo",
+        "Objetivo Geral/Específico": "específico",
         "Método ASG": [
-            "filtro positivo"
-        ],
-        "Índice": "n/d",
-        "Referência ASG": "ANBIMA",
-        "URL Referência ASG": "https://www.cognitoforms.com/ANBIMA/FormulárioMetodologiaASG#RVLP8HQMquU4iPNE9euhb3PY7M1jYt-QrtI2x4jKuGQ$",
-        "Relatório ASG": "Não"
-    },
-    "BRAD MULTI GLOBAL EQ ESG USD FIA IE": {
-        "Origem Metodologia ASG": [
-            "interna",
-            "externa"
-        ],
-        "Objetivo ASG": "proporcionar aos seus Cotistas rentabilidade por meio das oportunidades oferecidas no mercado de renda variável através de fundos no exterior de ações globais que por sua vez invistam em empresas que seguem práticas sustentáveis e éticas",
-        "Objetivo Geral/Específico": "geral",
-        "Método ASG": [
+            "filtro positivo",
+            "engajamento",
             "integração ESG"
         ],
         "Índice": "n/d",
-        "Referência ASG": "Bradesco Asset Management",
-        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Anbima%20Formul%C3%A1rio%20Metodologia%20ASG_Glb%20Eq%20ESG%20FIA.pdf",
-        "Relatório ASG": "Não"
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
     },
-    "JGP ESG PREVIDENCIÁRIO MASTER FIA IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "aderência do FUNDO às práticas e parâmetros estabelecidos para fundos de natureza ASG",
+    "BB MULTIMERCADO BRL BLACKROCK MULTI-ASSET ESG INVESTIMENTO NO EXTERIOR FUNDO DE INVESTIMENTO FINANCEIRO RESPONSABILIDADE LIMITADA": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "agregar rentabilidade aos recursos investidos pelos cotistas servindo-se, preponderantemente, de oportunidades oferecidas no mercado financeiro no exterior, por meio de fundos de investimento financeiros geridos pela BlackRock que busquem apreciação de capital através da alocação em diversas classes de ativos disponíveis no mercado global que respeitem os princípios de investimento ASG do fundo, investindo em ativos temáticos, com alto rating ESG, além de aplicar filtros de exclusão para seleção dos ativos.",
         "Objetivo Geral/Específico": "geral",
         "Método ASG": [
             "filtro negativo",
+            "investimento temático",
+            "integração ESG"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "SFDR(Sustainable Finance Disclosure Regulation)",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "ACCESS EQUITY WORLD FIA - IE SUS IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "reduzir as emissões de gases de efeito estufa, respeitando os direitos humanos e os direitos dos acionistas minoritários",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "n/d",
+        "Índice": "n/d",
+        "Referência ASG": "Anbima",
+        "URL Referência ASG": "https://www.bnpparibas-am.com/pt-br/institucional/sustentabilidade/",
+        "Relatório ASG": "Sim"
+    },
+    "ITAÚ INDEX ESG ÁGUA AÇÕES FX IE FC DE IS": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "aplicar seus recursos em cotas de fundos de investimento classificados como “Ações”, que invistam em empresas globais que estejam aderentes à dimensão 6 (água potável e saneamento) dos Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas com objetivo de garantir a disponibilidade e gestão sustentável de água e saneamento para todos",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": "investimento temático",
+        "Índice": "n/d",
+        "Referência ASG": "n/d",
+        "URL Referência ASG": "https://www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Relatório ASG": "Não"
+    },
+    "SICREDI ACOES SUSTENT ESG FIC FI IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "investir em fundos que adotem estratégias de investimento sustentável, assegurando aderência às práticas e parâmetros estabelecidos para fundos classificados como de Investimento Sustentável",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "Best in Class",
+            "integração ASG"
+        ],
+        "Índice": "S&P/B3 BRAZIL ESG",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "n/d",
+        "Relatório ASG": "Sim"
+    },
+    "SULAMERICA P C E I M FI RF CRED PRIV IS": {
+        "Origem Metodologia ASG": "interna",
+        "Objetivo ASG": "proporcionar aos seus cotistas rentabilidade através de investimentos em ativos financeiros alinhados com as melhores práticas nas questões ambientais, sociais e de governança corporativa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo",
+            "investimento temático",
+            "engajamento"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "https://www.sulamericainvestimentos.com.br/governanca/",
+        "Relatório ASG": "Não"
+    },
+    "BB ESPELHO SULAMÉRICA CRÉDITO ASG FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO FINANCEIRO RENDA FIXA CRED PRIV IS RESP LIMITADA": {
+        "Origem metodologia ASG": "interna",
+        "Objetivo ASG": "buscar retorno aos seus Cotistas através de investimentos em ativos financeiros e/ou modalidades operacionais que seguem os aspectos ASG disponíveis no mercado de renda fixa",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro negativo",
+            "investimento temático",
+            "filtro positivo"
+        ],
+        "Índice": "n/d",
+        "Referência ASG": "GSIA (Global Sustainable Investment Alliance)",
+        "URL referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis51681664.pdf",
+        "Relatório ASG": "Sim"
+    },
+    "BB AÇÕES BRL PICT GLOB ENV OPP IS IE FI": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "atribuir capital a empresas com intenção de ter impacto ambiental positivo juntamente com retorno atrativo de risco",
+        "Objetivo Geral/Específico": "específico",
+        "Método ASG": [
             "integração ESG",
             "engajamento"
         ],
         "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "https://esg.jgp.com.br/wp-content/uploads/2023/04/Formulario-Anbima-JGP-ESG-PREV-MASTER-FIA-IS.pdf",
+        "Referência ASG": "regulação europeia SFDR, Artigo 9",
+        "URL Referência ASG": "https://www.bb.com.br/docs/pub/siteEsp/dtvm/dwn/mis47388362.pdf",
         "Relatório ASG": "Não"
     },
     "ITAÚ MOMENTO ESG AÇÕES FC IS": {
@@ -1744,14 +1722,17 @@
         "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
         "Relatório ASG": "Não"
     },
-    "ITAÚ ESG H2O AÇÕES IE FI IS": {
-        "Origem Metodologia ASG": "interna",
-        "Objetivo ASG": "aplicar seus recursos em ativos financeiros que invistam em empresas globais que estejam aderentes à dimensão 6 (água potável e saneamento) dos Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas com objetivo de garantir a disponibilidade e gestão sustentável de água e saneamento para todos",
-        "Objetivo Geral/Específico": "específico",
-        "Método ASG": "investimento temático",
+    "FI RF CRED PRIV IS MÁSTER ESG PREVID": {
+        "Origem Metodologia ASG": "externa",
+        "Objetivo ASG": "capturar retornos por meio de investimentos em empresas com elevado rating ESG",
+        "Objetivo Geral/Específico": "geral",
+        "Método ASG": [
+            "filtro positivo (\"best-in-class\")",
+            "integração ESG"
+        ],
         "Índice": "n/d",
-        "Referência ASG": "n/d",
-        "URL Referência ASG": "www.itauassetmanagement.com.br/insights/investimento-responsavel",
+        "Referência ASG": "ANBIMA",
+        "URL Referência ASG": "https://www.bradescoasset.com.br/bram/static_files/assets/pdf/Formul%C3%A1rio%20Metodologia%20ASG%20-%20ANBIMA%20-%20Cr%C3%A9dito%20Privado%20IS%20M%C3%A1ster%20ESG%20Previd%C3%AAncia.pdf",
         "Relatório ASG": "Não"
     }
 }

@@ -8,7 +8,7 @@ CNPJ n.º 44.977.584/0001-25
  
 BTG Pactual 
 SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-1 de 21 
+1 de 22 
  
  
 CAPÍTULO I 
@@ -20,9 +20,18 @@ organizado sob a forma de condomínio aberto, com prazo indeterminado de duraç�
 exercício social terminará no último dia útil do mês de dezembro de cada ano, nos termos 
 da Instrução CVM n.º 555, de 17 de dezembro de 2014 (“ICVM 555”). 
  
-Parágrafo Único – O FUNDO destina-se a receber aplicações de investidores pessoas 
+Parágrafo Primeiro – O FUNDO destina-se a receber aplicações de investidores pessoas 
 físicas e/ou jurídicas em geral, bem como de fundos de investimento (individualmente, 
 apenas “Cotista”, e quando tomados coletivamente denominados “Cotistas”). 
+ 
+Parágrafo Segundo – O FUNDO observa, no que diz respeito às modalidades de 
+investimento, as vedações estabelecidas pela Resolução do CMN nº 4.994/22 do CMN e 
+alterações posteriores (“Resolução 4.994/22”), porém não os limites de alocação e 
+concentração, não havendo responsabilidade 
+e/ou 
+compromisso por parte do 
+ADMINISTRADOR e/ou do GESTOR, com o efetivo enquadramento do cotista que a alguma 
+delas ela esteja sujeito. 
  
 CAPÍTULO II 
 DOS PRESTADORES DE SERVIÇOS 
@@ -36,23 +45,16 @@ CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como
 administradora de carteira, de acordo com o Ato Declaratório CVM número 8.695, de 20 de 
 março de 2006. 
  
-(ii) GESTOR: Vox Capital Gestão De Recursos S.A.          , inscrito no CNPJ/MF sob o 
-número 10.814.751/0001-03, com sede na Cidade de São Paulo e Estado de São Paulo, na 
-Rua Fradique Coutinho, 212, Pinheiros, devidamente autorizado à prestação dos serviços 
-de administração de carteira de títulos e valores mobiliários por meio do Ato Declaratório 
+(ii) GESTOR: Vox Capital Gestão De Recursos S.A., inscrito no CNPJ/MF sob o número 
+10.814.751/0001-03, com sede na Cidade de São Paulo e Estado de São Paulo, na Rua 
+Fradique Coutinho, 212, Pinheiros, devidamente autorizado à prestação dos serviços de 
+administração de carteira de títulos e valores mobiliários por meio do Ato Declaratório 
 número 14.107, expedido em 23 de fevereiro de 2015. A gestão da carteira do FUNDO é a 
 gestão profissional, conforme estabelecido no seu regulamento, dos ativos financeiros dela 
 integrantes, tendo poderes para (i) negociar, em nome do FUNDO, os ativos financeiros que 
 compõem a sua carteira; e (ii) exercer o direito de voto decorrente dos ativos financeiros 
 detidos pelo FUNDO, realizando todas as demais ações necessárias para tal exercício, 
 observado o disposto no presente Regulamento. 
- 
-(iii) CUSTÓDIA E TESOURARIA: Banco BTG Pactual S.A., instituição financeira, com sede 
-na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, n. º 501, 5º andar 
-(parte), Torre Corcovado, Botafogo, CEP 22250-040, Brasil, e inscrita no CNPJ/MF sob o 
-número 30.306.294/0001-45, devidamente credenciado na CVM como custodiante, de 
-acordo com o Ato Declaratório número 7.204, de 25 de abril de 2003 (“CUSTODIANTE”). 
- 
  
  
 Regulamento 
@@ -63,7 +65,14 @@ CNPJ n.º 44.977.584/0001-25
  
 BTG Pactual 
 SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-2 de 21 
+2 de 22 
+ 
+ 
+(iii) CUSTÓDIA E TESOURARIA: Banco BTG Pactual S.A., instituição financeira, com sede 
+na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, n. º 501, 5º andar 
+(parte), Torre Corcovado, Botafogo, CEP 22250-040, Brasil, e inscrita no CNPJ/MF sob o 
+número 30.306.294/0001-45, devidamente credenciado na CVM como custodiante, de 
+acordo com o Ato Declaratório número 7.204, de 25 de abril de 2003 (“CUSTODIANTE”). 
  
 (iv) CONTROLADORIA E ESCRITURAÇÃO: BTG Pactual Serviços Financeiros S.A. 
 DTVM, anteriormente qualificada. 
@@ -102,11 +111,6 @@ quanto à segurança, rentabilidade e liquidez dos títulos componentes da carte
 Artigo 5º - O FUNDO poderá aplicar seus recursos em qualquer ativo financeiro permitido 
 pela regulamentação em vigor e pelo presente Regulamento. 
  
-Parágrafo Primeiro – O FUNDO obedecerá aos seguintes limites em relação ao seu 
-patrimônio líquido: 
- 
-LIMITES POR EMISSOR 
- 
  
 Regulamento 
 VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
@@ -116,8 +120,13 @@ CNPJ n.º 44.977.584/0001-25
  
 BTG Pactual 
 SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-3 de 21 
+3 de 22 
  
+ 
+Parágrafo Primeiro – O FUNDO obedecerá aos seguintes limites em relação ao seu 
+patrimônio líquido: 
+ 
+LIMITES POR EMISSOR 
 ATIVO 
 PERCENTUAL 
 (em 
@@ -135,9 +144,9 @@ Pessoas Físicas, desde que contem com cobertura integral de
 seguro, coobrigação integral de instituição financeira ou 
 pessoa jurídica com balanço auditado ou carta fiança emitida 
 por instituição financeira 
-Até 5% 
+Vedado 
 Outras Pessoas Jurídicas de Direito Privado 
-Até 5% 
+Vedado 
 Renda Variável (Ações, bônus ou recibos de subscrição, 
 cotas de fundos de investimento de ações e cotas de fundos 
 de investimento de índice de ações e BDR níveis II e III) 
@@ -167,7 +176,7 @@ ao
 patrimônio 
 líquido do fundo) 
 contratos derivativos, exceto se referenciados nos ativos 
-listados abaixo 
+listados abaixo      
 Até 100%      
 títulos de emissão ou coobrigação de instituição financeira 
 autorizada a funcionar pelo Banco Central do Brasil 
@@ -185,6 +194,18 @@ lastreadas nestes títulos
 Sem Limites 
  
  
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+4 de 22 
+ 
 cotas de fundos de investimento em cotas de fundos de 
 investimento destinados exclusivamente a investidores 
 profissionais 
@@ -196,18 +217,6 @@ ICVM
 555, 
 administrados pela ADMINISTRADORA 
 Até 5% 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-4 de 21 
- 
 cotas de fundos de investimento em cotas de fundos de 
 investimento destinados exclusivamente a investidores 
 profissionais 
@@ -258,12 +267,6 @@ administrados pela ADMINISTRADORA
 cotas de fundos de índice admitidos à negociação em 
 mercado organizado 
 ações 
-Cotas de fundo de índice local atrelado a moedas digitais 
-(“Ativos Digitais”) 
-Vedado 
- 
-Parágrafo Segundo – O FUNDO respeitará ainda os seguintes limites: 
- 
  
  
 Regulamento 
@@ -274,7 +277,13 @@ CNPJ n.º 44.977.584/0001-25
  
 BTG Pactual 
 SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-5 de 21 
+5 de 22 
+ 
+Cotas de fundo de índice local atrelado a moedas digitais 
+(“Ativos Digitais”) 
+Vedado 
+ 
+Parágrafo Segundo – O FUNDO respeitará ainda os seguintes limites: 
  
  
 PERCENTUAL (em relação ao patrimônio 
@@ -283,7 +292,7 @@ OPERAÇÕES
 EM 
 MERCADO 
 DE 
-DERIVATIVOS 
+DERIVATIVOS (1) 
  
  
 ATÉ 100% 
@@ -299,13 +308,26 @@ OPERAÇÕES
 QUE 
 GEREM 
 ALAVANCAGEM AO FUNDO 
-SIM 
+NÃO 
 MARGEM 
-ATÉ 100% 
+ATÉ 15% 
 Emprestar ativos financeiros 
 Até 100% 
 Tomar ativos financeiros em empréstimo 
-Até 100% 
+Vedado 
+(1) ESTE FUNDO PODERÁ APLICAR SEUS RECURSOS EM FUNDOS DE 
+INVESTIMENTO QUE REALIZEM OPERAÇÕES NO MERCADO DE DERIVATIVOS, 
+desde que respeite as seguintes condições: (a) Obrigatoriedade de registro da operação 
+ou negociação em bolsa de valores ou de mercadorias e futuros ou em mercado de balcão 
+organizado; (b) A atuação deve ser feita em câmaras e prestadores de serviços de 
+compensação e de liquidação como contraparte central garantidora da operação; (c) A 
+margem requerida limitada a 15% (quinze por cento) da posição em títulos da dívida pública 
+mobiliária federal, ativos financeiros de emissão de instituição financeira e ações aceitos 
+pela Clearing, sendo que não serão considerados os títulos recebidos como lastro em 
+operações compromissadas, conforme previsto pela Resolução 4.994/22; e (d) O valor total 
+dos prêmios de opções pagos limitado a 5% (cinco por cento) da posição em títulos da 
+dívida pública mobiliária federal, ativos financeiros de emissão de instituição financeira e 
+ações da carteira de cada plano ou fundo de investimento. 
  
 Parágrafo Terceiro – O FUNDO poderá, a critério do GESTOR, contratar quaisquer 
 operações onde figurem como contraparte direta ou indiretamente a ADMINISTRADORA, o 
@@ -313,6 +335,18 @@ GESTOR ou as suas empresas controladoras, controladas, coligadas e/ou subsidiár
 controle comum, bem como quaisquer carteiras, fundos de investimento e/ou clubes de 
 investimento administrados pela ADMINISTRADORA, GESTOR, ou pelas demais pessoas 
 acima referidas. 
+ 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+6 de 22 
  
 Parágrafo Quarto – O FUNDO PODE ESTAR EXPOSTO A SIGNIFICATIVA 
 CONCENTRAÇÃO EM ATIVOS FINANCEIROS DE POUCOS EMISSORES, COM OS 
@@ -325,14 +359,38 @@ EXCEDAM 50% DO PATRIMÔNIO LÍQUIDO DO FUNDO. O FUNDO ESTARÁ SUJEITO A
 SIGNIFICATIVAS PERDAS EM CASO DE NÃO PAGAMENTO DE TAIS ATIVOS E/OU 
 MODALIDADES OPERACIONAIS. 
  
-CAPÍTULO IV 
-DA REMUNERAÇÃO 
+Parágrafo Quinto – Caberá ao próprio cotista, sujeito à Resolução 4.994, o controle e a 
+consolidação de seus investimentos mantidos no FUNDO com os demais investimentos por 
+ele detidos por meio de sua carteira própria ou por meio de outros fundos que não estejam 
+sob administração da ADMINISTRADORA, cabendo exclusivamente ao referido cotista 
+assegurar que a totalidade de seus recursos estão em consonância com a Resolução 
+4.994/22, não cabendo à ADMINISTRADORA e/ou GESTOR a responsabilidade pela 
+observância de quaisquer outros limites, condições ou restrições que não aqueles 
+expressamente definidos neste Regulamento. 
  
-Artigo 6º – A remuneração total paga pelo FUNDO pelos serviços de administração 
-fiduciária será equivalente a um percentual anual de 0,40% (quarenta centésimos por cento) 
-sobre o valor do patrimônio líquido do FUNDO, podendo ser acrescida da taxa de 
-administração dos fundos de investimento ou fundos de investimento em cotas de fundo de 
-investimento em que o FUNDO invista, atingindo, contudo, no máximo, o percentual anual 
+Parágrafo Sexto – É vedado a este FUNDO direta ou indiretamente: 
+ 
+(i) Realizar operações de compra e venda, ou qualquer outra forma de troca de ativos 
+entre planos de uma mesma EFPC; 
+ 
+(ii) Realizar operações de crédito, inclusive com suas patrocinadoras, ressalvados 
+os casos expressamente previstos no art. 25 da Resolução 4.994/22; 
+ 
+(iii) Aplicar em ativos financeiros de emissão de pessoas físicas; 
+ 
+(iv) Aplicar em ativos financeiros de emissão de sociedades limitadas, ressalvados 
+os casos expressamente previstos pela Resolução 4.994/22; 
+ 
+(v) Manter posições em mercados derivativos: (a) a descoberto; ou (b) que gerem 
+possibilidade de perda superior ao valor do patrimônio da carteira ou do fundo de 
+investimento ou que obriguem ao cotista aportar recursos adicionais para cobrir o 
+prejuízo do fundo; 
+ 
+(vi) Realizar operações de compra e venda de um mesmo ativo financeiro em um 
+mesmo dia (operações day trade), excetuadas as realizadas em plataforma 
+eletrônica ou em bolsa de valores ou de mercadorias e futuros devidamente 
+justificadas em relatório atestado pelo AETQ;  
+ 
  
  
 Regulamento 
@@ -343,8 +401,29 @@ CNPJ n.º 44.977.584/0001-25
  
 BTG Pactual 
 SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-6 de 21 
+7 de 22 
  
+(vii) Aplicar no exterior, ressalvados os casos expressamente previstos pela 
+Resolução 4.994/22; 
+ 
+(viii) Prestar fiança, aval, aceite ou coobrigar-se de qualquer forma; 
+ 
+(ix) Locar, emprestar, tomar emprestado, empenhar ou caucionar ativos financeiros, 
+exceto nas seguintes hipóteses: (a) depósito de garantias em operações com 
+derivativos; e (b) operações de empréstimos de ativos financeiros, nos termos do art. 
+29 da Resolução 4.994/22;  
+ 
+(x) As operações compromissadas devem ser lastreadas em títulos da dívida pública 
+mobiliária federal interna. 
+ 
+CAPÍTULO IV 
+DA REMUNERAÇÃO 
+ 
+Artigo 6º – A remuneração total paga pelo FUNDO pelos serviços de administração 
+fiduciária será equivalente a um percentual anual de 0,40% (quarenta centésimos por cento) 
+sobre o valor do patrimônio líquido do FUNDO, podendo ser acrescida da taxa de 
+administração dos fundos de investimento ou fundos de investimento em cotas de fundo de 
+investimento em que o FUNDO invista, atingindo, contudo, no máximo, o percentual anual 
 de 0,40% (quarenta centésimos por cento) (“Taxa de Administração”). A Taxa de 
 Administração será rateada entre os diversos prestadores de serviços ao FUNDO, na forma 
 entre eles ajustada, com exceção dos serviços de custódia e tesouraria, que possuirão 
@@ -368,6 +447,18 @@ ser paga mensalmente, por períodos vencidos, até o 5º (quinto) dia útil do m
  
 Parágrafo Quarto – Não será cobrada taxa de ingresso ou saída dos Cotistas do FUNDO. 
  
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+8 de 22 
+ 
+ 
 Artigo 7º – Não será cobrada taxa de performance do FUNDO. 
  
 CAPÍTULO V 
@@ -388,18 +479,6 @@ entendido o horário de fechamento dos mercados em que o FUNDO atue.
  
 Artigo 9º – A cota do FUNDO não pode ser objeto de cessão ou transferência, salvo por 
 decisão judicial ou arbitral, operações de cessão fiduciária, execução de garantia ou 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-7 de 21 
- 
 sucessão universal, dissolução de sociedade conjugal ou união estável por via judicial ou 
 escritura pública que disponha sobre a partilha de bens ou transferência de administração 
 ou portabilidade de planos de previdência. 
@@ -423,6 +502,18 @@ Parágrafo Terceiro – Os titulares estão cientes de que, nas assembleias em q
 um titular esteja presente e haja divergência de entendimentos entre si, não haverá exercício 
 de voto se não chegarem a um consenso, devendo ser registrada abstenção. 
  
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+9 de 22 
+ 
+ 
 Artigo 10 – A aplicação e o resgate de cotas do FUNDO podem ser efetuados por meio de 
 débito e crédito em conta corrente, Documento de Ordem de Crédito - DOC, Transferência 
 Eletrônica Disponível – TED, B3 S.A. – Brasil, Bolsa, Balcão ou qualquer outro sistema de 
@@ -443,18 +534,6 @@ solicitação do resgate (D+5), desde que a mesma se dê dentro do horário esta
 periodicamente, pela ADMINISTRADORA, sem a cobrança de taxas e/ou despesa. Caso a 
 conversão ocorra em um dia que não seja dia útil, utilizaremos a cota do dia útil subsequente 
 (“Data da Conversão”);  
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-8 de 21 
- 
       
  
 II – o pagamento do resgate deverá ser efetuado no      1º (     primeiro) dia útil subsequente à 
@@ -477,6 +556,18 @@ na Lâmina de Informações Essenciais do FUNDO.
 Artigo 17 – Caso, após o atendimento da solicitação de resgate na Data da Conversão, a 
 quantidade residual de cotas resultar em montante inferior ao valor mínimo estabelecido na 
 lâmina do FUNDO, as cotas serão automaticamente resgatadas em sua totalidade. 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+10 de 22 
+ 
   
 CAPÍTULO VI 
 DA POLÍTICA DE DISTRIBUIÇÃO DE RESULTADOS 
@@ -498,18 +589,6 @@ V – a alteração da política de investimento do FUNDO;
 VI – a amortização de cotas e o resgate compulsório de cotas; e 
 VII – a alteração deste Regulamento, ressalvado o disposto no artigo 47 da ICVM 555.  
  
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-9 de 21 
- 
 Artigo 20 – A convocação da assembleia geral será realizada mediante correspondência 
 física ou eletrônica encaminhada a cada Cotista e disponibilizada nas páginas da 
 ADMINISTRADORA e do DISTRIBUIDOR na rede mundial de computadores. 
@@ -529,6 +608,18 @@ Parágrafo Terceiro – A presença da totalidade dos Cotistas supre a falta de 
 Artigo 21 – Anualmente a assembleia geral deverá deliberar sobre as demonstrações 
 contábeis do FUNDO, fazendo-o até 120 (cento e vinte) dias após o término do exercício 
 social. 
+ 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+11 de 22 
  
 Parágrafo Primeiro – A assembleia geral a que se refere o caput somente pode ser 
 realizada no mínimo 15 (quinze) dias após estarem disponíveis aos Cotistas as 
@@ -553,18 +644,6 @@ ADMINISTRADORA, que deverá, no prazo máximo de 30 (trinta) dias contados do
 recebimento, realizar a convocação da assembleia geral às expensas dos requerentes, salvo 
 se a assembleia geral assim convocada deliberar em contrário. 
  
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-10 de 21 
- 
 Artigo 23 – A assembleia geral se instalará com a presença de qualquer número de Cotistas. 
  
 Artigo 24 – As deliberações da assembleia geral serão tomadas por maioria de votos, 
@@ -585,6 +664,18 @@ IV – os prestadores de serviços do FUNDO, seus sócios, diretores e funcioná
 Parágrafo Único – Às pessoas mencionadas nos incisos I a IV acima não se aplica a 
 vedação prevista neste artigo quando se tratar de FUNDO em que sejam os únicos Cotistas, 
 ou na hipótese de aquiescência expressa da maioria dos demais Cotistas, manifestada na 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+12 de 22 
+ 
 própria assembleia, ou em instrumento de procuração que se refira especificamente à 
 assembleia em que se dará a permissão de voto. 
  
@@ -608,18 +699,6 @@ exigências expressas de adequação a normas legais ou regulamentares da CVM, d
 entidade administradora de mercados organizados onde as cotas do Fundo sejam admitidas 
 à negociação ou de entidade autorreguladora; (ii) em virtude da atualização dos dados 
 cadastrais dos prestadores de serviço do FUNDO, tais como alteração na razão social, 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-11 de 21 
- 
 endereço, página na rede mundial de computadores e telefone; ou (iii) da redução da Taxa 
 de Administração, de custódia ou performance pagas pelo FUNDO. 
  
@@ -640,6 +719,18 @@ será o de maioria das cotas emitidas, independentemente da matéria.
  
 Artigo 29 – O Cotista também poderá votar por meio de comunicação escrita, física ou 
 eletrônica, desde que recebida pela ADMINISTRADORA antes do início da assembleia e 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+13 de 22 
+ 
 desde que tal possibilidade conste expressamente da carta de convocação, com a indicação 
 das formalidades a serem cumpridas.  
  
@@ -662,18 +753,6 @@ correspondência do Serviço de Atendimento aos Cotistas; e (b) anualmente, até
 qualificados, as demonstrações de desempenho do FUNDO, ou a indicação do local no qual 
 este documento será disponibilizado aos Cotistas; 
  
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-12 de 21 
- 
 II – divulgar, em lugar de destaque na sua página na rede mundial de computadores, e sem 
 proteção de senha, a demonstração de desempenho do FUNDO relativas (i) aos 12 (doze) 
 meses findos em 31 de dezembro, até o último dia útil de fevereiro de cada ano; e (ii) aos 12 
@@ -694,6 +773,18 @@ eletrônico, a ADMINISTRADORA ficará exonerada do dever de prestar-lhe as infor
 previstas neste regulamento e legislação em vigor, a partir da última correspondência que 
 houver sido devolvida por incorreção no endereço declarado. 
  
+ 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+14 de 22 
  
 CAPÍTULO IX 
 DA POLÍTICA DE EXERCÍCIO DE DIREITO DE VOTO 
@@ -718,18 +809,6 @@ ativos financeiros que integrem a carteira do fundo de Investimento.
 Parágrafo Segundo - A versão integral da Política de Voto do GESTOR encontra-se 
 disponível no website do GESTOR no endereço: voxcapital.com.br. 
  
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-13 de 21 
- 
- 
 CAPÍTULO X 
 DA TRIBUTAÇÃO 
  
@@ -751,6 +830,18 @@ dias;
 ii. 
 20,0% (vinte por cento) – aplicações com prazo de 181 (cento e oitenta e um) dias até 360 
 (trezentos e sessenta) dias; 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+15 de 22 
+ 
 iii. 
 17,5% (dezessete vírgula cinco por cento) – aplicações com prazo de 361 (trezentos e 
 sessenta e um) dias até 720 (setecentos e vinte) dias; 
@@ -776,18 +867,6 @@ envidarão maiores esforços para manter a composição da carteira do FUNDO, ad
 tratamento tributário aplicável aos fundos de investimento considerados de longo prazo para 
 fins tributários, procurando assim, evitar modificações que impliquem em alteração do 
 tratamento tributário do FUNDO e dos Cotistas. No entanto, não há garantia de que este 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-14 de 21 
- 
 tratamento tributário será sempre aplicável ao FUNDO devido a possibilidade de ser 
 reduzido o prazo médio de sua carteira, em razão, entre outros motivos, da adoção de 
 estratégias de curto prazo pelo GESTOR para fins de cumprimento da política de 
@@ -806,6 +885,18 @@ I – 22,5% (vinte e dois inteiros e cinco décimos por cento), em aplicações 
  
 II – 20% (vinte por cento), em aplicações com prazo acima de 181 (cento e oitenta e um) 
 dias;  
+ 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+16 de 22 
  
 Parágrafo Sexto – caso o FUNDO esteja incluído na hipótese do Parágrafo Quinto, quando 
 da incidência da tributação pela modalidade "come cotas", o Imposto de Renda será retido 
@@ -831,18 +922,6 @@ Cotistas, em suas sede e/ou dependências. Adicionalmente, poderão ser obtidas 
 e/ou dependências da ADMINISTRADORA resultados do FUNDO em exercícios anteriores, 
 e outras informações referentes a exercícios anteriores do mesmo, tais como demonstrações 
 contábeis, relatórios da ADMINISTRADORA e demais documentos pertinentes que tenham 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-15 de 21 
- 
 sido divulgados ou elaborados por força de disposições regulamentares aplicáveis a fundos 
 de investimentos. 
  
@@ -862,6 +941,18 @@ aos Cotistas.
  
 Parágrafo Primeiro – Por meio da análise dos cenários macroeconômicos nacionais e 
 internacionais, dos riscos de mercado, de crédito e liquidez, são definidas, pelo GESTOR, 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+17 de 22 
+ 
 as estratégias e a seleção de ativos financeiros do FUNDO, respeitando-se sempre a 
 legislação, as normas e regulamentos aplicáveis, bem como as diretrizes estabelecidas no 
 regulamento do FUNDO. 
@@ -887,18 +978,6 @@ os resultados apresentados pelo modelo de VAR possuem intervalos de confiança
 especificos (em geral, 95% e 99%), de forma que perdas maiores que aquelas cobertas pelo 
 intervalo de confiança podem ocorrer e estão previstas no modelo. 
  
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-16 de 21 
- 
- 
 Parágrafo Segundo – Outra métrica complementar é o teste de estresse para estimar o 
 comportamento da carteira do FUNDO em diferentes condições de mercado, baseada em 
 cenários históricos ou em cenários hipotéticos (buscando, neste caso, avaliar os resultados 
@@ -916,6 +995,18 @@ pedidos de resgate e cumprimento de todas as obrigações do mesmo. Este monitor
 leva também em consideração o passivo do FUNDO, analisando o perfil de concentração 
 dos Cotistas e seus históricos de aplicações/resgates. O monitoramento periódico não 
 garante limites de perdas ou a eliminação dos riscos, sendo certo de que medidas de risco 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+18 de 22 
+ 
 são quantitativas, baseadas em parâmetros estatísticos e estão sujeitas às condições de 
 mercado. 
  
@@ -942,18 +1033,6 @@ Investidos e/ou na percepção que os investidores têm sobre tais condições, 
 alterações nas condições econômicas e políticas que possam comprometer a sua 
 capacidade de pagamento, podem trazer impactos significativos em termos de preços e 
 liquidez dos ativos desses emissores. Mudanças na percepção da qualidade dos créditos 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-17 de 21 
- 
 dos emissores, mesmo que não fundamentadas, poderão trazer impactos nos preços dos 
 títulos, comprometendo também sua liquidez. O FUNDO e os Fundos Investidos poderão 
 ainda incorrer em risco de crédito na liquidação das operações realizadas por meio de 
@@ -972,6 +1051,18 @@ Regulamento e na regulamentação em vigor, pagamentos relativos a resgates de c
 FUNDO, quando solicitados pelos Cotistas. Este cenário pode se dar em função da falta de 
 liquidez dos mercados nos quais os valores mobiliários são negociados, grande volume de 
 solicitações de resgates ou de outras condições atípicas de mercado. Nessas hipóteses, a 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+19 de 22 
+ 
 ADMINISTRADORA poderá, inclusive, determinar o fechamento do FUNDO para novas 
 aplicações ou para resgates, obedecidas as disposições legais vigentes. 
  
@@ -999,18 +1090,6 @@ moeda, indexação da economia, instabilidade de preços, elevação de taxas de
 influenciar a política fiscal vigente poderão impactar os negócios, as condições financeiras, 
 os resultados operacionais dos Fundos Investidos e do FUNDO e a consequente distribuição 
 de rendimentos aos Cotistas do FUNDO. Impactos negativos na economia, tais como 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-18 de 21 
- 
 recessão, perda do poder aquisitivo da moeda e aumento exagerado das taxas de juros 
 resultantes de políticas internas ou fatores externos podem influenciar nos resultados dos 
 Fundos Investidos e do FUNDO. Qualquer deterioração na economia dos países em que o 
@@ -1030,6 +1109,18 @@ Risco de Concentração: Em razão da política de investimento do FUNDO e dos F
 Investidos, a carteira do FUNDO poderá estar exposta a significativa concentração em ativos 
 de poucos emissores, com os riscos daí decorrentes. A concentração dos investimentos, 
 nos quais o FUNDO aplica seus recursos, em determinado(s) emissor(es), pode aumentar 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+20 de 22 
+ 
 a exposição da carteira do FUNDO aos riscos mencionados acima, ocasionando volatilidade 
 no valor de suas cotas. Embora a diversificação seja um dos objetivos do FUNDO, não há 
 garantia do grau de diversificação que será obtido, seja em termos geográficos ou de tipo de 
@@ -1053,30 +1144,8 @@ derivativos tenham objetivo de proteção da carteira contra determinados riscos
 possível garantir a inexistência de perdas, se ocorrerem os riscos que se pretendia proteger. 
 Os preços dos ativos financeiros e dos derivativos podem sofrer alterações substanciais que 
 podem levar a perdas ou ganhos significativos. 
+ 
 IX. 
- 
-X. 
-Risco Proveniente da Alavancagem do FUNDO: O FUNDO pode se utilizar de 
-alavancagem, o que significa que o FUNDO utilizará de operações que expõem o FUNDO a 
-mercados de risco em percentual superior ao seu patrimônio líquido, com o consequente 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-19 de 21 
- 
-aumento dos riscos e da possibilidade de perdas. Com a expectativa de gerar ganhos, pode 
-não resultar nos retornos esperados, resultando em perdas de patrimônio significativas a 
-seus cotistas podendo, inclusive, tais perdas serem superiores ao valor investido, exigindo 
-dos investidores um aporte adicional de recursos para suportar tais prejuízos. 
- 
-XI. 
 Risco de Governança ESG: O FUNDO tem como principal estratégia investir em ativos que 
 atinjam os critérios ASG do GESTOR, rotulados com pareceres de segunda opinião emitidos 
 por consultorias especializadas, incluindo, mas não se limitando a debêntures verdes, 
@@ -1092,16 +1161,28 @@ manter o sufixo “IS” em sua nomenclatura, bem como a menção de que o FUNDO
 questões relacionadas à ASG em sua gestão, não somente em regulamento como em 
 materiais de venda e publicidade disponibilizados ao mercado. 
  
-XII. 
+X. 
 Dependência do GESTOR: A gestão da carteira do FUNDO e a sua performance 
 dependerão em larga escala das habilidades e expertise do grupo de profissionais do 
 GESTOR. A perda de um ou mais executivos do GESTOR poderá ter impacto significativo 
 nos negócios e na performance financeira do FUNDO. O GESTOR também pode se tornar 
 dependente dos serviços de consultores externos e suas equipes. Se esses serviços se 
+ 
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+21 de 22 
+ 
 tornarem indisponíveis, o GESTOR pode precisar recrutar profissionais especializados, 
 sendo que poderá enfrentar dificuldades na contratação de tais profissionais. 
  
-XIII. 
+XI. 
 Outros Riscos: Não há garantia de que o FUNDO ou os Fundos Investidos sejam capazes 
 de gerar retornos para seus investidores. Não há garantia de que os Cotistas receberão 
 qualquer distribuição do FUNDO. Consequentemente, investimentos no FUNDO somente 
@@ -1117,18 +1198,6 @@ ocasionar perdas ao seu patrimônio e, consequentemente, ao Cotista.
 Artigo 42 - O GESTOR, visando proporcionar a melhor rentabilidade aos Cotistas, poderá, 
 respeitadas as limitações deste Regulamento e da legislação, definir livremente o grau de 
 concentração da carteira de aplicação do FUNDO. Não obstante a diligência do GESTOR 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-20 de 21 
- 
 em selecionar as melhores opções de investimento, os investimentos do FUNDO estão, por 
 sua própria natureza, sujeitos a flutuações típicas do mercado e a riscos de crédito, que 
 podem gerar depreciação dos ativos financeiros da carteira do FUNDO, não atribuível a 
@@ -1155,6 +1224,18 @@ IV – honorários e despesas do auditor independente;
  
 V – emolumentos e comissões pagas por operações do fundo;  
  
+ 
+Regulamento 
+VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
+INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
+PRAZO 
+CNPJ n.º 44.977.584/0001-25 
+ 
+BTG Pactual 
+SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
+22 de 22 
+ 
+ 
 VI – honorários de advogado, custas e despesas processuais correlatas, incorridas em razão 
 de defesa dos interesses do fundo, em juízo ou fora dele, inclusive o valor da condenação 
 imputada ao fundo, se for o caso; 
@@ -1171,18 +1252,6 @@ mobiliários, ativos financeiros e modalidades operacionais;
  
 X – despesas com fechamento de câmbio, vinculadas às suas operações ou com certificados 
 ou recibos de depósito de valores mobiliários;  
- 
- 
- 
-Regulamento 
-VOX DESENVOLVIMENTO SUSTENTÁVEL IS FUNDO DE 
-INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO LONGO 
-PRAZO 
-CNPJ n.º 44.977.584/0001-25 
- 
-BTG Pactual 
-SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com                                                       
-21 de 21 
  
 XI – no caso de fundo fechado, a contribuição anual devida às bolsas de valores ou às 
 entidades do mercado organizado em que o fundo tenha suas cotas admitidas à negociação;  
